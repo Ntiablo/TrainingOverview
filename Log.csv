@@ -1,1 +1,3 @@
 User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarks
+g.piperidis,Login Attempt,2025-11-01 19:13:49,,,,,,,,
+g.piperidis,Login Failed,2025-11-01 19:14:10,,,,,,,,Error reading all users
