@@ -1,5 +1,1 @@
-User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarksg.piperidis,Login Attempt,2025-11-01 09:30:27,,,,,,,,
-g.piperidis,Login Successful,2025-11-01 09:30:45,,,,,,,,
-,Request Course Review Attempt,2025-11-01 09:30:50,,,,,,,,Invalid action type provided.
-g.piperidis,Request Review Successful,2025-11-01 09:30:51,RAJENDRAN NAIR ABHIJITH,18810,ATH,Airside Safety Human Factors and SMS - Refresher (GHT-SAFT (R)),completed,12/9/2027 12:00:00 πμ,,
-g.piperidis,Logout,2025-11-01 09:31:04,,,,,,,00:00:18,
+User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarks
