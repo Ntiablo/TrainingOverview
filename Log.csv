@@ -2,3 +2,8 @@ User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course 
 g.piperidis,Login Attempt,2025-11-01 09:41:14,,,,,,,,
 g.piperidis,Login Successful,2025-11-01 09:41:30,,,,,,,,
 g.piperidis,Logout,2025-11-01 09:41:33,,,,,,,00:00:03,
+g.piperidis,Login Attempt,2025-11-01 09:42:01,,,,,,,,
+g.piperidis,Login Successful,2025-11-01 09:42:10,,,,,,,,
+,Request Course Review Attempt,2025-11-01 09:42:15,,,,,,,,Invalid action type provided.
+g.piperidis,Request Review Successful,2025-11-01 09:42:16,RAJENDRAN NAIR ABHIJITH,18810,ATH,Aircraft Loading and Handling / GSE Operation L2 - Initial (GHT-ACHL (I)),completed,14/9/2027 12:00:00 πμ,,
+g.piperidis,Logout,2025-11-01 09:42:24,,,,,,,00:00:13,
