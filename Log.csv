@@ -2,3 +2,7 @@ User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course 
 g.piperidis,Login Attempt,2025-11-01 10:57:40,,,,,,,,
 g.piperidis,Login Successful,2025-11-01 10:57:58,,,,,,,,
 g.piperidis,Logout,2025-11-01 10:58:02,,,,,,,00:00:04,
+g.piperidis,Login Attempt,2025-11-01 10:57:40,,,,,,,,
+g.piperidis,Login Successful,2025-11-01 10:57:58,,,,,,,,
+g.piperidis,Logout,2025-11-01 10:58:02,,,,,,,00:00:04,
+g.piperidis,Logout,2025-11-01 10:58:02,,,,,,,00:00:04,
