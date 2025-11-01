@@ -1,4 +1,5 @@
 User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarks
+
 g.piperidis,Login Attempt,2025-11-01 18:17:35,,,,,,,,
 g.piperidis,Login Successful,2025-11-01 18:17:44,,,,,,,,
 g.piperidis,Request Review Attempt,2025-11-01 18:20:31,CHOWDHARY AYODHYA,18894,ATH,Security Procedures Ramp/Baggage Handling Personnel - Initial (GHT-SECR (I)),completed,21/10/2030 12:00:00 πμ,,
