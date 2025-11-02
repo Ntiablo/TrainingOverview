@@ -2,3 +2,12 @@ User	Action	Timestamp	Employee Name	Employee Enrollment	Employee Station	Course 
 g.piperidis	Login Attempt	2025-11-02 10:28:25								
 g.piperidis	Login Successful	2025-11-02 10:28:33								
 g.piperidis	Logout	2025-11-02 10:28:43							00:00:09	
+g.piperidis	Login Attempt	2025-11-02 10:29:43								
+g.piperidis	Login Successful	2025-11-02 10:29:53								
+g.piperidis	Request Review Attempt	2025-11-02 10:30:01	RAJENDRAN NAIR ABHIJITH	18810	ATH	DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I-EN))	completed	2/10/2170 12:00:00 πμ		
+g.piperidis	Request Review Successful	2025-11-02 10:30:02	RAJENDRAN NAIR ABHIJITH	18810	ATH	DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I-EN))	completed	2/10/2170 12:00:00 πμ		
+g.piperidis	Request Review Attempt	2025-11-02 10:30:13	ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΥ ΑΝΘΟΥΛΑ	17344	ATH	Customer Service Excellence (GHT-CUSS (GR))>#^X	completed>#^X	2/10/2170 12:00:00 πμ		
+g.piperidis	Request Review Successful	2025-11-02 10:30:13	ΠΑΝΑΓΙΩΤΟΠΟΥΛΟΥ ΑΝΘΟΥΛΑ	17344	ATH	Customer Service Excellence (GHT-CUSS (GR))>#^X	completed>#^X	2/10/2170 12:00:00 πμ		
+g.piperidis	Request Review Attempt	2025-11-02 10:30:45	ΧΑΛΟΥΔΗ ΑΝΝΑ	12688	ATH	Passenger Handling Services - Initial (GHT-PAXS (I-EN))	completed	2/10/2170 12:00:00 πμ		
+g.piperidis	Request Review Successful	2025-11-02 10:30:45	ΧΑΛΟΥΔΗ ΑΝΝΑ	12688	ATH	Passenger Handling Services - Initial (GHT-PAXS (I-EN))	completed	2/10/2170 12:00:00 πμ		
+g.piperidis	Logout	2025-11-02 10:31:24							00:01:31	
