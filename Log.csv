@@ -1,1 +1,4 @@
 User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarks
+g.piperidis,Login Attempt,2025-11-02 08:17:19,,,,,,,,
+g.piperidis,Login Successful,2025-11-02 08:17:28,,,,,,,,
+g.piperidis,Logout,2025-11-02 08:17:31,,,,,,,00:00:03,
