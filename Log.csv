@@ -1,1 +1,6 @@
 User,Action,Timestamp,Employee Name,Employee Enrollment,Employee Station,Course Name,Course Status,Course Expiration,Session Duration,Remarks
+g.piperidis,Login Attempt,2025-11-02 09:33:29,,,,,,,,
+g.piperidis,Login Successful,2025-11-02 09:33:37,,,,,,,,
+g.piperidis,Request Review Attempt,2025-11-02 09:33:44,GARG ABHINAV,18430,ATH,Aircraft Loading and Handling / GSE Operation L2 - Initial (GHT-ACHL (I)),completed,2/10/2170 12:00:00 πμ,,
+g.piperidis,Request Review Successful,2025-11-02 09:33:44,GARG ABHINAV,18430,ATH,Aircraft Loading and Handling / GSE Operation L2 - Initial (GHT-ACHL (I)),completed,2/10/2170 12:00:00 πμ,,
+g.piperidis,Logout,2025-11-02 09:33:51,,,,,,,00:00:13,
