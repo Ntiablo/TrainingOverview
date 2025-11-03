@@ -1,6 +1,0 @@
-User	Action	Timestamp	Employee Name	Employee Enrollment	Employee Station	Course Name	Course Status	Course Expiration	Session Duration	Remarks
-g.piperidis	Login Attempt	2025-11-03 13:02:33								
-g.piperidis	Login Successful	2025-11-03 13:02:46								
-g.piperidis	Request Review Attempt	2025-11-03 13:03:13	TEST TEST	0	ATH	DGR for Passenger Handling Personnel {EN} - Initial (GHT-DGR5 (I-EN))>#^X	completed>#^X	2/10/2170 12:00:00 πμ		
-g.piperidis	Request Review Successful	2025-11-03 13:03:15	TEST TEST	0	ATH	DGR for Passenger Handling Personnel {EN} - Initial (GHT-DGR5 (I-EN))>#^X	completed>#^X	2/10/2170 12:00:00 πμ		
-g.piperidis	Logout	2025-11-03 13:03:21							00:00:35	
