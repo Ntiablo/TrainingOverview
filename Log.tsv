@@ -110,3 +110,16 @@ miltaras3ever	Logout	2025-11-13 08:23:07							00:21:17
 g.piperidis	Login Attempt	2025-11-13 08:18:05								
 g.piperidis	Login Successful	2025-11-13 08:18:24								
 g.piperidis	Logout	2025-11-13 08:23:59							00:05:34	
+5657	Login Attempt	2025-11-13 09:51:14								
+5657	Login Failed	2025-11-13 09:51:34								Username not found
+KPERDIKI	Login Attempt	2025-11-13 09:56:45								
+KPERDIKI	Login Failed	2025-11-13 09:56:56								Username not found
+5657	Login Attempt	2025-11-13 09:57:08								
+5657	Login Failed	2025-11-13 09:57:25								Username not found
+KPERDIKI	Login Attempt	2025-11-13 09:58:13								
+KPERDIKI	Login Failed	2025-11-13 09:58:20								Username not found
+KATPERDIKI	Login Attempt	2025-11-13 09:58:38								
+KATPERDIKI	Login Attempt	2025-11-13 09:58:55								
+katperdiki	Login Attempt	2025-11-13 09:59:44								
+katperdiki	Login Successful	2025-11-13 09:59:54								
+katperdiki	Logout	2025-11-13 10:13:48							00:13:53	
