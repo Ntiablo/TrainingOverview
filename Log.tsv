@@ -619,3 +619,8 @@ g.piperidis	Logout	2025-12-10 15:01:22							00:00:34
 miltaras3ever	Login Attempt	2025-12-10 15:02:15								
 miltaras3ever	Login Successful	2025-12-10 15:03:29								
 miltaras3ever	Logout	2025-12-10 15:39:30							00:36:01	
+g.piperidis	Login Attempt	2025-12-11 09:15:49								
+g.piperidis	Login Failed	2025-12-11 09:19:05								Error reading all users
+g.piperidis	Login Attempt	2025-12-11 09:19:12								
+g.piperidis	Login Failed	2025-12-11 09:26:50								Error reading all users
+g.piperidis	Login Attempt	2025-12-11 09:27:58								
