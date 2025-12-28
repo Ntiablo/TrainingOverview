@@ -824,3 +824,8 @@ aagapitidi	Login Successful	2025-12-27 12:46:56
 aagapitidi	Request Review Attempt	2025-12-27 12:47:09	ΚΙΟΥΣΗΣ ΑΝΑΣΤΑΣΙΟΣ	14953	ATH	DGR for Ramp and Warehouse Personnel {GR} - Refresher (GHT-DGR4 (R) (GR))	failed>#^Y	23/1/2026 12:00:00 πμ		
 aagapitidi	Request Review Successful	2025-12-27 12:47:10	ΚΙΟΥΣΗΣ ΑΝΑΣΤΑΣΙΟΣ	14953	ATH	DGR for Ramp and Warehouse Personnel {GR} - Refresher (GHT-DGR4 (R) (GR))	failed>#^Y	23/1/2026 12:00:00 πμ		
 aagapitidi	Logout	2025-12-27 12:52:23							00:05:27	
+tzouvanakis	Login Attempt	2025-12-28 15:07:20								
+tzouvanakis	Login Successful	2025-12-28 15:07:27								
+tzouvanakis	Request Review Attempt	2025-12-28 15:08:43	ΚΟΥΣΤΟΥΜΠΑΡΔΗ ΘΕΟΔΩΡΑ	9215	EFL	General Data Protection Regulation {GR} (GHT-GDPR (GR))	not_attempted>#^R	10/9/2021 12:00:00 AM		
+tzouvanakis	Request Review Successful	2025-12-28 15:08:44	ΚΟΥΣΤΟΥΜΠΑΡΔΗ ΘΕΟΔΩΡΑ	9215	EFL	General Data Protection Regulation {GR} (GHT-GDPR (GR))	not_attempted>#^R	10/9/2021 12:00:00 AM		
+tzouvanakis	Logout	2025-12-28 15:09:31							00:02:03	
