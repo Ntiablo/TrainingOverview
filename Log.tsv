@@ -1134,3 +1134,8 @@ katperdiki	Logout	2026-01-29 13:49:11							00:05:21
 smarapap	Login Attempt	2026-01-29 10:29:42								
 smarapap	Login Successful	2026-01-29 10:29:55								
 smarapap	Logout	2026-01-29 15:59:20							05:29:24	
+kperdiki	Login Attempt	2026-01-30 15:36:21								
+kperdiki	Login Failed	2026-01-30 15:37:19								Username not found
+katperdiki	Login Attempt	2026-01-30 15:37:27								
+katperdiki	Login Successful	2026-01-30 15:37:40								
+katperdiki	Logout	2026-01-30 15:40:18							00:02:37	
