@@ -1428,3 +1428,8 @@ Sophia.ha	Logout	2026-02-28 19:18:52							06:54:59
 aagapitidi	Login Attempt	2026-03-01 16:03:03								
 aagapitidi	Login Successful	2026-03-01 16:03:11								
 aagapitidi	Logout	2026-03-01 16:12:49							00:09:38	
+k.palierakis	Login Attempt	2026-03-02 10:52:48								
+k.palierakis	Login Failed	2026-03-02 10:52:55								Invalid Password
+k.palierakis	Login Attempt	2026-03-02 10:52:59								
+k.palierakis	Login Successful	2026-03-02 10:53:06								
+k.palierakis	Logout	2026-03-02 10:58:59							00:05:53	
