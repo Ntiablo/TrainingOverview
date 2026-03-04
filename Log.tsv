@@ -1474,3 +1474,10 @@ villy.douma	Logout	2026-03-04 15:34:53							00:12:34
 smarapap	Login Attempt	2026-03-04 09:15:11								
 smarapap	Login Successful	2026-03-04 09:15:27								
 smarapap	Logout	2026-03-04 15:43:58							06:28:31	
+vassiliosrepanis	Login Attempt	2026-03-04 17:39:06								
+vassiliosrepanis	Login Failed	2026-03-04 17:39:19								Invalid Password
+vassiliosrepanis	Login Attempt	2026-03-04 17:39:30								
+vassiliosrepanis	Login Failed	2026-03-04 17:39:52								Invalid Password
+vassiliosrepanis	Login Attempt	2026-03-04 17:39:56								
+vassiliosrepanis	Login Successful	2026-03-04 17:40:07								
+vassiliosrepanis	Logout	2026-03-04 17:41:25							00:01:17	
