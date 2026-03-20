@@ -1662,3 +1662,8 @@ katperdiki	Logout	2026-03-20 12:56:36							01:18:10
 katperdiki	Login Attempt	2026-03-20 13:14:00								
 katperdiki	Login Successful	2026-03-20 13:14:20								
 katperdiki	Logout	2026-03-20 13:26:10							00:11:49	
+c.tamvakis	Login Attempt	2026-03-20 11:58:41								
+c.tamvakis	Login Failed	2026-03-20 11:59:08								Invalid Password
+c.tamvakis	Login Attempt	2026-03-20 11:59:16								
+c.tamvakis	Login Successful	2026-03-20 11:59:41								
+c.tamvakis	Logout	2026-03-20 14:07:48							02:08:06	
