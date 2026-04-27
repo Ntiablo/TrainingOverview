@@ -2056,3 +2056,10 @@ tzouvanakis	Logout	2026-04-27 13:50:07							00:02:29
 tzouvanakis	Login Attempt	2026-04-27 14:00:01								
 tzouvanakis	Login Successful	2026-04-27 14:00:12								
 tzouvanakis	Logout	2026-04-27 14:05:52							00:05:40	
+aagapitidi	Login Attempt	2026-04-27 09:25:40								
+aagapitidi	Login Failed	2026-04-27 14:21:20								Error reading all users
+aagapitidi	Login Attempt	2026-04-27 15:32:48								
+aagapitidi	Login Attempt	2026-04-27 15:33:01								
+aagapitidi	Login Successful	2026-04-27 15:33:02								
+aagapitidi	Login Successful	2026-04-27 15:33:14								
+aagapitidi	Logout	2026-04-27 15:49:39							00:16:25	
