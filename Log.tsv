@@ -2328,3 +2328,7 @@ vassiliosrepanis	Logout	2026-05-13 14:21:48							00:26:36
 smarapap	Login Attempt	2026-05-13 13:32:24								
 smarapap	Login Successful	2026-05-13 13:32:38								
 smarapap	Logout	2026-05-13 14:23:20							00:50:41	
+smarapap	Login Attempt	2026-05-13 14:24:17								
+smarapap	Login Failed	2026-05-13 14:26:01								Error reading all users
+smarapap	Login Attempt	2026-05-13 14:27:36								
+smarapap	Login Attempt	2026-05-13 14:28:13								
