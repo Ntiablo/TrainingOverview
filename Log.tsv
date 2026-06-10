@@ -2892,3 +2892,7 @@ pepimat	Logout	2026-06-10 10:41:03							550:15:29
 vassiliosrepanis	Login Attempt	2026-06-10 10:43:26								
 vassiliosrepanis	Login Failed	2026-06-10 10:43:29								Error reading all users
 vassiliosrepanis	Login Attempt	2026-06-10 10:43:30								
+c.tamvakis	Login Attempt	2026-06-10 10:44:24								
+c.tamvakis	Login Failed	2026-06-10 10:44:26								Error reading all users
+c.tamvakis	Login Attempt	2026-06-10 10:44:43								
+c.tamvakis	Login Failed	2026-06-10 10:45:05								Username not found
