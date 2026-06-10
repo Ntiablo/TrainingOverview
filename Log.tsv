@@ -2849,3 +2849,7 @@ g.piperidis	Login Attempt	2026-06-10 09:31:46
 g.piperidis	Login Failed	2026-06-10 09:31:52								Error reading all users
 smarapap	Login Attempt	2026-06-10 09:23:41								
 smarapap	Login Failed	2026-06-10 09:27:06								Username not found
+g.piperidis	Login Attempt	2026-06-10 09:34:10								
+g.piperidis	Login Failed	2026-06-10 09:34:14								Error reading all users
+g.piperidis	Login Attempt	2026-06-10 09:35:03								
+g.piperidis	Login Failed	2026-06-10 09:35:57								Username not found
