@@ -2828,3 +2828,8 @@ mel.papachristou	Login Failed	2026-06-09 15:43:40								Username not found
 c.tamvakis	Login Attempt	2026-06-09 09:08:46								
 c.tamvakis	Login Successful	2026-06-09 09:08:59								
 c.tamvakis	Logout	2026-06-09 16:15:29							07:06:29	
+mel.papachristou	Login Attempt	2026-06-10 08:05:07								
+mel.papachristou	Login Failed	2026-06-10 08:05:13								Error reading all users
+mel.papachristou	Login Attempt	2026-06-10 08:05:20								
+mel.papachristou	Login Failed	2026-06-10 08:05:34								Username not found
+mel.papachristou	Login Failed	2026-06-10 08:05:34								Invalid Password
