@@ -2866,3 +2866,6 @@ smarapap	Login Successful	2026-06-10 09:40:46
 g.piperidis	Login Attempt	2026-06-10 09:40:08								
 g.piperidis	Login Failed	2026-06-10 09:41:32								Username not found
 g.piperidis	Login Failed	2026-06-10 09:41:32								Invalid Password
+g.piperidis	Login Attempt	2026-06-10 09:43:29								
+g.piperidis	Login Successful	2026-06-10 09:43:58								
+g.piperidis	Logout	2026-06-10 09:44:20							00:00:21	
