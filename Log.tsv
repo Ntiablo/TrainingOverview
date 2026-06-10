@@ -2872,3 +2872,10 @@ g.piperidis	Logout	2026-06-10 09:44:20							00:00:21
 smarapap	Login Attempt	2026-06-10 09:47:59								
 smarapap	Login Successful	2026-06-10 09:48:17								
 smarapap	Logout	2026-06-10 09:49:33							00:01:16	
+mel.papachristou	Login Attempt	2026-06-10 09:50:06								
+mel.papachristou	Login Failed	2026-06-10 09:50:11								Error reading all users
+mel.papachristou	Login Attempt	2026-06-10 09:50:12								
+mel.papachristou	Login Failed	2026-06-10 09:50:38								Username not found
+mel.papachristou	Login Failed	2026-06-10 09:50:38								Invalid Password
+mel.papachristou	Login Attempt	2026-06-10 09:50:42								
+mel.papachristou	Login Failed	2026-06-10 09:51:09								Username not found
