@@ -3878,3 +3878,8 @@ mel.papachristou	Login Attempt	2026-09-01 12:34:31
 mel.papachristou	Login Failed	2026-09-01 12:34:33								Error reading all users
 mel.papachristou	Login Attempt	2026-09-01 12:52:59								
 mel.papachristou	Login Failed	2026-09-01 12:53:12								Error reading all users
+angelikivavouli	Login Attempt	2026-09-01 09:24:37								
+angelikivavouli	Login Failed	2026-09-01 09:24:48								Invalid Password
+angelikivavouli	Login Attempt	2026-09-01 09:24:53								
+angelikivavouli	Login Successful	2026-09-01 09:25:00								
+angelikivavouli	Logout	2026-09-01 13:09:00							03:44:00	
