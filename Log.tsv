@@ -3868,3 +3868,5 @@ mel.papachristou	Login Successful	2026-09-01 09:34:41
 mel.papachristou	Logout	2026-09-01 11:14:41							01:39:59	
 mel.papachristou	Login Attempt	2026-09-01 11:14:50								
 mel.papachristou	Login Failed	2026-09-01 11:14:52								Error reading all users
+mel.papachristou	Login Attempt	2026-09-01 11:19:13								
+mel.papachristou	Login Failed	2026-09-01 11:19:15								Error reading all users
