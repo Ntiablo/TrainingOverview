@@ -4004,3 +4004,5 @@ g.piperidis	Login Successful	2026-09-03 15:41:19
 g.piperidis	Logout	2026-09-03 15:42:45							00:01:26	
 mel.papachristou	Login Attempt	2026-09-04 08:34:46								
 mel.papachristou	Login Failed	2026-09-04 08:34:47								Error reading all users
+mel.papachristou	Login Attempt	2026-09-04 08:43:02								
+mel.papachristou	Login Failed	2026-09-04 08:43:04								Error reading all users
