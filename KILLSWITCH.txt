@@ -1,1 +1,1 @@
-App is Active - NOT!
+App is inactive
