@@ -4140,3 +4140,6 @@ g.piperidis	Login Successful	2026-09-10 14:54:20
 g.piperidis	Logout	2026-09-10 14:54:25							00:00:05	
 g.piperidis	Login Attempt	2026-09-10 15:02:53								
 g.piperidis	Login Failed	2026-09-10 15:02:56								Error reading all users
+g.piperidis	Login Attempt	2026-09-10 15:03:29								
+g.piperidis	Login Successful	2026-09-10 15:03:46								
+g.piperidis	Logout	2026-09-10 15:10:14							00:06:27	
