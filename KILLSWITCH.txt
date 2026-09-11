@@ -1,1 +1,1 @@
-TERMINATE
+App is active
