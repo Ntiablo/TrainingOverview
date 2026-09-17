@@ -45048,11 +45048,7 @@
       "belongs_to_branch": "1",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "459",
-          "name": "T. TEST"
-        },
+      "users": [       
         {
           "id": "67",
           "name": "\u0392. \u0394\u0399\u0391\u03A3\u039A\u039F\u03A5\u03A1\u0397"
