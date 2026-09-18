@@ -4209,3 +4209,8 @@ k.palierakis	Request enrollment to ILT session Attempt	2026-09-18 13:34:04	ΧΙ�
 k.palierakis	Request Review Attempt	2026-09-18 13:34:08	ΧΙΩΤΗΣ ΠΑΝΑΓΙΩΤΗΣ	19687	SKG	DGR for Personnel Accepting General Cargo {GR} - Initial (GHT-DGR2 (I))	incomplete>#^R	1/1/0001 12:00:00 πμ		
 k.palierakis	Request Review Successful	2026-09-18 13:34:09	ΧΙΩΤΗΣ ΠΑΝΑΓΙΩΤΗΣ	19687	SKG	DGR for Personnel Accepting General Cargo {GR} - Initial (GHT-DGR2 (I))	incomplete>#^R	1/1/0001 12:00:00 πμ		
 k.palierakis	Logout	2026-09-18 16:06:53							03:33:27	
+angelikivavouli	Login Attempt	2026-09-18 10:17:29								
+angelikivavouli	Login Failed	2026-09-18 10:18:02								Invalid Password
+angelikivavouli	Login Attempt	2026-09-18 10:18:07								
+angelikivavouli	Login Successful	2026-09-18 10:18:13								
+angelikivavouli	Logout	2026-09-18 16:53:31							06:35:18	
