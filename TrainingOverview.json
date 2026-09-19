@@ -1274,10 +1274,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "14394",
-          "name": "R. RACSA"
-        },
-        {
           "id": "12287",
           "name": "V. WAU BERKO"
         },
@@ -1304,10 +1300,6 @@
         {
           "id": "15827",
           "name": "\u0391. \u039A\u0391\u0398\u0399\u03A9\u03A4\u0397"
-        },
-        {
-          "id": "11801",
-          "name": "\u0391. \u03A3\u039A\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "12775",
@@ -1350,12 +1342,12 @@
           "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
         },
         {
-          "id": "1726",
-          "name": "\u0394. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
-        },
-        {
           "id": "15393",
           "name": "\u0394. \u039A\u0391\u03A1\u0395\u039B\u0399\u03A9\u03A4\u0397"
+        },
+        {
+          "id": "1726",
+          "name": "\u0394. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
         },
         {
           "id": "14395",
@@ -1374,12 +1366,12 @@
           "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
-          "id": "142",
-          "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
-        },
-        {
           "id": "1766",
           "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "142",
+          "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
         },
         {
           "id": "2434",
@@ -1394,12 +1386,12 @@
           "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
         },
         {
-          "id": "7419",
-          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "3166",
           "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
+        },
+        {
+          "id": "7419",
+          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "11732",
@@ -1442,16 +1434,16 @@
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
         },
         {
-          "id": "6528",
-          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "5674",
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
         },
         {
           "id": "15542",
           "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
+        },
+        {
+          "id": "6528",
+          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "12776",
@@ -2326,10 +2318,6 @@
           "name": "\u0395. \u039B\u039F\u03A5\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "14367",
-          "name": "\u0395. \u039A\u039F\u03A1\u0394\u0391"
-        },
-        {
           "id": "14341",
           "name": "\u0395. \u03A3\u0395\u03A1\u0393\u0397"
         },
@@ -2924,10 +2912,6 @@
         {
           "id": "7932",
           "name": "\u03A4. \u039A\u0391\u039B\u039F\u0393\u0395\u03A1\u0397\u03A3"
-        },
-        {
-          "id": "6550",
-          "name": "\u03A6. \u039C\u0391\u039C\u03A6\u03A1\u0395\u0394\u0391"
         },
         {
           "id": "3705",
@@ -10653,7 +10637,7 @@
         },
         {
           "id": "1854",
-          "name": "BG/Deicing Checkout (DI-L10) (BG/OTJ-ICET1)"
+          "name": "BG/Deicing Checkout {DI-L10} (BG/OTJ-ICET1)"
         }
       ]
     },
@@ -10792,7 +10776,7 @@
         },
         {
           "id": "1284",
-          "name": "BG/Deicing Checkout (DI-L10/20/30) (BG/OTJ-ICET)"
+          "name": "BG/Deicing Checkout {DI-L10/20/30} (BG/OTJ-ICET)"
         }
       ]
     },
@@ -10863,7 +10847,7 @@
         },
         {
           "id": "1853",
-          "name": "BG/Deicing Checkout (DI-L70) (BG/OTJ-ICET7)"
+          "name": "BG/Deicing Checkout {DI-L70} (BG/OTJ-ICET7)"
         }
       ]
     },
@@ -12215,10 +12199,6 @@
           "name": "S. Georgiev"
         },
         {
-          "id": "5292",
-          "name": "S. Belev"
-        },
-        {
           "id": "5230",
           "name": "T. Mihailova"
         },
@@ -12229,10 +12209,6 @@
         {
           "id": "5247",
           "name": "Y. Stoynev"
-        },
-        {
-          "id": "15651",
-          "name": "Y. Yordanov"
         }
       ],
       "courses": [
@@ -18232,10 +18208,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "14394",
-          "name": "R. RACSA"
-        },
-        {
           "id": "12287",
           "name": "V. WAU BERKO"
         },
@@ -18258,10 +18230,6 @@
         {
           "id": "1930",
           "name": "\u0391. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "11801",
-          "name": "\u0391. \u03A3\u039A\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "12775",
@@ -18324,12 +18292,12 @@
           "name": "\u0395. \u039C\u0399\u03A7\u0391\u0397\u039B\u0399\u0394\u0397"
         },
         {
-          "id": "2431",
-          "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
-        },
-        {
           "id": "142",
           "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
+        },
+        {
+          "id": "2431",
+          "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
           "id": "1766",
@@ -18344,16 +18312,16 @@
           "name": "\u0395. \u039A\u0391\u039B\u039B\u0399\u0391\u039A\u039C\u0391\u039D\u0397"
         },
         {
-          "id": "1249",
-          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
+          "id": "7419",
+          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "3166",
           "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
         },
         {
-          "id": "7419",
-          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+          "id": "1249",
+          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
         },
         {
           "id": "11732",
@@ -18380,12 +18348,12 @@
           "name": "\u039A. \u039B\u0399\u03A9\u039D\u0397"
         },
         {
-          "id": "319",
-          "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
-        },
-        {
           "id": "6081",
           "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
+        },
+        {
+          "id": "319",
+          "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
         },
         {
           "id": "6948",
@@ -18396,12 +18364,12 @@
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
         },
         {
-          "id": "6528",
-          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "5674",
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
+        },
+        {
+          "id": "6528",
+          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "12776",
@@ -18416,12 +18384,12 @@
           "name": "\u039C. \u039B\u039F\u03A5\u03A6\u03A4\u0391"
         },
         {
-          "id": "175",
-          "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
-        },
-        {
           "id": "1759",
           "name": "\u03A0. \u0394\u0391\u039C\u0399\u0391\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "175",
+          "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
         },
         {
           "id": "2621",
@@ -18818,10 +18786,6 @@
         {
           "id": "14899",
           "name": "\u0391. \u0392\u0391\u039D \u0395\u039B\u03A3 \u0392\u0399\u039B\u03A6\u03A1\u0399\u039D\u03A4"
-        },
-        {
-          "id": "14900",
-          "name": "\u0391. \u039A\u039F\u03A5\u03A4\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "6317",
@@ -20271,10 +20235,6 @@
         {
           "id": "5783",
           "name": "S. Fili"
-        },
-        {
-          "id": "15868",
-          "name": "Z. Savva"
         },
         {
           "id": "15866",
@@ -24925,10 +24885,6 @@
           "name": "\u0391. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "12283",
-          "name": "\u0391. \u03A3\u03A4\u039F\u039B\u0397"
-        },
-        {
           "id": "133",
           "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
         },
@@ -24939,6 +24895,10 @@
         {
           "id": "10520",
           "name": "\u0391. \u039B\u0391\u039C\u03A0\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "12283",
+          "name": "\u0391. \u03A3\u03A4\u039F\u039B\u0397"
         },
         {
           "id": "367",
@@ -25005,12 +24965,12 @@
           "name": "\u0391. \u039A\u0391\u039B\u03A5\u0392\u0391"
         },
         {
-          "id": "13306",
-          "name": "\u0391. \u039B\u0399\u039F\u03A3\u0397"
-        },
-        {
           "id": "13323",
           "name": "\u0391. \u039A\u0391\u03A1\u0391\u039C\u03A0\u0399\u039D\u0391"
+        },
+        {
+          "id": "13306",
+          "name": "\u0391. \u039B\u0399\u039F\u03A3\u0397"
         },
         {
           "id": "5973",
@@ -25557,16 +25517,16 @@
           "name": "\u0392. \u03A0\u039F\u039B\u0399\u03A4\u0397\u03A3"
         },
         {
+          "id": "14347",
+          "name": "\u0392. \u0393\u039A\u039F\u039B\u03A6\u039F\u03A3"
+        },
+        {
           "id": "13019",
           "name": "\u0392. \u0393\u039A\u039F\u0393\u039A\u039F\u03A3"
         },
         {
           "id": "12798",
           "name": "\u0392. \u039C\u0399\u03A7\u0391\u039B\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "14347",
-          "name": "\u0392. \u0393\u039A\u039F\u039B\u03A6\u039F\u03A3"
         },
         {
           "id": "14357",
@@ -25821,12 +25781,12 @@
           "name": "\u0393. \u03A0\u0395\u03A4\u0399\u039D\u0397\u03A3"
         },
         {
-          "id": "13825",
-          "name": "\u0393. \u0394\u0391\u0393\u039B\u0391\u03A1\u0391\u03A3"
-        },
-        {
           "id": "13826",
           "name": "\u0393. \u03A0\u0391\u03A3\u03A0\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "13825",
+          "name": "\u0393. \u0394\u0391\u0393\u039B\u0391\u03A1\u0391\u03A3"
         },
         {
           "id": "1848",
@@ -26155,10 +26115,6 @@
         {
           "id": "14340",
           "name": "\u0395. \u039B\u039F\u03A5\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "14367",
-          "name": "\u0395. \u039A\u039F\u03A1\u0394\u0391"
         },
         {
           "id": "15885",
@@ -27157,12 +27113,12 @@
           "name": "\u039C. \u03A8\u0391\u0398\u0391"
         },
         {
-          "id": "13812",
-          "name": "\u039C. \u03A3\u039C\u03A5\u03A1\u039B\u0399\u0391\u0394\u0397"
-        },
-        {
           "id": "15326",
           "name": "\u039C. \u039A\u0391\u039B\u03A6\u0391"
+        },
+        {
+          "id": "13812",
+          "name": "\u039C. \u03A3\u039C\u03A5\u03A1\u039B\u0399\u0391\u0394\u0397"
         },
         {
           "id": "13828",
@@ -27429,12 +27385,12 @@
           "name": "\u039D. \u0391\u039D\u03A4\u03A9\u039D\u0399\u039F\u03A5"
         },
         {
-          "id": "15405",
-          "name": "\u039D. \u03A4\u03A3\u039F\u0393\u0399\u0391"
-        },
-        {
           "id": "13297",
           "name": "\u039D. \u0396\u0391\u039C\u03A0\u039F\u03A5\u039B\u0391\u039A\u0397"
+        },
+        {
+          "id": "15405",
+          "name": "\u039D. \u03A4\u03A3\u039F\u0393\u0399\u0391"
         },
         {
           "id": "3310",
@@ -27531,10 +27487,6 @@
         {
           "id": "4862",
           "name": "\u039D. \u03A1\u0395\u039A\u039A\u0391"
-        },
-        {
-          "id": "9931",
-          "name": "\u039D. \u0395\u03A5\u0394\u0395\u03A1\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "3519",
@@ -27785,12 +27737,12 @@
           "name": "\u03A1. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "12601",
-          "name": "\u03A1. \u039C\u0391\u03A1\u0391\u0392\u0395\u039B\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "13329",
           "name": "\u03A1. \u039C\u0399\u03A7\u0391\u0397\u039B\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "12601",
+          "name": "\u03A1. \u039C\u0391\u03A1\u0391\u0392\u0395\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "4724",
@@ -27949,12 +27901,12 @@
           "name": "\u03A3. \u03A7\u039F\u03A5\u039B\u0399\u0391\u03A1\u0391"
         },
         {
-          "id": "14377",
-          "name": "\u03A3. \u03A0\u0391\u039D\u039F\u03A5\u03A3\u0397"
-        },
-        {
           "id": "15092",
           "name": "\u03A3. \u0391\u03A1\u03A7\u039F\u039D\u03A4\u0397"
+        },
+        {
+          "id": "14377",
+          "name": "\u03A3. \u03A0\u0391\u039D\u039F\u03A5\u03A3\u0397"
         },
         {
           "id": "1706",
@@ -28141,10 +28093,6 @@
           "name": "\u03A5. \u039B\u0391\u0396\u039F\u03A5"
         },
         {
-          "id": "6550",
-          "name": "\u03A6. \u039C\u0391\u039C\u03A6\u03A1\u0395\u0394\u0391"
-        },
-        {
           "id": "6165",
           "name": "\u03A6. \u039F\u0399\u039A\u039F\u039D\u039F\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
@@ -28293,12 +28241,12 @@
           "name": "\u03A7. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "14376",
-          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
-        },
-        {
           "id": "14380",
           "name": "\u03A7. \u039B\u0391\u03A1\u0399\u03A3\u0399\u039D\u039F\u03A5"
+        },
+        {
+          "id": "14376",
+          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
         },
         {
           "id": "13303",
@@ -34885,10 +34833,6 @@
           "name": "\u0391. \u039C\u03A0\u03A1\u0391\u03A4\u0397"
         },
         {
-          "id": "2595",
-          "name": "\u0391. \u03A4\u03A3\u0399\u0392\u03A1\u0391"
-        },
-        {
           "id": "3262",
           "name": "\u0391. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
         },
@@ -35177,14 +35121,6 @@
           "name": "\u0394. \u03A3\u039A\u0391\u039C\u0391\u039D\u0397"
         },
         {
-          "id": "4392",
-          "name": "\u0394. \u039B\u0399\u03A7\u039F\u03A5"
-        },
-        {
-          "id": "4522",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
-        },
-        {
           "id": "4592",
           "name": "\u0394. \u039A\u039F\u03A5\u039A\u0399\u0391\u039D\u0391\u039A\u0397"
         },
@@ -35251,14 +35187,6 @@
         {
           "id": "10174",
           "name": "\u0395. \u0396\u0391\u039C\u03A0\u0395\u039B\u0397"
-        },
-        {
-          "id": "9920",
-          "name": "\u0395. \u03A0\u0395\u03A1\u0394\u0399\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
-        },
-        {
-          "id": "9925",
-          "name": "\u0395. \u03A1\u039F\u03A5\u03A3\u03A3\u039F\u03A5"
         },
         {
           "id": "1292",
@@ -35903,10 +35831,6 @@
         {
           "id": "3335",
           "name": "\u03A3. \u03A4\u03A1\u0399\u0391\u039D\u03A4\u0397"
-        },
-        {
-          "id": "4218",
-          "name": "\u03A3. \u03A3\u0399\u039C\u039F\u03A5"
         },
         {
           "id": "10471",
@@ -38304,6 +38228,10 @@
           "name": "\u0399. \u039C\u0391\u039D\u0399\u03A9\u03A1\u039F\u03A3"
         },
         {
+          "id": "4840",
+          "name": "\u0399. \u03A4\u0391\u03A3\u0399\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
           "id": "5410",
           "name": "\u0399. \u03A3\u03A5\u039C\u0399\u0391\u039A\u0391\u039A\u0397\u03A3"
         },
@@ -39484,7 +39412,7 @@
         },
         {
           "id": "1850",
-          "name": "Deicing Checkout (DI-L10) (OTJ-ICET1)"
+          "name": "Deicing Checkout {DI-L10} (OTJ-ICET1)"
         }
       ]
     },
@@ -39555,7 +39483,7 @@
         },
         {
           "id": "1852",
-          "name": "Deicing Checkout (DI-L70) (OTJ-ICET7)"
+          "name": "Deicing Checkout {DI-L70} (OTJ-ICET7)"
         }
       ]
     },
@@ -39762,7 +39690,7 @@
         },
         {
           "id": "607",
-          "name": "Deicing Checkout (DI-L10/20/30) (OTJ-ICET)"
+          "name": "Deicing Checkout {DI-L10/20/30} (OTJ-ICET)"
         }
       ]
     },
@@ -42179,16 +42107,24 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "762",
-          "name": "A. CEKIC"
-        },
-        {
           "id": "8390",
           "name": "A. MILUTINOVIC"
         },
         {
+          "id": "762",
+          "name": "A. CEKIC"
+        },
+        {
+          "id": "15896",
+          "name": "A. LATAS"
+        },
+        {
           "id": "770",
           "name": "A. MISIC"
+        },
+        {
+          "id": "15893",
+          "name": "A. MARKOVSKI"
         },
         {
           "id": "772",
@@ -42223,12 +42159,12 @@
           "name": "I. DRAGOJEVIC"
         },
         {
-          "id": "9039",
-          "name": "I. GOGIC"
-        },
-        {
           "id": "760",
           "name": "I. TRAJKOVIC"
+        },
+        {
+          "id": "9039",
+          "name": "I. GOGIC"
         },
         {
           "id": "9040",
@@ -42239,12 +42175,12 @@
           "name": "J. VJESTICA"
         },
         {
-          "id": "8391",
-          "name": "J. PEROVIC"
-        },
-        {
           "id": "10463",
           "name": "J. GAVRILOVI\u0106"
+        },
+        {
+          "id": "8391",
+          "name": "J. PEROVIC"
         },
         {
           "id": "8606",
@@ -42257,6 +42193,10 @@
         {
           "id": "8593",
           "name": "M. RUNJAJIC"
+        },
+        {
+          "id": "15894",
+          "name": "M. MARINKOVIC"
         },
         {
           "id": "8364",
@@ -42275,12 +42215,16 @@
           "name": "N. RADOJA"
         },
         {
-          "id": "8643",
-          "name": "N. MITROVIC"
+          "id": "15895",
+          "name": "N. VASILJEVIC"
         },
         {
           "id": "8608",
           "name": "N. VELJKOVIC"
+        },
+        {
+          "id": "8643",
+          "name": "N. MITROVIC"
         },
         {
           "id": "8645",
@@ -42303,16 +42247,16 @@
           "name": "T. CUCKOVIC"
         },
         {
-          "id": "9259",
-          "name": "T. RADOVIC"
+          "id": "8368",
+          "name": "T. ZORIC"
         },
         {
           "id": "14454",
           "name": "T. PEROSEVIC"
         },
         {
-          "id": "8368",
-          "name": "T. ZORIC"
+          "id": "9259",
+          "name": "T. RADOVIC"
         },
         {
           "id": "763",
@@ -42457,12 +42401,16 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "8349",
+          "name": "A. MURDOK MAKINTOS"
+        },
+        {
           "id": "3934",
           "name": "A. RADOSAVLJEVIC"
         },
         {
-          "id": "8349",
-          "name": "A. MURDOK MAKINTOS"
+          "id": "15899",
+          "name": "A. KOSTIC"
         },
         {
           "id": "9258",
@@ -42479,6 +42427,10 @@
         {
           "id": "8520",
           "name": "B. ZENICANIN"
+        },
+        {
+          "id": "15902",
+          "name": "B. VELICKOVIC"
         },
         {
           "id": "13174",
@@ -42521,12 +42473,16 @@
           "name": "L. STOJKOVIC"
         },
         {
+          "id": "11172",
+          "name": "L. MILUTINOVIC"
+        },
+        {
           "id": "15102",
           "name": "L. PRIBISIC"
         },
         {
-          "id": "11172",
-          "name": "L. MILUTINOVIC"
+          "id": "15897",
+          "name": "L. DERONJIC"
         },
         {
           "id": "8816",
@@ -42541,8 +42497,24 @@
           "name": "M. DROBNJAK"
         },
         {
+          "id": "8381",
+          "name": "M. STERIC"
+        },
+        {
+          "id": "15901",
+          "name": "M. SOSKIC"
+        },
+        {
           "id": "10504",
           "name": "M. KREIC"
+        },
+        {
+          "id": "15898",
+          "name": "M. BLAGOJEVIC"
+        },
+        {
+          "id": "15903",
+          "name": "N. MILICKOVIC"
         },
         {
           "id": "8645",
@@ -44532,12 +44504,16 @@
           "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
         },
         {
-          "id": "8758",
-          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
-        },
-        {
           "id": "8803",
           "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
+        },
+        {
+          "id": "4522",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
+        },
+        {
+          "id": "8758",
+          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
         },
         {
           "id": "15675",
@@ -44546,6 +44522,10 @@
         {
           "id": "10636",
           "name": "\u0394. \u0398\u0395\u039F\u0394\u03A9\u03A1\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "15891",
+          "name": "\u0395. \u03A0\u0391\u03A0\u0399\u0394\u0391\u039A\u0397"
         },
         {
           "id": "8747",
@@ -44572,12 +44552,12 @@
           "name": "\u0397. \u03A4\u03A3\u0391\u0393\u039A\u039F\u03A5\u03A1\u039D\u0391\u03A3"
         },
         {
-          "id": "8793",
-          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
-        },
-        {
           "id": "8768",
           "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "8793",
+          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
         },
         {
           "id": "8791",
@@ -44628,20 +44608,20 @@
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "8754",
-          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
+          "id": "8780",
+          "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "14945",
           "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
         },
         {
-          "id": "8780",
-          "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
           "id": "8801",
           "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
+        },
+        {
+          "id": "8754",
+          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         }
       ],
       "courses": []
@@ -44847,28 +44827,32 @@
           "name": "\u0395. \u0396\u0391\u03A7\u0391\u03A1\u0399\u039F\u03A5"
         },
         {
-          "id": "13846",
-          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
-        },
-        {
           "id": "8745",
           "name": "\u0395. \u039A\u039F\u03A5\u039C\u03A0\u0395\u039D\u0391"
+        },
+        {
+          "id": "13846",
+          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
         },
         {
           "id": "8740",
           "name": "\u0395. \u039A\u0391\u039B\u03A6\u0391"
         },
         {
+          "id": "15892",
+          "name": "\u0395. \u039A\u0391\u0392\u0391\u039B\u0399\u039A\u0391"
+        },
+        {
           "id": "14261",
           "name": "\u0398. \u039C\u03A0\u0395\u03A3\u0391\u0393\u039A\u0391\u03A3"
         },
         {
-          "id": "8769",
-          "name": "\u0398. \u039D\u03A4\u0391\u039A\u039F\u03A5\u039B\u0391"
-        },
-        {
           "id": "8805",
           "name": "\u0398. \u03A7\u0391\u03A1\u0391\u039B\u0391\u039C\u03A0\u039F\u03A5\u03A3"
+        },
+        {
+          "id": "8769",
+          "name": "\u0398. \u039D\u03A4\u0391\u039A\u039F\u03A5\u039B\u0391"
         },
         {
           "id": "14304",
@@ -44895,12 +44879,12 @@
           "name": "\u039C. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
         },
         {
-          "id": "11728",
-          "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
-        },
-        {
           "id": "15803",
           "name": "\u039C. \u039A\u039F\u03A5\u03A1\u03A4\u0396\u039F\u03A5\u039B\u0397"
+        },
+        {
+          "id": "11728",
+          "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
         },
         {
           "id": "8759",
@@ -44911,24 +44895,24 @@
           "name": "\u039C. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
-          "id": "8738",
-          "name": "\u039D. \u039A\u0391\u039A\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "8787",
           "name": "\u039D. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "12294",
-          "name": "\u03A0. \u039D\u03A4\u0391\u039D\u039F\u03A5"
+          "id": "8738",
+          "name": "\u039D. \u039A\u0391\u039A\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "8788",
+          "name": "\u03A0. \u03A0\u0395\u03A4\u03A3\u0397"
         },
         {
           "id": "8796",
           "name": "\u03A0. \u03A4\u0395\u039D\u0395\u039A\u0395\u03A4\u0396\u0397"
         },
         {
-          "id": "8788",
-          "name": "\u03A0. \u03A0\u0395\u03A4\u03A3\u0397"
+          "id": "12294",
+          "name": "\u03A0. \u039D\u03A4\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "8751",
@@ -51266,10 +51250,6 @@
         {
           "id": "4857",
           "name": "\u039A. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
-        },
-        {
-          "id": "6120",
-          "name": "\u039A. \u0391\u03A1\u0391\u039C\u03A0\u0391\u03A4\u0396\u0397\u03A3"
         },
         {
           "id": "6123",
@@ -59843,10 +59823,6 @@
           "name": "\u039D. \u03A0\u0391\u03A4\u0391\u03A4\u039F\u03A5\u039A\u0391"
         },
         {
-          "id": "9931",
-          "name": "\u039D. \u0395\u03A5\u0394\u0395\u03A1\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "3519",
           "name": "\u039D. \u03A4\u03A3\u039F\u03A0\u03A4\u03A3\u0397"
         },
@@ -64144,6 +64120,10 @@
           "name": "\u0399. \u039C\u0391\u039D\u0399\u03A9\u03A1\u039F\u03A3"
         },
         {
+          "id": "4840",
+          "name": "\u0399. \u03A4\u0391\u03A3\u0399\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
           "id": "3088",
           "name": "\u0399. \u03A4\u0395\u039B\u0399\u0394\u0397\u03A3"
         },
@@ -64342,10 +64322,6 @@
         {
           "id": "11287",
           "name": "\u039B. \u03A3\u0391\u039D\u0399\u0394\u0391\u03A3"
-        },
-        {
-          "id": "3353",
-          "name": "\u039B. \u03A4\u03A3\u0391\u039A\u03A9\u039D\u0391\u03A3"
         },
         {
           "id": "3041",
@@ -66237,6 +66213,10 @@
           "name": "\u0399. \u0391\u039B\u0391\u03A4\u03A3\u0391\u03A3"
         },
         {
+          "id": "4840",
+          "name": "\u0399. \u03A4\u0391\u03A3\u0399\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
           "id": "4141",
           "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
         },
@@ -67440,10 +67420,6 @@
           "name": "\u039A. \u039A\u0391\u039D\u0391\u03A0\u0399\u03A4\u03A3\u0391\u03A3"
         },
         {
-          "id": "6120",
-          "name": "\u039A. \u0391\u03A1\u0391\u039C\u03A0\u0391\u03A4\u0396\u0397\u03A3"
-        },
-        {
           "id": "6123",
           "name": "\u039A. \u039C\u0391\u03A5\u03A1\u039F\u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
@@ -68091,10 +68067,6 @@
           "name": "\u039B. \u039D\u03A4\u0391\u0392\u0391\u03A1\u0399\u039D\u039F\u03A3"
         },
         {
-          "id": "3353",
-          "name": "\u039B. \u03A4\u03A3\u0391\u039A\u03A9\u039D\u0391\u03A3"
-        },
-        {
           "id": "3071",
           "name": "\u039B. \u03A3\u0399\u0393\u039F\u03A5\u039B\u0391\u039A\u0397\u03A3"
         },
@@ -68668,10 +68640,6 @@
         {
           "id": "3984",
           "name": "\u039A. \u039A\u0391\u039D\u0391\u03A0\u0399\u03A4\u03A3\u0391\u03A3"
-        },
-        {
-          "id": "6120",
-          "name": "\u039A. \u0391\u03A1\u0391\u039C\u03A0\u0391\u03A4\u0396\u0397\u03A3"
         },
         {
           "id": "6123",
@@ -76411,49 +76379,15 @@
       "custom_field_18": ""
     },
     {
-      "id": "1854",
-      "name": "BG/Deicing Checkout (DI-L10)",
-      "code": "BG/OTJ-ICET1",
-      "category_id": "28",
-      "description": "Submission of OTJ Form",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "16/09/2026, 11:49:17",
-      "last_update_on": "16/09/2026, 11:50:13",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940243_job-training-concept-icon-vector-31585081__24_.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940244_job-training-concept-icon-vector-31585081__24_.png",
-      "certification": "BG Main Certificate",
-      "certification_duration": "1 year",
-      "custom_field_2": "OTJ",
-      "custom_field_4": "4",
-      "custom_field_5": "Goldair Handling",
-      "custom_field_6": "Level of qualification conform to SAE AS6286 DI-L10",
-      "custom_field_7": "",
-      "custom_field_9": "Pass",
-      "custom_field_10": "ILT",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
       "id": "1284",
-      "name": "BG/Deicing Checkout (DI-L10/20/30)",
+      "name": "BG/Deicing Checkout {DI-L10/20/30}",
       "code": "BG/OTJ-ICET",
       "category_id": "28",
       "description": "Submission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 15:27:04",
-      "last_update_on": "16/09/2026, 11:47:43",
+      "last_update_on": "18/09/2026, 09:23:59",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -76479,15 +76413,49 @@
       "custom_field_18": ""
     },
     {
+      "id": "1854",
+      "name": "BG/Deicing Checkout {DI-L10}",
+      "code": "BG/OTJ-ICET1",
+      "category_id": "28",
+      "description": "Submission of OTJ Form",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "16/09/2026, 11:49:17",
+      "last_update_on": "18/09/2026, 09:22:03",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940243_job-training-concept-icon-vector-31585081__24_.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940244_job-training-concept-icon-vector-31585081__24_.png",
+      "certification": "BG Main Certificate",
+      "certification_duration": "1 year",
+      "custom_field_2": "OTJ",
+      "custom_field_4": "4",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "Level of qualification conform to SAE AS6286 DI-L10",
+      "custom_field_7": "",
+      "custom_field_9": "Pass",
+      "custom_field_10": "ILT",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "1853",
-      "name": "BG/Deicing Checkout (DI-L70)",
+      "name": "BG/Deicing Checkout {DI-L70}",
       "code": "BG/OTJ-ICET7",
       "category_id": "28",
       "description": "Submission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "16/09/2026, 11:44:12",
-      "last_update_on": "16/09/2026, 11:50:38",
+      "last_update_on": "18/09/2026, 09:24:20",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -85693,49 +85661,15 @@
       "custom_field_18": "GHT-ICET (Q)"
     },
     {
-      "id": "1850",
-      "name": "Deicing Checkout (DI-L10)",
-      "code": "OTJ-ICET1",
-      "category_id": "28",
-      "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "15/09/2026, 15:16:34",
-      "last_update_on": "16/09/2026, 11:51:18",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940243_job-training-concept-icon-vector-31585081__24_.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940244_job-training-concept-icon-vector-31585081__24_.png",
-      "certification": "GR Main Certificate",
-      "certification_duration": "1 year",
-      "custom_field_2": "OTJ",
-      "custom_field_4": "4",
-      "custom_field_5": "Goldair Handling",
-      "custom_field_6": "Level of qualification conform to SAE AS6286 DI-L10",
-      "custom_field_7": "",
-      "custom_field_9": "Pass",
-      "custom_field_10": "OJT",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
       "id": "607",
-      "name": "Deicing Checkout (DI-L10/20/30)",
+      "name": "Deicing Checkout {DI-L10/20/30}",
       "code": "OTJ-ICET",
       "category_id": "28",
       "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:09",
-      "last_update_on": "16/09/2026, 11:51:43",
+      "last_update_on": "18/09/2026, 09:24:43",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -85761,15 +85695,49 @@
       "custom_field_18": ""
     },
     {
+      "id": "1850",
+      "name": "Deicing Checkout {DI-L10}",
+      "code": "OTJ-ICET1",
+      "category_id": "28",
+      "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "15/09/2026, 15:16:34",
+      "last_update_on": "18/09/2026, 09:23:22",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940243_job-training-concept-icon-vector-31585081__24_.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940244_job-training-concept-icon-vector-31585081__24_.png",
+      "certification": "GR Main Certificate",
+      "certification_duration": "1 year",
+      "custom_field_2": "OTJ",
+      "custom_field_4": "4",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "Level of qualification conform to SAE AS6286 DI-L10",
+      "custom_field_7": "",
+      "custom_field_9": "Pass",
+      "custom_field_10": "OJT",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "1852",
-      "name": "Deicing Checkout (DI-L70)",
+      "name": "Deicing Checkout {DI-L70}",
       "code": "OTJ-ICET7",
       "category_id": "28",
       "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "15/09/2026, 15:36:20",
-      "last_update_on": "16/09/2026, 11:52:00",
+      "last_update_on": "18/09/2026, 09:25:04",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
