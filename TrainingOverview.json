@@ -10328,7 +10328,7 @@
         },
         {
           "id": "629",
-          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I) (EN))"
+          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (EN) (I))"
         },
         {
           "id": "708",
@@ -17240,7 +17240,7 @@
         },
         {
           "id": "629",
-          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I) (EN))"
+          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (EN) (I))"
         },
         {
           "id": "708",
@@ -17272,7 +17272,7 @@
         },
         {
           "id": "1724",
-          "name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (I) (EN))"
+          "name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (EN) (I))"
         },
         {
           "id": "1144",
@@ -24033,7 +24033,7 @@
         },
         {
           "id": "703",
-          "name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (I) (GR))"
+          "name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (GR) (I))"
         },
         {
           "id": "407",
@@ -34231,7 +34231,7 @@
         },
         {
           "id": "629",
-          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I) (EN))"
+          "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (EN) (I))"
         },
         {
           "id": "708",
@@ -67029,7 +67029,7 @@
       "courses": [
         {
           "id": "703",
-          "name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (I) (GR))"
+          "name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (GR) (I))"
         },
         {
           "id": "609",
@@ -73664,13 +73664,13 @@
     {
       "id": "703",
       "name": "Aircraft Marshalling and Engine Start Up - Initial",
-      "code": "GHT-MARS (I) (GR)",
+      "code": "GHT-MARS (GR) (I)",
       "category_id": "28",
       "description": "\u003Cbr\u003E\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022box-sizing:border-box;text-align:center;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;color:rgb(0,0,0);\u0022\u003EAircraft Marshalling and Engine Start Up - Initial\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:justify;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B5\u03AF\u03C4\u03B5 \u03C3\u03B5 \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1 \u03B5\u03AF\u03C4\u03B5 \u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03C4\u03C5\u03B1\u03BA\u03AC. \u03A3\u03C4\u03BF \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03BF \u03B2\u03AE\u03BC\u03B1, \u03B8\u03B1 \u03BA\u03BB\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03B5\u03C4\u03B5 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03B8\u03B1 \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7.\u0026nbsp;\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/span\u003E \u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03B2\u03AE\u03BC\u03B1, \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1, \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD/\u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03CA\u03C3\u03C4\u03AC\u03BC\u03B5\u03BD\u03BF \u0026nbsp;\u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03BB\u03AC\u03B2\u03B5\u03C4\u03B5 \u03BE\u03B5\u03C7\u03C9\u03C1\u03B9\u03C3\u03C4\u03CC email \u03B3\u03B9\u03B1 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03B4\u03B9\u03B5\u03BE\u03B1\u03C7\u03B8\u03B5\u03AF \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7.\u003C/p\u003E\u003Chr style=\u0022box-sizing:border-box;height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;color:rgb(255,0,0);\u0022\u003E\u0395\u03AC\u03BD \u03B5\u03AF\u03C3\u03C4\u03B5 \u03BD\u03AD\u03BF\u03B9 \u03C3\u03C4\u03B7 Goldair Handling, \u03C4\u03BF \u03A4\u03BC\u03AE\u03BC\u03B1 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AE \u03C3\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03AC\u03BB\u03BB\u03B7\u03BB\u03B7 \u03C3\u03C5\u03BD\u03B5\u03B4\u03C1\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022box-sizing:border-box;height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul style=\u0022box-sizing:border-box;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022box-sizing:border-box;height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing:border-box;text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;text-align:center;\u0022\u003E\u003Ch2 style=\u0022box-sizing:border-box;text-align:center;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;color:rgb(0,0,0);\u0022\u003EAircraft Marshalling and Engine Start Up - Initial\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:center;\u0022\u003EThis is an instructor-led course conducted in either a live or virtual classroom setting. In the next step, you will be prompted to select the session you wish to attend.\u0026nbsp;\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EATTENTION!\u003C/span\u003E\u0026nbsp;This step is typically completed by your supervisor, and you will receive a separate email regarding when and where the training will take place.\u003C/p\u003E\u003Chr style=\u0022box-sizing:border-box;height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;color:rgb(255,0,0);\u0022\u003EIf you are new to Goldair Handling, the Training Department will arrange your enrollment in the appropriate session and you will be notified accordingly.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022box-sizing:border-box;height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing:border-box;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003Cbr\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "21/07/2024, 09:24:00",
-      "last_update_on": "21/09/2026, 12:36:40",
+      "last_update_on": "27/09/2026, 08:33:23",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73692,8 +73692,8 @@
       "custom_field_10": "ILT",
       "custom_field_11": "Initial",
       "custom_field_16": "",
-      "custom_field_17": "GHT-MARS (R) (GR)",
-      "custom_field_18": "GHT-MARS (Q) (GR)"
+      "custom_field_17": "GHT-MARS (GR) (R)",
+      "custom_field_18": "GHT-MARS (GR) (Q)"
     },
     {
       "id": "1236",
@@ -73732,13 +73732,13 @@
     {
       "id": "941",
       "name": "Aircraft Marshalling and Engine Start Up - Initial {RQ}",
-      "code": "GHT-MARS (Q) (GR)",
+      "code": "GHT-MARS (GR) (Q)",
       "category_id": "28",
       "description": "\u200B\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022 id=\u0022isPasted\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03BF\u03BD\u03B9\u03BA\u03AE \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EAircraft Marshalling and Engine Start Up - Initial (RQ)\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: center;\u0022\u003E\u003Cbr style=\u0022box-sizing: border-box;\u0022\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: right;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "10/06/2025, 13:51:58",
-      "last_update_on": "21/09/2026, 12:37:05",
+      "last_update_on": "27/09/2026, 08:34:02",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73759,20 +73759,20 @@
       "custom_field_9": "80%",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Requalification",
-      "custom_field_16": "GHT-MARS (I) (GR)",
-      "custom_field_17": "GHT-MARS (R) (GR)",
+      "custom_field_16": "GHT-MARS (GR) (I)",
+      "custom_field_17": "GHT-MARS (GR) (R)",
       "custom_field_18": ""
     },
     {
       "id": "563",
       "name": "Aircraft Marshalling and Engine Start Up - Refresher",
-      "code": "GHT-MARS (R) (GR)",
+      "code": "GHT-MARS (GR) (R)",
       "category_id": "28",
       "description": "\u200B\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022 id=\u0022isPasted\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03BF\u03BD\u03B9\u03BA\u03AE \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EAircraft Marshalling and Engine Start Up - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: center;\u0022\u003E\u003Cbr style=\u0022box-sizing: border-box;\u0022\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: right;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "21/09/2026, 12:37:14",
+      "last_update_on": "27/09/2026, 08:34:31",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -73793,9 +73793,9 @@
       "custom_field_9": "80%",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Recurrent/Refresher",
-      "custom_field_16": "GHT-MARS (I) (GR)",
+      "custom_field_16": "GHT-MARS (GR) (I)",
       "custom_field_17": "",
-      "custom_field_18": "GHT-MARS (Q) (GR)"
+      "custom_field_18": "GHT-MARS (GR) (Q)"
     },
     {
       "id": "490",
@@ -86312,13 +86312,13 @@
     {
       "id": "629",
       "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial",
-      "code": "GHT-DGR4 (I) (EN)",
+      "code": "GHT-DGR4 (EN) (I)",
       "category_id": "28",
       "description": "\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003EDGR for Ramp and Warehouse Personnel {EN} - Initial\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003EThis is an instructor-led course conducted in either a live or virtual classroom setting. In the next step, you will be prompted to select the session you wish to attend. \u003Cspan style=\u0022font-weight:bold;\u0022\u003EATTENTION!\u003C/span\u003E This step is typically completed by your supervisor, and you will receive a separate email regarding when and where the training will take place.\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(255,0,0);\u0022\u003EIf you are new to Goldair Handling, the Training Department will arrange your enrollment in the appropriate session and you will be notified accordingly.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "02/06/2024, 09:09:21",
-      "last_update_on": "21/09/2026, 12:59:23",
+      "last_update_on": "27/09/2026, 08:44:35",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86340,19 +86340,19 @@
       "custom_field_10": "ILT",
       "custom_field_11": "Initial",
       "custom_field_16": "",
-      "custom_field_17": "GHT-DGR4 (R) (EN)",
-      "custom_field_18": "GHT-DGR4 (Q) (EN)"
+      "custom_field_17": "GHT-DGR4 (EN) (R)",
+      "custom_field_18": "GHT-DGR4 (EN) (Q)"
     },
     {
       "id": "980",
       "name": "DGR for Ramp and Warehouse Personnel {EN} - Initial {RQ}",
-      "code": "GHT-DGR4 (Q) (EN)",
+      "code": "GHT-DGR4 (EN) (Q)",
       "category_id": "28",
       "description": "\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022 id=\u0022isPasted\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003EDGR for Ramp and Warehouse Personnel {EN} - Initial {RQ}\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/06/2025, 13:27:25",
-      "last_update_on": "21/09/2026, 12:59:32",
+      "last_update_on": "27/09/2026, 08:45:08",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86373,20 +86373,20 @@
       "custom_field_9": "80%",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Requalification",
-      "custom_field_16": "GHT-DGR4 (I) (EN)",
-      "custom_field_17": "GHT-DGR4 (R) (EN)",
+      "custom_field_16": "GHT-DGR4 (EN) (I)",
+      "custom_field_17": "GHT-DGR4 (EN) (R)",
       "custom_field_18": ""
     },
     {
       "id": "632",
       "name": "DGR for Ramp and Warehouse Personnel {EN} - Refresher",
-      "code": "GHT-DGR4 (R) (EN)",
+      "code": "GHT-DGR4 (EN) (R)",
       "category_id": "28",
       "description": "\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003EDGR for Ramp and Warehouse Personnel {EN} - Refresher\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "02/06/2024, 10:06:35",
-      "last_update_on": "21/09/2026, 12:59:41",
+      "last_update_on": "27/09/2026, 08:45:35",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -86407,9 +86407,9 @@
       "custom_field_9": "80%",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Recurrent/Refresher",
-      "custom_field_16": "GHT-DGR4 (I) (EN)",
+      "custom_field_16": "GHT-DGR4 (EN) (I)",
       "custom_field_17": "",
-      "custom_field_18": "GHT-DGR4 (Q) (EN)"
+      "custom_field_18": "GHT-DGR4 (EN) (Q)"
     },
     {
       "id": "628",
@@ -98796,7 +98796,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "20/12/2025, 08:37:05",
-      "last_update_on": "15/09/2026, 07:16:34",
+      "last_update_on": "27/09/2026, 20:55:45",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -100354,13 +100354,13 @@
     {
       "id": "1724",
       "name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial",
-      "code": "GHT-WARH (I) (EN)",
+      "code": "GHT-WARH (EN) (I)",
       "category_id": "10",
       "description": "\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Initial\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Initial\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/03/2026, 15:14:16",
-      "last_update_on": "17/04/2026, 11:54:24",
+      "last_update_on": "27/09/2026, 08:30:15",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -100382,19 +100382,19 @@
       "custom_field_10": "ILT",
       "custom_field_11": "Initial",
       "custom_field_16": "",
-      "custom_field_17": "GHT-WARH (R) (EN)",
-      "custom_field_18": "GHT-WARH (Q) (EN)"
+      "custom_field_17": "GHT-WARH (EN) (R)",
+      "custom_field_18": "GHT-WARH (EN) (Q)"
     },
     {
       "id": "1725",
       "name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial {RQ}",
-      "code": "GHT-WARH (Q) (EN)",
+      "code": "GHT-WARH (EN) (Q)",
       "category_id": "10",
       "description": "\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Initial (RQ)\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Initial (RQ)\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/03/2026, 15:17:46",
-      "last_update_on": "05/09/2026, 07:30:51",
+      "last_update_on": "27/09/2026, 08:30:59",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -100415,20 +100415,20 @@
       "custom_field_9": "80%",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Requalification",
-      "custom_field_16": "GHT-WARH (I) (EN)",
-      "custom_field_17": "GHT-WARH (R) (EN)",
+      "custom_field_16": "GHT-WARH (EN) (I)",
+      "custom_field_17": "GHT-WARH (EN) (R)",
       "custom_field_18": ""
     },
     {
       "id": "1726",
       "name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Refresher",
-      "code": "GHT-WARH (R) (EN)",
+      "code": "GHT-WARH (EN) (R)",
       "category_id": "10",
       "description": "\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(0,0,0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/03/2026, 15:19:29",
-      "last_update_on": "17/04/2026, 11:54:53",
+      "last_update_on": "27/09/2026, 08:31:37",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -100449,9 +100449,9 @@
       "custom_field_9": "80%",
       "custom_field_10": "ILT",
       "custom_field_11": "Recurrent/Refresher",
-      "custom_field_16": "GHT-WARH (I) (EN)",
+      "custom_field_16": "GHT-WARH (EN) (I)",
       "custom_field_17": "",
-      "custom_field_18": "GHT-WARH (Q) (EN)"
+      "custom_field_18": "GHT-WARH (EN) (Q)"
     },
     {
       "id": "990",
@@ -101038,13 +101038,13 @@
     {
       "course_id": "941",
       "prerequisite_course_id": "703",
-      "prerequisite_course_name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (I) (GR))",
+      "prerequisite_course_name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (GR) (I))",
       "prerequisite_rule_set": "1"
     },
     {
       "course_id": "563",
       "prerequisite_course_id": "703",
-      "prerequisite_course_name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (I) (GR))",
+      "prerequisite_course_name": "Aircraft Marshalling and Engine Start Up - Initial (GHT-MARS (GR) (I))",
       "prerequisite_rule_set": "1"
     },
     {
@@ -101554,13 +101554,13 @@
     {
       "course_id": "980",
       "prerequisite_course_id": "629",
-      "prerequisite_course_name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I) (EN))",
+      "prerequisite_course_name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (EN) (I))",
       "prerequisite_rule_set": "1"
     },
     {
       "course_id": "632",
       "prerequisite_course_id": "629",
-      "prerequisite_course_name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (I) (EN))",
+      "prerequisite_course_name": "DGR for Ramp and Warehouse Personnel {EN} - Initial (GHT-DGR4 (EN) (I))",
       "prerequisite_rule_set": "1"
     },
     {
@@ -101794,13 +101794,13 @@
     {
       "course_id": "1725",
       "prerequisite_course_id": "1724",
-      "prerequisite_course_name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (I) (EN))",
+      "prerequisite_course_name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (EN) (I))",
       "prerequisite_rule_set": "1"
     },
     {
       "course_id": "1726",
       "prerequisite_course_id": "1724",
-      "prerequisite_course_name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (I) (EN))",
+      "prerequisite_course_name": "Warehouse \u2013 ULD Procedures and GSE Operation {EN} - Initial (GHT-WARH (EN) (I))",
       "prerequisite_rule_set": "1"
     }
   ]
