@@ -2002,10 +2002,6 @@
           "name": "\u0391. \u039C\u0397\u03A4\u03A1\u039F\u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
         },
         {
-          "id": "6663",
-          "name": "\u0391. \u0392\u039F\u0393\u0399\u0391\u03A4\u0396\u0397\u03A3"
-        },
-        {
           "id": "11362",
           "name": "\u0391. \u03A4\u0395\u03A3\u03A3\u0395\u03A1\u0397"
         },
@@ -2340,10 +2336,6 @@
         {
           "id": "228",
           "name": "\u0395. \u039C\u0391\u039C\u0396\u0395\u03A1\u0397"
-        },
-        {
-          "id": "2785",
-          "name": "\u0395. \u03A6\u03A1\u0395\u03A1\u0397 \u03A0\u0391\u039D\u0391\u0393\u0399\u03A9\u03A4\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "3645",
@@ -2908,10 +2900,6 @@
         {
           "id": "13303",
           "name": "\u03A7. \u03A7\u0391\u039B\u039A\u0399\u0391"
-        },
-        {
-          "id": "14376",
-          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
         },
         {
           "id": "14380",
@@ -3771,8 +3759,28 @@
           "name": "Air Carrier Access Act Awareness (GHT-ACAA (EN))"
         },
         {
+          "id": "1864",
+          "name": "EK - Awareness to Persons with Disability - Autism (AIR-EK/DIS)"
+        },
+        {
+          "id": "1865",
+          "name": "EK - Beyond Awareness: Service with Dignity for GHA (AIR-EK/BAS)"
+        },
+        {
+          "id": "1866",
+          "name": "EK - Communicable Disease Management Programme Training for GSP Staff (AIR-EK/CDM)"
+        },
+        {
+          "id": "1863",
+          "name": "EK - Fit to Fly - Emirates Airport Services (AIR-EK/FTF)"
+        },
+        {
           "id": "433",
           "name": "EK - Service Standards and System (AIR-EK/SSS)"
+        },
+        {
+          "id": "1867",
+          "name": "EK - Wildlife Trafficking - Ground Operations (AIR-EK/WTT)"
         }
       ]
     },
@@ -6070,12 +6078,32 @@
           "name": "Air Carrier Access Act Awareness (GHT-ACAA (EN))"
         },
         {
+          "id": "1864",
+          "name": "EK - Awareness to Persons with Disability - Autism (AIR-EK/DIS)"
+        },
+        {
+          "id": "1865",
+          "name": "EK - Beyond Awareness: Service with Dignity for GHA (AIR-EK/BAS)"
+        },
+        {
+          "id": "1866",
+          "name": "EK - Communicable Disease Management Programme Training for GSP Staff (AIR-EK/CDM)"
+        },
+        {
+          "id": "1863",
+          "name": "EK - Fit to Fly - Emirates Airport Services (AIR-EK/FTF)"
+        },
+        {
           "id": "427",
           "name": "EK - Passenger Control (AIR-EK/EPC)"
         },
         {
           "id": "433",
           "name": "EK - Service Standards and System (AIR-EK/SSS)"
+        },
+        {
+          "id": "1867",
+          "name": "EK - Wildlife Trafficking - Ground Operations (AIR-EK/WTT)"
         }
       ]
     },
@@ -6485,10 +6513,6 @@
           "name": "\u0395. \u039A\u0391\u03A1\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
-          "id": "13315",
-          "name": "\u0395. \u039A\u039F\u03A5\u039A\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "6868",
           "name": "\u0395. \u0392\u0391\u039B\u0394\u0399\u03A1\u0397"
         },
@@ -6667,10 +6691,6 @@
         {
           "id": "14381",
           "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0391\u03AA"
-        },
-        {
-          "id": "12769",
-          "name": "\u039C. \u0393\u039A\u0399\u03A9\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "1276",
@@ -7058,14 +7078,6 @@
           "name": "\u0393. \u039B\u0391\u0394\u0391\u03A3"
         },
         {
-          "id": "944",
-          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "5636",
-          "name": "\u0393. \u039D\u03A4\u0395\u039B\u0395\u03A1\u039D\u039F"
-        },
-        {
           "id": "1988",
           "name": "\u0393. \u0398\u0395\u039F\u0394\u03A9\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -7074,12 +7086,20 @@
           "name": "\u0393. \u03A7\u03A1\u039F\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "308",
-          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "1062",
           "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "944",
+          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "5636",
+          "name": "\u0393. \u039D\u03A4\u0395\u039B\u0395\u03A1\u039D\u039F"
+        },
+        {
+          "id": "308",
+          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "966",
@@ -7126,8 +7146,8 @@
           "name": "\u039D. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0397\u03A3"
         },
         {
-          "id": "950",
-          "name": "\u03A0. \u0391\u039B\u0395\u039E\u0397\u03A3"
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1077",
@@ -7136,6 +7156,10 @@
         {
           "id": "4798",
           "name": "\u03A0. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0399\u039F\u03A5"
+        },
+        {
+          "id": "950",
+          "name": "\u03A0. \u0391\u039B\u0395\u039E\u0397\u03A3"
         },
         {
           "id": "4795",
@@ -7434,12 +7458,20 @@
       ],
       "courses": [
         {
+          "id": "1866",
+          "name": "EK - Communicable Disease Management Programme Training for GSP Staff (AIR-EK/CDM)"
+        },
+        {
           "id": "431",
           "name": "EK - Ramp Operation Training (AIR-EK/ROT)"
         },
         {
           "id": "1019",
           "name": "EK - Turnaround Coordinator (AIR-EK/ETC)"
+        },
+        {
+          "id": "1867",
+          "name": "EK - Wildlife Trafficking - Ground Operations (AIR-EK/WTT)"
         }
       ]
     },
@@ -7713,12 +7745,12 @@
           "name": "\u0393. \u0394\u0391\u0393\u039A\u03A9\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3859",
-          "name": "\u0394. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
-        },
-        {
           "id": "985",
           "name": "\u0394. \u0393\u039A\u0391\u03A1\u0391\u0393\u039A\u039F\u03A5\u039D\u0397"
+        },
+        {
+          "id": "3859",
+          "name": "\u0394. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
         },
         {
           "id": "1040",
@@ -7755,10 +7787,6 @@
         {
           "id": "1011",
           "name": "\u0399. \u0392\u0395\u03A1\u03A5\u039A\u0399\u039F\u03A3"
-        },
-        {
-          "id": "6010",
-          "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "3901",
@@ -9011,10 +9039,6 @@
         {
           "id": "4913",
           "name": "\u039C. \u03A7\u03A5\u03A4\u0397\u03A1\u0397"
-        },
-        {
-          "id": "11800",
-          "name": "\u039C. \u03A4\u0395\u0393\u039A\u0395\u039B\u0399\u0394\u0397"
         },
         {
           "id": "13382",
@@ -12543,10 +12567,6 @@
           "name": "M. Markoshev"
         },
         {
-          "id": "14439",
-          "name": "M. Todorov"
-        },
-        {
           "id": "5144",
           "name": "M. Gadzhev"
         },
@@ -12569,10 +12589,6 @@
         {
           "id": "5163",
           "name": "N. Shterev"
-        },
-        {
-          "id": "14440",
-          "name": "N. Angelov"
         },
         {
           "id": "12999",
@@ -24973,10 +24989,6 @@
           "name": "\u0391. \u039A\u0391\u03A6\u0395\u03A3"
         },
         {
-          "id": "6663",
-          "name": "\u0391. \u0392\u039F\u0393\u0399\u0391\u03A4\u0396\u0397\u03A3"
-        },
-        {
           "id": "232",
           "name": "\u0391. \u039C\u0391\u03A1\u039A\u0399\u0391\u039D\u0399\u0394\u039F\u03A5"
         },
@@ -25169,12 +25181,12 @@
           "name": "\u0391. \u03A7\u0391\u03A1\u0391\u039B\u0391\u039C\u03A0\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "13294",
-          "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039D\u03A4\u03A9\u039D\u0399\u039F\u03A5"
-        },
-        {
           "id": "14375",
           "name": "\u0391. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "13294",
+          "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039D\u03A4\u03A9\u039D\u0399\u039F\u03A5"
         },
         {
           "id": "8154",
@@ -25365,12 +25377,12 @@
           "name": "\u0392. \u039C\u0399\u03A7\u0391\u039B\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "14347",
-          "name": "\u0392. \u0393\u039A\u039F\u039B\u03A6\u039F\u03A3"
-        },
-        {
           "id": "13019",
           "name": "\u0392. \u0393\u039A\u039F\u0393\u039A\u039F\u03A3"
+        },
+        {
+          "id": "14347",
+          "name": "\u0392. \u0393\u039A\u039F\u039B\u03A6\u039F\u03A3"
         },
         {
           "id": "14357",
@@ -25501,12 +25513,12 @@
           "name": "\u0393. \u03A3\u03A4\u0391\u03A5\u03A1\u0391\u039A\u0391\u039A\u0397"
         },
         {
-          "id": "14371",
-          "name": "\u0393. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u0391\u03A4\u039F\u03A5"
-        },
-        {
           "id": "15364",
           "name": "\u0393. \u03A4\u03A1\u0391\u039A\u039A\u0391"
+        },
+        {
+          "id": "14371",
+          "name": "\u0393. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u0391\u03A4\u039F\u03A5"
         },
         {
           "id": "10530",
@@ -25929,6 +25941,14 @@
           "name": "\u0395. \u0394\u0391\u039D\u0395\u0396\u0397"
         },
         {
+          "id": "13135",
+          "name": "\u0395. \u039A\u0391\u03A1\u0391\u039D\u03A4\u0395\u039B\u039F\u03A5"
+        },
+        {
+          "id": "15885",
+          "name": "\u0395. \u03A3\u0391\u03A1\u03A0\u0395\u039A\u0399\u0394\u039F\u03A5"
+        },
+        {
           "id": "14351",
           "name": "\u0395. \u039D\u03A4\u039F\u039D\u03A4\u0397"
         },
@@ -25937,16 +25957,8 @@
           "name": "\u0395. \u0391\u039B\u0395\u039E\u0399\u039F\u03A5"
         },
         {
-          "id": "15885",
-          "name": "\u0395. \u03A3\u0391\u03A1\u03A0\u0395\u039A\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "14341",
           "name": "\u0395. \u03A3\u0395\u03A1\u0393\u0397"
-        },
-        {
-          "id": "13135",
-          "name": "\u0395. \u039A\u0391\u03A1\u0391\u039D\u03A4\u0395\u039B\u039F\u03A5"
         },
         {
           "id": "14340",
@@ -25991,10 +26003,6 @@
         {
           "id": "939",
           "name": "\u0395. \u0396\u0395\u03A1\u0392\u0391\u03A3"
-        },
-        {
-          "id": "4223",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3152",
@@ -26133,16 +26141,16 @@
           "name": "\u0395. \u0396\u03A9\u0396\u03A9\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "5413",
-          "name": "\u0395. \u039C\u03A0\u0391\u03A3\u0399\u039F"
-        },
-        {
           "id": "4199",
           "name": "\u0395. \u039D\u03A4\u03A5\u039B\u0399"
         },
         {
           "id": "4723",
           "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u0391\u039A\u0391"
+        },
+        {
+          "id": "5413",
+          "name": "\u0395. \u039C\u03A0\u0391\u03A3\u0399\u039F"
         },
         {
           "id": "3659",
@@ -26187,10 +26195,6 @@
         {
           "id": "2103",
           "name": "\u0395. \u039A\u039F\u03A5\u039C\u0391\u039D\u03A4\u0391\u03A1\u039F\u03A5"
-        },
-        {
-          "id": "2785",
-          "name": "\u0395. \u03A6\u03A1\u0395\u03A1\u0397 \u03A0\u0391\u039D\u0391\u0393\u0399\u03A9\u03A4\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "5267",
@@ -26445,12 +26449,12 @@
           "name": "\u0399. \u039A\u0391\u039D\u0391\u039A\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "14374",
-          "name": "\u0399. \u03A4\u03A3\u039F\u03A5\u03A0\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "13301",
           "name": "\u0399. \u039A\u0399\u03A1\u03A4\u03A3\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "14374",
+          "name": "\u0399. \u03A4\u03A3\u039F\u03A5\u03A0\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "211",
@@ -26933,16 +26937,16 @@
           "name": "\u039C. \u03A8\u0391\u0398\u0391"
         },
         {
-          "id": "13812",
-          "name": "\u039C. \u03A3\u039C\u03A5\u03A1\u039B\u0399\u0391\u0394\u0397"
-        },
-        {
           "id": "15326",
           "name": "\u039C. \u039A\u0391\u039B\u03A6\u0391"
         },
         {
           "id": "13828",
           "name": "\u039C. \u03A3\u03A9\u03A4\u0397\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "13812",
+          "name": "\u039C. \u03A3\u039C\u03A5\u03A1\u039B\u0399\u0391\u0394\u0397"
         },
         {
           "id": "4240",
@@ -27215,10 +27219,6 @@
         {
           "id": "3310",
           "name": "\u039D. \u0393\u0391\u039B\u0391\u039D\u039F\u039C\u0391\u03A4\u0397"
-        },
-        {
-          "id": "9306",
-          "name": "\u039D. \u039A\u0391\u039D\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "2096",
@@ -27717,12 +27717,12 @@
           "name": "\u03A3. \u03A7\u039F\u03A5\u039B\u0399\u0391\u03A1\u0391"
         },
         {
-          "id": "15092",
-          "name": "\u03A3. \u0391\u03A1\u03A7\u039F\u039D\u03A4\u0397"
-        },
-        {
           "id": "14377",
           "name": "\u03A3. \u03A0\u0391\u039D\u039F\u03A5\u03A3\u0397"
+        },
+        {
+          "id": "15092",
+          "name": "\u03A3. \u0391\u03A1\u03A7\u039F\u039D\u03A4\u0397"
         },
         {
           "id": "1706",
@@ -28049,16 +28049,12 @@
           "name": "\u03A7. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "13303",
-          "name": "\u03A7. \u03A7\u0391\u039B\u039A\u0399\u0391"
-        },
-        {
           "id": "14380",
           "name": "\u03A7. \u039B\u0391\u03A1\u0399\u03A3\u0399\u039D\u039F\u03A5"
         },
         {
-          "id": "14376",
-          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
+          "id": "13303",
+          "name": "\u03A7. \u03A7\u0391\u039B\u039A\u0399\u0391"
         },
         {
           "id": "9305",
@@ -29773,10 +29769,6 @@
           "name": "\u0395. \u039A\u0391\u03A1\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
-          "id": "13315",
-          "name": "\u0395. \u039A\u039F\u03A5\u039A\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "6868",
           "name": "\u0395. \u0392\u0391\u039B\u0394\u0399\u03A1\u0397"
         },
@@ -29967,10 +29959,6 @@
         {
           "id": "14381",
           "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0391\u03AA"
-        },
-        {
-          "id": "12769",
-          "name": "\u039C. \u0393\u039A\u0399\u03A9\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "1276",
@@ -34004,10 +33992,6 @@
           "name": "S. GOPDJIM GWEBAP"
         },
         {
-          "id": "6965",
-          "name": "T. MOHAMMAD"
-        },
-        {
           "id": "7245",
           "name": "T. SINGHA"
         },
@@ -35027,10 +35011,6 @@
         {
           "id": "6132",
           "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u0391\u039A\u0397"
-        },
-        {
-          "id": "6580",
-          "name": "\u0395. \u03A7\u039F\u03A5\u0392\u0391\u03A1\u0394\u0391"
         },
         {
           "id": "7239",
@@ -36286,10 +36266,6 @@
           "name": "\u0393. \u0392\u0391\u0393\u0393\u0395\u039B\u0397"
         },
         {
-          "id": "4048",
-          "name": "\u0394. \u0396\u0391\u039C\u039F\u03A5\u0396\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "226",
           "name": "\u0394. \u039C\u0391\u039B\u0395\u039A\u039A\u039F\u03A3"
         },
@@ -36993,8 +36969,8 @@
           "name": "\u039A. \u03A0\u039F\u039B\u03A5\u039C\u0395\u03A1\u0397\u03A3"
         },
         {
-          "id": "9914",
-          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
+          "id": "2973",
+          "name": "\u039A. \u03A4\u0395\u03A1\u03A4\u0399\u03A0\u0397\u03A3"
         },
         {
           "id": "4857",
@@ -37003,10 +36979,6 @@
         {
           "id": "511",
           "name": "\u039A. \u03A7\u039F\u03A5\u039B\u0399\u0391\u03A1\u0391\u03A3"
-        },
-        {
-          "id": "2973",
-          "name": "\u039A. \u03A4\u0395\u03A1\u03A4\u0399\u03A0\u0397\u03A3"
         },
         {
           "id": "1950",
@@ -40721,6 +40693,10 @@
           "name": "\u039C. \u03A0\u0395\u03A1\u03A1\u0391\u039A\u0397"
         },
         {
+          "id": "1056",
+          "name": "\u039C. \u03A7\u0391\u039C\u0397\u039B\u039F\u03A5"
+        },
+        {
           "id": "1018",
           "name": "\u039C. \u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
@@ -40831,6 +40807,10 @@
         {
           "id": "6103",
           "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
+        },
+        {
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1089",
@@ -50737,10 +50717,6 @@
           "name": "\u0398. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u03A1\u0395\u039B\u0397\u03A3"
         },
         {
-          "id": "1777",
-          "name": "\u0398. \u039D\u03A4\u0391\u039B\u0391\u039A\u0391\u03A3"
-        },
-        {
           "id": "12559",
           "name": "\u0399. \u03A0\u03A1\u03A9\u03A4\u039F\u039B\u0391\u03A4\u0397\u03A3"
         },
@@ -50959,10 +50935,6 @@
         {
           "id": "1082",
           "name": "\u039A. \u039D\u03A5\u03A7\u03A4\u0391\u039A\u0397"
-        },
-        {
-          "id": "9914",
-          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
         },
         {
           "id": "15554",
@@ -53338,14 +53310,6 @@
           "name": "\u0395. \u03A6\u039B\u0391\u03A3\u039A\u0391\u03A3"
         },
         {
-          "id": "4932",
-          "name": "\u0398. \u03A0\u0397\u039B\u0399\u03A4\u03A3\u039F\u03A3"
-        },
-        {
-          "id": "6010",
-          "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "3162",
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -53923,10 +53887,6 @@
           "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039C\u0391\u039D\u03A9\u039B\u0397\u03A3"
         },
         {
-          "id": "4048",
-          "name": "\u0394. \u0396\u0391\u039C\u039F\u03A5\u0396\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "4610",
           "name": "\u0394. \u03A4\u03A3\u0391\u039B\u039C\u0391\u03A4\u0396\u0391\u03A3"
         },
@@ -53975,10 +53935,6 @@
           "name": "\u0399. \u0392\u0395\u03A1\u03A5\u039A\u0399\u039F\u03A3"
         },
         {
-          "id": "3308",
-          "name": "\u0399. \u039D\u03A4\u0391\u03A6\u039F\u03A3"
-        },
-        {
           "id": "11279",
           "name": "\u0399. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0395\u039B\u039B\u039F\u03A5"
         },
@@ -53991,6 +53947,10 @@
           "name": "\u0399. \u039A\u0391\u039B\u039F\u03A8\u03A5\u03A7\u039F\u03A3"
         },
         {
+          "id": "3308",
+          "name": "\u0399. \u039D\u03A4\u0391\u03A6\u039F\u03A3"
+        },
+        {
           "id": "4044",
           "name": "\u0399. \u0391\u039B\u0391\u03A4\u03A3\u0391\u03A3"
         },
@@ -53999,24 +53959,24 @@
           "name": "\u039A. \u03A4\u0391\u039A\u039A\u039F\u03A5"
         },
         {
-          "id": "3289",
-          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0397\u03A3"
-        },
-        {
           "id": "3301",
           "name": "\u039A. \u039C\u039F\u03A3\u03A7\u0397\u03A3"
+        },
+        {
+          "id": "3289",
+          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0397\u03A3"
         },
         {
           "id": "4062",
           "name": "\u039A. \u039D\u03A4\u0391\u03A3\u039A\u0391\u03A3"
         },
         {
-          "id": "345",
-          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
-        },
-        {
           "id": "3314",
           "name": "\u039A. \u03A0\u0391\u03A4\u03A4\u0391\u03A3"
+        },
+        {
+          "id": "345",
+          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
         },
         {
           "id": "3295",
@@ -54035,14 +53995,6 @@
           "name": "\u039C. \u039A\u0391\u03A3\u03A4\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "4145",
-          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
-        },
-        {
-          "id": "4316",
-          "name": "\u039C. \u039A\u03A5\u03A0\u03A1\u0399\u03A9\u03A4\u0397\u03A3"
-        },
-        {
           "id": "977",
           "name": "\u039C. \u03A3\u039A\u039F\u03A5\u03A1\u0391\u03A3"
         },
@@ -54051,16 +54003,24 @@
           "name": "\u039C. \u03A4\u0396\u039F\u0392\u0391\u03A1\u0391\u03A3"
         },
         {
+          "id": "4145",
+          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
+        },
+        {
+          "id": "4316",
+          "name": "\u039C. \u039A\u03A5\u03A0\u03A1\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
           "id": "4047",
           "name": "\u039D. \u039C\u0391\u039D\u0399\u0391\u03A3"
         },
         {
-          "id": "3112",
-          "name": "\u039D. \u03A9\u03A1\u0391\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "1086",
           "name": "\u039D. \u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
+        },
+        {
+          "id": "3112",
+          "name": "\u039D. \u03A9\u03A1\u0391\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "3286",
@@ -57664,10 +57624,6 @@
           "name": "\u0394. \u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
         },
         {
-          "id": "4048",
-          "name": "\u0394. \u0396\u0391\u039C\u039F\u03A5\u0396\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "4610",
           "name": "\u0394. \u03A4\u03A3\u0391\u039B\u039C\u0391\u03A4\u0396\u0391\u03A3"
         },
@@ -57958,10 +57914,6 @@
         {
           "id": "939",
           "name": "\u0395. \u0396\u0395\u03A1\u0392\u0391\u03A3"
-        },
-        {
-          "id": "4223",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "6634",
@@ -58352,10 +58304,6 @@
           "name": "\u0398. \u0393\u039A\u0399\u0391\u03A4\u0391\u03A3"
         },
         {
-          "id": "4932",
-          "name": "\u0398. \u03A0\u0397\u039B\u0399\u03A4\u03A3\u039F\u03A3"
-        },
-        {
           "id": "13131",
           "name": "\u0398. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397\u03A3"
         },
@@ -58634,10 +58582,6 @@
         {
           "id": "11279",
           "name": "\u0399. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0395\u039B\u039B\u039F\u03A5"
-        },
-        {
-          "id": "6010",
-          "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "11637",
@@ -59190,10 +59134,6 @@
         {
           "id": "13382",
           "name": "\u039C. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397"
-        },
-        {
-          "id": "11800",
-          "name": "\u039C. \u03A4\u0395\u0393\u039A\u0395\u039B\u0399\u0394\u0397"
         },
         {
           "id": "15326",
@@ -63417,10 +63357,6 @@
           "name": "\u0394. \u03A4\u03A3\u0391\u039B\u039C\u0391\u03A4\u0396\u0391\u03A3"
         },
         {
-          "id": "4048",
-          "name": "\u0394. \u0396\u0391\u039C\u039F\u03A5\u0396\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "3186",
           "name": "\u0394. \u03A4\u03A3\u0399\u0391\u03A0\u03A1\u0391\u0396\u0397\u03A3"
         },
@@ -63579,10 +63515,6 @@
         {
           "id": "12192",
           "name": "\u0395. \u03A4\u03A3\u0399\u0395\u0393\u0393\u0395\u039B\u0399\u0394\u0397\u03A3"
-        },
-        {
-          "id": "4223",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3152",
@@ -66110,10 +66042,6 @@
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
         {
-          "id": "9914",
-          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
-        },
-        {
           "id": "3982",
           "name": "\u039A. \u039A\u03A5\u03A1\u0399\u0391\u039A\u0399\u0394\u0397\u03A3\u00A0"
         },
@@ -66334,6 +66262,10 @@
           "name": "\u039C. \u03A0\u0395\u03A1\u03A1\u0391\u039A\u0397"
         },
         {
+          "id": "1056",
+          "name": "\u039C. \u03A7\u0391\u039C\u0397\u039B\u039F\u03A5"
+        },
+        {
           "id": "1018",
           "name": "\u039C. \u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
@@ -66496,6 +66428,10 @@
         {
           "id": "6103",
           "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
+        },
+        {
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1089",
@@ -67333,6 +67269,10 @@
           "name": "\u039C. \u03A0\u0395\u03A1\u03A1\u0391\u039A\u0397"
         },
         {
+          "id": "1056",
+          "name": "\u039C. \u03A7\u0391\u039C\u0397\u039B\u039F\u03A5"
+        },
+        {
           "id": "1018",
           "name": "\u039C. \u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
@@ -67391,6 +67331,10 @@
         {
           "id": "835",
           "name": "\u039D. \u0392\u0395\u0396\u03A5\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1089",
@@ -68579,6 +68523,10 @@
           "name": "\u039C. \u03A0\u0395\u03A1\u03A1\u0391\u039A\u0397"
         },
         {
+          "id": "1056",
+          "name": "\u039C. \u03A7\u0391\u039C\u0397\u039B\u039F\u03A5"
+        },
+        {
           "id": "384",
           "name": "\u039C. \u0392\u039B\u0391\u03A7\u039F\u03A5"
         },
@@ -68633,6 +68581,10 @@
         {
           "id": "6103",
           "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
+        },
+        {
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1089",
@@ -69450,10 +69402,6 @@
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
         {
-          "id": "9914",
-          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
-        },
-        {
           "id": "3901",
           "name": "\u039A. \u03A0\u0391\u039B\u0391\u0399\u039F\u039B\u039F\u0393\u039F\u03A5"
         },
@@ -69638,6 +69586,10 @@
           "name": "\u039C. \u03A0\u0395\u03A1\u03A1\u0391\u039A\u0397"
         },
         {
+          "id": "1056",
+          "name": "\u039C. \u03A7\u0391\u039C\u0397\u039B\u039F\u03A5"
+        },
+        {
           "id": "1018",
           "name": "\u039C. \u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
@@ -69752,6 +69704,10 @@
         {
           "id": "6103",
           "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
+        },
+        {
+          "id": "1055",
+          "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1089",
@@ -72446,10 +72402,6 @@
         {
           "id": "2700",
           "name": "S. GOPDJIM GWEBAP"
-        },
-        {
-          "id": "6965",
-          "name": "T. MOHAMMAD"
         },
         {
           "id": "7245",
@@ -85366,7 +85318,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "27/05/2026, 14:11:50",
-      "last_update_on": "21/09/2026, 12:54:35",
+      "last_update_on": "29/09/2026, 15:33:01",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86862,7 +86814,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 11:57:52",
-      "last_update_on": "28/09/2026, 14:41:59",
+      "last_update_on": "29/09/2026, 11:52:04",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86930,7 +86882,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 13:00:46",
-      "last_update_on": "28/09/2026, 13:37:45",
+      "last_update_on": "29/09/2026, 11:49:41",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86945,7 +86897,7 @@
       "certification_duration": "Forever",
       "custom_field_2": "Airline",
       "custom_field_4": "1",
-      "custom_field_5": "",
+      "custom_field_5": "Emirates",
       "custom_field_6": "",
       "custom_field_7": "",
       "custom_field_9": "",
@@ -87027,12 +86979,12 @@
       "id": "1866",
       "name": "EK - Communicable Disease Management Programme Training for GSP Staff",
       "code": "AIR-EK/CDM",
-      "category_id": "7",
+      "category_id": "29",
       "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003Cbr\u003ETraining provided by the airline.",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 13:25:57",
-      "last_update_on": "28/09/2026, 13:28:53",
+      "last_update_on": "29/09/2026, 11:48:57",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -87096,11 +87048,11 @@
       "name": "EK - Fit to Fly - Emirates Airport Services",
       "code": "AIR-EK/FTF",
       "category_id": "7",
-      "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003Cbr\u003ETraining provided by the airline.",
+      "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003Cbr /\u003ETraining provided by the airline.",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 11:27:29",
-      "last_update_on": "28/09/2026, 13:50:01",
+      "last_update_on": "29/09/2026, 13:26:04",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -87116,14 +87068,14 @@
       "custom_field_2": "Airline",
       "custom_field_4": "1",
       "custom_field_5": "Emirates",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "",
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
       "custom_field_10": "Self-Study",
-      "custom_field_11": "Initial",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
+      "custom_field_11": "Main",
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
     },
     {
       "id": "428",
@@ -87134,7 +87086,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:05",
-      "last_update_on": "28/09/2026, 13:11:43",
+      "last_update_on": "29/09/2026, 08:34:43",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -87154,7 +87106,7 @@
       "custom_field_7": "",
       "custom_field_9": "N/A",
       "custom_field_10": "Self-Study",
-      "custom_field_11": "Initial",
+      "custom_field_11": "Main",
       "custom_field_16": "",
       "custom_field_17": "",
       "custom_field_18": ""
@@ -87435,12 +87387,12 @@
       "id": "1867",
       "name": "EK - Wildlife Trafficking - Ground Operations",
       "code": "AIR-EK/WTT",
-      "category_id": "7",
+      "category_id": "29",
       "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003Cbr\u003ETraining provided by the airline.",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 13:29:46",
-      "last_update_on": "28/09/2026, 13:43:58",
+      "last_update_on": "29/09/2026, 11:43:10",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -93688,6 +93640,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1868",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "29/09/2026, 16:29:49",
+      "last_update_on": "29/09/2026, 16:29:49",
+      "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1775",
       "name": "Occurrence Reporting-Ground Operations, Customer Service",
       "code": "AIR-AY/ORO",
@@ -95634,7 +95620,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "28/09/2026, 16:30:19",
+      "last_update_on": "29/09/2026, 16:53:19",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
