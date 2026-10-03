@@ -1326,12 +1326,12 @@
           "name": "\u0393. \u03A0\u0391\u03A3\u03A0\u0391\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "1726",
-          "name": "\u0394. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
-        },
-        {
           "id": "15393",
           "name": "\u0394. \u039A\u0391\u03A1\u0395\u039B\u0399\u03A9\u03A4\u0397"
+        },
+        {
+          "id": "1726",
+          "name": "\u0394. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
         },
         {
           "id": "14395",
@@ -1350,24 +1350,24 @@
           "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
-          "id": "1766",
-          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "142",
           "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
+        },
+        {
+          "id": "1766",
+          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "2434",
           "name": "\u0395. \u03A4\u03A3\u0399\u0391\u0393\u039A\u039B\u0399\u03A9\u03A4\u0397"
         },
         {
-          "id": "3166",
-          "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "1249",
           "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
+        },
+        {
+          "id": "3166",
+          "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "7419",
@@ -1406,8 +1406,16 @@
           "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
         },
         {
+          "id": "3508",
+          "name": "\u039A. \u03A7\u0391\u03A1\u0391\u03A4\u03A3\u0399\u0394\u0397\u03A3"
+        },
+        {
           "id": "9317",
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
+        },
+        {
+          "id": "15542",
+          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "5674",
@@ -1416,10 +1424,6 @@
         {
           "id": "6528",
           "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
-          "id": "15542",
-          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "12776",
@@ -2730,10 +2734,6 @@
           "name": "\u03A3. \u039A\u0391\u03A1\u0391\u0394\u0397\u039C\u039F\u03A3"
         },
         {
-          "id": "10073",
-          "name": "\u03A3. \u03A4\u03A3\u0395\u0392\u0391"
-        },
-        {
           "id": "2480",
           "name": "\u03A3. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
         },
@@ -3696,20 +3696,16 @@
           "name": "\u0392. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
         },
         {
+          "id": "343",
+          "name": "\u0393. \u03A6\u0391\u039A\u039F\u03A5\u03A1\u0395\u039B\u0397\u03A3"
+        },
+        {
           "id": "1244",
           "name": "\u0393. \u039C\u0391\u03A5\u03A1\u0399\u039A\u039F\u03A3"
         },
         {
           "id": "2350",
           "name": "\u0393. \u03A6\u03A9\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "343",
-          "name": "\u0393. \u03A6\u0391\u039A\u039F\u03A5\u03A1\u0395\u039B\u0397\u03A3"
-        },
-        {
-          "id": "10515",
-          "name": "\u0394. \u03A3\u0391\u039A\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "200",
@@ -3742,10 +3738,6 @@
         {
           "id": "4862",
           "name": "\u039D. \u03A1\u0395\u039A\u039A\u0391"
-        },
-        {
-          "id": "5466",
-          "name": "\u03A3. \u039B\u0399\u03A3\u0393\u0391\u03A1\u0391"
         },
         {
           "id": "5325",
@@ -12071,10 +12063,6 @@
           "name": "I. Ivanov"
         },
         {
-          "id": "5084",
-          "name": "I. Hadjipetkov"
-        },
-        {
           "id": "5080",
           "name": "J. Shumanov"
         },
@@ -14159,6 +14147,10 @@
           "name": "A. Preetha"
         },
         {
+          "id": "12018",
+          "name": "A. Ashish"
+        },
+        {
           "id": "6984",
           "name": "A. Nenkov"
         },
@@ -14177,6 +14169,10 @@
         {
           "id": "7043",
           "name": "B. Kumar"
+        },
+        {
+          "id": "12019",
+          "name": "B. Singh"
         },
         {
           "id": "4992",
@@ -14203,12 +14199,20 @@
           "name": "B. Videnov"
         },
         {
+          "id": "12196",
+          "name": "B. Gergov"
+        },
+        {
           "id": "15808",
           "name": "B. Sokolov"
         },
         {
           "id": "5004",
           "name": "B. Tchinkov"
+        },
+        {
+          "id": "15822",
+          "name": "B. Vasilev"
         },
         {
           "id": "4997",
@@ -14243,6 +14247,10 @@
           "name": "D. Velizarov"
         },
         {
+          "id": "15802",
+          "name": "D. Metanov"
+        },
+        {
           "id": "5062",
           "name": "D. Vancheva"
         },
@@ -14259,8 +14267,16 @@
           "name": "D. Byfield"
         },
         {
+          "id": "11988",
+          "name": "E. Karahanov"
+        },
+        {
           "id": "15992",
           "name": "E. Nikolinska"
+        },
+        {
+          "id": "12020",
+          "name": "G. Singh"
         },
         {
           "id": "5037",
@@ -14351,10 +14367,6 @@
           "name": "I. Ivanov"
         },
         {
-          "id": "5084",
-          "name": "I. Hadjipetkov"
-        },
-        {
           "id": "13286",
           "name": "J. Jamil"
         },
@@ -14389,6 +14401,10 @@
         {
           "id": "12026",
           "name": "K. Singh"
+        },
+        {
+          "id": "15823",
+          "name": "K. Veselinova"
         },
         {
           "id": "7012",
@@ -14465,6 +14481,10 @@
         {
           "id": "5140",
           "name": "M. Petrov"
+        },
+        {
+          "id": "15800",
+          "name": "M. Milchev"
         },
         {
           "id": "7020",
@@ -14607,6 +14627,10 @@
           "name": "S. Singh"
         },
         {
+          "id": "12024",
+          "name": "S. Shiwanshu"
+        },
+        {
           "id": "15418",
           "name": "S. Lachev"
         },
@@ -14661,6 +14685,10 @@
         {
           "id": "8145",
           "name": "S. Khatri"
+        },
+        {
+          "id": "12023",
+          "name": "S. Kumar"
         },
         {
           "id": "7053",
@@ -17596,12 +17624,12 @@
           "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
         },
         {
-          "id": "15393",
-          "name": "\u0394. \u039A\u0391\u03A1\u0395\u039B\u0399\u03A9\u03A4\u0397"
-        },
-        {
           "id": "1726",
           "name": "\u0394. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
+        },
+        {
+          "id": "15393",
+          "name": "\u0394. \u039A\u0391\u03A1\u0395\u039B\u0399\u03A9\u03A4\u0397"
         },
         {
           "id": "14395",
@@ -17632,16 +17660,16 @@
           "name": "\u0395. \u03A4\u03A3\u0399\u0391\u0393\u039A\u039B\u0399\u03A9\u03A4\u0397"
         },
         {
-          "id": "7419",
-          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+          "id": "3166",
+          "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "1249",
           "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
         },
         {
-          "id": "3166",
-          "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
+          "id": "7419",
+          "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "11732",
@@ -17676,16 +17704,20 @@
           "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
         },
         {
+          "id": "3508",
+          "name": "\u039A. \u03A7\u0391\u03A1\u0391\u03A4\u03A3\u0399\u0394\u0397\u03A3"
+        },
+        {
           "id": "9317",
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
         },
         {
-          "id": "5674",
-          "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
-        },
-        {
           "id": "6528",
           "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
+        },
+        {
+          "id": "5674",
+          "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
         },
         {
           "id": "12776",
@@ -17700,12 +17732,12 @@
           "name": "\u039C. \u039B\u039F\u03A5\u03A6\u03A4\u0391"
         },
         {
-          "id": "175",
-          "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
-        },
-        {
           "id": "1759",
           "name": "\u03A0. \u0394\u0391\u039C\u0399\u0391\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "175",
+          "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
         },
         {
           "id": "2621",
@@ -22861,10 +22893,6 @@
           "name": "\u039F. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "327",
-          "name": "\u03A0. \u03A4\u03A3\u0391\u039D\u03A4\u0391\u039D\u0397"
-        },
-        {
           "id": "1061",
           "name": "\u03A0. \u0391\u0392\u0395\u03A4\u0399\u0391\u039D"
         },
@@ -25097,10 +25125,6 @@
           "name": "\u0394. \u03A4\u03A3\u0399\u0391\u03A0\u03A1\u0391\u0396\u0397\u03A3"
         },
         {
-          "id": "10515",
-          "name": "\u0394. \u03A3\u0391\u039A\u0391\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "14372",
           "name": "\u0394. \u03A3\u0391\u039C\u0391\u03A1\u03A4\u0396\u0397\u03A3"
         },
@@ -26869,10 +26893,6 @@
           "name": "\u03A3. \u03A6\u0399\u03A4\u03A3\u0391"
         },
         {
-          "id": "5466",
-          "name": "\u03A3. \u039B\u0399\u03A3\u0393\u0391\u03A1\u0391"
-        },
-        {
           "id": "5960",
           "name": "\u03A3. \u03A8\u03A9\u039C\u0391"
         },
@@ -26927,10 +26947,6 @@
         {
           "id": "2480",
           "name": "\u03A3. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "10073",
-          "name": "\u03A3. \u03A4\u03A3\u0395\u0392\u0391"
         },
         {
           "id": "6170",
@@ -39125,10 +39141,6 @@
           "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
         },
         {
-          "id": "6010",
-          "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "4681",
           "name": "\u0399. \u03A0\u03A1\u039F\u03A6\u0397\u03A4\u0397\u03A3"
         },
@@ -42837,6 +42849,10 @@
           "name": "A. SALIH"
         },
         {
+          "id": "16002",
+          "name": "A. COLLINS"
+        },
+        {
           "id": "8706",
           "name": "A. PRODAN"
         },
@@ -42867,6 +42883,10 @@
         {
           "id": "8691",
           "name": "I. DE GUZMAN"
+        },
+        {
+          "id": "16003",
+          "name": "J. JAVIER"
         },
         {
           "id": "11911",
@@ -42917,12 +42937,12 @@
           "name": "\u0391. \u039C\u03A0\u039F\u039B\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
-          "id": "9036",
-          "name": "\u0391. \u03A3\u03A4\u03A1\u0395\u039C\u0399\u0395\u03A4\u03A3\u039D\u0399"
-        },
-        {
           "id": "8764",
           "name": "\u0391. \u039C\u03A0\u0395\u039A\u0399\u0391\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "9036",
+          "name": "\u0391. \u03A3\u03A4\u03A1\u0395\u039C\u0399\u0395\u03A4\u03A3\u039D\u0399"
         },
         {
           "id": "8746",
@@ -43017,12 +43037,12 @@
           "name": "\u0397. \u03A4\u03A3\u0391\u0393\u039A\u039F\u03A5\u03A1\u039D\u0391\u03A3"
         },
         {
-          "id": "8793",
-          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
-        },
-        {
           "id": "8768",
           "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "8793",
+          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
         },
         {
           "id": "8791",
@@ -43077,20 +43097,20 @@
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "14945",
-          "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
+          "id": "8754",
+          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         },
         {
-          "id": "8801",
-          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
+          "id": "14945",
+          "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "8780",
           "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "8754",
-          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
+          "id": "8801",
+          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         }
       ],
       "courses": []
@@ -43168,6 +43188,10 @@
         {
           "id": "15564",
           "name": "\u039D. \u0391\u039D\u03A4\u03A9\u039D\u0399\u039F\u03A5"
+        },
+        {
+          "id": "16004",
+          "name": "\u03A0. \u039A\u0391\u03A1\u039A\u0391\u0392\u0395\u039B\u0397"
         },
         {
           "id": "13848",
@@ -49311,6 +49335,10 @@
         {
           "id": "3892",
           "name": "\u0398. \u03A3\u0391\u039C\u0391\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "14518",
+          "name": "\u0398. \u03A0\u0391\u039D\u039F\u03A5\u03A3\u0397\u03A3"
         },
         {
           "id": "1171",
@@ -67226,10 +67254,6 @@
           "name": "\u0399. \u0398\u0395\u039F\u0394\u03A9\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "6010",
-          "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "4681",
           "name": "\u0399. \u03A0\u03A1\u039F\u03A6\u0397\u03A4\u0397\u03A3"
         },
@@ -70348,7 +70372,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "21/09/2026, 12:32:13",
+      "last_update_on": "02/10/2026, 09:51:16",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -70372,6 +70396,40 @@
       "custom_field_16": "GHT-TCLS (I)",
       "custom_field_17": "",
       "custom_field_18": "GHT-TCLS (Q)"
+    },
+    {
+      "id": "1869",
+      "name": "A3 Operational Competency Assessment",
+      "code": "GHT-A3OCA",
+      "category_id": "7",
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "02/10/2026, 18:26:06",
+      "last_update_on": "02/10/2026, 18:30:13",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Compliance",
+      "custom_field_4": "2",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "80%",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "1769",
@@ -84832,7 +84890,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/09/2026, 11:27:29",
-      "last_update_on": "30/09/2026, 08:36:49",
+      "last_update_on": "02/10/2026, 08:59:20",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -84848,14 +84906,14 @@
       "custom_field_2": "Airline",
       "custom_field_4": "1",
       "custom_field_5": "Emirates",
-      "custom_field_6": null,
-      "custom_field_7": null,
+      "custom_field_6": "",
+      "custom_field_7": "",
       "custom_field_9": "N/A",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "428",
