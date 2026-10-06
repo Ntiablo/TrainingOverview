@@ -3134,10 +3134,6 @@
           "name": "\u0391. \u039A\u0391\u03A6\u03A6\u0395\u03A4\u0396\u0391\u039A\u0397"
         },
         {
-          "id": "6209",
-          "name": "\u0391. \u039A\u0391\u03A1\u0391\u039B\u0397"
-        },
-        {
           "id": "3327",
           "name": "\u0391. \u03A7\u0391\u03A1\u0399\u03A4\u0391\u039A\u0397"
         },
@@ -3186,12 +3182,12 @@
           "name": "\u0393. \u03A3\u03A4\u0391\u03A5\u03A1\u0391\u039A\u0391\u039A\u0397"
         },
         {
-          "id": "3653",
-          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "10488",
           "name": "\u0393. \u039A\u03A1\u0399\u03A4\u03A3\u03A9\u03A4\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3653",
+          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "4923",
@@ -3206,14 +3202,6 @@
           "name": "\u0394. \u039C\u0391\u039A\u039A\u0391"
         },
         {
-          "id": "3284",
-          "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u039F\u03A5"
-        },
-        {
-          "id": "4754",
-          "name": "\u0395. \u03A0\u03A1\u039F\u0392\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "5576",
           "name": "\u0395. \u039A\u0391\u039D\u0394\u0397\u039B\u0391\u039A\u0397"
         },
@@ -3222,16 +3210,24 @@
           "name": "\u0395. \u039D\u039F\u03A5\u03A3\u0397"
         },
         {
+          "id": "3284",
+          "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u039F\u03A5"
+        },
+        {
+          "id": "4754",
+          "name": "\u0395. \u03A0\u03A1\u039F\u0392\u0399\u0394\u039F\u03A5"
+        },
+        {
           "id": "3304",
           "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "3283",
-          "name": "\u0395. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397"
-        },
-        {
           "id": "3646",
           "name": "\u0395. \u039C\u0391\u0393\u0399\u0391\u03A6\u0397"
+        },
+        {
+          "id": "3283",
+          "name": "\u0395. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397"
         },
         {
           "id": "3634",
@@ -3306,12 +3302,12 @@
           "name": "\u039A. \u039A\u0391\u03A1\u0394\u0391\u039A\u039F\u03A3"
         },
         {
-          "id": "3902",
-          "name": "\u039C. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
+          "id": "3688",
+          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
         },
         {
-          "id": "5518",
-          "name": "\u039C. \u03A0\u039F\u03A5\u039B\u0399\u039D\u0391\u039A\u0397"
+          "id": "3902",
+          "name": "\u039C. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "9286",
@@ -3330,8 +3326,8 @@
           "name": "\u039C. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397"
         },
         {
-          "id": "3688",
-          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
+          "id": "5518",
+          "name": "\u039C. \u03A0\u039F\u03A5\u039B\u0399\u039D\u0391\u039A\u0397"
         },
         {
           "id": "3661",
@@ -3346,12 +3342,12 @@
           "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u0391\u039A\u0397"
         },
         {
-          "id": "3635",
-          "name": "\u039C. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "3684",
           "name": "\u039C. \u039C\u0391\u039A\u03A1\u03A5\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "3635",
+          "name": "\u039C. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "9070",
@@ -3374,12 +3370,12 @@
           "name": "\u039C. \u03A3\u0391\u039A\u0391\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "5351",
-          "name": "\u039C. \u039C\u0391\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "3641",
           "name": "\u039C. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397"
+        },
+        {
+          "id": "5351",
+          "name": "\u039C. \u039C\u0391\u03A5\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "5439",
@@ -3438,12 +3434,12 @@
           "name": "\u03A3. \u03A7\u0391\u03A4\u0396\u0397\u03A0\u0391\u03A1\u0391\u03A3\u03A7\u039F\u03A5"
         },
         {
-          "id": "3655",
-          "name": "\u03A3. \u0399\u0391\u03A4\u03A1\u039F\u03A5"
-        },
-        {
           "id": "8821",
           "name": "\u03A3. \u039A\u0391\u039D\u03A4\u0399\u0394\u0391\u039A\u0397"
+        },
+        {
+          "id": "3655",
+          "name": "\u03A3. \u0399\u0391\u03A4\u03A1\u039F\u03A5"
         },
         {
           "id": "3696",
@@ -3937,10 +3933,6 @@
           "name": "\u0391. \u03A0\u0391\u03A0\u03A0\u0391"
         },
         {
-          "id": "12784",
-          "name": "\u0391. \u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A5"
-        },
-        {
           "id": "1797",
           "name": "\u0391. \u039D\u03A4\u039F\u039A\u039F"
         },
@@ -3963,10 +3955,6 @@
         {
           "id": "14365",
           "name": "\u0395. \u03A0\u0391\u03A0\u0391\u03A4\u03A3\u0399\u039C\u03A0\u0391"
-        },
-        {
-          "id": "14362",
-          "name": "\u0395. \u0391\u03A3\u0397\u039C\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "12783",
@@ -4092,10 +4080,6 @@
           "name": "\u0391. \u039A\u039B\u0391\u0394\u0397"
         },
         {
-          "id": "6209",
-          "name": "\u0391. \u039A\u0391\u03A1\u0391\u039B\u0397"
-        },
-        {
           "id": "3327",
           "name": "\u0391. \u03A7\u0391\u03A1\u0399\u03A4\u0391\u039A\u0397"
         },
@@ -4152,6 +4136,10 @@
           "name": "\u0393. \u03A3\u03A4\u0391\u03A5\u03A1\u0391\u039A\u0391\u039A\u0397"
         },
         {
+          "id": "3653",
+          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "11677",
           "name": "\u0393. \u039A\u03A1\u0399\u03A0\u0399\u039D\u03A4\u0399\u03A1\u0397\u03A3"
         },
@@ -4162,10 +4150,6 @@
         {
           "id": "10488",
           "name": "\u0393. \u039A\u03A1\u0399\u03A4\u03A3\u03A9\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3653",
-          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "5559",
@@ -4184,20 +4168,20 @@
           "name": "\u0394. \u039A\u0391\u039C\u03A0\u0391\u03A3\u03A4\u0391\u039D\u0391"
         },
         {
-          "id": "3284",
-          "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u039F\u03A5"
-        },
-        {
-          "id": "5576",
-          "name": "\u0395. \u039A\u0391\u039D\u0394\u0397\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "4754",
           "name": "\u0395. \u03A0\u03A1\u039F\u0392\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "3304",
           "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "3284",
+          "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u039F\u03A5"
+        },
+        {
+          "id": "5576",
+          "name": "\u0395. \u039A\u0391\u039D\u0394\u0397\u039B\u0391\u039A\u0397"
         },
         {
           "id": "3646",
@@ -4248,12 +4232,12 @@
           "name": "\u0399. \u03A0\u0395\u03A4\u03A4\u0391"
         },
         {
-          "id": "4477",
-          "name": "\u0399. \u039A\u0391\u039C\u03A0\u0399\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3108",
           "name": "\u0399. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039F\u03A3"
+        },
+        {
+          "id": "4477",
+          "name": "\u0399. \u039A\u0391\u039C\u03A0\u0399\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "12307",
@@ -4268,52 +4252,52 @@
           "name": "\u039A. \u03A4\u03A3\u0399\u03A1\u039F\u0394\u0397\u039C\u039F\u03A5"
         },
         {
-          "id": "3971",
-          "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u0391\u039A\u0397"
-        },
-        {
-          "id": "3688",
-          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
-        },
-        {
-          "id": "3902",
-          "name": "\u039C. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
+          "id": "4921",
+          "name": "\u039C. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
         },
         {
           "id": "4756",
           "name": "\u039C. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "3684",
-          "name": "\u039C. \u039C\u0391\u039A\u03A1\u03A5\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
-        },
-        {
           "id": "12227",
           "name": "\u039C. \u039A\u03A9\u03A4\u0397"
+        },
+        {
+          "id": "3971",
+          "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u0391\u039A\u0397"
         },
         {
           "id": "3661",
           "name": "\u039C. \u03A4\u03A1\u03A5\u03A0\u0391\u039A\u0397"
         },
         {
-          "id": "307",
-          "name": "\u039C. \u03A3\u03A0\u0391\u03A1\u03A4\u0391\u039B\u0397"
+          "id": "3684",
+          "name": "\u039C. \u039C\u0391\u039A\u03A1\u03A5\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
         },
         {
-          "id": "4921",
-          "name": "\u039C. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
+          "id": "3635",
+          "name": "\u039C. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "5518",
           "name": "\u039C. \u03A0\u039F\u03A5\u039B\u0399\u039D\u0391\u039A\u0397"
         },
         {
+          "id": "3902",
+          "name": "\u039C. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
+        },
+        {
           "id": "3213",
           "name": "\u039C. \u03A3\u03A0\u03A5\u03A1\u0391\u03A4\u039F\u03A5"
         },
         {
-          "id": "3635",
-          "name": "\u039C. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
+          "id": "3688",
+          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
+        },
+        {
+          "id": "307",
+          "name": "\u039C. \u03A3\u03A0\u0391\u03A1\u03A4\u0391\u039B\u0397"
         },
         {
           "id": "9070",
@@ -4400,12 +4384,12 @@
           "name": "\u03A3. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0395\u039B\u039F\u03A5"
         },
         {
-          "id": "8821",
-          "name": "\u03A3. \u039A\u0391\u039D\u03A4\u0399\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "3655",
           "name": "\u03A3. \u0399\u0391\u03A4\u03A1\u039F\u03A5"
+        },
+        {
+          "id": "8821",
+          "name": "\u03A3. \u039A\u0391\u039D\u03A4\u0399\u0394\u0391\u039A\u0397"
         },
         {
           "id": "3696",
@@ -5039,10 +5023,6 @@
         {
           "id": "3108",
           "name": "\u0399. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039F\u03A3"
-        },
-        {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "4477",
@@ -18473,12 +18453,24 @@
           "name": "CY/Live Animal Regulations for Cargo Handling Personnel - Initial (CY/GHC-LARC (I))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -18725,12 +18717,24 @@
           "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -18871,12 +18875,24 @@
           "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -19281,12 +19297,24 @@
           "name": "CY/Live Animal Regulations for Ramp Handling Personnel - WBT - Greek (CY/GHC-LARR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -19438,12 +19466,24 @@
           "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -19772,12 +19812,24 @@
           "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -19929,12 +19981,24 @@
           "name": "CY/Live Animal Regulations for Passenger Handling Personnel - WBT (CY/GHC-LARP (EN))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -20807,12 +20871,24 @@
           "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -21023,12 +21099,24 @@
       ],
       "courses": [
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -21082,12 +21170,24 @@
       ],
       "courses": [
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -21179,12 +21279,24 @@
       ],
       "courses": [
         {
+          "id": "1830",
+          "name": "CY/Mastering Effective Communication - BASIC LINGUISTICS - WBT - Greek (CY/GHC-MECO6 (GR))"
+        },
+        {
+          "id": "1829",
+          "name": "CY/Mastering Effective Communication - CHANGE MODEL - WBT - Greek (CY/GHC-MECO5 (GR))"
+        },
+        {
           "id": "1828",
           "name": "CY/Mastering Effective Communication - FEEDBACK - WBT - Greek (CY/GHC-MECO4 (GR))"
         },
         {
           "id": "1826",
           "name": "CY/Mastering Effective Communication - INTERNAL REPRESENTATIONS - WBT - Greek (CY/GHC-MECO2 (GR))"
+        },
+        {
+          "id": "1831",
+          "name": "CY/Mastering Effective Communication - PSYCHOLOGICAL GAMES - WBT - Greek (CY/GHC-MECO7 (GR))"
         },
         {
           "id": "1827",
@@ -24177,10 +24289,6 @@
           "name": "\u0391. \u039C\u0397\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "6209",
-          "name": "\u0391. \u039A\u0391\u03A1\u0391\u039B\u0397"
-        },
-        {
           "id": "7100",
           "name": "\u0391. \u03A3\u0399\u0391\u039C\u039B\u0399\u0394\u039F\u03A5"
         },
@@ -24347,10 +24455,6 @@
         {
           "id": "4579",
           "name": "\u0391. \u0394\u0391\u039B\u039B\u0391"
-        },
-        {
-          "id": "12784",
-          "name": "\u0391. \u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A5"
         },
         {
           "id": "8156",
@@ -25425,10 +25529,6 @@
           "name": "\u0395. \u039C\u039F\u03A5\u0396\u0397"
         },
         {
-          "id": "14362",
-          "name": "\u0395. \u0391\u03A3\u0397\u039C\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "14365",
           "name": "\u0395. \u03A0\u0391\u03A0\u0391\u03A4\u03A3\u0399\u039C\u03A0\u0391"
         },
@@ -25703,10 +25803,6 @@
         {
           "id": "3108",
           "name": "\u0399. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039F\u03A3"
-        },
-        {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "4443",
@@ -28018,10 +28114,6 @@
         {
           "id": "1235",
           "name": "\u0399. \u039A\u0395\u03A6\u0391\u039B\u0391"
-        },
-        {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "211",
@@ -44580,10 +44672,6 @@
           "name": "\u0399. \u039C\u0391\u03A1\u0399\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
-        },
-        {
           "id": "3420",
           "name": "\u039A. \u039A\u0391\u03A1\u0391\u039C\u03A0\u039F\u03A5\u03A1\u039D\u0399\u03A9\u03A4\u0397"
         },
@@ -46287,12 +46375,12 @@
           "name": "\u0391. \u03A3\u0399\u03A9\u039A\u0391\u03A4\u0391"
         },
         {
-          "id": "279",
-          "name": "\u0391. \u03A0\u0395\u03A3\u039C\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
           "id": "3031",
           "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u039A\u0391\u039B\u039F\u03A5"
+        },
+        {
+          "id": "279",
+          "name": "\u0391. \u03A0\u0395\u03A3\u039C\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "3352",
@@ -46323,12 +46411,12 @@
           "name": "\u0392. \u03A3\u03A4\u0391\u039C\u0395\u039B\u039F\u03A5"
         },
         {
-          "id": "4825",
-          "name": "\u0392. \u0396\u039F\u03A5\u039B\u0397"
-        },
-        {
           "id": "4842",
           "name": "\u0392. \u03A3\u039A\u0391\u039D\u0394\u0391\u039B\u0397"
+        },
+        {
+          "id": "4825",
+          "name": "\u0392. \u0396\u039F\u03A5\u039B\u0397"
         },
         {
           "id": "273",
@@ -46355,16 +46443,16 @@
           "name": "\u0395. \u039B\u0391\u039B\u0399\u03A9\u03A4\u0397"
         },
         {
+          "id": "3068",
+          "name": "\u0395. \u03A4\u0391\u039C\u0392\u0391\u039A\u039F\u039B\u039F\u0393\u039F\u03A5"
+        },
+        {
           "id": "3472",
           "name": "\u0395. \u0393\u0399\u039F\u03A6\u039A\u039F\u03A5"
         },
         {
           "id": "288",
           "name": "\u0395. \u03A1\u0391\u0393\u039A\u039F\u03A5\u03A3\u0397"
-        },
-        {
-          "id": "3068",
-          "name": "\u0395. \u03A4\u0391\u039C\u0392\u0391\u039A\u039F\u039B\u039F\u0393\u039F\u03A5"
         },
         {
           "id": "3152",
@@ -46395,10 +46483,6 @@
           "name": "\u0398. \u039A\u039F\u03A5\u03A3\u03A4\u039F\u03A5\u039C\u03A0\u0391\u03A1\u0394\u0397"
         },
         {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
-        },
-        {
           "id": "271",
           "name": "\u039C. \u03A0\u0391\u03A0\u0391\u03A3\u0395\u0392\u0391\u03A3\u03A4\u039F\u03A5"
         },
@@ -46407,8 +46491,8 @@
           "name": "\u039C. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "112",
-          "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
+          "id": "3072",
+          "name": "\u039C. \u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "124",
@@ -46427,20 +46511,20 @@
           "name": "\u039C. \u039A\u0391\u03A1\u03A5\u0394\u0397"
         },
         {
-          "id": "3072",
-          "name": "\u039C. \u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A5"
+          "id": "112",
+          "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
         },
         {
           "id": "3660",
           "name": "\u039C. \u039B\u0391\u03A1\u0395\u039D\u03A4\u0396\u0391\u039A\u0397"
         },
         {
-          "id": "3438",
-          "name": "\u039C. \u0391\u03A1\u0391\u03A0\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "199",
           "name": "\u039C. \u039A\u039F\u039D\u03A4\u039F\u039B\u0395\u03A9\u039D"
+        },
+        {
+          "id": "3438",
+          "name": "\u039C. \u0391\u03A1\u0391\u03A0\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "292",
@@ -56700,10 +56784,6 @@
           "name": "\u0399. \u039A\u0391\u03A1\u0391\u03A3\u0391\u0392\u0392\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "240",
-          "name": "\u0399. \u039C\u039F\u03A1\u0399\u0391\u039D\u039F\u03A3"
-        },
-        {
           "id": "3364",
           "name": "\u0399. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u0391\u0394\u0397\u03A3"
         },
@@ -61091,6 +61171,10 @@
         {
           "id": "3079",
           "name": "\u0391. \u0394\u03A1\u039F\u03A3\u039F\u03A3"
+        },
+        {
+          "id": "15153",
+          "name": "\u0391. \u03A0\u0399\u03A4\u03A3\u0399\u039A\u0391\u039B\u0397"
         },
         {
           "id": "3306",
@@ -91512,6 +91596,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1870",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "05/10/2026, 09:52:38",
+      "last_update_on": "05/10/2026, 09:52:38",
+      "creator_id": "840",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1775",
       "name": "Occurrence Reporting-Ground Operations, Customer Service",
       "code": "AIR-AY/ORO",
@@ -92166,7 +92284,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "07/07/2026, 10:55:22",
+      "last_update_on": "05/10/2026, 15:30:01",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
