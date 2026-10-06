@@ -4385,3 +4385,7 @@ angelikivavouli	Logout	2026-10-05 15:53:42							04:03:53
 smarapap	Login Attempt	2026-10-05 14:38:34								
 smarapap	Login Successful	2026-10-05 14:38:46								
 smarapap	Logout	2026-10-05 15:59:50							01:21:04	
+zachos	Login Attempt	2026-10-06 13:11:38								
+zachos	Login Failed	2026-10-06 13:11:53								Username not found
+zachos	Login Attempt	2026-10-06 13:11:56								
+zachos	Login Failed	2026-10-06 13:12:10								Username not found
