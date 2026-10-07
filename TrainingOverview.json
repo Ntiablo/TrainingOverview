@@ -1262,16 +1262,16 @@
           "name": "V. WAU BERKO"
         },
         {
+          "id": "225",
+          "name": "\u0391. \u039C\u0391\u039B\u0395\u0392\u0399\u03A4\u0397"
+        },
+        {
           "id": "2638",
           "name": "\u0391. \u039A\u0391\u03A1\u0391\u0393\u0399\u0391\u039D\u039D\u0397"
         },
         {
           "id": "10535",
           "name": "\u0391. \u039C\u0395\u039D\u03A4\u0396\u0399\u039A\u0391"
-        },
-        {
-          "id": "225",
-          "name": "\u0391. \u039C\u0391\u039B\u0395\u0392\u0399\u03A4\u0397"
         },
         {
           "id": "1588",
@@ -1310,20 +1310,16 @@
           "name": "\u0392. \u039C\u0391\u03A3\u03A4\u039F\u03A1\u0397"
         },
         {
-          "id": "14396",
-          "name": "\u0393. \u039B\u0395\u03A9\u039D\u0399\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "1849",
           "name": "\u0393. \u03A4\u03A3\u0391\u039C\u0391\u039B\u0397"
         },
         {
-          "id": "6542",
-          "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
+          "id": "14396",
+          "name": "\u0393. \u039B\u0395\u03A9\u039D\u0399\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "13826",
-          "name": "\u0393. \u03A0\u0391\u03A3\u03A0\u0391\u03A1\u0391\u039A\u0397\u03A3"
+          "id": "6542",
+          "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
         },
         {
           "id": "15393",
@@ -1346,16 +1342,16 @@
           "name": "\u0395. \u039C\u0399\u03A7\u0391\u0397\u039B\u0399\u0394\u0397"
         },
         {
-          "id": "2431",
-          "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
-        },
-        {
           "id": "142",
           "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
         },
         {
           "id": "1766",
           "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "2431",
+          "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
           "id": "2434",
@@ -1398,12 +1394,12 @@
           "name": "\u039A. \u039B\u0399\u03A9\u039D\u0397"
         },
         {
-          "id": "319",
-          "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
-        },
-        {
           "id": "6081",
           "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
+        },
+        {
+          "id": "319",
+          "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
         },
         {
           "id": "3508",
@@ -1414,12 +1410,12 @@
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
         },
         {
-          "id": "15542",
-          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "5674",
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
+        },
+        {
+          "id": "15542",
+          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "6528",
@@ -1438,12 +1434,12 @@
           "name": "\u039C. \u039B\u039F\u03A5\u03A6\u03A4\u0391"
         },
         {
-          "id": "1759",
-          "name": "\u03A0. \u0394\u0391\u039C\u0399\u0391\u039D\u0391\u039A\u0397"
-        },
-        {
           "id": "175",
           "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
+        },
+        {
+          "id": "1759",
+          "name": "\u03A0. \u0394\u0391\u039C\u0399\u0391\u039D\u0391\u039A\u0397"
         },
         {
           "id": "2621",
@@ -9130,10 +9126,6 @@
           "name": "L. ALIJAJ"
         },
         {
-          "id": "14701",
-          "name": "M. FARID"
-        },
-        {
           "id": "10570",
           "name": "S. MAAN"
         },
@@ -9572,10 +9564,6 @@
         {
           "id": "1440",
           "name": "\u039C. \u039B\u0391\u039C\u03A0\u03A1\u0399\u039D\u039F\u03A3"
-        },
-        {
-          "id": "14315",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u039F\u03A5\u039B\u0397\u03A3"
         },
         {
           "id": "1240",
@@ -10619,6 +10607,10 @@
       "max_redemptions": null,
       "redemptions_sofar": null,
       "users": [
+        {
+          "id": "4529",
+          "name": "A. Mitov"
+        },
         {
           "id": "360",
           "name": "S. CHATZIKOS"
@@ -13566,8 +13558,36 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "4531",
+          "name": "A. Daskova-Villarreal"
+        },
+        {
+          "id": "4543",
+          "name": "D. Trifonov"
+        },
+        {
+          "id": "12062",
+          "name": "H. Troshanova"
+        },
+        {
+          "id": "5899",
+          "name": "L. Petrova"
+        },
+        {
+          "id": "4553",
+          "name": "N. Bratanova"
+        },
+        {
+          "id": "12597",
+          "name": "N. Kochovska"
+        },
+        {
           "id": "4555",
           "name": "S. Stanoeva"
+        },
+        {
+          "id": "4535",
+          "name": "V. Stoeva"
         },
         {
           "id": "4534",
@@ -13674,7 +13694,12 @@
       "belongs_to_branch": "2",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [],
+      "users": [
+        {
+          "id": "4533",
+          "name": "V. Kostadinov"
+        }
+      ],
       "courses": [
         {
           "id": "878",
@@ -14028,20 +14053,8 @@
           "name": "G. Dimitrov"
         },
         {
-          "id": "5241",
-          "name": "H. Ivanov"
-        },
-        {
           "id": "4546",
           "name": "K. Chobanov"
-        },
-        {
-          "id": "5126",
-          "name": "L. Hristozov"
-        },
-        {
-          "id": "5163",
-          "name": "N. Shterev"
         },
         {
           "id": "4554",
@@ -17548,12 +17561,12 @@
           "name": "\u0391. \u039C\u0391\u039B\u0395\u0392\u0399\u03A4\u0397"
         },
         {
-          "id": "10535",
-          "name": "\u0391. \u039C\u0395\u039D\u03A4\u0396\u0399\u039A\u0391"
-        },
-        {
           "id": "2638",
           "name": "\u0391. \u039A\u0391\u03A1\u0391\u0393\u0399\u0391\u039D\u039D\u0397"
+        },
+        {
+          "id": "10535",
+          "name": "\u0391. \u039C\u0395\u039D\u03A4\u0396\u0399\u039A\u0391"
         },
         {
           "id": "1588",
@@ -17572,12 +17585,12 @@
           "name": "\u0391. \u03A4\u039F\u0393\u0399\u0391"
         },
         {
-          "id": "3477",
-          "name": "\u0391. \u039C\u03A0\u0391\u039B\u0399\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "9318",
           "name": "\u0391. \u039A\u039F\u03A5\u0393\u0399\u039F\u03A5"
+        },
+        {
+          "id": "3477",
+          "name": "\u0391. \u039C\u03A0\u0391\u039B\u0399\u0394\u0391\u039A\u0397"
         },
         {
           "id": "2698",
@@ -17588,16 +17601,12 @@
           "name": "\u0392. \u039C\u0391\u03A3\u03A4\u039F\u03A1\u0397"
         },
         {
-          "id": "14396",
-          "name": "\u0393. \u039B\u0395\u03A9\u039D\u0399\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "1849",
           "name": "\u0393. \u03A4\u03A3\u0391\u039C\u0391\u039B\u0397"
         },
         {
-          "id": "13826",
-          "name": "\u0393. \u03A0\u0391\u03A3\u03A0\u0391\u03A1\u0391\u039A\u0397\u03A3"
+          "id": "14396",
+          "name": "\u0393. \u039B\u0395\u03A9\u039D\u0399\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "6542",
@@ -17628,12 +17637,12 @@
           "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
-          "id": "1766",
-          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "142",
           "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
+        },
+        {
+          "id": "1766",
+          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "2434",
@@ -17644,12 +17653,12 @@
           "name": "\u0395. \u03A0\u0395\u03A1\u0391\u039A\u0397"
         },
         {
-          "id": "1249",
-          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
-        },
-        {
           "id": "7419",
           "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "1249",
+          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
         },
         {
           "id": "11732",
@@ -17692,12 +17701,12 @@
           "name": "\u039B. \u039A\u039F\u039D\u03A4\u03A1\u0391\u03AA"
         },
         {
-          "id": "6528",
-          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "5674",
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
+        },
+        {
+          "id": "6528",
+          "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "12776",
@@ -30909,10 +30918,6 @@
           "name": "\u0396. \u0391\u039D\u0391\u03A3\u03A4\u0391\u03A3\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "12237",
-          "name": "\u0396. \u0395\u039C\u039C\u0391\u039D\u039F\u03A5\u0397\u039B"
-        },
-        {
           "id": "6751",
           "name": "\u0396. \u03A3\u03A4\u0391\u0398\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -35382,10 +35387,6 @@
           "name": "\u039B. \u039C\u0391\u0393\u039A\u0391\u039D\u0391\u03A1\u0397\u03A3"
         },
         {
-          "id": "13944",
-          "name": "\u039B. \u039C\u03A0\u039F\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "1347",
           "name": "\u039C. \u039A\u039F\u03A5\u0396\u039F\u03A5\u0392\u039F\u03A5\u039D\u0391"
         },
@@ -39357,6 +39358,10 @@
           "name": "\u039A. \u03A4\u03A3\u0395\u039B\u0395\u03A0\u0399\u0394\u0397\u03A3"
         },
         {
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
+        },
+        {
           "id": "1117",
           "name": "\u039B. \u039C\u03A0\u0391\u039A\u0391\u03A1\u0397\u03A3"
         },
@@ -40732,10 +40737,6 @@
           "name": "A. MILUTINOVIC"
         },
         {
-          "id": "15896",
-          "name": "A. LATAS"
-        },
-        {
           "id": "770",
           "name": "A. MISIC"
         },
@@ -40746,10 +40747,6 @@
         {
           "id": "772",
           "name": "A. MILIC"
-        },
-        {
-          "id": "8392",
-          "name": "A. SAVATOVIC"
         },
         {
           "id": "3883",
@@ -40784,12 +40781,12 @@
           "name": "J. VJESTICA"
         },
         {
-          "id": "10463",
-          "name": "J. GAVRILOVI\u0106"
-        },
-        {
           "id": "8391",
           "name": "J. PEROVIC"
+        },
+        {
+          "id": "10463",
+          "name": "J. GAVRILOVI\u0106"
         },
         {
           "id": "8606",
@@ -40800,12 +40797,16 @@
           "name": "L. ZORIC"
         },
         {
+          "id": "15894",
+          "name": "M. MARINKOVIC"
+        },
+        {
           "id": "8593",
           "name": "M. RUNJAJIC"
         },
         {
-          "id": "15894",
-          "name": "M. MARINKOVIC"
+          "id": "16006",
+          "name": "M. LUKIC-STOJANOVIC"
         },
         {
           "id": "8364",
@@ -40820,24 +40821,24 @@
           "name": "N. RUSTEMPASIC"
         },
         {
-          "id": "15895",
-          "name": "N. VASILJEVIC"
-        },
-        {
-          "id": "8643",
-          "name": "N. MITROVIC"
-        },
-        {
-          "id": "15908",
-          "name": "N. DJURDJEVIC"
-        },
-        {
           "id": "8608",
           "name": "N. VELJKOVIC"
         },
         {
           "id": "8592",
           "name": "N. RADOJA"
+        },
+        {
+          "id": "8643",
+          "name": "N. MITROVIC"
+        },
+        {
+          "id": "15895",
+          "name": "N. VASILJEVIC"
+        },
+        {
+          "id": "15908",
+          "name": "N. DJURDJEVIC"
         },
         {
           "id": "8645",
@@ -40862,10 +40863,6 @@
         {
           "id": "9259",
           "name": "T. RADOVIC"
-        },
-        {
-          "id": "14454",
-          "name": "T. PEROSEVIC"
         },
         {
           "id": "8368",
@@ -41014,16 +41011,16 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "15899",
-          "name": "A. KOSTIC"
+          "id": "8349",
+          "name": "A. MURDOK MAKINTOS"
         },
         {
           "id": "3934",
           "name": "A. RADOSAVLJEVIC"
         },
         {
-          "id": "8349",
-          "name": "A. MURDOK MAKINTOS"
+          "id": "15899",
+          "name": "A. KOSTIC"
         },
         {
           "id": "9258",
@@ -41034,12 +41031,12 @@
           "name": "A. GRIGORIJEV"
         },
         {
-          "id": "15902",
-          "name": "B. VELICKOVIC"
-        },
-        {
           "id": "8520",
           "name": "B. ZENICANIN"
+        },
+        {
+          "id": "15902",
+          "name": "B. VELICKOVIC"
         },
         {
           "id": "10503",
@@ -41052,10 +41049,6 @@
         {
           "id": "8644",
           "name": "D. PETKOVIC"
-        },
-        {
-          "id": "8650",
-          "name": "D. NIKOLIC"
         },
         {
           "id": "4786",
@@ -41074,12 +41067,12 @@
           "name": "L. STOJKOVIC"
         },
         {
-          "id": "15897",
-          "name": "L. DERONJIC"
-        },
-        {
           "id": "15102",
           "name": "L. PRIBISIC"
+        },
+        {
+          "id": "15897",
+          "name": "L. DERONJIC"
         },
         {
           "id": "11172",
@@ -41106,12 +41099,12 @@
           "name": "M. SOSKIC"
         },
         {
-          "id": "10504",
-          "name": "M. KREIC"
-        },
-        {
           "id": "15898",
           "name": "M. BLAGOJEVIC"
+        },
+        {
+          "id": "10504",
+          "name": "M. KREIC"
         },
         {
           "id": "15903",
@@ -41132,10 +41125,6 @@
         {
           "id": "11171",
           "name": "S. VUCIC"
-        },
-        {
-          "id": "8646",
-          "name": "U. DIMITRIJEVIC"
         },
         {
           "id": "8815",
@@ -43738,24 +43727,6 @@
         {
           "id": "626",
           "name": "\u0392\u03B1\u03C3\u03B9\u03BA\u03AD\u03C2 \u0391\u03C1\u03C7\u03AD\u03C2 \u0391\u03C3\u03C6\u03AC\u03BB\u03B5\u03B9\u03B1\u03C2 \u03C3\u03C4\u03BF \u0394\u03B9\u03B1\u03B4\u03AF\u03BA\u03C4\u03C5\u03BF (GHT-CYBR (GR))"
-        }
-      ]
-    },
-    {
-      "id": "387",
-      "name": "TEST JOA",
-      "description": "TEST PRM",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "12599",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [],
-      "courses": [
-        {
-          "id": "908",
-          "name": "BG/Passenger Assistance and PRM {EN} (BG/GHB-DISA (EN))"
         }
       ]
     },
@@ -49913,10 +49884,6 @@
           "name": "\u039B. \u0393\u0391\u039B\u0395\u0399\u03A6\u039F\u03A3"
         },
         {
-          "id": "13944",
-          "name": "\u039B. \u039C\u03A0\u039F\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "1203",
           "name": "\u039C. \u0392\u0391\u03A1\u0392\u0391\u03A1\u03A1\u0397\u0393\u039F\u03A5"
         },
@@ -53116,6 +53083,10 @@
         {
           "id": "3471",
           "name": "\u039A. \u03A6\u0391\u039D\u03A4\u0391\u0393\u039C\u0391\u03A3"
+        },
+        {
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
         },
         {
           "id": "3483",
@@ -57070,6 +57041,10 @@
         {
           "id": "491",
           "name": "\u039A. \u039C\u03A0\u0391\u03A1\u039B\u0391\u03A3"
+        },
+        {
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
         },
         {
           "id": "258",
@@ -67458,6 +67433,10 @@
           "name": "\u039A. \u03A4\u03A3\u0395\u039B\u0395\u03A0\u0399\u0394\u0397\u03A3"
         },
         {
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
+        },
+        {
           "id": "1117",
           "name": "\u039B. \u039C\u03A0\u0391\u039A\u0391\u03A1\u0397\u03A3"
         },
@@ -73550,7 +73529,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "26/11/2025, 12:53:40",
-      "last_update_on": "16/06/2026, 09:44:35",
+      "last_update_on": "06/10/2026, 12:32:09",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73564,16 +73543,16 @@
       "certification": "EXTERNAL CERTIFICATE",
       "certification_duration": "2 years",
       "custom_field_2": "Critical",
-      "custom_field_4": null,
+      "custom_field_4": "8",
       "custom_field_5": "External",
       "custom_field_6": "Training program complies with the requirement of IATA AHM 1110 Modules: RMP03",
       "custom_field_7": "Refresher Training must be provided within 24 months",
       "custom_field_9": "N/A",
       "custom_field_10": "ILT",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "1304",
@@ -73584,7 +73563,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "26/11/2025, 12:46:44",
-      "last_update_on": "16/06/2026, 09:44:15",
+      "last_update_on": "06/10/2026, 13:03:22",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73598,16 +73577,16 @@
       "certification": "EXTERNAL CERTIFICATE",
       "certification_duration": "2 years",
       "custom_field_2": "Critical",
-      "custom_field_4": null,
+      "custom_field_4": "8",
       "custom_field_5": "External",
       "custom_field_6": "Training program complies with the requirement of IATA AHM 1110 Modules: RMP03",
       "custom_field_7": "Refresher Training must be provided within 24 months",
       "custom_field_9": "N/A",
       "custom_field_10": "ILT",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "1309",
@@ -73618,7 +73597,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "26/11/2025, 12:55:16",
-      "last_update_on": "16/06/2026, 09:43:51",
+      "last_update_on": "06/10/2026, 12:30:31",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73632,16 +73611,16 @@
       "certification": "EXTERNAL CERTIFICATE",
       "certification_duration": "2 years",
       "custom_field_2": "Critical",
-      "custom_field_4": null,
+      "custom_field_4": "8",
       "custom_field_5": "External",
       "custom_field_6": "Training program complies with the requirement of IATA AHM 1110 Modules: RMP03",
       "custom_field_7": "Refresher Training must be provided within 24 months",
       "custom_field_9": "N/A",
       "custom_field_10": "ILT",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "1273",
@@ -91528,40 +91507,6 @@
       "custom_field_18": null
     },
     {
-      "id": "1844",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "09/09/2026, 13:04:27",
-      "last_update_on": "09/09/2026, 13:04:27",
-      "creator_id": "3972",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "1868",
       "name": "New course",
       "code": "",
@@ -91766,6 +91711,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1872",
+      "name": "Onboarding Journey Questionnaire 1st Month",
+      "code": "CY/ONBO-SURVEY1",
+      "category_id": "39",
+      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "06/10/2026, 09:00:47",
+      "last_update_on": "06/10/2026, 09:18:49",
+      "creator_id": "3972",
+      "hide_from_catalog": "1",
+      "time_limit": "20",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267529_Screenshot_2026-10-06_091820.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267530_Screenshot_2026-10-06_091820.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_4": "0",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "714",
       "name": "Onboarding Journey Questionnaire 1st Month",
       "code": "ONBO-SURVEY1",
@@ -91832,6 +91811,40 @@
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
+    },
+    {
+      "id": "1873",
+      "name": "Onboarding Journey Questionnaire 2nd Month",
+      "code": "CY/ONBO-SURVEY2",
+      "category_id": "39",
+      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "06/10/2026, 09:11:53",
+      "last_update_on": "06/10/2026, 09:27:29",
+      "creator_id": "3972",
+      "hide_from_catalog": "1",
+      "time_limit": "20",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267934_Screenshot_2026-10-06_092437.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267935_Screenshot_2026-10-06_092437.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_4": "",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "759",
@@ -97860,7 +97873,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/10/2025, 12:18:24",
-      "last_update_on": "21/09/2026, 13:15:12",
+      "last_update_on": "06/10/2026, 09:47:31",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
