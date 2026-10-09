@@ -3635,10 +3635,6 @@
           "name": "EK - Communicable Disease Management Programme Training for GSP Staff (AIR-EK/CDM)"
         },
         {
-          "id": "1863",
-          "name": "EK - Fit to Fly - Emirates Airport Services (AIR-EK/FTF)"
-        },
-        {
           "id": "433",
           "name": "EK - Service Standards and System (AIR-EK/SSS)"
         },
@@ -4443,20 +4439,12 @@
           "name": "E. LINKUTE"
         },
         {
-          "id": "2691",
-          "name": "M. MIKIASHVILI"
-        },
-        {
           "id": "1815",
           "name": "\u0391. \u0393\u0399\u0391\u039D\u039D\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "4874",
           "name": "\u0391. \u03A0\u03A1\u0391\u03A0\u0391"
-        },
-        {
-          "id": "10520",
-          "name": "\u0391. \u039B\u0391\u039C\u03A0\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "6644",
@@ -5832,10 +5820,6 @@
         {
           "id": "1866",
           "name": "EK - Communicable Disease Management Programme Training for GSP Staff (AIR-EK/CDM)"
-        },
-        {
-          "id": "1863",
-          "name": "EK - Fit to Fly - Emirates Airport Services (AIR-EK/FTF)"
         },
         {
           "id": "427",
@@ -12915,10 +12899,6 @@
           "name": "V. Peev"
         },
         {
-          "id": "15873",
-          "name": "V. Topuzanski"
-        },
-        {
           "id": "5020",
           "name": "V. Angelov"
         },
@@ -13236,10 +13216,6 @@
         {
           "id": "1316",
           "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        },
-        {
-          "id": "1671",
-          "name": "BG/Wizz Air Back of House Training - Initial (BG/AIR-W6/BOH (I))"
         }
       ]
     },
@@ -23016,10 +22992,6 @@
           "name": "\u0395. \u0392\u03A1\u0395\u039D\u03A4\u0396\u039F\u03A5"
         },
         {
-          "id": "332",
-          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u0392\u039F\u03A5"
-        },
-        {
           "id": "3443",
           "name": "\u039C. \u0394\u039F\u03A5\u039A\u0391"
         },
@@ -24338,10 +24310,6 @@
         {
           "id": "6644",
           "name": "\u0391. \u039A\u039F\u03A5\u03A4\u03A1\u039F\u03A5\u039B\u0397"
-        },
-        {
-          "id": "10520",
-          "name": "\u0391. \u039B\u0391\u039C\u03A0\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "12283",
@@ -42972,6 +42940,10 @@
           "name": "J. JAVIER"
         },
         {
+          "id": "16013",
+          "name": "J. KLEDIAN"
+        },
+        {
           "id": "11911",
           "name": "K. SULABERIDZE"
         },
@@ -43020,12 +42992,12 @@
           "name": "\u0391. \u039C\u03A0\u039F\u039B\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
-          "id": "8764",
-          "name": "\u0391. \u039C\u03A0\u0395\u039A\u0399\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "9036",
           "name": "\u0391. \u03A3\u03A4\u03A1\u0395\u039C\u0399\u0395\u03A4\u03A3\u039D\u0399"
+        },
+        {
+          "id": "8764",
+          "name": "\u0391. \u039C\u03A0\u0395\u039A\u0399\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "8746",
@@ -43072,24 +43044,24 @@
           "name": "\u0393. \u03A7\u0391\u03A4\u0396\u0397\u03A0\u0391\u03A1\u0391\u03A3\u039A\u0395\u03A5\u0391"
         },
         {
-          "id": "1992",
-          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "13277",
           "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
         },
         {
-          "id": "4522",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
+          "id": "1992",
+          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "8758",
+          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
         },
         {
           "id": "8803",
           "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
         },
         {
-          "id": "8758",
-          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
+          "id": "4522",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
         },
         {
           "id": "15675",
@@ -43120,12 +43092,12 @@
           "name": "\u0397. \u03A4\u03A3\u0391\u0393\u039A\u039F\u03A5\u03A1\u039D\u0391\u03A3"
         },
         {
-          "id": "8768",
-          "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "8793",
           "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
+        },
+        {
+          "id": "8768",
+          "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "8791",
@@ -43136,16 +43108,20 @@
           "name": "\u039A. \u039E\u0395\u039D\u0399\u039A\u0391\u039A\u0397"
         },
         {
-          "id": "15909",
-          "name": "\u039A. \u039A\u0391\u03A8\u0397\u03A3"
-        },
-        {
           "id": "10476",
           "name": "\u039A. \u0392\u0391\u03A1\u039F\u03A5\u03A4\u0397\u03A3"
         },
         {
+          "id": "15909",
+          "name": "\u039A. \u039A\u0391\u03A8\u0397\u03A3"
+        },
+        {
           "id": "8762",
           "name": "\u039C. \u039C\u0397\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "16012",
+          "name": "\u039C. \u0391\u039F\u03A5\u03A1\u0395\u039B"
         },
         {
           "id": "8779",
@@ -43180,16 +43156,16 @@
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "8754",
-          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
-        },
-        {
           "id": "14945",
           "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "8780",
           "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "8754",
+          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         },
         {
           "id": "8801",
@@ -71019,7 +70995,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "23/09/2026, 15:07:10",
-      "last_update_on": "25/09/2026, 10:14:57",
+      "last_update_on": "08/10/2026, 12:04:42",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -84951,40 +84927,6 @@
       "custom_field_18": ""
     },
     {
-      "id": "1863",
-      "name": "EK - Fit to Fly - Emirates Airport Services",
-      "code": "AIR-EK/FTF",
-      "category_id": "7",
-      "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003Cbr /\u003ETraining provided by the airline.",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "28/09/2026, 11:27:29",
-      "last_update_on": "02/10/2026, 08:59:20",
-      "creator_id": "3",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720436680_1_HYl4l3lhJ0d_FfP1p0oM_g.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720436681_1_HYl4l3lhJ0d_FfP1p0oM_g.png",
-      "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "3 years",
-      "custom_field_2": "Airline",
-      "custom_field_4": "1",
-      "custom_field_5": "Emirates",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "N/A",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
       "id": "428",
       "name": "EK - Illegal Wildlife Trading",
       "code": "AIR-EK/IWT",
@@ -91105,40 +91047,6 @@
       "custom_field_18": null
     },
     {
-      "id": "1809",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "14/07/2026, 12:34:08",
-      "last_update_on": "14/07/2026, 12:34:08",
-      "creator_id": "12599",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "1817",
       "name": "New course",
       "code": "",
@@ -91353,40 +91261,6 @@
       "creation_date": "29/09/2026, 16:29:49",
       "last_update_on": "29/09/2026, 16:29:49",
       "creator_id": "4042",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1870",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "05/10/2026, 09:52:38",
-      "last_update_on": "05/10/2026, 09:52:38",
-      "creator_id": "840",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -96951,40 +96825,6 @@
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
-    },
-    {
-      "id": "1800",
-      "name": "TEST JOA/ Dangerus Good Relgulation for Instructor Initial",
-      "code": "BG/ETO-DRGTTT",
-      "category_id": "33",
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "06/07/2026, 12:24:47",
-      "last_update_on": "09/07/2026, 13:04:22",
-      "creator_id": "12599",
-      "hide_from_catalog": "0",
-      "time_limit": "30",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "2 years",
-      "custom_field_2": "Compliance",
-      "custom_field_4": "",
-      "custom_field_5": "IATA ICAO ",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "N/A",
-      "custom_field_10": "ILT",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
     },
     {
       "id": "616",
