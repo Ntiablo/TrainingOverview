@@ -1290,12 +1290,12 @@
           "name": "\u0391. \u03A4\u039F\u0393\u0399\u0391"
         },
         {
-          "id": "3477",
-          "name": "\u0391. \u039C\u03A0\u0391\u039B\u0399\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "9318",
           "name": "\u0391. \u039A\u039F\u03A5\u0393\u0399\u039F\u03A5"
+        },
+        {
+          "id": "3477",
+          "name": "\u0391. \u039C\u03A0\u0391\u039B\u0399\u0394\u0391\u039A\u0397"
         },
         {
           "id": "2698",
@@ -1306,12 +1306,12 @@
           "name": "\u0392. \u039C\u0391\u03A3\u03A4\u039F\u03A1\u0397"
         },
         {
-          "id": "1849",
-          "name": "\u0393. \u03A4\u03A3\u0391\u039C\u0391\u039B\u0397"
-        },
-        {
           "id": "14396",
           "name": "\u0393. \u039B\u0395\u03A9\u039D\u0399\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "1849",
+          "name": "\u0393. \u03A4\u03A3\u0391\u039C\u0391\u039B\u0397"
         },
         {
           "id": "6542",
@@ -1342,20 +1342,16 @@
           "name": "\u0395. \u0393\u0399\u03A9\u0393\u039F\u03A5"
         },
         {
-          "id": "1766",
-          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "2431",
           "name": "\u0395. \u039A\u039F\u03A7\u03A5\u039B\u0397"
         },
         {
-          "id": "2434",
-          "name": "\u0395. \u03A4\u03A3\u0399\u0391\u0393\u039A\u039B\u0399\u03A9\u03A4\u0397"
+          "id": "1766",
+          "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "1249",
-          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
+          "id": "2434",
+          "name": "\u0395. \u03A4\u03A3\u0399\u0391\u0393\u039A\u039B\u0399\u03A9\u03A4\u0397"
         },
         {
           "id": "3166",
@@ -1364,6 +1360,10 @@
         {
           "id": "7419",
           "name": "\u0395. \u03A3\u03A4\u0391\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "1249",
+          "name": "\u0395. \u039C\u03A0\u0391\u03A4\u0397"
         },
         {
           "id": "11732",
@@ -1390,12 +1390,12 @@
           "name": "\u039A. \u039B\u0399\u03A9\u039D\u0397"
         },
         {
-          "id": "6081",
-          "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
-        },
-        {
           "id": "319",
           "name": "\u039A. \u03A4\u0391\u03A3\u0399\u0393\u0399\u03A9\u03A1\u0393\u039F\u03A5"
+        },
+        {
+          "id": "6081",
+          "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
         },
         {
           "id": "3508",
@@ -1410,12 +1410,12 @@
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
         },
         {
-          "id": "15542",
-          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "6528",
           "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
+        },
+        {
+          "id": "15542",
+          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "12776",
@@ -1460,10 +1460,6 @@
         {
           "id": "8372",
           "name": "\u03A6. \u039A\u039F\u03A1\u0391\u039A\u0399\u0391\u039D\u0399\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "14342",
-          "name": "\u03A7. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "10548",
@@ -1720,6 +1716,10 @@
           "name": "\u0392. \u039C\u039F\u03A5\u03A3\u03A4\u0391\u03A6\u0391"
         },
         {
+          "id": "924",
+          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
+        },
+        {
           "id": "843",
           "name": "\u0398. \u0391\u039B\u0395\u039E\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -1742,6 +1742,14 @@
         {
           "id": "839",
           "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A5"
+        },
+        {
+          "id": "931",
+          "name": "\u03A3. \u0393\u0391\u039B\u0391\u039D\u0397"
+        },
+        {
+          "id": "992",
+          "name": "\u03A7. \u0392\u03A1\u0391\u03A3\u0399\u0394\u0391"
         }
       ],
       "courses": [
@@ -1886,10 +1894,6 @@
           "name": "I. RAHMAN BHUIYAN"
         },
         {
-          "id": "5463",
-          "name": "M. PRISECARIU"
-        },
-        {
           "id": "13292",
           "name": "O. CHESCU"
         },
@@ -1912,10 +1916,6 @@
         {
           "id": "2784",
           "name": "\u0391. \u0392\u0391\u039C\u0392\u0391\u039A\u0391\u03A1\u0397\u03A3 \u039C\u039F\u03A5\u03A4\u03A3\u0391\u0399"
-        },
-        {
-          "id": "14359",
-          "name": "\u0391. \u0393\u0399\u039F\u0392\u0391\u039D\u0397\u03A3"
         },
         {
           "id": "6853",
@@ -2090,10 +2090,6 @@
           "name": "\u0393. \u039C\u0391\u039D\u0394\u03A1\u0391\u0393\u039F\u03A5\u03A1\u0395\u0391"
         },
         {
-          "id": "14371",
-          "name": "\u0393. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u0391\u03A4\u039F\u03A5"
-        },
-        {
           "id": "2648",
           "name": "\u0393. \u039A\u039F\u039D\u03A4\u039F\u03A3"
         },
@@ -2216,10 +2212,6 @@
         {
           "id": "5576",
           "name": "\u0395. \u039A\u0391\u039D\u0394\u0397\u039B\u0391\u039A\u0397"
-        },
-        {
-          "id": "14351",
-          "name": "\u0395. \u039D\u03A4\u039F\u039D\u03A4\u0397"
         },
         {
           "id": "10070",
@@ -2498,10 +2490,6 @@
           "name": "\u039C. \u039A\u0391\u03A1\u03A5\u039C\u03A0\u0391\u039B\u0397"
         },
         {
-          "id": "14368",
-          "name": "\u039C. \u039C\u0391\u03AA\u039D\u0391"
-        },
-        {
           "id": "2768",
           "name": "\u039C. \u03A0\u0391\u0393\u039A\u0391\u039B\u0399\u039D\u0397"
         },
@@ -2532,10 +2520,6 @@
         {
           "id": "3918",
           "name": "\u039C. \u03A4\u039F\u03A5\u03A1\u0399\u03A4\u03A3\u0399"
-        },
-        {
-          "id": "14373",
-          "name": "\u039C. \u0393\u0395\u039D\u039D\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "725",
@@ -2943,10 +2927,6 @@
           "name": "\u0391. \u039C\u0395\u039B\u039D\u0399\u03A4\u03A3\u0399\u039F\u03A5\u039A"
         },
         {
-          "id": "14357",
-          "name": "\u0392. \u039C\u0391\u0393\u0393\u0399\u039D\u0391"
-        },
-        {
           "id": "4646",
           "name": "\u0392. \u03A7\u03A5\u03A3\u0391"
         },
@@ -3017,10 +2997,6 @@
         {
           "id": "2083",
           "name": "\u039C. \u03A0\u0391\u03A1\u0391\u039D\u0393\u039A\u039F\u039D\u0399"
-        },
-        {
-          "id": "14356",
-          "name": "\u039D. \u03A0\u0391\u039B\u0399"
         },
         {
           "id": "9540",
@@ -3945,10 +3921,6 @@
           "name": "\u0395. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "14361",
-          "name": "\u0395. \u039B\u0395\u039C\u039F\u039D\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "2826",
           "name": "\u0396. \u039A\u0391\u03A1\u0391\u039D\u03A4\u0399\u039D\u039F\u03A5"
         },
@@ -4433,10 +4405,6 @@
         {
           "id": "1815",
           "name": "\u0391. \u0393\u0399\u0391\u039D\u039D\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "4874",
-          "name": "\u0391. \u03A0\u03A1\u0391\u03A0\u0391"
         },
         {
           "id": "6644",
@@ -9641,10 +9609,6 @@
           "name": "\u03A3. \u0392\u0391\u039B\u039C\u0391\u03A3"
         },
         {
-          "id": "5418",
-          "name": "\u03A3. \u03A0\u03A1\u0395\u0392\u0395\u039B\u0399\u0391\u039D\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "9332",
           "name": "\u03A3. \u039C\u0391\u0398\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -12831,10 +12795,6 @@
           "name": "P. Pavlov"
         },
         {
-          "id": "15870",
-          "name": "P. Gichev"
-        },
-        {
           "id": "15888",
           "name": "P. Sergiev"
         },
@@ -15589,10 +15549,6 @@
           "name": "\u03A0. \u03A3\u039F\u03A6\u0399\u039A\u0399\u03A4\u0397"
         },
         {
-          "id": "12556",
-          "name": "\u03A3. \u03A4\u03A3\u039F\u0392\u039F\u039B\u039F\u03A5"
-        },
-        {
           "id": "1630",
           "name": "\u03A3. \u039C\u0391\u03A1\u0391\u0393\u039A\u0391\u039A\u0397\u03A3"
         },
@@ -17721,10 +17677,6 @@
         {
           "id": "8372",
           "name": "\u03A6. \u039A\u039F\u03A1\u0391\u039A\u0399\u0391\u039D\u0399\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "14342",
-          "name": "\u03A7. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "10548",
@@ -23334,10 +23286,6 @@
         {
           "id": "410",
           "name": "\u03A7. \u039D\u0391\u039D\u0399\u0394\u0397"
-        },
-        {
-          "id": "4227",
-          "name": "\u03A7. \u039D\u03A4\u039F\u039D\u03A4\u0397"
         }
       ],
       "courses": [
@@ -24088,10 +24036,6 @@
           "name": "L. GALARSE"
         },
         {
-          "id": "5463",
-          "name": "M. PRISECARIU"
-        },
-        {
           "id": "2691",
           "name": "M. MIKIASHVILI"
         },
@@ -24216,10 +24160,6 @@
           "name": "\u0391. \u039A\u0391\u03A6\u03A6\u0395\u03A4\u0396\u0391\u039A\u0397"
         },
         {
-          "id": "4874",
-          "name": "\u0391. \u03A0\u03A1\u0391\u03A0\u0391"
-        },
-        {
           "id": "5531",
           "name": "\u0391. \u039B\u0391\u039C\u03A0\u03A1\u0399\u0391\u039A\u039F\u03A5"
         },
@@ -24238,10 +24178,6 @@
         {
           "id": "9079",
           "name": "\u0391. \u039C\u03A9\u03A1\u0391\u03AA\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "14359",
-          "name": "\u0391. \u0393\u0399\u039F\u0392\u0391\u039D\u0397\u03A3"
         },
         {
           "id": "6853",
@@ -24612,10 +24548,6 @@
           "name": "\u0391. \u03A0\u03A1\u03A1\u039F\u03AA"
         },
         {
-          "id": "2229",
-          "name": "\u0391. \u03A3\u0391\u039C\u0395\u03A4\u0391\u03AA"
-        },
-        {
           "id": "9548",
           "name": "\u0391. \u039D\u0399\u039A\u039F\u039B\u0391\u03A1\u0397"
         },
@@ -24884,10 +24816,6 @@
           "name": "\u0392. \u0393\u039A\u03A9\u0393\u039A\u039F\u03A5"
         },
         {
-          "id": "14357",
-          "name": "\u0392. \u039C\u0391\u0393\u0393\u0399\u039D\u0391"
-        },
-        {
           "id": "8063",
           "name": "\u0392. \u0391\u039B\u0395\u03A4\u03A1\u0391"
         },
@@ -24950,10 +24878,6 @@
         {
           "id": "9287",
           "name": "\u0393. \u03A3\u03A4\u0391\u03A5\u03A1\u0391\u039A\u0391\u039A\u0397"
-        },
-        {
-          "id": "14371",
-          "name": "\u0393. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u0391\u03A4\u039F\u03A5"
         },
         {
           "id": "10530",
@@ -25356,10 +25280,6 @@
           "name": "\u0395. \u039A\u0391\u03A1\u0391\u039D\u03A4\u0395\u039B\u039F\u03A5"
         },
         {
-          "id": "14351",
-          "name": "\u0395. \u039D\u03A4\u039F\u039D\u03A4\u0397"
-        },
-        {
           "id": "15885",
           "name": "\u0395. \u03A3\u0391\u03A1\u03A0\u0395\u039A\u0399\u0394\u039F\u03A5"
         },
@@ -25566,10 +25486,6 @@
         {
           "id": "12783",
           "name": "\u0395. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u0391\u0394\u039F\u03A5"
-        },
-        {
-          "id": "14361",
-          "name": "\u0395. \u039B\u0395\u039C\u039F\u039D\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "228",
@@ -25842,6 +25758,10 @@
         {
           "id": "8842",
           "name": "\u039A. \u039C\u0391\u03A1\u03A4\u0399\u039D\u039F\u03A5"
+        },
+        {
+          "id": "16017",
+          "name": "\u039A. \u0394\u0395\u03A1\u0392\u0395\u039D\u0397"
         },
         {
           "id": "130",
@@ -26264,10 +26184,6 @@
           "name": "\u039C. \u039C\u03A0\u0395\u03A1\u039A\u0399"
         },
         {
-          "id": "14368",
-          "name": "\u039C. \u039C\u0391\u03AA\u039D\u0391"
-        },
-        {
           "id": "10534",
           "name": "\u039C. \u039C\u0391\u03A5\u03A1\u039F\u03A6\u03A1\u03A5\u0394\u0397"
         },
@@ -26402,10 +26318,6 @@
         {
           "id": "1984",
           "name": "\u039C. \u0394\u0391\u0392\u0399\u039B\u0391\u03A3"
-        },
-        {
-          "id": "14373",
-          "name": "\u039C. \u0393\u0395\u039D\u039D\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "725",
@@ -26602,10 +26514,6 @@
         {
           "id": "5967",
           "name": "\u039D. \u03A3\u039F\u03A5\u039B\u0391\u039D\u0399\u0391\u039A\u039F\u03A5"
-        },
-        {
-          "id": "14356",
-          "name": "\u039D. \u03A0\u0391\u039B\u0399"
         },
         {
           "id": "3140",
@@ -29736,10 +29644,6 @@
           "name": "A. SHABANEJ"
         },
         {
-          "id": "13160",
-          "name": "A. HASSAN"
-        },
-        {
           "id": "2202",
           "name": "A. HANNA"
         },
@@ -29782,10 +29686,6 @@
         {
           "id": "12106",
           "name": "H. LLESHI"
-        },
-        {
-          "id": "13164",
-          "name": "J. SINGH"
         },
         {
           "id": "2737",
@@ -29942,10 +29842,6 @@
         {
           "id": "11983",
           "name": "\u0391. \u03A0\u0391\u039D\u03A4\u0391\u0396\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "12579",
-          "name": "\u0391. \u03A1\u0395\u039D\u03A4\u0391\u03A3"
         },
         {
           "id": "15601",
@@ -30166,10 +30062,6 @@
         {
           "id": "656",
           "name": "\u0392. \u03A0\u0391\u03AA\u03A3\u0399\u039F\u03A3"
-        },
-        {
-          "id": "806",
-          "name": "\u0392. \u03A0\u0391\u03A0\u0391\u0394\u0397\u039C\u0391\u03A3"
         },
         {
           "id": "1576",
@@ -30436,24 +30328,12 @@
           "name": "\u0393. \u039A\u039F\u03A4\u03A4\u039F\u03A1\u0391\u03A3"
         },
         {
-          "id": "11657",
-          "name": "\u0393. \u0393\u0395\u03A9\u03A1\u0393\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "11703",
           "name": "\u0393. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3029",
-          "name": "\u0393. \u039A\u0391\u039B\u039F\u0393\u0395\u03A1\u0397\u03A3"
-        },
-        {
           "id": "3548",
           "name": "\u0393. \u039C\u0391\u039A\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
-          "id": "14307",
-          "name": "\u0393. \u0394\u0395\u0394\u0395\u03A3"
         },
         {
           "id": "3603",
@@ -30618,6 +30498,10 @@
         {
           "id": "15619",
           "name": "\u0394. \u039A\u0391\u03A1\u0399\u039F\u03A6\u03A5\u039B\u039B\u0397\u03A3"
+        },
+        {
+          "id": "4614",
+          "name": "\u0394. \u03A3\u0391\u0392\u0392\u0399\u0394\u0397\u03A3 \u03A7\u0391\u03A4\u0396\u0397\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "1774",
@@ -31596,10 +31480,6 @@
           "name": "\u039D. \u03A3\u0391\u0392\u0392\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "14320",
-          "name": "\u039D. \u03A0\u0391\u03A3\u03A7\u0391\u039B\u0397\u03A3"
-        },
-        {
           "id": "15402",
           "name": "\u039D. \u03A7\u039F\u03A5\u0394\u0391\u039B\u0391\u039A\u0397\u03A3"
         },
@@ -31810,10 +31690,6 @@
         {
           "id": "5257",
           "name": "\u03A3. \u03A3\u039F\u03A5\u03A1\u039C\u03A0\u0397\u03A3"
-        },
-        {
-          "id": "5418",
-          "name": "\u03A3. \u03A0\u03A1\u0395\u0392\u0395\u039B\u0399\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "14705",
@@ -36107,10 +35983,6 @@
           "name": "\u0393. \u0394\u03A1\u0399\u03A4\u03A3\u0391\u03A3"
         },
         {
-          "id": "3029",
-          "name": "\u0393. \u039A\u0391\u039B\u039F\u0393\u0395\u03A1\u0397\u03A3"
-        },
-        {
           "id": "3386",
           "name": "\u0393. \u039C\u03A0\u039F\u03A5\u039A\u039B\u0391\u03A3"
         },
@@ -39168,10 +39040,6 @@
           "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
-        },
-        {
           "id": "4681",
           "name": "\u0399. \u03A0\u03A1\u039F\u03A6\u0397\u03A4\u0397\u03A3"
         },
@@ -39466,10 +39334,6 @@
         {
           "id": "5357",
           "name": "\u039D. \u03A7\u0391\u0399\u03A4\u0391\u03A3"
-        },
-        {
-          "id": "11639",
-          "name": "\u039D. \u03A0\u0397\u039B\u0399\u039F\u039A\u0391\u03A4\u0395\u03A1\u039F\u03A3"
         },
         {
           "id": "965",
@@ -49474,10 +49338,6 @@
           "name": "\u0399. \u0396\u0391\u03A6\u0395\u0399\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
-        },
-        {
           "id": "1617",
           "name": "\u0399. \u0394\u0391\u03A1\u0396\u0395\u039D\u03A4\u0391\u03A3"
         },
@@ -51314,16 +51174,12 @@
           "name": "\u0391. \u03A0\u0391\u03A1\u0397\u0393\u039F\u03A1\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "3164",
-          "name": "\u0392. \u039A\u0391\u03A4\u0399\u039D\u0399\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "3021",
           "name": "\u0392. \u0394\u0397\u039C\u0397\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "3029",
-          "name": "\u0393. \u039A\u0391\u039B\u039F\u0393\u0395\u03A1\u0397\u03A3"
+          "id": "3164",
+          "name": "\u0392. \u039A\u0391\u03A4\u0399\u039D\u0399\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "11053",
@@ -54813,10 +54669,6 @@
           "name": "M. RAVI"
         },
         {
-          "id": "5463",
-          "name": "M. PRISECARIU"
-        },
-        {
           "id": "3094",
           "name": "M. MOHAMED"
         },
@@ -56841,6 +56693,10 @@
           "name": "\u039A. \u03A6\u03A1\u0391\u039D\u03A4\u0396\u0395\u03A3\u039A\u0391\u039A\u0397"
         },
         {
+          "id": "16017",
+          "name": "\u039A. \u0394\u0395\u03A1\u0392\u0395\u039D\u0397"
+        },
+        {
           "id": "12596",
           "name": "\u039A. \u039B\u0391\u0399\u039F\u03A5"
         },
@@ -57671,10 +57527,6 @@
         {
           "id": "11544",
           "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
-        },
-        {
-          "id": "11639",
-          "name": "\u039D. \u03A0\u0397\u039B\u0399\u039F\u039A\u0391\u03A4\u0395\u03A1\u039F\u03A3"
         },
         {
           "id": "12174",
@@ -60650,32 +60502,12 @@
           "name": "C. ESPINOSA VELIGRANTAKIS"
         },
         {
-          "id": "7890",
-          "name": "F. MANLUNAS"
-        },
-        {
           "id": "4144",
           "name": "F. CAUSHAJ"
         },
         {
-          "id": "7883",
-          "name": "I. DELA CRUZ"
-        },
-        {
           "id": "6095",
           "name": "J. NITA"
-        },
-        {
-          "id": "6385",
-          "name": "J. LAYA"
-        },
-        {
-          "id": "8627",
-          "name": "J. ANE"
-        },
-        {
-          "id": "6429",
-          "name": "J. VILLANUEVA"
         },
         {
           "id": "4613",
@@ -60696,10 +60528,6 @@
         {
           "id": "9519",
           "name": "R. KOSTOVSKA"
-        },
-        {
-          "id": "8624",
-          "name": "R. FLORES"
         },
         {
           "id": "5941",
@@ -61918,6 +61746,10 @@
           "name": "\u039A. \u039C\u0391\u03A3\u03A4\u03A1\u039F\u03A0\u0391\u03A5\u039B\u039F\u03A5"
         },
         {
+          "id": "16017",
+          "name": "\u039A. \u0394\u0395\u03A1\u0392\u0395\u039D\u0397"
+        },
+        {
           "id": "3162",
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -62907,14 +62739,6 @@
           "name": "F. LASKA"
         },
         {
-          "id": "7890",
-          "name": "F. MANLUNAS"
-        },
-        {
-          "id": "7883",
-          "name": "I. DELA CRUZ"
-        },
-        {
           "id": "96",
           "name": "I. SAID"
         },
@@ -62925,18 +62749,6 @@
         {
           "id": "8633",
           "name": "I. TINGSON"
-        },
-        {
-          "id": "6385",
-          "name": "J. LAYA"
-        },
-        {
-          "id": "8627",
-          "name": "J. ANE"
-        },
-        {
-          "id": "6429",
-          "name": "J. VILLANUEVA"
         },
         {
           "id": "8623",
@@ -62957,10 +62769,6 @@
         {
           "id": "3201",
           "name": "O. TASOEV"
-        },
-        {
-          "id": "8624",
-          "name": "R. FLORES"
         },
         {
           "id": "2700",
@@ -63855,10 +63663,6 @@
           "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
-        },
-        {
           "id": "11054",
           "name": "\u0399. \u03A1\u039F\u03A5\u039C\u03A0\u0391\u039A\u0399\u0391\u03A3"
         },
@@ -64265,10 +64069,6 @@
         {
           "id": "5357",
           "name": "\u039D. \u03A7\u0391\u0399\u03A4\u0391\u03A3"
-        },
-        {
-          "id": "11639",
-          "name": "\u039D. \u03A0\u0397\u039B\u0399\u039F\u039A\u0391\u03A4\u0395\u03A1\u039F\u03A3"
         },
         {
           "id": "965",
@@ -65016,10 +64816,6 @@
         {
           "id": "2883",
           "name": "\u0399. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
-        },
-        {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
         },
         {
           "id": "4681",
@@ -66272,10 +66068,6 @@
           "name": "\u0399. \u03A3\u0391\u039C\u0391\u03A1\u0391\u03A3"
         },
         {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
-        },
-        {
           "id": "4681",
           "name": "\u0399. \u03A0\u03A1\u039F\u03A6\u0397\u03A4\u0397\u03A3"
         },
@@ -67187,10 +66979,6 @@
           "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "1812",
-          "name": "\u0399. \u03A0\u039F\u039B\u03A5\u039A\u03A1\u0395\u03A4\u0397\u03A3"
-        },
-        {
           "id": "975",
           "name": "\u0399. \u0398\u0395\u039F\u0394\u03A9\u03A1\u0391\u039A\u0397\u03A3"
         },
@@ -67489,10 +67277,6 @@
         {
           "id": "5357",
           "name": "\u039D. \u03A7\u0391\u0399\u03A4\u0391\u03A3"
-        },
-        {
-          "id": "11639",
-          "name": "\u039D. \u03A0\u0397\u039B\u0399\u039F\u039A\u0391\u03A4\u0395\u03A1\u039F\u03A3"
         },
         {
           "id": "1076",
@@ -67842,10 +67626,6 @@
           "name": "A. SHABANEJ"
         },
         {
-          "id": "13160",
-          "name": "A. HASSAN"
-        },
-        {
           "id": "2202",
           "name": "A. HANNA"
         },
@@ -67872,10 +67652,6 @@
         {
           "id": "1282",
           "name": "H. SINGH"
-        },
-        {
-          "id": "13164",
-          "name": "J. SINGH"
         },
         {
           "id": "2737",
@@ -67988,10 +67764,6 @@
         {
           "id": "7232",
           "name": "\u0391. \u039A\u0391\u03A1\u03A5\u0394\u0397\u03A3"
-        },
-        {
-          "id": "12579",
-          "name": "\u0391. \u03A1\u0395\u039D\u03A4\u0391\u03A3"
         },
         {
           "id": "1947",
@@ -68170,10 +67942,6 @@
           "name": "\u0392. \u039A\u0391\u03A1\u0391\u0393\u0395\u03A9\u03A1\u0393\u039F\u03A3"
         },
         {
-          "id": "806",
-          "name": "\u0392. \u03A0\u0391\u03A0\u0391\u0394\u0397\u039C\u0391\u03A3"
-        },
-        {
           "id": "1490",
           "name": "\u0392. \u0398\u03A9\u039C\u039F\u039B\u039B\u0391\u03A1\u0397\u03A3"
         },
@@ -68296,10 +68064,6 @@
         {
           "id": "2068",
           "name": "\u0393. \u03A4\u03A3\u039F\u03A5\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "14307",
-          "name": "\u0393. \u0394\u0395\u0394\u0395\u03A3"
         },
         {
           "id": "1652",
@@ -69076,10 +68840,6 @@
         {
           "id": "808",
           "name": "\u039D. \u03A4\u03A3\u039F\u039A\u039B\u0397\u03A3"
-        },
-        {
-          "id": "14320",
-          "name": "\u039D. \u03A0\u0391\u03A3\u03A7\u0391\u039B\u0397\u03A3"
         },
         {
           "id": "4294",
@@ -75733,6 +75493,40 @@
       "custom_field_18": ""
     },
     {
+      "id": "1881",
+      "name": "BG/Train the Trainer -Aircraft Weight and Balance",
+      "code": "GHB-TTT/ACWB",
+      "category_id": "29",
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "12/10/2026, 09:35:24",
+      "last_update_on": "12/10/2026, 09:42:01",
+      "creator_id": "460",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "General",
+      "custom_field_4": "16",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "N/A",
+      "custom_field_10": "ILT",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "1544",
       "name": "BG/Violence and Harassment in the Workplace {BG}",
       "code": "BG/GHT-VLNC (BG)",
@@ -78423,11 +78217,11 @@
       "name": "CY/Airside Safety Human Factors and SMS - Initial",
       "code": "CY/GHC-SAFT (I)",
       "category_id": "28",
-      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EAirside Safety Human Factors and SMS - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008639 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EAirside Safety Human Factors and SMS - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
+      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EAirside Safety Human Factors and SMS - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u003Cstrong\u003E\u003Cem\u003E\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u003C/em\u003E\u003C/strong\u003E\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008639 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EAirside Safety Human Factors and SMS - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/02/2025, 14:54:06",
-      "last_update_on": "21/07/2026, 13:02:27",
+      "last_update_on": "12/10/2026, 09:48:53",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -78631,7 +78425,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/02/2025, 11:32:26",
-      "last_update_on": "12/06/2026, 14:08:33",
+      "last_update_on": "12/10/2026, 12:04:09",
       "creator_id": "460",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -91305,6 +91099,142 @@
       "custom_field_18": null
     },
     {
+      "id": "1877",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:29:53",
+      "last_update_on": "12/10/2026, 09:29:53",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1878",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:30:10",
+      "last_update_on": "12/10/2026, 09:30:10",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1879",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:31:32",
+      "last_update_on": "12/10/2026, 09:31:32",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1880",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:34:58",
+      "last_update_on": "12/10/2026, 09:34:58",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1632",
       "name": "New course",
       "code": "",
@@ -98177,11 +98107,11 @@
       "name": "Warehouse \u2013 ULD Procedures and GSE Operation - Refresher",
       "code": "GHT-WARH (R)",
       "category_id": "10",
-      "description": "\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022 id=\u0022isPasted\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022box-sizing: border-box; height: 0px; color: inherit; clear: both; user-select: none; break-after: page;\u0022\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: center;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing: border-box; text-align: center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
+      "description": "\u003Cp\u003E\u003Cbr /\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022 id=\u0022isPasted\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; color: rgb(35, 35, 35); font-family: Mulish, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022box-sizing: border-box; height: 0px; color: inherit; clear: both; user-select: none; break-after: page;\u0022 /\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: center;\u0022\u003E\u003Cbr /\u003E\u003C/p\u003E\u003Cdiv style=\u0022box-sizing: border-box; text-align: center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Ch2 style=\u0022box-sizing: border-box; text-align: center;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold; color: rgb(0, 0, 0);\u0022\u003EWarehouse \u2013 ULD Procedures and GSE Operation - Refresher\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022box-sizing: border-box; margin: 0px; text-align: justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing: border-box;\u0022\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing: border-box; text-align: justify;\u0022\u003E\u003Cspan style=\u0022box-sizing: border-box; font-weight: bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca href=\u0022mailto:DL-Training-Greece@goldair-handling.com\u0022 id=\u0022isPasted\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 19:53:30",
-      "last_update_on": "11/03/2026, 16:38:45",
+      "last_update_on": "12/10/2026, 13:24:29",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -98200,7 +98130,7 @@
       "custom_field_6": "Refresher Training must be provided within 24 months",
       "custom_field_7": null,
       "custom_field_9": "80%",
-      "custom_field_10": "ILT",
+      "custom_field_10": "e-Learning",
       "custom_field_11": "Recurrent/Refresher",
       "custom_field_16": "GHT-WARH (I)",
       "custom_field_17": null,
