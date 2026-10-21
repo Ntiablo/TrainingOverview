@@ -6341,10 +6341,6 @@
           "name": "\u039D. \u039A\u0391\u039D\u03A4\u0396\u0391\u0392\u0395\u039B\u039F\u03A5"
         },
         {
-          "id": "1951",
-          "name": "\u039D. \u03A3\u0391\u039C\u03A0\u039B\u0399\u03A4\u03A3"
-        },
-        {
           "id": "6077",
           "name": "\u03A0. \u039C\u03A0\u0395\u039D\u0391\u03A4\u039F\u03A5"
         },
@@ -8329,10 +8325,6 @@
           "name": "\u0395. \u0394\u0391\u03A1\u0394\u0391\u039D\u039F\u03A5"
         },
         {
-          "id": "5264",
-          "name": "\u0395. \u039E\u0395\u039D\u0399\u039F\u03A5"
-        },
-        {
           "id": "4848",
           "name": "\u0395. \u039B\u0391\u039B\u0399\u03A9\u03A4\u0397"
         },
@@ -8519,10 +8511,6 @@
         {
           "id": "13382",
           "name": "\u039C. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397"
-        },
-        {
-          "id": "5547",
-          "name": "\u039C. \u039C\u03A0\u039F\u03A7\u03A4\u0397"
         },
         {
           "id": "5569",
@@ -11829,6 +11817,10 @@
           "name": "I. Ivanov"
         },
         {
+          "id": "16034",
+          "name": "I. Damyanov"
+        },
+        {
           "id": "5080",
           "name": "J. Shumanov"
         },
@@ -11903,6 +11895,10 @@
         {
           "id": "5009",
           "name": "V. Iliev"
+        },
+        {
+          "id": "16033",
+          "name": "V. Kyosev"
         },
         {
           "id": "13285",
@@ -13115,8 +13111,16 @@
           "name": "T. Ivanov"
         },
         {
+          "id": "16031",
+          "name": "V. Ivanov"
+        },
+        {
           "id": "15824",
           "name": "V. Velichkova"
+        },
+        {
+          "id": "16032",
+          "name": "V. Tsvetkova"
         },
         {
           "id": "15874",
@@ -13125,6 +13129,10 @@
         {
           "id": "5691",
           "name": "V. Todorova"
+        },
+        {
+          "id": "16035",
+          "name": "Y. Dimitrov"
         },
         {
           "id": "14999",
@@ -14138,6 +14146,10 @@
           "name": "I. Ivanov"
         },
         {
+          "id": "16034",
+          "name": "I. Damyanov"
+        },
+        {
           "id": "13286",
           "name": "J. Jamil"
         },
@@ -14506,6 +14518,14 @@
           "name": "V. Sotirov"
         },
         {
+          "id": "16031",
+          "name": "V. Ivanov"
+        },
+        {
+          "id": "16032",
+          "name": "V. Tsvetkova"
+        },
+        {
           "id": "12028",
           "name": "V. Pal"
         },
@@ -14516,6 +14536,10 @@
         {
           "id": "5013",
           "name": "V. Peev"
+        },
+        {
+          "id": "16033",
+          "name": "V. Kyosev"
         },
         {
           "id": "5018",
@@ -14564,6 +14588,10 @@
         {
           "id": "5097",
           "name": "Y. Hristov"
+        },
+        {
+          "id": "16035",
+          "name": "Y. Dimitrov"
         },
         {
           "id": "15889",
@@ -17701,10 +17729,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "4162",
-          "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u039A\u0399\u0391"
-        },
-        {
           "id": "5545",
           "name": "\u0392. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
         },
@@ -17956,10 +17980,6 @@
         {
           "id": "5765",
           "name": "M. Christofi"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -18673,12 +18693,7 @@
       "belongs_to_branch": "3",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
-        }
-      ],
+      "users": [],
       "courses": [
         {
           "id": "1031",
@@ -18740,12 +18755,7 @@
       "belongs_to_branch": "3",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
-        }
-      ],
+      "users": [],
       "courses": [
         {
           "id": "1032",
@@ -20740,10 +20750,6 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -20767,10 +20773,6 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -20968,10 +20970,6 @@
         {
           "id": "5755",
           "name": "P. Solomou"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -21081,10 +21079,6 @@
         {
           "id": "5755",
           "name": "P. Solomou"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -21108,10 +21102,6 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -24928,10 +24918,6 @@
           "name": "\u0395. \u039C\u0395\u03A4\u0391\u039E\u0391"
         },
         {
-          "id": "5264",
-          "name": "\u0395. \u039E\u0395\u039D\u0399\u039F\u03A5"
-        },
-        {
           "id": "8158",
           "name": "\u0395. \u0392\u0391\u039B\u0399\u0391\u039D\u039F\u03A5"
         },
@@ -25944,10 +25930,6 @@
           "name": "\u039C. \u0394\u0399\u0391\u039A\u039F\u039D\u0399\u039A\u039F\u039B\u0391"
         },
         {
-          "id": "5547",
-          "name": "\u039C. \u039C\u03A0\u039F\u03A7\u03A4\u0397"
-        },
-        {
           "id": "11245",
           "name": "\u039C. \u0392\u0395\u039D\u0395\u03A4\u0397"
         },
@@ -26886,10 +26868,6 @@
         {
           "id": "4871",
           "name": "\u03A7. \u0392\u039B\u0391\u03A7\u039F\u03A5"
-        },
-        {
-          "id": "6493",
-          "name": "\u03A7. \u039A\u039F\u039D\u03A4\u0391\u03A1\u0397"
         },
         {
           "id": "13303",
@@ -28814,10 +28792,6 @@
         {
           "id": "12284",
           "name": "\u039D. \u039A\u0391\u039D\u03A4\u0396\u0391\u0392\u0395\u039B\u039F\u03A5"
-        },
-        {
-          "id": "1951",
-          "name": "\u039D. \u03A3\u0391\u039C\u03A0\u039B\u0399\u03A4\u03A3"
         },
         {
           "id": "6077",
@@ -31392,10 +31366,6 @@
           "name": "\u03A3. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "13969",
-          "name": "\u03A4. \u03A3\u03A5\u039A\u0391\u03A3"
-        },
-        {
           "id": "1887",
           "name": "\u03A4. \u039A\u03A5\u03A1\u0399\u0391\u0396\u039F"
         },
@@ -32740,10 +32710,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "12561",
-          "name": "A. NUTSUBIDZE"
-        },
-        {
           "id": "7465",
           "name": "A. BAKIASI"
         },
@@ -33388,10 +33354,6 @@
           "name": "\u0399. \u0391\u039B\u0395\u039E\u0399\u039F\u03A5"
         },
         {
-          "id": "4397",
-          "name": "\u0399. \u03A0\u039F\u039B\u0399\u03A4\u039F\u03A5"
-        },
-        {
           "id": "4715",
           "name": "\u0399. \u039A\u039F\u039A\u039F\u039D\u039F\u0396\u0391\u039A\u0397"
         },
@@ -33682,10 +33644,6 @@
         {
           "id": "2448",
           "name": "\u03A0. \u0393\u0391\u039B\u0391\u039D\u0397"
-        },
-        {
-          "id": "5599",
-          "name": "\u03A0. \u03A3\u03A0\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "214",
@@ -40345,12 +40303,12 @@
           "name": "A. MURDOK MAKINTOS"
         },
         {
-          "id": "3934",
-          "name": "A. RADOSAVLJEVIC"
-        },
-        {
           "id": "15899",
           "name": "A. KOSTIC"
+        },
+        {
+          "id": "3934",
+          "name": "A. RADOSAVLJEVIC"
         },
         {
           "id": "9258",
@@ -40397,16 +40355,16 @@
           "name": "L. STOJKOVIC"
         },
         {
+          "id": "11172",
+          "name": "L. MILUTINOVIC"
+        },
+        {
           "id": "15102",
           "name": "L. PRIBISIC"
         },
         {
           "id": "15897",
           "name": "L. DERONJIC"
-        },
-        {
-          "id": "11172",
-          "name": "L. MILUTINOVIC"
         },
         {
           "id": "8816",
@@ -40429,12 +40387,12 @@
           "name": "M. SOSKIC"
         },
         {
-          "id": "15898",
-          "name": "M. BLAGOJEVIC"
-        },
-        {
           "id": "10504",
           "name": "M. KREIC"
+        },
+        {
+          "id": "15898",
+          "name": "M. BLAGOJEVIC"
         },
         {
           "id": "15903",
@@ -40443,6 +40401,10 @@
         {
           "id": "8645",
           "name": "O. JELISAVAC"
+        },
+        {
+          "id": "16036",
+          "name": "R. CVEJANOVIC"
         },
         {
           "id": "9265",
@@ -43184,10 +43146,6 @@
         {
           "id": "459",
           "name": "T. TEST"
-        },
-        {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         },
         {
           "id": "67",
@@ -52756,10 +52714,6 @@
           "name": "\u0392. \u03A1\u0399\u03A6\u0399\u03A9\u03A4\u039F\u03A5"
         },
         {
-          "id": "3972",
-          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
-        },
-        {
           "id": "3558",
           "name": "\u0392. \u03A4\u03A3\u0399\u03A1\u039F\u03A3"
         },
@@ -52768,28 +52722,28 @@
           "name": "\u0393. \u039A\u0391\u03A0\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
         {
-          "id": "354",
-          "name": "\u0393. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
+          "id": "147",
+          "name": "\u0393. \u0393\u039F\u03A5\u03A0\u0399\u039F\u03A3"
         },
         {
           "id": "642",
           "name": "\u0393. \u03A0\u0391\u039A\u039F\u03A3"
         },
         {
-          "id": "147",
-          "name": "\u0393. \u0393\u039F\u03A5\u03A0\u0399\u039F\u03A3"
+          "id": "354",
+          "name": "\u0393. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
         },
         {
           "id": "920",
           "name": "\u0393. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "198",
-          "name": "\u0394. \u039A\u039F\u039C\u039D\u0397\u039D\u039F\u03A3 \u03A6\u03A9\u039A\u0399\u0391\u039D\u039F\u03A3"
-        },
-        {
           "id": "1781",
           "name": "\u0394. \u0394\u0391\u0392\u0391\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "198",
+          "name": "\u0394. \u039A\u039F\u039C\u039D\u0397\u039D\u039F\u03A3 \u03A6\u03A9\u039A\u0399\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "1658",
@@ -54301,10 +54255,6 @@
           "name": "\u0391. \u039A\u03A4\u0399\u03A3\u03A4\u039F\u03A5"
         },
         {
-          "id": "4162",
-          "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u039A\u0399\u0391"
-        },
-        {
           "id": "3208",
           "name": "\u0391. \u039A\u039B\u0391\u0394\u0397"
         },
@@ -54357,20 +54307,20 @@
           "name": "\u0391. \u03A0\u0391\u039D\u03A4\u0391\u0396\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "15604",
-          "name": "\u0391. \u039D\u0395\u0393\u03A1\u039F\u03A3"
-        },
-        {
           "id": "15601",
           "name": "\u0391. \u0391\u039B\u0391\u0393\u039A\u0399\u039F\u0396\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "15882",
-          "name": "\u0391. \u0396\u0391\u03A7\u0391\u039B\u039F\u03A5"
+          "id": "15604",
+          "name": "\u0391. \u039D\u0395\u0393\u03A1\u039F\u03A3"
         },
         {
           "id": "5404",
           "name": "\u0391. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397"
+        },
+        {
+          "id": "15882",
+          "name": "\u0391. \u0396\u0391\u03A7\u0391\u039B\u039F\u03A5"
         },
         {
           "id": "3496",
@@ -55165,14 +55115,6 @@
           "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039D\u0399\u039A\u039F\u039B\u0391\u039F\u03A5"
         },
         {
-          "id": "13650",
-          "name": "\u0393. \u0393\u0399\u0391\u039B\u0399\u0391\u03A3"
-        },
-        {
-          "id": "1632",
-          "name": "\u0393. \u0399\u039D\u0395\u03A0\u0395\u039A\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
           "id": "2164",
           "name": "\u0393. \u039A\u0399\u039C\u0399\u03A9\u039D\u0391\u039A\u0397\u03A3 \u03A3\u03A5\u039A\u0399\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
@@ -55185,12 +55127,20 @@
           "name": "\u0393. \u039A\u0399\u03A4\u03A3\u039F\u03A5\u039A\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "2260",
-          "name": "\u0393. \u039E\u0395\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "6542",
           "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
+        },
+        {
+          "id": "13650",
+          "name": "\u0393. \u0393\u0399\u0391\u039B\u0399\u0391\u03A3"
+        },
+        {
+          "id": "1632",
+          "name": "\u0393. \u0399\u039D\u0395\u03A0\u0395\u039A\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "2260",
+          "name": "\u0393. \u039E\u0395\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "3603",
@@ -55245,10 +55195,6 @@
           "name": "\u0394. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "12923",
-          "name": "\u0394. \u039A\u0391\u03A4\u0396\u0391\u039A\u0397"
-        },
-        {
           "id": "330",
           "name": "\u0394. \u03A4\u03A3\u0395\u039C\u03A4\u03A3\u0397"
         },
@@ -55279,6 +55225,10 @@
         {
           "id": "10551",
           "name": "\u0394. \u039A\u039F\u03A1\u039F\u0392\u0395\u03A3\u0397"
+        },
+        {
+          "id": "12923",
+          "name": "\u0394. \u039A\u0391\u03A4\u0396\u0391\u039A\u0397"
         },
         {
           "id": "3867",
@@ -55373,20 +55323,20 @@
           "name": "\u0394. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "15602",
-          "name": "\u0394. \u0392\u0391\u039A\u0391\u039B\u039F\u03A5\u0394\u0397\u03A3"
-        },
-        {
-          "id": "15619",
-          "name": "\u0394. \u039A\u0391\u03A1\u0399\u039F\u03A6\u03A5\u039B\u039B\u0397\u03A3"
-        },
-        {
           "id": "15618",
           "name": "\u0394. \u0394\u039F\u03A5\u03A6\u0391\u03A3"
         },
         {
           "id": "14716",
           "name": "\u0394. \u03A3\u03A4\u03A5\u039B\u0399\u0391\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "15602",
+          "name": "\u0394. \u0392\u0391\u039A\u0391\u039B\u039F\u03A5\u0394\u0397\u03A3"
+        },
+        {
+          "id": "15619",
+          "name": "\u0394. \u039A\u0391\u03A1\u0399\u039F\u03A6\u03A5\u039B\u039B\u0397\u03A3"
         },
         {
           "id": "11232",
@@ -55435,10 +55385,6 @@
         {
           "id": "6150",
           "name": "\u0395. \u03A0\u039F\u0393\u0399\u0391"
-        },
-        {
-          "id": "5264",
-          "name": "\u0395. \u039E\u0395\u039D\u0399\u039F\u03A5"
         },
         {
           "id": "3485",
@@ -56241,20 +56187,20 @@
           "name": "\u039A. \u0393\u03A1\u0391\u03A8\u0391"
         },
         {
-          "id": "13328",
-          "name": "\u039A. \u0391\u03A3\u03A4\u03A1\u0395\u0399\u039D\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "6081",
           "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
         },
         {
-          "id": "16007",
-          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
+          "id": "13328",
+          "name": "\u039A. \u0391\u03A3\u03A4\u03A1\u0395\u0399\u039D\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "15605",
           "name": "\u039A. \u03A3\u0395\u03A1\u0393\u0399\u039D\u0397\u03A3"
+        },
+        {
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
         },
         {
           "id": "491",
@@ -56607,10 +56553,6 @@
         {
           "id": "11023",
           "name": "\u039C. \u0394\u0399\u0391\u039A\u039F\u039D\u0399\u039A\u039F\u039B\u0391"
-        },
-        {
-          "id": "5547",
-          "name": "\u039C. \u039C\u03A0\u039F\u03A7\u03A4\u0397"
         },
         {
           "id": "11245",
@@ -57193,10 +57135,6 @@
           "name": "\u03A0. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391"
         },
         {
-          "id": "5599",
-          "name": "\u03A0. \u03A3\u03A0\u0391\u039D\u039F\u03A5"
-        },
-        {
           "id": "6046",
           "name": "\u03A0. \u0391\u03A0\u0395\u039D\u03A4\u0391\u03A1\u039F\u03A5"
         },
@@ -57569,10 +57507,6 @@
           "name": "\u03A3. \u03A0\u0391\u03A0\u0391\u0394\u0395\u0391\u03A3"
         },
         {
-          "id": "13969",
-          "name": "\u03A4. \u03A3\u03A5\u039A\u0391\u03A3"
-        },
-        {
           "id": "194",
           "name": "\u03A4. \u039A\u039B\u0391\u03A5\u0394\u0399\u0391\u039D\u039F\u03A3-\u03A3\u0391\u039F\u03A5\u03A4\u03A3\u0397\u03A3"
         },
@@ -57763,10 +57697,6 @@
         {
           "id": "3458",
           "name": "\u03A7. \u039C\u03A0\u0391\u039B\u03A4\u0396\u0397"
-        },
-        {
-          "id": "6493",
-          "name": "\u03A7. \u039A\u039F\u039D\u03A4\u0391\u03A1\u0397"
         },
         {
           "id": "4326",
@@ -59044,10 +58974,6 @@
           "name": "\u039C. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u0397"
         },
         {
-          "id": "5547",
-          "name": "\u039C. \u039C\u03A0\u039F\u03A7\u03A4\u0397"
-        },
-        {
           "id": "5569",
           "name": "\u039C. \u039A\u0391\u039B\u0391\u03A4\u0396\u0397"
         },
@@ -59298,10 +59224,6 @@
         {
           "id": "3124",
           "name": "\u03A0. \u03A3\u03A4\u0395\u03A1\u0393\u0399\u039F\u03A5"
-        },
-        {
-          "id": "5599",
-          "name": "\u03A0. \u03A3\u03A0\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "122",
@@ -61876,10 +61798,6 @@
         {
           "id": "3060",
           "name": "\u03A3. \u0396\u0391\u0392\u0399\u03A4\u03A3\u0391\u039D\u039F\u03A3"
-        },
-        {
-          "id": "13969",
-          "name": "\u03A4. \u03A3\u03A5\u039A\u0391\u03A3"
         },
         {
           "id": "3220",
@@ -89549,6 +89467,40 @@
       "custom_field_18": ""
     },
     {
+      "id": "1882",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "20/10/2026, 16:17:06",
+      "last_update_on": "20/10/2026, 16:17:06",
+      "creator_id": "2957",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1537",
       "name": "New course",
       "code": "",
@@ -90909,40 +90861,6 @@
       "custom_field_18": null
     },
     {
-      "id": "1872",
-      "name": "Onboarding Journey Questionnaire 1st Month",
-      "code": "CY/ONBO-SURVEY1",
-      "category_id": "39",
-      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "06/10/2026, 09:00:47",
-      "last_update_on": "16/10/2026, 09:00:10",
-      "creator_id": "3972",
-      "hide_from_catalog": "1",
-      "time_limit": "20",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267529_Screenshot_2026-10-06_091820.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267530_Screenshot_2026-10-06_091820.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": "Time-Limited Must Do",
-      "custom_field_4": "0",
-      "custom_field_5": "Goldair Handling",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
       "id": "714",
       "name": "Onboarding Journey Questionnaire 1st Month",
       "code": "ONBO-SURVEY1",
@@ -90977,16 +90895,16 @@
       "custom_field_18": null
     },
     {
-      "id": "713",
-      "name": "Onboarding Journey Questionnaire 2nd Month",
-      "code": "ONBO-SURVEY2",
+      "id": "1872",
+      "name": "Onboarding Journey Questionnaire 1st Month",
+      "code": "CY/ONBO-SURVEY1",
       "category_id": "39",
-      "description": "E\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03AD\u03BD\u03C4\u03B1\u03BE\u03B7 \u03C4\u03C9\u03BD \u03BD\u03AD\u03C9\u03BD \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03C9\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.",
+      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
-      "creation_date": "25/09/2024, 10:40:56",
-      "last_update_on": "15/01/2026, 11:07:58",
-      "creator_id": "1",
+      "creation_date": "06/10/2026, 09:00:47",
+      "last_update_on": "16/10/2026, 09:00:10",
+      "creator_id": "3972",
       "hide_from_catalog": "1",
       "time_limit": "20",
       "start_datetime": null,
@@ -90994,21 +90912,21 @@
       "level": null,
       "shared": "0",
       "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727266284_shutterstock_606179093.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727266285_shutterstock_606179093.png",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267529_Screenshot_2026-10-06_091820.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267530_Screenshot_2026-10-06_091820.png",
       "certification": null,
       "certification_duration": null,
       "custom_field_2": "Time-Limited Must Do",
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": "N/A",
+      "custom_field_4": "0",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "1873",
@@ -91043,6 +90961,40 @@
       "custom_field_16": "",
       "custom_field_17": "",
       "custom_field_18": ""
+    },
+    {
+      "id": "713",
+      "name": "Onboarding Journey Questionnaire 2nd Month",
+      "code": "ONBO-SURVEY2",
+      "category_id": "39",
+      "description": "E\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03AD\u03BD\u03C4\u03B1\u03BE\u03B7 \u03C4\u03C9\u03BD \u03BD\u03AD\u03C9\u03BD \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03C9\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "25/09/2024, 10:40:56",
+      "last_update_on": "15/01/2026, 11:07:58",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "20",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727266284_shutterstock_606179093.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727266285_shutterstock_606179093.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": "N/A",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
     },
     {
       "id": "759",
@@ -96893,6 +96845,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1135",
+      "name": "UPS Security/DG Awareness",
+      "code": "AIR-UPS/RMPDG (EN)",
+      "category_id": "28",
+      "description": "\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003EUPS Security/DG Awareness (EN)\u003C/h2\u003E\u003Cp\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:left;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:left;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "07/10/2025, 18:16:16",
+      "last_update_on": "21/09/2026, 13:14:32",
+      "creator_id": "3",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717404719_0_BvnlSFZN_C5wCSuY.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717404720_0_BvnlSFZN_C5wCSuY.png",
+      "certification": "EXTERNAL CERTIFICATE",
+      "certification_duration": "17 months",
+      "custom_field_2": "Compliance",
+      "custom_field_4": "1",
+      "custom_field_5": "UPS/Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "1738",
       "name": "UPS Security/DG Awareness",
       "code": "AIR-UPS/CGODG (EN)",
@@ -96951,40 +96937,6 @@
       "custom_field_2": "Airline",
       "custom_field_4": "1",
       "custom_field_5": "UPS - Goldair Handling",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
-      "id": "1135",
-      "name": "UPS Security/DG Awareness",
-      "code": "AIR-UPS/RMPDG (EN)",
-      "category_id": "28",
-      "description": "\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003EUPS Security/DG Awareness (EN)\u003C/h2\u003E\u003Cp\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:left;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:left;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "07/10/2025, 18:16:16",
-      "last_update_on": "21/09/2026, 13:14:32",
-      "creator_id": "3",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717404719_0_BvnlSFZN_C5wCSuY.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717404720_0_BvnlSFZN_C5wCSuY.png",
-      "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "17 months",
-      "custom_field_2": "Compliance",
-      "custom_field_4": "1",
-      "custom_field_5": "UPS/Goldair Handling",
       "custom_field_6": "",
       "custom_field_7": "",
       "custom_field_9": "",
