@@ -3555,6 +3555,10 @@
           "name": "EK - Service Standards and System (AIR-EK/SSS)"
         },
         {
+          "id": "1883",
+          "name": "EK - Station Emergency Response Procedures (AIR-EK/ERP)"
+        },
+        {
           "id": "1867",
           "name": "EK - Wildlife Trafficking - Ground Operations (AIR-EK/WTT)"
         }
@@ -5718,6 +5722,10 @@
           "name": "EK - Service Standards and System (AIR-EK/SSS)"
         },
         {
+          "id": "1883",
+          "name": "EK - Station Emergency Response Procedures (AIR-EK/ERP)"
+        },
+        {
           "id": "1867",
           "name": "EK - Wildlife Trafficking - Ground Operations (AIR-EK/WTT)"
         }
@@ -7016,6 +7024,10 @@
         {
           "id": "431",
           "name": "EK - Ramp Operation Training (AIR-EK/ROT)"
+        },
+        {
+          "id": "1883",
+          "name": "EK - Station Emergency Response Procedures (AIR-EK/ERP)"
         },
         {
           "id": "1019",
@@ -17980,6 +17992,10 @@
         {
           "id": "5765",
           "name": "M. Christofi"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -18125,8 +18141,20 @@
           "name": "CY/Cargo Skills and Procedures - Initial (CY/GHC-CGOS (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "833",
           "name": "CY/DGR for Personnel Accepting Dangerous Goods - Initial (CY/GHC-DGR3 (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "819",
@@ -18298,8 +18326,20 @@
           "name": "CY/Cargo Skills and Procedures - Initial (CY/GHC-CGOS (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "833",
           "name": "CY/DGR for Personnel Accepting Dangerous Goods - Initial (CY/GHC-DGR3 (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "819",
@@ -18395,6 +18435,10 @@
         {
           "id": "835",
           "name": "CY/DGR for Personnel Accepting General Cargo - Initial (CY/GHC-DGR2 (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
         },
         {
           "id": "1747",
@@ -18693,7 +18737,12 @@
       "belongs_to_branch": "3",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [],
+      "users": [
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
+        }
+      ],
       "courses": [
         {
           "id": "1031",
@@ -18755,7 +18804,12 @@
       "belongs_to_branch": "3",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [],
+      "users": [
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
+        }
+      ],
       "courses": [
         {
           "id": "1032",
@@ -18919,12 +18973,24 @@
           "name": "CY/Airside Safety Human Factors and SMS - Initial (CY/GHC-SAFT (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "827",
           "name": "CY/DGR for Load Planners and Loading Supervisors - Initial (CY/GHC-DGR6 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "1061",
@@ -19038,12 +19104,24 @@
           "name": "CY/Airside Safety Human Factors and SMS - Initial (CY/GHC-SAFT (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "827",
           "name": "CY/DGR for Load Planners and Loading Supervisors - Initial (CY/GHC-DGR6 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "1061",
@@ -19144,12 +19222,24 @@
           "name": "CY/Airside Safety Human Factors and SMS - Initial (CY/GHC-SAFT (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "827",
           "name": "CY/DGR for Load Planners and Loading Supervisors - Initial (CY/GHC-DGR6 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "1045",
@@ -19297,12 +19387,24 @@
           "name": "CY/Airside Safety Human Factors and SMS - Initial (CY/GHC-SAFT (I))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "827",
           "name": "CY/DGR for Load Planners and Loading Supervisors - Initial (CY/GHC-DGR6 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "802",
@@ -19408,6 +19510,10 @@
           "name": "CY/Customer Service Excellence (CY/GHC-CUSS (GR))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "774",
           "name": "CY/Departure Control System ALTEA CM (CY/GHC-ALTC)"
         },
@@ -19418,6 +19524,14 @@
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "818",
@@ -19499,12 +19613,24 @@
           "name": "CY/Customer Service Excellence (CY/GHC-CUSS (GR))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "829",
           "name": "CY/DGR for Passenger Handling Personnel - Initial (CY/GHC-DGR5 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "1043",
@@ -19643,12 +19769,24 @@
           "name": "CY/Customer Service Excellence (CY/GHC-CUSS (GR))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "829",
           "name": "CY/DGR for Passenger Handling Personnel - Initial (CY/GHC-DGR5 (I))"
         },
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "1030",
@@ -19726,6 +19864,10 @@
           "name": "CY/Customer Service Excellence (CY/GHC-CUSS (GR))"
         },
         {
+          "id": "1010",
+          "name": "CY/Cybersecurity Fundamentals- [GR] WBT (CY/GHC-CYBR (GR))"
+        },
+        {
           "id": "774",
           "name": "CY/Departure Control System ALTEA CM (CY/GHC-ALTC)"
         },
@@ -19736,6 +19878,14 @@
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
+          "id": "822",
+          "name": "CY/General Data Protection Regulation - WBT (CY/GHC-GDPR (GR))"
         },
         {
           "id": "818",
@@ -19905,6 +20055,10 @@
           "name": "CY/Cabin Cleaning - Initial (CY/GHC-CBCL (I))"
         },
         {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
           "id": "796",
           "name": "CY/Security Procedures Ramp/Baggage Handling Personnel - Initial (CY/GHC-SECR (I))"
         },
@@ -19986,6 +20140,10 @@
         {
           "id": "825",
           "name": "CY/Emergency Response Management - Initial (CY/GHC-EMRG (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
         },
         {
           "id": "783",
@@ -20109,6 +20267,10 @@
         {
           "id": "831",
           "name": "CY/DGR for Ramp and Warehouse Personnel [GR] - Initial (CY/GHC-DGR4 (GR) (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
         },
         {
           "id": "1749",
@@ -20257,6 +20419,10 @@
           "name": "CY/Airside Safety Human Factors and SMS - Initial (CY/GHC-SAFT (I))"
         },
         {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
           "id": "1749",
           "name": "CY/Live Animal Regulations for Aircraft Loaders - WBT - Greek (CY/GHC-LARA (GR))"
         },
@@ -20352,6 +20518,10 @@
           "name": "CY/DGR for Ramp and Warehouse Personnel [GR] - Initial (CY/GHC-DGR4 (GR) (I))"
         },
         {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
           "id": "1749",
           "name": "CY/Live Animal Regulations for Aircraft Loaders - WBT - Greek (CY/GHC-LARA (GR))"
         },
@@ -20439,6 +20609,10 @@
           "name": "CY/DGR for Ramp and Warehouse Personnel [GR] - Initial (CY/GHC-DGR4 (GR) (I))"
         },
         {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
+        },
+        {
           "id": "1749",
           "name": "CY/Live Animal Regulations for Aircraft Loaders - WBT - Greek (CY/GHC-LARA (GR))"
         },
@@ -20500,6 +20674,10 @@
         {
           "id": "1760",
           "name": "CY/DGR for Ramp and Warehouse Personnel [EN] - Initial (CY/GHC-DGR4 (EN) (I))"
+        },
+        {
+          "id": "1702",
+          "name": "CY/Environmental Awareness - WBT - EN (CY/GHC-ENVA (EN))"
         },
         {
           "id": "1748",
@@ -20567,6 +20745,10 @@
         {
           "id": "831",
           "name": "CY/DGR for Ramp and Warehouse Personnel [GR] - Initial (CY/GHC-DGR4 (GR) (I))"
+        },
+        {
+          "id": "824",
+          "name": "CY/Environmental Awareness - WBT - GR (CY/GHC-ENVA (GR))"
         },
         {
           "id": "796",
@@ -20750,6 +20932,10 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -20773,6 +20959,10 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -20970,6 +21160,10 @@
         {
           "id": "5755",
           "name": "P. Solomou"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -21079,6 +21273,10 @@
         {
           "id": "5755",
           "name": "P. Solomou"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -21102,6 +21300,10 @@
         {
           "id": "5733",
           "name": "K. Christodoulou"
+        },
+        {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
         }
       ],
       "courses": [
@@ -22720,6 +22922,10 @@
         {
           "id": "2527",
           "name": "\u0393. \u03A3\u03A4\u03A1\u0391\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "1537",
+          "name": "\u0395. \u03A6\u03A1\u0391\u0393\u039A\u039F\u03A5\u039B\u0391\u039A\u0397"
         },
         {
           "id": "5533",
@@ -25068,6 +25274,10 @@
         {
           "id": "939",
           "name": "\u0395. \u0396\u0395\u03A1\u0392\u0391\u03A3"
+        },
+        {
+          "id": "4223",
+          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3152",
@@ -33402,10 +33612,6 @@
           "name": "\u039A. \u03A4\u0391\u039A\u039A\u039F\u03A5"
         },
         {
-          "id": "11638",
-          "name": "\u039A. \u0393\u03A1\u0391\u03A8\u0391"
-        },
-        {
           "id": "1419",
           "name": "\u039A. \u039D\u0399\u039D\u0399\u03A1\u0391\u039A\u0397\u03A3"
         },
@@ -36203,6 +36409,10 @@
         {
           "id": "1238",
           "name": "\u039C. \u03A3\u0391\u039B\u0391\u0392\u039F\u03A5\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "6142",
+          "name": "\u039C. \u03A1\u039F\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "1230",
@@ -43148,6 +43358,10 @@
           "name": "T. TEST"
         },
         {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
+        },
+        {
           "id": "67",
           "name": "\u0392. \u0394\u0399\u0391\u03A3\u039A\u039F\u03A5\u03A1\u0397"
         },
@@ -48960,10 +49174,6 @@
           "name": "\u039A. \u03A4\u0399\u039B\u039A\u0391\u03A3"
         },
         {
-          "id": "1597",
-          "name": "\u039A. \u039D\u03A4\u0391\u03A3\u0397"
-        },
-        {
           "id": "3989",
           "name": "\u039A. \u039C\u0391\u03A1\u039A\u039F\u03A5\u0394\u0391"
         },
@@ -52714,6 +52924,10 @@
           "name": "\u0392. \u03A1\u0399\u03A6\u0399\u03A9\u03A4\u039F\u03A5"
         },
         {
+          "id": "3972",
+          "name": "\u0392. \u0396\u0391\u039B\u039F\u03A5\u039C\u0397\u03A3"
+        },
+        {
           "id": "3558",
           "name": "\u0392. \u03A4\u03A3\u0399\u03A1\u039F\u03A3"
         },
@@ -52722,28 +52936,28 @@
           "name": "\u0393. \u039A\u0391\u03A0\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
         {
-          "id": "147",
-          "name": "\u0393. \u0393\u039F\u03A5\u03A0\u0399\u039F\u03A3"
+          "id": "354",
+          "name": "\u0393. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
         },
         {
           "id": "642",
           "name": "\u0393. \u03A0\u0391\u039A\u039F\u03A3"
         },
         {
-          "id": "354",
-          "name": "\u0393. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
+          "id": "147",
+          "name": "\u0393. \u0393\u039F\u03A5\u03A0\u0399\u039F\u03A3"
         },
         {
           "id": "920",
           "name": "\u0393. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "1781",
-          "name": "\u0394. \u0394\u0391\u0392\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "198",
           "name": "\u0394. \u039A\u039F\u039C\u039D\u0397\u039D\u039F\u03A3 \u03A6\u03A9\u039A\u0399\u0391\u039D\u039F\u03A3"
+        },
+        {
+          "id": "1781",
+          "name": "\u0394. \u0394\u0391\u0392\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "1658",
@@ -55491,6 +55705,10 @@
           "name": "\u0395. \u0396\u0395\u03A1\u0392\u0391\u03A3"
         },
         {
+          "id": "4223",
+          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "6634",
           "name": "\u0395. \u039B\u0395\u039F\u039D\u03A4\u0399\u0391\u0394\u0397\u03A3"
         },
@@ -56181,10 +56399,6 @@
         {
           "id": "4435",
           "name": "\u039A. \u03A4\u03A3\u0399\u03A1\u039F\u0394\u0397\u039C\u039F\u03A5"
-        },
-        {
-          "id": "11638",
-          "name": "\u039A. \u0393\u03A1\u0391\u03A8\u0391"
         },
         {
           "id": "6081",
@@ -60638,6 +60852,10 @@
         {
           "id": "12192",
           "name": "\u0395. \u03A4\u03A3\u0399\u0395\u0393\u0393\u0395\u039B\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "4223",
+          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039D\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3152",
@@ -84265,6 +84483,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1883",
+      "name": "EK - Station Emergency Response Procedures",
+      "code": "AIR-EK/ERP",
+      "category_id": "7",
+      "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03AD\u03C2 \u03C4\u03B7\u03C2 Goldair Handling \u03B3\u03B9\u03B1 \u03BB\u03BF\u03B3\u03B1\u03C1\u03B9\u03B1\u03C3\u03BC\u03CC \u03C4\u03B7\u03C2 \u03B1\u03B5\u03C1\u03BF\u03C0\u03BF\u03C1\u03B9\u03BA\u03AE\u03C2 \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1\u03C2.\u003Cbr /\u003ETraining is provided by Goldair Handling Instructors on behalf of the airline.",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "21/10/2026, 14:24:24",
+      "last_update_on": "21/10/2026, 14:25:45",
+      "creator_id": "648",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720436606_1_HYl4l3lhJ0d_FfP1p0oM_g.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720436608_1_HYl4l3lhJ0d_FfP1p0oM_g.png",
+      "certification": "EXTERNAL CERTIFICATE",
+      "certification_duration": "3 years",
+      "custom_field_2": "Airline",
+      "custom_field_4": null,
+      "custom_field_5": "Emirates / Goldair Handling",
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": "80%",
+      "custom_field_10": "ILT",
+      "custom_field_11": "Main",
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1019",
       "name": "EK - Turnaround Coordinator",
       "code": "AIR-EK/ETC",
@@ -89467,40 +89719,6 @@
       "custom_field_18": ""
     },
     {
-      "id": "1882",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "20/10/2026, 16:17:06",
-      "last_update_on": "20/10/2026, 16:17:06",
-      "creator_id": "2957",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "1537",
       "name": "New course",
       "code": "",
@@ -90701,6 +90919,40 @@
       "creation_date": "12/10/2026, 09:34:58",
       "last_update_on": "12/10/2026, 09:34:58",
       "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1882",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "20/10/2026, 16:17:06",
+      "last_update_on": "20/10/2026, 16:17:06",
+      "creator_id": "2957",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
