@@ -2951,10 +2951,6 @@
           "name": "\u039C. \u0391\u039C\u03A0\u039D\u03A4\u039F\u03A5"
         },
         {
-          "id": "12780",
-          "name": "\u039C. \u039C\u0395\u03A4\u0391"
-        },
-        {
           "id": "9298",
           "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0397"
         },
@@ -6193,6 +6189,10 @@
           "name": "\u0399. \u0392\u0391\u039B\u0392\u0397\u03A3"
         },
         {
+          "id": "16047",
+          "name": "\u0399. \u039A\u039F\u03A5\u039A\u0399\u0394\u0397\u03A3"
+        },
+        {
           "id": "2145",
           "name": "\u0399. \u039A\u039F\u03A5\u039B\u0399\u0391\u03A3"
         },
@@ -6271,6 +6271,10 @@
         {
           "id": "14383",
           "name": "\u039C. \u039A\u039F\u0396\u039F\u03A5\u039C\u0397"
+        },
+        {
+          "id": "16045",
+          "name": "\u039C. \u03A0\u039F\u039B\u03A5\u03A7\u03A1\u039F\u039D\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "5338",
@@ -6407,6 +6411,10 @@
         {
           "id": "1702",
           "name": "\u03A1. \u039A\u0391\u039B\u039B\u0399\u039D\u0399\u039A\u039F\u03A3"
+        },
+        {
+          "id": "16046",
+          "name": "\u03A3. \u0393\u0391\u03A1\u0393\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "5469",
@@ -10142,7 +10150,7 @@
         },
         {
           "id": "1284",
-          "name": "BG/Deicing Checkout {DI-L10/20/30} (BG/OTJ-ICET)"
+          "name": "BG/Deicing Checkout {DI-L10 / DI-L20} (BG/OTJ-ICET)"
         }
       ]
     },
@@ -10209,7 +10217,7 @@
         },
         {
           "id": "1853",
-          "name": "BG/Deicing Checkout {DI-L70} (BG/OTJ-ICET7)"
+          "name": "BG/Deicing Checkout {DI-L60 / DI-L70} (BG/OTJ-ICET7)"
         }
       ]
     },
@@ -11483,10 +11491,6 @@
         {
           "id": "5208",
           "name": "S. Georgiev"
-        },
-        {
-          "id": "5230",
-          "name": "T. Mihailova"
         },
         {
           "id": "5247",
@@ -13024,6 +13028,28 @@
       ]
     },
     {
+      "id": "419",
+      "name": "BG/RMP-ICE5",
+      "description": "Deicing Checker",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "1",
+      "belongs_to_branch": "2",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [],
+      "courses": [
+        {
+          "id": "1275",
+          "name": "BG/De/Anti-icing of Aircraft on the Ground - Initial (BG/GHB-ICET (I))"
+        },
+        {
+          "id": "1884",
+          "name": "BG/Deicing Checkout {DI-L50} (BG/OTJ-ICET5)"
+        }
+      ]
+    },
+    {
       "id": "258",
       "name": "BG/RMP-RAMP AGENT",
       "description": "Ramp Agents",
@@ -13105,10 +13131,6 @@
         {
           "id": "5179",
           "name": "P. Gergov"
-        },
-        {
-          "id": "15890",
-          "name": "R. Alibegov"
         },
         {
           "id": "15418",
@@ -14398,10 +14420,6 @@
           "name": "R. Chaudhari"
         },
         {
-          "id": "15890",
-          "name": "R. Alibegov"
-        },
-        {
           "id": "5195",
           "name": "R. Dimitrov"
         },
@@ -15377,6 +15395,10 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "16044",
+          "name": "N. SINGH"
+        },
+        {
           "id": "748",
           "name": "\u0391. \u039A\u0391\u039D\u0395\u039B\u039B\u0397"
         },
@@ -15439,6 +15461,10 @@
         {
           "id": "6648",
           "name": "\u03A0. \u03A3\u039F\u03A6\u0399\u039A\u0399\u03A4\u0397"
+        },
+        {
+          "id": "16042",
+          "name": "\u03A1. \u0391\u03A1\u0393\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "1630",
@@ -15582,6 +15608,10 @@
         {
           "id": "1838",
           "name": "\u03A6. \u03A3\u0391\u03A0\u039F\u03A5\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "16043",
+          "name": "\u03A7. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
         },
         {
           "id": "14512",
@@ -24264,10 +24294,6 @@
           "name": "\u0391. \u039C\u03A0\u039F\u039B\u039F\u03A5\u0394\u0391\u039A\u0397"
         },
         {
-          "id": "5404",
-          "name": "\u0391. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397"
-        },
-        {
           "id": "5663",
           "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039D\u0391\u03A3\u03A4\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -26252,10 +26278,6 @@
           "name": "\u039C. \u0391\u03A1\u039C\u0391\u039F\u03A5"
         },
         {
-          "id": "12780",
-          "name": "\u039C. \u039C\u0395\u03A4\u0391"
-        },
-        {
           "id": "4837",
           "name": "\u039C. \u0392\u03A5\u0398\u039F\u03A5\u039B\u039A\u0391"
         },
@@ -26686,10 +26708,6 @@
         {
           "id": "12782",
           "name": "\u03A3. \u039A\u0391\u039F\u03A5\u03A1"
-        },
-        {
-          "id": "4450",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039C\u0391\u03A1"
         },
         {
           "id": "5312",
@@ -29271,6 +29289,10 @@
           "name": "\u0395. \u039C\u03A9\u039A\u039F\u03A5"
         },
         {
+          "id": "16047",
+          "name": "\u0399. \u039A\u039F\u03A5\u039A\u0399\u0394\u0397\u03A3"
+        },
+        {
           "id": "231",
           "name": "\u039A. \u039C\u0391\u03A1\u0393\u03A9\u039D\u0397"
         },
@@ -29279,8 +29301,16 @@
           "name": "\u039C. \u039C\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
+          "id": "16045",
+          "name": "\u039C. \u03A0\u039F\u039B\u03A5\u03A7\u03A1\u039F\u039D\u0399\u0394\u039F\u03A5"
+        },
+        {
           "id": "287",
           "name": "\u03A0. \u03A0\u03A5\u03A4\u0395\u03A1\u039F\u03A5"
+        },
+        {
+          "id": "16046",
+          "name": "\u03A3. \u0393\u0391\u03A1\u0393\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "357",
@@ -31530,6 +31560,10 @@
         {
           "id": "13161",
           "name": "\u03A3. \u039A\u0391\u03AA\u03A4\u03A3\u0391\u03A3"
+        },
+        {
+          "id": "16041",
+          "name": "\u03A3. \u03A7\u03A5\u039C\u0395\u03A4\u039B\u039B\u0391\u03A1\u0399"
         },
         {
           "id": "1871",
@@ -33894,10 +33928,6 @@
         {
           "id": "5513",
           "name": "\u03A3. \u039A\u0391\u03A4\u03A3\u0395\u039B\u0397"
-        },
-        {
-          "id": "11725",
-          "name": "\u03A3. \u03A0\u0391\u03A3\u03A7\u0391\u039B\u0397"
         },
         {
           "id": "1177",
@@ -49350,6 +49380,10 @@
           "name": "\u039A. \u03A4\u03A3\u0395\u039B\u0395\u03A0\u0399\u0394\u0397\u03A3"
         },
         {
+          "id": "1589",
+          "name": "\u039A. \u0391\u039D\u0391\u03A3\u03A4\u0391\u03A3\u0399\u039F\u03A5"
+        },
+        {
           "id": "1117",
           "name": "\u039B. \u039C\u03A0\u0391\u039A\u0391\u03A1\u0397\u03A3"
         },
@@ -54521,10 +54555,6 @@
           "name": "\u0391. \u0396\u0391\u03A7\u0391\u039B\u039F\u03A5"
         },
         {
-          "id": "5404",
-          "name": "\u0391. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397"
-        },
-        {
           "id": "3496",
           "name": "\u0391. \u03A0\u0391\u03A0\u0391\u0396\u0391\u03A0\u03A1\u0391\u0399\u0394\u039F\u03A5"
         },
@@ -55317,32 +55347,32 @@
           "name": "\u0393. \u039A\u0399\u039C\u0399\u03A9\u039D\u0391\u039A\u0397\u03A3 \u03A3\u03A5\u039A\u0399\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "6542",
-          "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
-        },
-        {
-          "id": "13650",
-          "name": "\u0393. \u0393\u0399\u0391\u039B\u0399\u0391\u03A3"
-        },
-        {
-          "id": "2260",
-          "name": "\u0393. \u039E\u0395\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "1587",
           "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039D\u0399\u039A\u039F\u039B\u0391\u039F\u03A5"
-        },
-        {
-          "id": "2914",
-          "name": "\u0393. \u039A\u0399\u03A4\u03A3\u039F\u03A5\u039A\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "15833",
           "name": "\u0393. \u03A7\u0391\u03A4\u0396\u0397\u03A0\u0391\u03A1\u0391\u03A3\u03A7\u039F\u03A3"
         },
         {
+          "id": "2260",
+          "name": "\u0393. \u039E\u0395\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "6542",
+          "name": "\u0393. \u039C\u039F\u039D\u039F\u0393\u0399\u039F\u03A3"
+        },
+        {
+          "id": "2914",
+          "name": "\u0393. \u039A\u0399\u03A4\u03A3\u039F\u03A5\u039A\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "1632",
           "name": "\u0393. \u0399\u039D\u0395\u03A0\u0395\u039A\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "13650",
+          "name": "\u0393. \u0393\u0399\u0391\u039B\u0399\u0391\u03A3"
         },
         {
           "id": "3603",
@@ -55525,20 +55555,20 @@
           "name": "\u0394. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "14716",
-          "name": "\u0394. \u03A3\u03A4\u03A5\u039B\u0399\u0391\u03A1\u0391\u03A3"
+          "id": "15619",
+          "name": "\u0394. \u039A\u0391\u03A1\u0399\u039F\u03A6\u03A5\u039B\u039B\u0397\u03A3"
         },
         {
-          "id": "15602",
-          "name": "\u0394. \u0392\u0391\u039A\u0391\u039B\u039F\u03A5\u0394\u0397\u03A3"
+          "id": "14716",
+          "name": "\u0394. \u03A3\u03A4\u03A5\u039B\u0399\u0391\u03A1\u0391\u03A3"
         },
         {
           "id": "15618",
           "name": "\u0394. \u0394\u039F\u03A5\u03A6\u0391\u03A3"
         },
         {
-          "id": "15619",
-          "name": "\u0394. \u039A\u0391\u03A1\u0399\u039F\u03A6\u03A5\u039B\u039B\u0397\u03A3"
+          "id": "15602",
+          "name": "\u0394. \u0392\u0391\u039A\u0391\u039B\u039F\u03A5\u0394\u0397\u03A3"
         },
         {
           "id": "11232",
@@ -56397,28 +56427,28 @@
           "name": "\u039A. \u03A4\u03A3\u0399\u03A1\u039F\u0394\u0397\u039C\u039F\u03A5"
         },
         {
-          "id": "13328",
-          "name": "\u039A. \u0391\u03A3\u03A4\u03A1\u0395\u0399\u039D\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "6081",
           "name": "\u039A. \u0392\u039F\u03A5\u03A4\u03A5\u03A1\u0391"
         },
         {
-          "id": "16007",
-          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
+          "id": "13328",
+          "name": "\u039A. \u0391\u03A3\u03A4\u03A1\u0395\u0399\u039D\u0399\u0394\u039F\u03A5"
+        },
+        {
+          "id": "491",
+          "name": "\u039A. \u039C\u03A0\u0391\u03A1\u039B\u0391\u03A3"
         },
         {
           "id": "15605",
           "name": "\u039A. \u03A3\u0395\u03A1\u0393\u0399\u039D\u0397\u03A3"
         },
         {
-          "id": "2000",
-          "name": "\u039A. \u039D\u0399\u039A\u039F\u039B\u039F\u03A5\u0394\u0391\u039A\u0397\u03A3"
+          "id": "16007",
+          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u039C\u03A0\u0391\u039B\u0397\u03A3"
         },
         {
-          "id": "491",
-          "name": "\u039A. \u039C\u03A0\u0391\u03A1\u039B\u0391\u03A3"
+          "id": "2000",
+          "name": "\u039A. \u039D\u0399\u039A\u039F\u039B\u039F\u03A5\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "258",
@@ -56741,12 +56771,12 @@
           "name": "\u039C. \u039A\u03A9\u03A4\u0397"
         },
         {
-          "id": "15326",
-          "name": "\u039C. \u039A\u0391\u039B\u03A6\u0391"
-        },
-        {
           "id": "13382",
           "name": "\u039C. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "15326",
+          "name": "\u039C. \u039A\u0391\u039B\u03A6\u0391"
         },
         {
           "id": "4261",
@@ -57225,6 +57255,10 @@
           "name": "\u03A0. \u039D\u0399\u039A\u039F\u039B\u0397"
         },
         {
+          "id": "3022",
+          "name": "\u03A0. \u039B\u0395\u0392\u0395\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
           "id": "3344",
           "name": "\u03A0. \u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -57541,10 +57575,6 @@
           "name": "\u03A3. \u039A\u039F\u039B\u039F\u039A\u039F\u03A4\u03A1\u03A9\u039D\u0397"
         },
         {
-          "id": "11725",
-          "name": "\u03A3. \u03A0\u0391\u03A3\u03A7\u0391\u039B\u0397"
-        },
-        {
           "id": "137",
           "name": "\u03A3. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0395\u039B\u039F\u03A5"
         },
@@ -57615,6 +57645,10 @@
         {
           "id": "2804",
           "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
+        },
+        {
+          "id": "16041",
+          "name": "\u03A3. \u03A7\u03A5\u039C\u0395\u03A4\u039B\u039B\u0391\u03A1\u0399"
         },
         {
           "id": "3460",
@@ -60134,10 +60168,6 @@
           "name": "\u0391. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u039F\u03A5"
         },
         {
-          "id": "5404",
-          "name": "\u0391. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397"
-        },
-        {
           "id": "4768",
           "name": "\u0391. \u0392\u0391\u039A\u03A1\u0391"
         },
@@ -61960,6 +61990,10 @@
         {
           "id": "1258",
           "name": "\u03A3. \u039C\u03A0\u0391\u039B\u039B\u039F\u03A3"
+        },
+        {
+          "id": "16041",
+          "name": "\u03A3. \u03A7\u03A5\u039C\u0395\u03A4\u039B\u039B\u0391\u03A1\u0399"
         },
         {
           "id": "3272",
@@ -63973,6 +64007,10 @@
         {
           "id": "3604",
           "name": "\u03A7. \u03A3\u0397\u03A6\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "15671",
+          "name": "\u03A7. \u039B\u0395\u03A6\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "15613",
@@ -66081,6 +66119,10 @@
         {
           "id": "3150",
           "name": "\u0391. \u03A6\u03A9\u03A4\u0397"
+        },
+        {
+          "id": "4731",
+          "name": "\u0391. \u039A\u039F\u03A5\u03A1\u0397"
         },
         {
           "id": "285",
@@ -73254,14 +73296,14 @@
     },
     {
       "id": "1284",
-      "name": "BG/Deicing Checkout {DI-L10/20/30}",
+      "name": "BG/Deicing Checkout {DI-L10 / DI-L20}",
       "code": "BG/OTJ-ICET",
       "category_id": "28",
       "description": "Submission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 15:27:04",
-      "last_update_on": "19/10/2026, 10:05:01",
+      "last_update_on": "23/10/2026, 15:12:06",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73278,7 +73320,7 @@
       "custom_field_4": "4",
       "custom_field_5": "Goldair Handling",
       "custom_field_6": "Training program complies with the requirements of SAE AS6286. ",
-      "custom_field_7": "The employee is authorised to perform aircraft deicing and anti-icing duties in accordance with Qualification Levels DI-L10, DI-L20, and DI-L30.",
+      "custom_field_7": "The employee is authorised to perform aircraft deicing and anti-icing duties in accordance with Qualification Levels DI-L10 and DI-L20.",
       "custom_field_9": "Pass",
       "custom_field_10": "OJT",
       "custom_field_11": "Main",
@@ -73321,15 +73363,15 @@
       "custom_field_18": ""
     },
     {
-      "id": "1853",
-      "name": "BG/Deicing Checkout {DI-L70}",
-      "code": "BG/OTJ-ICET7",
+      "id": "1884",
+      "name": "BG/Deicing Checkout {DI-L50}",
+      "code": "BG/OTJ-ICET5",
       "category_id": "28",
       "description": "Submission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
-      "creation_date": "16/09/2026, 11:44:12",
-      "last_update_on": "19/10/2026, 10:06:40",
+      "creation_date": "23/10/2026, 11:47:22",
+      "last_update_on": "23/10/2026, 11:50:33",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -73346,7 +73388,41 @@
       "custom_field_4": "4",
       "custom_field_5": "Goldair Handling",
       "custom_field_6": "Training program complies with the requirements of SAE AS6286. ",
-      "custom_field_7": "The employee is authorised to perform aircraft deicing and anti-icing duties in accordance with Qualification Level DI-L70.",
+      "custom_field_7": "The employee is authorised to perform aircraft deicing and anti-icing duties in accordance with Qualification Level DI-L50.",
+      "custom_field_9": "Pass",
+      "custom_field_10": "ILT",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
+      "id": "1853",
+      "name": "BG/Deicing Checkout {DI-L60 / DI-L70}",
+      "code": "BG/OTJ-ICET7",
+      "category_id": "28",
+      "description": "Submission of OTJ Form",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "16/09/2026, 11:44:12",
+      "last_update_on": "23/10/2026, 15:11:47",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940243_job-training-concept-icon-vector-31585081__24_.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720940244_job-training-concept-icon-vector-31585081__24_.png",
+      "certification": "BG Main Certificate",
+      "certification_duration": "Forever",
+      "custom_field_2": "OTJ",
+      "custom_field_4": "4",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "Training program complies with the requirements of SAE AS6286. ",
+      "custom_field_7": "The employee is authorised to perform aircraft deicing and anti-icing duties in accordance with Qualification Level DI-L60 and DI-L70.",
       "custom_field_9": "Pass",
       "custom_field_10": "ILT",
       "custom_field_11": "Main",
@@ -83579,6 +83655,40 @@
       "custom_field_2": "Critical",
       "custom_field_4": "1",
       "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
+      "id": "1885",
+      "name": "DGR10 Self Study {GR}",
+      "code": "SSD-DGR10 GR",
+      "category_id": "42",
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "23/10/2026, 16:51:31",
+      "last_update_on": "23/10/2026, 16:59:18",
+      "creator_id": "3",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_4": "",
+      "custom_field_5": "",
       "custom_field_6": "",
       "custom_field_7": "",
       "custom_field_9": "",
