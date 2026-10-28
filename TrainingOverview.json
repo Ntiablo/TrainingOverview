@@ -1732,6 +1732,10 @@
           "name": "\u039A. \u0396\u0399\u03A9\u0393\u0391\u03A3"
         },
         {
+          "id": "917",
+          "name": "\u039A. \u039A\u0391\u03A1\u0391\u0393\u0395\u03A9\u03A1\u0393\u0397\u03A3"
+        },
+        {
           "id": "836",
           "name": "\u039B. \u0393\u0391\u039B\u0395\u0399\u03A6\u039F\u03A3"
         },
@@ -10873,10 +10877,6 @@
           "name": "A. Tihcheva"
         },
         {
-          "id": "15821",
-          "name": "B. Mitkov"
-        },
-        {
           "id": "8283",
           "name": "B. Blagoev"
         },
@@ -11169,12 +11169,12 @@
           "name": "V. Vladova"
         },
         {
-          "id": "7171",
-          "name": "V. Bobeva"
-        },
-        {
           "id": "5024",
           "name": "V. Marinova"
+        },
+        {
+          "id": "7171",
+          "name": "V. Bobeva"
         },
         {
           "id": "15779",
@@ -11791,6 +11791,10 @@
         {
           "id": "7059",
           "name": "I. Ivanov"
+        },
+        {
+          "id": "5084",
+          "name": "I. Hadjipetkov"
         },
         {
           "id": "16034",
@@ -14138,6 +14142,10 @@
         {
           "id": "7059",
           "name": "I. Ivanov"
+        },
+        {
+          "id": "5084",
+          "name": "I. Hadjipetkov"
         },
         {
           "id": "16034",
@@ -34123,6 +34131,10 @@
       ],
       "courses": [
         {
+          "id": "589",
+          "name": "Aircraft Cleaner On the Job Training (OTJ-ACCL)"
+        },
+        {
           "id": "407",
           "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
         },
@@ -38216,6 +38228,10 @@
         {
           "id": "14651",
           "name": "\u0391. \u039A\u03A5\u03A1\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "5263",
+          "name": "\u0392. \u039D\u03A4\u0391\u039C\u03A0\u0391\u03A3\u0397"
         },
         {
           "id": "1060",
@@ -62365,6 +62381,10 @@
           "name": "\u0391. \u0393\u0391\u0396\u0399"
         },
         {
+          "id": "5263",
+          "name": "\u0392. \u039D\u03A4\u0391\u039C\u03A0\u0391\u03A3\u0397"
+        },
+        {
           "id": "1060",
           "name": "\u0392. \u039D\u03A4\u0395\u039B\u0399\u039B\u0391\u0399"
         },
@@ -66035,6 +66055,10 @@
         {
           "id": "1063",
           "name": "\u0391. \u0393\u0391\u0396\u0399"
+        },
+        {
+          "id": "5263",
+          "name": "\u0392. \u039D\u03A4\u0391\u039C\u03A0\u0391\u03A3\u0397"
         },
         {
           "id": "1060",
@@ -82931,7 +82955,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "02/06/2024, 10:25:51",
-      "last_update_on": "30/09/2026, 13:26:34",
+      "last_update_on": "27/10/2026, 11:06:51",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -82965,7 +82989,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "27/09/2024, 13:07:26",
-      "last_update_on": "21/09/2026, 12:58:03",
+      "last_update_on": "27/10/2026, 11:39:20",
       "creator_id": "460",
       "hide_from_catalog": "1",
       "time_limit": "0",
