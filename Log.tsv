@@ -4659,3 +4659,6 @@ john.d.dimou	Login Attempt	2026-10-30 12:46:58
 john.d.dimou	Login Successful	2026-10-30 12:47:07								
 john.d.dimou	Login Successful	2026-10-30 12:47:10								
 john.d.dimou	Logout	2026-10-30 12:48:53							00:01:43	
+v.zachos	Login Attempt	2026-10-30 12:51:12								
+v.zachos	Login Failed	2026-10-30 12:51:22								Username not found
+vzachos	Login Failed	2026-10-30 12:51:45								Username not found
