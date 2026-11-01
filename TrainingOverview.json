@@ -10853,20 +10853,8 @@
           "name": "G. Ivanova"
         },
         {
-          "id": "5042",
-          "name": "G. Chervenkov"
-        },
-        {
-          "id": "11731",
-          "name": "G. Andonova"
-        },
-        {
           "id": "15647",
           "name": "G. Pachedzhieva"
-        },
-        {
-          "id": "5704",
-          "name": "I. Raykova"
         },
         {
           "id": "15781",
@@ -10929,10 +10917,6 @@
           "name": "K. Petrov"
         },
         {
-          "id": "5116",
-          "name": "K. Tasev"
-        },
-        {
           "id": "10093",
           "name": "L. Georgieva"
         },
@@ -10985,14 +10969,6 @@
           "name": "N. Kilikchiev"
         },
         {
-          "id": "5172",
-          "name": "O. Shahinyan"
-        },
-        {
-          "id": "5178",
-          "name": "P. Staykova"
-        },
-        {
           "id": "9280",
           "name": "P. Stoimenov"
         },
@@ -11015,10 +10991,6 @@
         {
           "id": "5197",
           "name": "R. Todorov"
-        },
-        {
-          "id": "5706",
-          "name": "S. Hristova"
         },
         {
           "id": "15813",
@@ -11087,14 +11059,6 @@
         {
           "id": "15650",
           "name": "Y. Karageorgiev"
-        },
-        {
-          "id": "5077",
-          "name": "Z. Bulanova"
-        },
-        {
-          "id": "5864",
-          "name": "Z. Mihova"
         },
         {
           "id": "15780",
@@ -11327,10 +11291,6 @@
         {
           "id": "5158",
           "name": "N. Ruscheva"
-        },
-        {
-          "id": "5164",
-          "name": "N. Dimitrov"
         },
         {
           "id": "15654",
@@ -11668,10 +11628,6 @@
           "name": "H. Minkov"
         },
         {
-          "id": "5091",
-          "name": "I. Panayotov"
-        },
-        {
           "id": "7006",
           "name": "I. Tsurev"
         },
@@ -11696,10 +11652,6 @@
           "name": "K. Vasilev"
         },
         {
-          "id": "5121",
-          "name": "L. Karmashikov"
-        },
-        {
           "id": "10352",
           "name": "L. Lyubenov"
         },
@@ -11710,10 +11662,6 @@
         {
           "id": "7018",
           "name": "M. Angelov"
-        },
-        {
-          "id": "5141",
-          "name": "M. Kulchev"
         },
         {
           "id": "7021",
@@ -11732,10 +11680,6 @@
           "name": "M. Bonev"
         },
         {
-          "id": "5163",
-          "name": "N. Shterev"
-        },
-        {
           "id": "12999",
           "name": "N. Atanasov"
         },
@@ -11750,14 +11694,6 @@
         {
           "id": "5231",
           "name": "T. Stoimenov"
-        },
-        {
-          "id": "5242",
-          "name": "T. Tsvyatkov"
-        },
-        {
-          "id": "5007",
-          "name": "V. Panayotov"
         },
         {
           "id": "5009",
@@ -12169,20 +12105,12 @@
           "name": "D. Vasileva"
         },
         {
-          "id": "5060",
-          "name": "D. Panayotova"
-        },
-        {
           "id": "5062",
           "name": "D. Vancheva"
         },
         {
           "id": "15823",
           "name": "K. Veselinova"
-        },
-        {
-          "id": "5106",
-          "name": "K. Midileva"
         },
         {
           "id": "5130",
@@ -12199,10 +12127,6 @@
         {
           "id": "5176",
           "name": "P. Hristova"
-        },
-        {
-          "id": "12459",
-          "name": "V. Prodanova"
         },
         {
           "id": "5248",
@@ -12426,10 +12350,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "4988",
-          "name": "A. Aptali"
-        },
-        {
           "id": "15872",
           "name": "A. Velinov"
         },
@@ -12466,16 +12386,8 @@
           "name": "G. Aleksiev"
         },
         {
-          "id": "5241",
-          "name": "H. Ivanov"
-        },
-        {
           "id": "10347",
           "name": "I. Enchev"
-        },
-        {
-          "id": "5083",
-          "name": "I. Ignatov"
         },
         {
           "id": "5078",
@@ -12490,10 +12402,6 @@
           "name": "K. Kyosev"
         },
         {
-          "id": "5126",
-          "name": "L. Hristozov"
-        },
-        {
           "id": "5129",
           "name": "M. Manchev"
         },
@@ -12504,14 +12412,6 @@
         {
           "id": "5153",
           "name": "M. Lyutov"
-        },
-        {
-          "id": "7133",
-          "name": "N. Valchanov"
-        },
-        {
-          "id": "5173",
-          "name": "P. Pavlov"
         },
         {
           "id": "15888",
@@ -12560,10 +12460,6 @@
         {
           "id": "5020",
           "name": "V. Angelov"
-        },
-        {
-          "id": "5019",
-          "name": "V. Zhelev"
         },
         {
           "id": "7652",
@@ -12908,10 +12804,6 @@
           "name": "A. Shoilev"
         },
         {
-          "id": "4973",
-          "name": "A. Kralev"
-        },
-        {
           "id": "15991",
           "name": "A. Dimitrov"
         },
@@ -13006,10 +12898,6 @@
         {
           "id": "15874",
           "name": "V. Gospodinov"
-        },
-        {
-          "id": "5691",
-          "name": "V. Todorova"
         },
         {
           "id": "16035",
@@ -14003,10 +13891,6 @@
           "name": "H. Minkov"
         },
         {
-          "id": "5241",
-          "name": "H. Ivanov"
-        },
-        {
           "id": "5289",
           "name": "I. Nikolova"
         },
@@ -14107,10 +13991,6 @@
           "name": "K. Singh"
         },
         {
-          "id": "5126",
-          "name": "L. Hristozov"
-        },
-        {
           "id": "5125",
           "name": "L. Manov"
         },
@@ -14209,10 +14089,6 @@
         {
           "id": "16015",
           "name": "N. Sali"
-        },
-        {
-          "id": "5163",
-          "name": "N. Shterev"
         },
         {
           "id": "8295",
@@ -69474,7 +69350,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1734358934_1720967384_GROUPE.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1734358935_1720967384_GROUPE.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "47 months, 29 days",
+      "certification_duration": "47 months, 30 days",
       "custom_field_2": "Airline",
       "custom_field_4": "4",
       "custom_field_5": "Air France/KLM",
@@ -69508,7 +69384,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720967382_GROUPE.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720967383_GROUPE.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "47 months, 29 days",
+      "certification_duration": "47 months, 30 days",
       "custom_field_2": "Airline",
       "custom_field_4": "2",
       "custom_field_5": "AF / KLM",
@@ -74370,7 +74246,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863132_istockphoto-694861450-640x640.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863133_istockphoto-694861450-640x640.png",
       "certification": "BG Certificate Refresher",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "4",
       "custom_field_5": "Goldair Handling",
@@ -74438,7 +74314,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863132_istockphoto-694861450-640x640.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863133_istockphoto-694861450-640x640.png",
       "certification": "BG Certificate Refresher",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "4",
       "custom_field_5": "Goldair Handling",
@@ -74506,7 +74382,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863132_istockphoto-694861450-640x640.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720863133_istockphoto-694861450-640x640.png",
       "certification": "BG Certificate Refresher",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "4",
       "custom_field_5": "Goldair Handling",
@@ -75934,7 +75810,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720944183_ssg.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720944184_ssg.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Other",
       "custom_field_4": "18",
       "custom_field_5": "HCAA",
@@ -75968,7 +75844,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1781096923_ICAO-cargo-security_1.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1781096925_ICAO-cargo-security_1.png",
       "certification": "GR Certificate Refresher",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "3",
       "custom_field_5": "Goldair Handling",
@@ -76648,7 +76524,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498276_1.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498277_1.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 28 days",
+      "certification_duration": "59 months, 29 days",
       "custom_field_2": "Compliance",
       "custom_field_4": "6",
       "custom_field_5": "DCA",
@@ -77294,7 +77170,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498276_1.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498277_1.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 28 days",
+      "certification_duration": "59 months, 29 days",
       "custom_field_2": "Compliance",
       "custom_field_4": "6",
       "custom_field_5": "DCA",
@@ -77736,7 +77612,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498276_1.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498277_1.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 28 days",
+      "certification_duration": "59 months, 29 days",
       "custom_field_2": "Other",
       "custom_field_4": "40",
       "custom_field_5": "DCA Approved Training Center",
@@ -79062,7 +78938,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498276_1.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1766498277_1.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 28 days",
+      "certification_duration": "59 months, 29 days",
       "custom_field_2": "Compliance",
       "custom_field_4": "40",
       "custom_field_5": "DCA Approved Training Center",
@@ -85080,7 +84956,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720960928_FireSafety-1-e1617273831139.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720960929_FireSafety-1-e1617273831139.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Airport",
       "custom_field_4": "4",
       "custom_field_5": "Fire Department",
@@ -92526,7 +92402,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720961439_Year-of-Aviation-Security-Culture.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1720961440_Year-of-Aviation-Security-Culture.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Other",
       "custom_field_4": "4",
       "custom_field_5": "Airport Operator",
@@ -92730,7 +92606,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
       "certification": "GR Certificate for Initial and Requalification",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Other",
       "custom_field_4": "12",
       "custom_field_5": "HCAA",
@@ -94430,7 +94306,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1763810513_T8FGBL.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1763810515_T8FGBL.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "General",
       "custom_field_4": "",
       "custom_field_5": "external",
@@ -95008,7 +94884,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769440858_sXoWjU.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769440859_sXoWjU.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "General",
       "custom_field_4": "",
       "custom_field_5": "External",
@@ -95042,7 +94918,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441028_images.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441029_images.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "",
       "custom_field_5": "External",
@@ -95076,7 +94952,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441052_images.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441054_images.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "Critical",
       "custom_field_4": "",
       "custom_field_5": "External",
@@ -95110,7 +94986,7 @@
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441106_4dqayt.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1769441107_4dqayt.png",
       "certification": "EXTERNAL CERTIFICATE",
-      "certification_duration": "59 months, 29 days",
+      "certification_duration": "59 months, 30 days",
       "custom_field_2": "General",
       "custom_field_4": "",
       "custom_field_5": "External",
