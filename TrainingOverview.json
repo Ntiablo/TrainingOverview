@@ -2986,36 +2986,36 @@
           "name": "\u0392. \u039A\u039F\u039B\u039B\u0399\u0391"
         },
         {
-          "id": "3653",
-          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "10488",
           "name": "\u0393. \u039A\u03A1\u0399\u03A4\u03A3\u03A9\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3304",
-          "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "4754",
-          "name": "\u0395. \u03A0\u03A1\u039F\u0392\u0399\u0394\u039F\u03A5"
-        },
-        {
-          "id": "11604",
-          "name": "\u0395. \u039D\u039F\u03A5\u03A3\u0397"
+          "id": "3653",
+          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3284",
           "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u039F\u03A5"
         },
         {
-          "id": "3646",
-          "name": "\u0395. \u039C\u0391\u0393\u0399\u0391\u03A6\u0397"
+          "id": "3304",
+          "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "11604",
+          "name": "\u0395. \u039D\u039F\u03A5\u03A3\u0397"
+        },
+        {
+          "id": "4754",
+          "name": "\u0395. \u03A0\u03A1\u039F\u0392\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "3283",
           "name": "\u0395. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397"
+        },
+        {
+          "id": "3646",
+          "name": "\u0395. \u039C\u0391\u0393\u0399\u0391\u03A6\u0397"
         },
         {
           "id": "3634",
@@ -3050,16 +3050,16 @@
           "name": "\u0398. \u039C\u03A0\u0399\u03A4\u039F\u03A5\u039D\u0397"
         },
         {
-          "id": "4477",
-          "name": "\u0399. \u039A\u0391\u039C\u03A0\u0399\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3662",
           "name": "\u0399. \u03A6\u0391\u039A\u0399\u039F\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3108",
           "name": "\u0399. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039F\u03A3"
+        },
+        {
+          "id": "4477",
+          "name": "\u0399. \u039A\u0391\u039C\u03A0\u0399\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3617",
@@ -3080,10 +3080,6 @@
         {
           "id": "13382",
           "name": "\u039C. \u039C\u03A5\u039B\u03A9\u039D\u0391\u039A\u0397"
-        },
-        {
-          "id": "4756",
-          "name": "\u039C. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0391\u039A\u0397"
         },
         {
           "id": "4921",
@@ -3792,12 +3788,12 @@
           "name": "\u0393. \u039A\u03A1\u0399\u03A4\u03A3\u03A9\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3653",
-          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "11677",
           "name": "\u0393. \u039A\u03A1\u0399\u03A0\u0399\u039D\u03A4\u0399\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "3653",
+          "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "11246",
@@ -3856,16 +3852,12 @@
           "name": "\u039C. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "4756",
-          "name": "\u039C. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "3971",
           "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u0391\u039A\u0397"
         },
         {
-          "id": "5518",
-          "name": "\u039C. \u03A0\u039F\u03A5\u039B\u0399\u039D\u0391\u039A\u0397"
+          "id": "3688",
+          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "3661",
@@ -3880,16 +3872,16 @@
           "name": "\u039C. \u03A6\u03A1\u0391\u0393\u039A\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
-          "id": "3213",
-          "name": "\u039C. \u03A3\u03A0\u03A5\u03A1\u0391\u03A4\u039F\u03A5"
-        },
-        {
           "id": "3684",
           "name": "\u039C. \u039C\u0391\u039A\u03A1\u03A5\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
         },
         {
-          "id": "3688",
-          "name": "\u039C. \u03A0\u0395\u03A4\u03A1\u0391\u039A\u0397"
+          "id": "3213",
+          "name": "\u039C. \u03A3\u03A0\u03A5\u03A1\u0391\u03A4\u039F\u03A5"
+        },
+        {
+          "id": "5518",
+          "name": "\u039C. \u03A0\u039F\u03A5\u039B\u0399\u039D\u0391\u039A\u0397"
         },
         {
           "id": "12227",
@@ -3922,10 +3914,6 @@
         {
           "id": "4837",
           "name": "\u039C. \u0392\u03A5\u0398\u039F\u03A5\u039B\u039A\u0391"
-        },
-        {
-          "id": "4607",
-          "name": "\u03A0. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391"
         },
         {
           "id": "9285",
@@ -4567,10 +4555,6 @@
         {
           "id": "4921",
           "name": "\u039C. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
-          "id": "4756",
-          "name": "\u039C. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0391\u039A\u0397"
         },
         {
           "id": "5518",
@@ -6118,16 +6102,16 @@
           "name": "\u0393. \u03A7\u03A1\u039F\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "1062",
-          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+          "id": "308",
+          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "944",
           "name": "\u0393. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "308",
-          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+          "id": "1062",
+          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "966",
@@ -6148,10 +6132,6 @@
         {
           "id": "158",
           "name": "\u039B. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u039F\u03A5"
-        },
-        {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "1056",
@@ -6235,10 +6215,6 @@
         {
           "id": "1004",
           "name": "\u0391. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u03A6\u039F\u03A1\u039F\u03A5-\u03A4\u03A3\u0395\u03A3\u039C\u0395\u039B\u0397"
-        },
-        {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
         },
         {
           "id": "1078",
@@ -6364,16 +6340,16 @@
           "name": "\u0393. \u039B\u0391\u0394\u0391\u03A3"
         },
         {
-          "id": "1114",
-          "name": "\u0393. \u0394\u039F\u03A5\u039A\u0391\u03A3"
+          "id": "1062",
+          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "5636",
           "name": "\u0393. \u039D\u03A4\u0395\u039B\u0395\u03A1\u039D\u039F"
         },
         {
-          "id": "1062",
-          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+          "id": "1114",
+          "name": "\u0393. \u0394\u039F\u03A5\u039A\u0391\u03A3"
         },
         {
           "id": "966",
@@ -6398,10 +6374,6 @@
         {
           "id": "954",
           "name": "\u039C. \u039C\u03A0\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
-        },
-        {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "1018",
@@ -6582,24 +6554,24 @@
           "name": "\u0395. \u039A\u0391\u03A4\u039C\u0391\u0394\u0391"
         },
         {
-          "id": "5386",
-          "name": "\u0397. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "1010",
           "name": "\u0397. \u0391\u039D\u0398\u0397\u03A3"
+        },
+        {
+          "id": "5386",
+          "name": "\u0397. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3982",
           "name": "\u039A. \u039A\u03A5\u03A1\u0399\u0391\u039A\u0399\u0394\u0397\u03A3\u00A0"
         },
         {
-          "id": "1083",
-          "name": "\u039A. \u039D\u0391\u039F\u03A5\u039C\u0397\u03A3"
-        },
-        {
           "id": "962",
           "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
+        },
+        {
+          "id": "1083",
+          "name": "\u039A. \u039D\u0391\u039F\u03A5\u039C\u0397\u03A3"
         },
         {
           "id": "1117",
@@ -6610,10 +6582,6 @@
           "name": "\u039B. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u039F\u03A5"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "954",
           "name": "\u039C. \u039C\u03A0\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
@@ -6622,12 +6590,12 @@
           "name": "\u039C. \u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
         {
-          "id": "1077",
-          "name": "\u03A0. \u0393\u0391\u0392\u0391\u039B\u0391\u03A3"
-        },
-        {
           "id": "950",
           "name": "\u03A0. \u0391\u039B\u0395\u039E\u0397\u03A3"
+        },
+        {
+          "id": "1077",
+          "name": "\u03A0. \u0393\u0391\u0392\u0391\u039B\u0391\u03A3"
         },
         {
           "id": "4795",
@@ -6691,10 +6659,6 @@
         {
           "id": "925",
           "name": "\u0391. \u03A1\u0399\u0393\u0393\u0391\u03A3"
-        },
-        {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
         },
         {
           "id": "177",
@@ -6908,28 +6872,28 @@
           "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "1062",
-          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+          "id": "362",
+          "name": "\u0393. \u03A7\u03A1\u0397\u03A3\u03A4\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "220",
           "name": "\u0393. \u039B\u039F\u03A5\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "362",
-          "name": "\u0393. \u03A7\u03A1\u0397\u03A3\u03A4\u0399\u0394\u0397\u03A3"
+          "id": "1062",
+          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "2853",
-          "name": "\u0394. \u03A4\u039F\u03A5\u039D\u03A4\u0391"
+          "id": "1040",
+          "name": "\u0394. \u0394\u03A1\u0391\u039C\u0397\u03A4\u0399\u039D\u039F\u03A5"
         },
         {
           "id": "3859",
           "name": "\u0394. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
         },
         {
-          "id": "1040",
-          "name": "\u0394. \u0394\u03A1\u0391\u039C\u0397\u03A4\u0399\u039D\u039F\u03A5"
+          "id": "2853",
+          "name": "\u0394. \u03A4\u039F\u03A5\u039D\u03A4\u0391"
         },
         {
           "id": "102",
@@ -6960,6 +6924,10 @@
           "name": "\u0395. \u039C\u03A0\u0391\u03A3\u0399\u039F"
         },
         {
+          "id": "2211",
+          "name": "\u0397. \u039B\u039F\u03A5\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
           "id": "3817",
           "name": "\u0398. \u039A\u039F\u03A5\u0394\u039F\u03A5\u039D\u0391"
         },
@@ -6968,20 +6936,20 @@
           "name": "\u0398. \u0398\u0395\u039F\u03A6\u0391\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "326",
-          "name": "\u0399. \u03A4\u03A3\u0391\u0393\u039A\u0391\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "4141",
-          "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
-        },
-        {
           "id": "5938",
           "name": "\u0399. \u03A4\u0391\u03A3\u039A\u039F\u03A3"
         },
         {
           "id": "975",
           "name": "\u0399. \u0398\u0395\u039F\u0394\u03A9\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "4141",
+          "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
+        },
+        {
+          "id": "326",
+          "name": "\u0399. \u03A4\u03A3\u0391\u0393\u039A\u0391\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "1082",
@@ -6996,10 +6964,6 @@
           "name": "\u039A. \u03A7\u0391\u03A1\u03A7\u0391\u039D\u03A4\u0397"
         },
         {
-          "id": "980",
-          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "4062",
           "name": "\u039A. \u039D\u03A4\u0391\u03A3\u039A\u0391\u03A3"
         },
@@ -7008,24 +6972,36 @@
           "name": "\u039A. \u039C\u03A0\u039F\u03A5\u0396\u0399\u0391\u039D\u039F\u03A3"
         },
         {
-          "id": "962",
-          "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
-        },
-        {
           "id": "984",
           "name": "\u039A. \u03A4\u03A3\u0391\u0393\u039A\u0391\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "988",
-          "name": "\u039A. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u0393\u039B\u039F\u03A5"
+          "id": "3700",
+          "name": "\u039A. \u039C\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
+          "id": "8397",
+          "name": "\u039A. \u03A6\u0399\u039D\u0395\u03A3"
+        },
+        {
+          "id": "2418",
+          "name": "\u039A. \u039C\u03A0\u039F\u03A5\u0394\u03A1\u039F\u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
         {
           "id": "345",
           "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
         },
         {
-          "id": "3700",
-          "name": "\u039A. \u039C\u039F\u03A5\u039B\u0391\u03A3"
+          "id": "980",
+          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "962",
+          "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
+        },
+        {
+          "id": "988",
+          "name": "\u039A. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "3295",
@@ -7036,6 +7012,10 @@
           "name": "\u039C. \u039A\u039B\u0391\u03A5\u0394\u0399\u0391\u039D\u039F\u03A5-\u03A3\u0391\u039F\u03A5\u03A4\u03A3\u0397"
         },
         {
+          "id": "243",
+          "name": "\u039C. \u039C\u03A0\u0391\u03A1\u039C\u03A0\u039F\u03A5\u03A4\u0397"
+        },
+        {
           "id": "1122",
           "name": "\u039C. \u0398\u0391\u039D\u0391\u03A3\u0395\u039B\u039F\u03A5"
         },
@@ -7044,12 +7024,8 @@
           "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
-          "id": "243",
-          "name": "\u039C. \u039C\u03A0\u0391\u03A1\u039C\u03A0\u039F\u03A5\u03A4\u0397"
+          "id": "7933",
+          "name": "\u039C. \u039A\u0395\u03A1\u0391\u039C\u0391\u03A1\u0397"
         },
         {
           "id": "8610",
@@ -7068,12 +7044,12 @@
           "name": "\u039D. \u03A7\u0391\u03A4\u0396\u0397\u03A4\u0396\u0391\u039D\u039F\u03A5"
         },
         {
-          "id": "1068",
-          "name": "\u039D. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0397\u03A3"
-        },
-        {
           "id": "987",
           "name": "\u039D. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "1068",
+          "name": "\u039D. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0397\u03A3"
         },
         {
           "id": "990",
@@ -7088,16 +7064,16 @@
           "name": "\u03A0. \u039B\u0395\u0392\u0395\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
+          "id": "950",
+          "name": "\u03A0. \u0391\u039B\u0395\u039E\u0397\u03A3"
+        },
+        {
           "id": "1077",
           "name": "\u03A0. \u0393\u0391\u0392\u0391\u039B\u0391\u03A3"
         },
         {
           "id": "974",
           "name": "\u03A0. \u039A\u039F\u03A5\u03A4\u03A1\u039F\u03A4\u03A3\u0399\u039F\u03A3"
-        },
-        {
-          "id": "950",
-          "name": "\u03A0. \u0391\u039B\u0395\u039E\u0397\u03A3"
         },
         {
           "id": "1031",
@@ -7116,16 +7092,24 @@
           "name": "\u03A0. \u039A\u03A5\u03A1\u039B\u039F\u0393\u039B\u039F\u03A5"
         },
         {
+          "id": "9012",
+          "name": "\u03A0. \u039C\u0397\u03A4\u03A1\u039F\u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
+        },
+        {
           "id": "195",
           "name": "\u03A3. \u039A\u039B\u0395\u0399\u03A3\u039F\u03A5\u03A1\u0397\u03A3"
         },
         {
-          "id": "309",
-          "name": "\u03A3. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "997",
           "name": "\u03A3. \u0393\u03A1\u0391\u039C\u039C\u0395\u039D\u039F\u03A3"
+        },
+        {
+          "id": "4795",
+          "name": "\u03A3. \u0393\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "309",
+          "name": "\u03A3. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "934",
@@ -7148,12 +7132,12 @@
           "name": "\u03A7. \u03A7\u039F\u03A5\u0393\u0399\u0391\u0396\u039F\u03A3"
         },
         {
-          "id": "1110",
-          "name": "\u03A7. \u03A0\u03A1\u0395\u039A\u0391\u03A3"
-        },
-        {
           "id": "953",
           "name": "\u03A7. \u03A4\u03A3\u0395\u03A0\u0391\u03A3"
+        },
+        {
+          "id": "1110",
+          "name": "\u03A7. \u03A0\u03A1\u0395\u039A\u0391\u03A3"
         }
       ],
       "courses": [
@@ -7745,6 +7729,10 @@
           "name": "\u0399. \u039C\u0399\u03A7\u0391\u0397\u039B\u0399\u0394\u039F\u03A5"
         },
         {
+          "id": "4905",
+          "name": "\u0399. \u0398\u0391\u03A4\u03A3\u0399"
+        },
+        {
           "id": "2340",
           "name": "\u0399. \u03A3\u03A4\u0391\u039C\u039F\u03A3"
         },
@@ -8201,10 +8189,6 @@
           "name": "S. MAAN"
         },
         {
-          "id": "1386",
-          "name": "V. GEGAJ"
-        },
-        {
           "id": "1840",
           "name": "\u0391. \u03A6\u039F\u03A5\u039D\u03A4\u0391"
         },
@@ -8515,10 +8499,6 @@
         {
           "id": "5280",
           "name": "\u0397. \u039D\u03A4\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
-        },
-        {
-          "id": "1037",
-          "name": "\u0397. \u0391\u03A1\u0391\u0392\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "185",
@@ -9144,8 +9124,8 @@
     },
     {
       "id": "254",
-      "name": "BG/GSE-MTC",
-      "description": "GSE Maintenance Department",
+      "name": "BG/GSE-MTC (BG)",
+      "description": "GSE Maintenance Department (BG)",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4555",
@@ -9307,10 +9287,6 @@
           "name": "J. Zlatanov"
         },
         {
-          "id": "10355",
-          "name": "K. Georgiev"
-        },
-        {
           "id": "7010",
           "name": "K. Kyosev"
         },
@@ -9337,10 +9313,6 @@
         {
           "id": "5186",
           "name": "P. Penchev"
-        },
-        {
-          "id": "10354",
-          "name": "S. Seferinkin"
         },
         {
           "id": "7049",
@@ -9410,12 +9382,28 @@
           "name": "A. Petrova"
         },
         {
+          "id": "11474",
+          "name": "D. Chekov"
+        },
+        {
           "id": "5289",
           "name": "I. Nikolova"
         },
         {
+          "id": "13286",
+          "name": "J. Jamil"
+        },
+        {
+          "id": "4550",
+          "name": "K. Stoyanov"
+        },
+        {
           "id": "5125",
           "name": "L. Manov"
+        },
+        {
+          "id": "10559",
+          "name": "M. Erich"
         },
         {
           "id": "8295",
@@ -9438,12 +9426,24 @@
           "name": "T. Ivanov"
         },
         {
+          "id": "16031",
+          "name": "V. Ivanov"
+        },
+        {
+          "id": "16032",
+          "name": "V. Tsvetkova"
+        },
+        {
           "id": "5018",
           "name": "V. Dineva"
         },
         {
           "id": "5028",
           "name": "V. Ivanova"
+        },
+        {
+          "id": "16035",
+          "name": "Y. Dimitrov"
         }
       ],
       "courses": [
@@ -10713,60 +10713,6 @@
       ]
     },
     {
-      "id": "271",
-      "name": "BG/PAX-LL-SPV",
-      "description": "Lost\u0026Found Supervisor",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [],
-      "courses": [
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "1267",
-          "name": "BG/Baggage Tracing - Initial (BG/GHB-BGTR (I))"
-        },
-        {
-          "id": "878",
-          "name": "BG/Cybersecurity Fundamentals {BG} (BG/GHB-CYBR (BG))"
-        },
-        {
-          "id": "904",
-          "name": "BG/DGR for Passenger Handling Personnel - Initial (BG/GHB-DGR5 (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "897",
-          "name": "BG/General Data Protection Regulation {BG} (BG/GHB-GDPR (BG))"
-        },
-        {
-          "id": "1290",
-          "name": "BG/Lost and Found Agent On the Job Training (BG/OTJ-LANF)"
-        },
-        {
-          "id": "908",
-          "name": "BG/Passenger Assistance and PRM {EN} (BG/GHB-DISA (EN))"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        },
-        {
-          "id": "1323",
-          "name": "BG/Security Training Module 11 Baggage Reconciliation - Initial (BG/GHB-S011 (I))"
-        }
-      ]
-    },
-    {
       "id": "247",
       "name": "BG/PAX-SALES",
       "description": "SALES Agents",
@@ -10777,6 +10723,10 @@
       "max_redemptions": null,
       "redemptions_sofar": null,
       "users": [
+        {
+          "id": "4969",
+          "name": "A. Hristova"
+        },
         {
           "id": "4978",
           "name": "A. Kantardzieva"
@@ -10866,64 +10816,9 @@
       ]
     },
     {
-      "id": "269",
-      "name": "BG/PAX-SALES-SPV",
-      "description": "Sales Supervisor",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "4969",
-          "name": "A. Hristova"
-        }
-      ],
-      "courses": [
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "878",
-          "name": "BG/Cybersecurity Fundamentals {BG} (BG/GHB-CYBR (BG))"
-        },
-        {
-          "id": "904",
-          "name": "BG/DGR for Passenger Handling Personnel - Initial (BG/GHB-DGR5 (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "897",
-          "name": "BG/General Data Protection Regulation {BG} (BG/GHB-GDPR (BG))"
-        },
-        {
-          "id": "912",
-          "name": "BG/Live Animal Regulations for Passenger Handling Personnel {EN} (BG/GHB-LARP (EN))"
-        },
-        {
-          "id": "908",
-          "name": "BG/Passenger Assistance and PRM {EN} (BG/GHB-DISA (EN))"
-        },
-        {
-          "id": "1292",
-          "name": "BG/Sales Desk Agent On the Job Training (BG/OTJ-SALE)"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        }
-      ]
-    },
-    {
       "id": "246",
-      "name": "BG/RMP-AC LOADER",
-      "description": "Aircraft Loaders",
+      "name": "BG/RMP-AC LOADER (BG)",
+      "description": "Aircraft Loaders (BG)",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4555",
@@ -10960,8 +10855,16 @@
           "name": "B. Nikolov"
         },
         {
+          "id": "4993",
+          "name": "B. Nenov"
+        },
+        {
           "id": "12196",
           "name": "B. Gergov"
+        },
+        {
+          "id": "5004",
+          "name": "B. Tchinkov"
         },
         {
           "id": "15822",
@@ -10976,12 +10879,28 @@
           "name": "D. Mihailov"
         },
         {
+          "id": "5054",
+          "name": "D. Dinchev"
+        },
+        {
+          "id": "5055",
+          "name": "D. Videnov"
+        },
+        {
+          "id": "5037",
+          "name": "G. Kavrakov"
+        },
+        {
           "id": "5032",
           "name": "G. Krastev"
         },
         {
           "id": "5040",
           "name": "G. Ilchev"
+        },
+        {
+          "id": "5041",
+          "name": "G. Kakachki"
         },
         {
           "id": "5044",
@@ -11004,10 +10923,6 @@
           "name": "I. Hadjipetkov"
         },
         {
-          "id": "16034",
-          "name": "I. Damyanov"
-        },
-        {
           "id": "5080",
           "name": "J. Shumanov"
         },
@@ -11026,6 +10941,10 @@
         {
           "id": "7018",
           "name": "M. Angelov"
+        },
+        {
+          "id": "5140",
+          "name": "M. Petrov"
         },
         {
           "id": "7021",
@@ -11048,6 +10967,10 @@
           "name": "N. Atanasov"
         },
         {
+          "id": "5170",
+          "name": "N. Tomov"
+        },
+        {
           "id": "5195",
           "name": "R. Dimitrov"
         },
@@ -11056,8 +10979,16 @@
           "name": "R. Hadji"
         },
         {
+          "id": "5196",
+          "name": "R. Subev"
+        },
+        {
           "id": "5231",
           "name": "T. Stoimenov"
+        },
+        {
+          "id": "5233",
+          "name": "T. Bekov"
         },
         {
           "id": "5009",
@@ -11070,6 +11001,10 @@
         {
           "id": "13285",
           "name": "V. Kochev"
+        },
+        {
+          "id": "5079",
+          "name": "Z. Dimov"
         }
       ],
       "courses": [
@@ -11341,114 +11276,15 @@
           "name": "BG/Security Training Module 11 Baggage Reconciliation - Initial (BG/GHB-S011 (I))"
         },
         {
-          "id": "1671",
-          "name": "BG/Wizz Air Back of House Training - Initial (BG/AIR-W6/BOH (I))"
-        }
-      ]
-    },
-    {
-      "id": "270",
-      "name": "BG/RMP-AC LOADER-SPV",
-      "description": "Aircraft loader Supervisors",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "4993",
-          "name": "B. Nenov"
-        },
-        {
-          "id": "5004",
-          "name": "B. Tchinkov"
-        },
-        {
-          "id": "5054",
-          "name": "D. Dinchev"
-        },
-        {
-          "id": "5055",
-          "name": "D. Videnov"
-        },
-        {
-          "id": "5037",
-          "name": "G. Kavrakov"
-        },
-        {
-          "id": "5041",
-          "name": "G. Kakachki"
-        },
-        {
-          "id": "5140",
-          "name": "M. Petrov"
-        },
-        {
-          "id": "5170",
-          "name": "N. Tomov"
-        },
-        {
-          "id": "5196",
-          "name": "R. Subev"
-        },
-        {
-          "id": "5233",
-          "name": "T. Bekov"
-        },
-        {
-          "id": "5079",
-          "name": "Z. Dimov"
-        }
-      ],
-      "courses": [
-        {
-          "id": "1286",
-          "name": "BG/Aircraft Loader On the Job Training (BG/OTJ-ACLO)"
-        },
-        {
-          "id": "1279",
-          "name": "BG/Aircraft Loading and Handling / GSE Operation L2 - Initial (BG/GHB-ACHL (I))"
-        },
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "902",
-          "name": "BG/DGR for Ramp and Warehouse Personnel - Initial (BG/GHB-DGR4 (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "1313",
-          "name": "BG/Live Animal Regulations for Aircraft Loaders/Operators {BG} (BG/GHB-LARA (BG))"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        },
-        {
-          "id": "1323",
-          "name": "BG/Security Training Module 11 Baggage Reconciliation - Initial (BG/GHB-S011 (I))"
-        },
-        {
           "id": "1321",
           "name": "BG/Security Training Module 9 Aircraft Protection - Initial (BG/GHB-S009 (I))"
-        },
-        {
-          "id": "1671",
-          "name": "BG/Wizz Air Back of House Training - Initial (BG/AIR-W6/BOH (I))"
         }
       ]
     },
     {
       "id": "248",
-      "name": "BG/RMP-CBN CLEAN",
-      "description": "Aircraft cleaning staff",
+      "name": "BG/RMP-CBN CLEAN (BG)",
+      "description": "Aircraft cleaning staff (BG)",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4555",
@@ -11487,6 +11323,10 @@
         {
           "id": "5176",
           "name": "P. Hristova"
+        },
+        {
+          "id": "5188",
+          "name": "P. Yordanova"
         },
         {
           "id": "5248",
@@ -11660,48 +11500,9 @@
       ]
     },
     {
-      "id": "272",
-      "name": "BG/RMP-CBN CLEAN-SPV",
-      "description": "Aircraft cabin cleaning Supervisor",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "5188",
-          "name": "P. Yordanova"
-        }
-      ],
-      "courses": [
-        {
-          "id": "1285",
-          "name": "BG/Aircraft Cleaner On the Job Training (BG/OTJ-ACCL)"
-        },
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "1281",
-          "name": "BG/Cabin Cleaning - Initial (BG/GHB-CBCL (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        }
-      ]
-    },
-    {
       "id": "255",
-      "name": "BG/RMP-DRIVERS",
-      "description": "Passengers BUS Drivers",
+      "name": "BG/RMP-DRIVERS (BG)",
+      "description": "Passengers BUS Drivers (BG)",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4555",
@@ -11709,10 +11510,6 @@
       "max_redemptions": null,
       "redemptions_sofar": null,
       "users": [
-        {
-          "id": "15872",
-          "name": "A. Velinov"
-        },
         {
           "id": "15810",
           "name": "A. Lumbev"
@@ -11720,6 +11517,10 @@
         {
           "id": "6984",
           "name": "A. Nenkov"
+        },
+        {
+          "id": "5001",
+          "name": "B. Georgiev"
         },
         {
           "id": "5002",
@@ -11738,8 +11539,16 @@
           "name": "D. Vladislavov"
         },
         {
+          "id": "5035",
+          "name": "G. Georgiev"
+        },
+        {
           "id": "5034",
           "name": "G. Petkov"
+        },
+        {
+          "id": "5039",
+          "name": "G. Georgiev"
         },
         {
           "id": "5043",
@@ -11762,6 +11571,10 @@
           "name": "K. Kyosev"
         },
         {
+          "id": "5109",
+          "name": "K. Petkov"
+        },
+        {
           "id": "5129",
           "name": "M. Manchev"
         },
@@ -11774,8 +11587,16 @@
           "name": "M. Lyutov"
         },
         {
+          "id": "5155",
+          "name": "N. Mladenov"
+        },
+        {
           "id": "15888",
           "name": "P. Sergiev"
+        },
+        {
+          "id": "5186",
+          "name": "P. Penchev"
         },
         {
           "id": "5193",
@@ -11810,6 +11631,10 @@
           "name": "T. Petkov"
         },
         {
+          "id": "5010",
+          "name": "V. Sotirov"
+        },
+        {
           "id": "5012",
           "name": "V. Blagoev"
         },
@@ -11822,8 +11647,20 @@
           "name": "V. Angelov"
         },
         {
+          "id": "5022",
+          "name": "V. Kutsarov"
+        },
+        {
           "id": "7652",
           "name": "V. Dimitrov"
+        },
+        {
+          "id": "7930",
+          "name": "Y. Nikolov"
+        },
+        {
+          "id": "5097",
+          "name": "Y. Hristov"
         },
         {
           "id": "15889",
@@ -12052,81 +11889,6 @@
       ]
     },
     {
-      "id": "273",
-      "name": "BG/RMP-DRIVERS-SPV",
-      "description": "Bus driver Supervisors",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "5001",
-          "name": "B. Georgiev"
-        },
-        {
-          "id": "5035",
-          "name": "G. Georgiev"
-        },
-        {
-          "id": "5039",
-          "name": "G. Georgiev"
-        },
-        {
-          "id": "5109",
-          "name": "K. Petkov"
-        },
-        {
-          "id": "5155",
-          "name": "N. Mladenov"
-        },
-        {
-          "id": "5186",
-          "name": "P. Penchev"
-        },
-        {
-          "id": "5010",
-          "name": "V. Sotirov"
-        },
-        {
-          "id": "5022",
-          "name": "V. Kutsarov"
-        },
-        {
-          "id": "7930",
-          "name": "Y. Nikolov"
-        },
-        {
-          "id": "5097",
-          "name": "Y. Hristov"
-        }
-      ],
-      "courses": [
-        {
-          "id": "1277",
-          "name": "BG/Aircraft Loading and Handling / GSE Operation L1 - Initial (BG/GHB-ACHG (I))"
-        },
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "1288",
-          "name": "BG/GSE Operator and Bus Driver On the Job Training (BG/OTJ-GSEA)"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        }
-      ]
-    },
-    {
       "id": "419",
       "name": "BG/RMP-ICE5",
       "description": "Deicing Checker",
@@ -12150,8 +11912,8 @@
     },
     {
       "id": "258",
-      "name": "BG/RMP-RAMP AGENT",
-      "description": "Ramp Agents",
+      "name": "BG/RMP-RAMP AGENT (BG)",
+      "description": "Ramp Agents (BG)",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4555",
@@ -12166,6 +11928,14 @@
         {
           "id": "15991",
           "name": "A. Dimitrov"
+        },
+        {
+          "id": "4976",
+          "name": "A. Popov"
+        },
+        {
+          "id": "4982",
+          "name": "A. Petrova"
         },
         {
           "id": "13284",
@@ -12383,85 +12153,6 @@
         {
           "id": "1321",
           "name": "BG/Security Training Module 9 Aircraft Protection - Initial (BG/GHB-S009 (I))"
-        },
-        {
-          "id": "1671",
-          "name": "BG/Wizz Air Back of House Training - Initial (BG/AIR-W6/BOH (I))"
-        }
-      ]
-    },
-    {
-      "id": "274",
-      "name": "BG/RMP-RAMP AGENT-SPV",
-      "description": "Ramp agents supervisors",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4555",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "4976",
-          "name": "A. Popov"
-        },
-        {
-          "id": "4982",
-          "name": "A. Petrova"
-        }
-      ],
-      "courses": [
-        {
-          "id": "909",
-          "name": "BG/A/C Turnaround Coordination and Loading Supervision - Initial (BG/GHB-TCLS (I))"
-        },
-        {
-          "id": "1273",
-          "name": "BG/Airside Safety Human Factors and SMS - Initial (BG/GHB-SAFT (I))"
-        },
-        {
-          "id": "878",
-          "name": "BG/Cybersecurity Fundamentals {BG} (BG/GHB-CYBR (BG))"
-        },
-        {
-          "id": "906",
-          "name": "BG/DGR for Load Planners and Loading Supervisors - Initial (BG/GHB-DGR6 (I))"
-        },
-        {
-          "id": "1009",
-          "name": "BG/First Aid {BG} (BG/GHB-FAID (BG))"
-        },
-        {
-          "id": "897",
-          "name": "BG/General Data Protection Regulation {BG} (BG/GHB-GDPR (BG))"
-        },
-        {
-          "id": "913",
-          "name": "BG/Live Animal Regulations for Ramp Handling Personnel {EN} (BG/GHB-LARR (EN))"
-        },
-        {
-          "id": "1291",
-          "name": "BG/Ramp Agent On the Job Training (BG/OTJ-RAAG)"
-        },
-        {
-          "id": "1316",
-          "name": "BG/Security Training Module 1 Security Awareness - Initial (BG/GHB-S001 (I))"
-        },
-        {
-          "id": "1323",
-          "name": "BG/Security Training Module 11 Baggage Reconciliation - Initial (BG/GHB-S011 (I))"
-        },
-        {
-          "id": "1318",
-          "name": "BG/Security Training Module 8 Aircraft Security Search - Initial (BG/GHB-S008 (I))"
-        },
-        {
-          "id": "1321",
-          "name": "BG/Security Training Module 9 Aircraft Protection - Initial (BG/GHB-S009 (I))"
-        },
-        {
-          "id": "1671",
-          "name": "BG/Wizz Air Back of House Training - Initial (BG/AIR-W6/BOH (I))"
         }
       ]
     },
@@ -13269,10 +12960,6 @@
         {
           "id": "5084",
           "name": "I. Hadjipetkov"
-        },
-        {
-          "id": "16034",
-          "name": "I. Damyanov"
         },
         {
           "id": "13286",
@@ -16782,10 +16469,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "5545",
-          "name": "\u0392. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "4232",
           "name": "\u0395. \u039C\u0395\u03A3\u03A4\u039F\u03A5\u03A3\u0391\u039A\u0397"
         },
@@ -16812,10 +16495,6 @@
         {
           "id": "8825",
           "name": "\u039F. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u03A1\u0391\u039A\u0397"
-        },
-        {
-          "id": "6543",
-          "name": "\u03A3. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397"
         }
       ],
       "courses": [
@@ -24781,10 +24460,6 @@
           "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u0391\u039A\u0397"
         },
         {
-          "id": "4756",
-          "name": "\u039C. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "4913",
           "name": "\u039C. \u03A7\u03A5\u03A4\u0397\u03A1\u0397"
         },
@@ -25239,10 +24914,6 @@
         {
           "id": "4446",
           "name": "\u03A0. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "4607",
-          "name": "\u03A0. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391"
         },
         {
           "id": "5330",
@@ -28813,10 +28484,6 @@
           "name": "\u0397. \u039A\u0391\u03A1\u03A5\u0394\u039F\u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
         },
         {
-          "id": "1037",
-          "name": "\u0397. \u0391\u03A1\u0391\u0392\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "5596",
           "name": "\u0397. \u0391\u039D\u0391\u0393\u039D\u03A9\u03A3\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -32161,6 +31828,10 @@
           "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
+          "id": "1008",
+          "name": "Flight Services Assignment {GR} (GHT-FLSA (GR))"
+        },
+        {
           "id": "555",
           "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
         },
@@ -35049,10 +34720,6 @@
           "name": "\u0391. \u0391\u0393\u0393\u039F\u03A5"
         },
         {
-          "id": "924",
-          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
-        },
-        {
           "id": "1062",
           "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -35061,12 +34728,16 @@
           "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "938",
-          "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
+          "id": "924",
+          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
         },
         {
           "id": "303",
           "name": "\u0393. \u03A3\u0399\u039C\u0399\u03A4\u03A3\u0397\u03A3"
+        },
+        {
+          "id": "938",
+          "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "9713",
@@ -35101,20 +34772,16 @@
           "name": "\u039A. \u039A\u0391\u03A1\u0391\u0393\u0395\u03A9\u03A1\u0393\u0397\u03A3"
         },
         {
-          "id": "988",
-          "name": "\u039A. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
           "id": "962",
           "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
         },
         {
-          "id": "158",
-          "name": "\u039B. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u039F\u03A5"
+          "id": "988",
+          "name": "\u039A. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
+          "id": "158",
+          "name": "\u039B. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u039F\u03A5"
         },
         {
           "id": "8610",
@@ -35897,10 +35564,6 @@
           "name": "\u0391. \u039A\u0391\u0396\u0391\u039D\u03A4\u0396\u0397\u03A3"
         },
         {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "6248",
           "name": "\u0391. \u0391\u03A3\u039B\u0391\u039C\u0391\u03A4\u0396\u0399\u0394\u0397\u03A3"
         },
@@ -36269,10 +35932,6 @@
           "name": "\u0398. \u03A4\u03A3\u0391\u039A\u0399\u03A1\u0397\u03A3"
         },
         {
-          "id": "15990",
-          "name": "\u0398. \u039D\u0391\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "12559",
           "name": "\u0399. \u03A0\u03A1\u03A9\u03A4\u039F\u039B\u0391\u03A4\u0397\u03A3"
         },
@@ -36507,6 +36166,10 @@
         {
           "id": "16028",
           "name": "\u039C. \u039A\u039F\u03A1\u03A1\u0395"
+        },
+        {
+          "id": "187",
+          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "1018",
@@ -36988,12 +36651,12 @@
           "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "5636",
-          "name": "\u0393. \u039D\u03A4\u0395\u039B\u0395\u03A1\u039D\u039F"
-        },
-        {
           "id": "308",
           "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "5636",
+          "name": "\u0393. \u039D\u03A4\u0395\u039B\u0395\u03A1\u039D\u039F"
         },
         {
           "id": "346",
@@ -37014,10 +36677,6 @@
         {
           "id": "158",
           "name": "\u039B. \u0395\u03A5\u0391\u0393\u0393\u0395\u039B\u039F\u03A5"
-        },
-        {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "1077",
@@ -37217,52 +36876,52 @@
           "name": "\u0392. \u03A4\u03A3\u0399\u03A1\u03A9\u039D\u0397"
         },
         {
-          "id": "938",
-          "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
-          "id": "3018",
-          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "308",
-          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "3303",
-          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039C\u0391\u039D\u03A9\u039B\u0397\u03A3"
+          "id": "924",
+          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
         },
         {
           "id": "872",
           "name": "\u0393. \u039A\u0391\u03A3\u0391\u039C\u03A0\u0391\u03A3"
         },
         {
-          "id": "263",
-          "name": "\u0393. \u03A0\u0391\u039D\u03A4\u0395\u039B\u0399\u03A9\u0394\u0397\u03A3"
+          "id": "3303",
+          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039C\u0391\u039D\u03A9\u039B\u0397\u03A3"
         },
         {
-          "id": "924",
-          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
+          "id": "3018",
+          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "263",
+          "name": "\u0393. \u03A0\u0391\u039D\u03A4\u0395\u039B\u0399\u03A9\u0394\u0397\u03A3"
         },
         {
           "id": "363",
           "name": "\u0393. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
+          "id": "938",
+          "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "308",
+          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
           "id": "985",
           "name": "\u0394. \u0393\u039A\u0391\u03A1\u0391\u0393\u039A\u039F\u03A5\u039D\u0397"
         },
         {
-          "id": "3247",
-          "name": "\u0394. \u039C\u03A0\u03A1\u0399\u03A4\u0396\u039F\u039B\u0391\u039A\u0397\u03A3"
+          "id": "966",
+          "name": "\u0394. \u03A0\u0391\u03A3\u03A3\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "102",
           "name": "\u0394. \u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "966",
-          "name": "\u0394. \u03A0\u0391\u03A3\u03A3\u0391\u03A1\u0397\u03A3"
+          "id": "3247",
+          "name": "\u0394. \u039C\u03A0\u03A1\u0399\u03A4\u0396\u039F\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "226",
@@ -37361,12 +37020,12 @@
           "name": "\u039A. \u0392\u0391\u039B\u03A4\u0395\u03A3\u0397\u039D\u0399\u03A9\u03A4\u0397"
         },
         {
-          "id": "980",
-          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3289",
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "980",
+          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "984",
@@ -37381,20 +37040,16 @@
           "name": "\u039C. \u03A4\u03A3\u0399\u039A\u039F\u03A5\u0394\u0391\u039A\u0397"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "1320",
           "name": "\u039C. \u039A\u0391\u03A1\u0391\u0393\u0399\u0391\u039D\u039D\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "3427",
-          "name": "\u039C. \u039A\u039F\u039A\u039F\u03A4\u0391\u03A3"
-        },
-        {
           "id": "355",
           "name": "\u039C. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
+        },
+        {
+          "id": "3427",
+          "name": "\u039C. \u039A\u039F\u039A\u039F\u03A4\u0391\u03A3"
         },
         {
           "id": "1861",
@@ -37409,8 +37064,8 @@
           "name": "\u039D. \u03A6\u0391\u039C\u0395\u039B\u0397\u03A3"
         },
         {
-          "id": "3070",
-          "name": "\u039D. \u039C\u039F\u03A3\u03A7\u039F\u039D\u0391\u03A3"
+          "id": "1696",
+          "name": "\u039D. \u03A3\u0399\u0394\u0395\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3212",
@@ -37421,12 +37076,12 @@
           "name": "\u039D. \u039A\u0391\u03A0\u0391\u03A1\u039F\u03A5\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "1696",
-          "name": "\u039D. \u03A3\u0399\u0394\u0395\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3202",
           "name": "\u039D. \u039C\u03A5\u039B\u03A9\u039D\u0391\u03A3"
+        },
+        {
+          "id": "3070",
+          "name": "\u039D. \u039C\u039F\u03A3\u03A7\u039F\u039D\u0391\u03A3"
         },
         {
           "id": "2199",
@@ -38986,16 +38641,12 @@
           "name": "\u0391. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
         },
         {
-          "id": "160",
-          "name": "\u0391. \u0396\u0391\u03A1\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "118",
           "name": "\u0391. \u0392\u0391\u039B\u039B\u0399\u0391\u039D\u039F\u03A3"
         },
         {
-          "id": "289",
-          "name": "\u0391. \u03A1\u0391\u03A0\u03A4\u0397\u03A3"
+          "id": "160",
+          "name": "\u0391. \u0396\u0391\u03A1\u0391\u039D\u0397\u03A3"
         },
         {
           "id": "281",
@@ -39098,20 +38749,24 @@
           "name": "\u039A. \u0391\u0398\u0391\u039D\u0391\u0397\u039B\u0395\u0391\u03A3"
         },
         {
-          "id": "112",
-          "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
-        },
-        {
-          "id": "141",
-          "name": "\u039C. \u0393\u0399\u039F\u03A5\u03A1\u0395\u039B\u0397"
+          "id": "187",
+          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "124",
           "name": "\u039C. \u0392\u0395\u03A4\u03A4\u0391"
         },
         {
+          "id": "141",
+          "name": "\u039C. \u0393\u0399\u039F\u03A5\u03A1\u0395\u039B\u0397"
+        },
+        {
           "id": "4903",
           "name": "\u039C. \u0396\u03A9\u03A4\u039F\u03A5"
+        },
+        {
+          "id": "112",
+          "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
         },
         {
           "id": "192",
@@ -39126,16 +38781,16 @@
           "name": "\u03A3. \u039A\u039B\u0395\u0399\u03A3\u039F\u03A5\u03A1\u0397\u03A3"
         },
         {
-          "id": "120",
-          "name": "\u03A3. \u0392\u0391\u039C\u0392\u0391\u039A\u0395\u03A1\u0397"
+          "id": "1021",
+          "name": "\u03A3. \u0391\u039D\u0399\u03A3\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "328",
           "name": "\u03A3. \u03A4\u03A3\u0391\u039D\u03A4\u0391\u03A1\u039B\u0397"
         },
         {
-          "id": "1021",
-          "name": "\u03A3. \u0391\u039D\u0399\u03A3\u039F\u0393\u039B\u039F\u03A5"
+          "id": "120",
+          "name": "\u03A3. \u0392\u0391\u039C\u0392\u0391\u039A\u0395\u03A1\u0397"
         },
         {
           "id": "137",
@@ -40021,6 +39676,10 @@
           "name": "K. BARTOLOME"
         },
         {
+          "id": "16124",
+          "name": "M. PIMENTEL"
+        },
+        {
           "id": "8692",
           "name": "M. DOSTI"
         },
@@ -40101,24 +39760,24 @@
           "name": "\u0393. \u03A7\u0391\u03A4\u0396\u0397\u03A0\u0391\u03A1\u0391\u03A3\u039A\u0395\u03A5\u0391"
         },
         {
-          "id": "13277",
-          "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
-        },
-        {
           "id": "1992",
           "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "13277",
+          "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
         },
         {
           "id": "8758",
           "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
         },
         {
-          "id": "8803",
-          "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
-        },
-        {
           "id": "4522",
           "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
+        },
+        {
+          "id": "8803",
+          "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
         },
         {
           "id": "15675",
@@ -40217,20 +39876,20 @@
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "14945",
-          "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
+          "id": "8754",
+          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         },
         {
-          "id": "8801",
-          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
+          "id": "14945",
+          "name": "\u03A7. \u039A\u0391\u03A4\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "8780",
           "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "8754",
-          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
+          "id": "8801",
+          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         }
       ],
       "courses": []
@@ -40384,6 +40043,10 @@
           "name": "M. IMERAI"
         },
         {
+          "id": "16125",
+          "name": "M. DELGACO"
+        },
+        {
           "id": "16066",
           "name": "P. SISON"
         },
@@ -40444,12 +40107,12 @@
           "name": "\u0395. \u0396\u0391\u03A7\u0391\u03A1\u0399\u039F\u03A5"
         },
         {
-          "id": "13846",
-          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
-        },
-        {
           "id": "8745",
           "name": "\u0395. \u039A\u039F\u03A5\u039C\u03A0\u0395\u039D\u0391"
+        },
+        {
+          "id": "13846",
+          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
         },
         {
           "id": "8740",
@@ -40484,32 +40147,28 @@
           "name": "\u039B. \u039A\u03A5\u03A1\u0399\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "11728",
-          "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
+          "id": "8731",
+          "name": "\u039C. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
         },
         {
           "id": "15803",
           "name": "\u039C. \u039A\u039F\u03A5\u03A1\u03A4\u0396\u039F\u03A5\u039B\u0397"
         },
         {
-          "id": "8731",
-          "name": "\u039C. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
+          "id": "11728",
+          "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
         },
         {
           "id": "8759",
           "name": "\u039C. \u039C\u0391\u03A1\u0393\u03A9\u039D\u0397"
         },
         {
-          "id": "8787",
-          "name": "\u039D. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "8738",
           "name": "\u039D. \u039A\u0391\u039A\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "12294",
-          "name": "\u03A0. \u039D\u03A4\u0391\u039D\u039F\u03A5"
+          "id": "8787",
+          "name": "\u039D. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "8796",
@@ -40518,6 +40177,10 @@
         {
           "id": "8788",
           "name": "\u03A0. \u03A0\u0395\u03A4\u03A3\u0397"
+        },
+        {
+          "id": "12294",
+          "name": "\u03A0. \u039D\u03A4\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "8751",
@@ -46877,10 +46540,6 @@
           "name": "\u039C. \u0392\u0391\u03A1\u0392\u0391\u03A1\u03A1\u0397\u0393\u039F\u03A5"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "954",
           "name": "\u039C. \u039C\u03A0\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
@@ -48770,10 +48429,6 @@
           "name": "\u0395. \u03A6\u039B\u0391\u03A3\u039A\u0391\u03A3"
         },
         {
-          "id": "15990",
-          "name": "\u0398. \u039D\u0391\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "3162",
           "name": "\u039A. \u03A0\u0391\u03A0\u0391\u0398\u0391\u039D\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -49223,10 +48878,6 @@
           "name": "\u0391. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u03A6\u039F\u03A1\u039F\u03A5-\u03A4\u03A3\u0395\u03A3\u039C\u0395\u039B\u0397"
         },
         {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "3306",
           "name": "\u0391. \u03A3\u039A\u0395\u039C\u03A0\u0399"
         },
@@ -49263,12 +48914,12 @@
           "name": "\u0395. \u0391\u03A6\u0395\u039D\u03A4\u039F\u03A5\u039B\u0397"
         },
         {
-          "id": "3329",
-          "name": "\u0395. \u039C\u0391\u03A5\u03A1\u039F\u03A5\u0394\u0397\u03A3"
-        },
-        {
           "id": "3293",
           "name": "\u0395. \u03A0\u0391\u03A0\u0391\u0394\u0397\u039C\u0397\u03A4\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "3329",
+          "name": "\u0395. \u039C\u0391\u03A5\u03A1\u039F\u03A5\u0394\u0397\u03A3"
         },
         {
           "id": "3315",
@@ -49279,16 +48930,16 @@
           "name": "\u0398. \u039A\u03A5\u03A0\u03A1\u0399\u03A9\u03A4\u0397\u03A3"
         },
         {
-          "id": "3277",
-          "name": "\u0399. \u039A\u03A1\u0397\u03A4\u0399\u039A\u039F\u03A3"
+          "id": "3308",
+          "name": "\u0399. \u039D\u03A4\u0391\u03A6\u039F\u03A3"
         },
         {
           "id": "11279",
           "name": "\u0399. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0395\u039B\u039B\u039F\u03A5"
         },
         {
-          "id": "3308",
-          "name": "\u0399. \u039D\u03A4\u0391\u03A6\u039F\u03A3"
+          "id": "3277",
+          "name": "\u0399. \u039A\u03A1\u0397\u03A4\u0399\u039A\u039F\u03A3"
         },
         {
           "id": "3321",
@@ -49299,24 +48950,24 @@
           "name": "\u039A. \u03A4\u0391\u039A\u039A\u039F\u03A5"
         },
         {
-          "id": "3289",
-          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "3314",
-          "name": "\u039A. \u03A0\u0391\u03A4\u03A4\u0391\u03A3"
-        },
-        {
-          "id": "3301",
-          "name": "\u039A. \u039C\u039F\u03A3\u03A7\u0397\u03A3"
+          "id": "345",
+          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
         },
         {
           "id": "4062",
           "name": "\u039A. \u039D\u03A4\u0391\u03A3\u039A\u0391\u03A3"
         },
         {
-          "id": "345",
-          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
+          "id": "3301",
+          "name": "\u039A. \u039C\u039F\u03A3\u03A7\u0397\u03A3"
+        },
+        {
+          "id": "3289",
+          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "3314",
+          "name": "\u039A. \u03A0\u0391\u03A4\u03A4\u0391\u03A3"
         },
         {
           "id": "3295",
@@ -49327,36 +48978,36 @@
           "name": "\u039C. \u039A\u039F\u0396\u0391\u03A4\u0396\u0397"
         },
         {
-          "id": "3282",
-          "name": "\u039C. \u03A4\u0396\u039F\u0392\u0391\u03A1\u0391\u03A3"
+          "id": "4145",
+          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
         },
         {
           "id": "3298",
           "name": "\u039C. \u039A\u0391\u03A3\u03A4\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "4145",
-          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
-        },
-        {
           "id": "977",
           "name": "\u039C. \u03A3\u039A\u039F\u03A5\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "3282",
+          "name": "\u039C. \u03A4\u0396\u039F\u0392\u0391\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "1086",
+          "name": "\u039D. \u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
         {
           "id": "3294",
           "name": "\u039D. \u03A7\u03A1\u039F\u03A5\u03A3\u0397\u03A3"
         },
         {
-          "id": "3286",
-          "name": "\u039D. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0391\u03A1\u039F\u03A3"
-        },
-        {
           "id": "3112",
           "name": "\u039D. \u03A9\u03A1\u0391\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "1086",
-          "name": "\u039D. \u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
+          "id": "3286",
+          "name": "\u039D. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0391\u03A1\u039F\u03A3"
         },
         {
           "id": "11667",
@@ -51892,10 +51543,6 @@
           "name": "\u0391. \u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
         },
         {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "3199",
           "name": "\u0391. \u03A1\u0399\u0393\u0391\u039D\u0391\u03A3"
         },
@@ -52736,10 +52383,6 @@
           "name": "\u0397. \u039A\u039F\u03A4\u03A3\u03A9\u03A1\u0397\u03A3"
         },
         {
-          "id": "1037",
-          "name": "\u0397. \u0391\u03A1\u0391\u0392\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "5280",
           "name": "\u0397. \u039D\u03A4\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397\u03A3"
         },
@@ -52808,10 +52451,6 @@
           "name": "\u0398. \u0394\u0397\u039C\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "15990",
-          "name": "\u0398. \u039D\u0391\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "3104",
           "name": "\u0399. \u039B\u0391\u039C\u03A0\u03A1\u039F"
         },
@@ -52834,6 +52473,10 @@
         {
           "id": "3209",
           "name": "\u0399. \u03A0\u0395\u03A4\u03A4\u0391"
+        },
+        {
+          "id": "4905",
+          "name": "\u0399. \u0398\u0391\u03A4\u03A3\u0399"
         },
         {
           "id": "3554",
@@ -53790,10 +53433,6 @@
         {
           "id": "122",
           "name": "\u03A0. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
-          "id": "4607",
-          "name": "\u03A0. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391"
         },
         {
           "id": "6046",
@@ -57225,6 +56864,10 @@
           "name": "\u0399. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
         },
         {
+          "id": "4905",
+          "name": "\u0399. \u0398\u0391\u03A4\u03A3\u0399"
+        },
+        {
           "id": "3176",
           "name": "\u0399. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u0391\u0394\u0397\u03A3"
         },
@@ -57837,10 +57480,6 @@
           "name": "\u03A0. \u03A3\u03A4\u0395\u03A1\u0393\u0399\u039F\u03A5"
         },
         {
-          "id": "4607",
-          "name": "\u03A0. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391"
-        },
-        {
           "id": "3187",
           "name": "\u03A0. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u0399\u0394\u039F\u03A5"
         },
@@ -58440,10 +58079,6 @@
         {
           "id": "14652",
           "name": "\u0391. \u03A0\u0391\u03A1\u0397\u0393\u039F\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
         },
         {
           "id": "6248",
@@ -60249,10 +59884,6 @@
           "name": "\u039B. \u0391\u039C\u03A0\u039F\u03A5 \u03A3\u0391\u0391\u039D\u03A4"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "954",
           "name": "\u039C. \u039C\u03A0\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
@@ -61483,10 +61114,6 @@
           "name": "\u039B. \u0391\u039C\u03A0\u039F\u03A5 \u03A3\u0391\u0391\u039D\u03A4"
         },
         {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
-        },
-        {
           "id": "954",
           "name": "\u039C. \u039C\u03A0\u0391\u039A\u039F\u0393\u0399\u0391\u039D\u039D\u0397"
         },
@@ -61914,10 +61541,6 @@
           "name": "\u0391. \u039A\u0391\u0396\u0391\u039D\u03A4\u0396\u0397\u03A3"
         },
         {
-          "id": "8928",
-          "name": "\u0391. \u03A7\u0395\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
           "id": "6248",
           "name": "\u0391. \u0391\u03A3\u039B\u0391\u039C\u0391\u03A4\u0396\u0399\u0394\u0397\u03A3"
         },
@@ -62258,10 +61881,6 @@
           "name": "\u0398. \u03A4\u03A3\u0391\u039A\u0399\u03A1\u0397\u03A3"
         },
         {
-          "id": "15990",
-          "name": "\u0398. \u039D\u0391\u03A4\u03A3\u0397\u03A3"
-        },
-        {
           "id": "12559",
           "name": "\u0399. \u03A0\u03A1\u03A9\u03A4\u039F\u039B\u0391\u03A4\u0397\u03A3"
         },
@@ -62440,10 +62059,6 @@
         {
           "id": "3295",
           "name": "\u039C. \u039B\u0399\u0391\u039C\u0391\u039A\u0397"
-        },
-        {
-          "id": "187",
-          "name": "\u039C. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u039D\u0394\u0391\u03A1\u0391\u039A\u0397"
         },
         {
           "id": "954",
@@ -66060,7 +65675,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/07/2024, 15:12:02",
-      "last_update_on": "21/09/2026, 12:35:36",
+      "last_update_on": "03/11/2026, 16:40:00",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -66128,7 +65743,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "10/06/2025, 13:14:40",
-      "last_update_on": "21/09/2026, 12:36:07",
+      "last_update_on": "03/11/2026, 08:30:02",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -66162,7 +65777,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/07/2024, 15:30:01",
-      "last_update_on": "21/09/2026, 12:36:18",
+      "last_update_on": "03/11/2026, 14:36:13",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -67386,7 +67001,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/06/2025, 15:03:41",
-      "last_update_on": "21/09/2026, 12:47:21",
+      "last_update_on": "03/11/2026, 16:16:41",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -67420,7 +67035,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 11:33:52",
-      "last_update_on": "29/10/2026, 11:55:17",
+      "last_update_on": "03/11/2026, 16:14:11",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -68644,7 +68259,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 15:17:12",
-      "last_update_on": "16/06/2026, 09:31:30",
+      "last_update_on": "03/11/2026, 14:21:08",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -72010,7 +71625,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:06",
-      "last_update_on": "02/11/2026, 12:51:34",
+      "last_update_on": "03/11/2026, 08:53:39",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -72040,11 +71655,11 @@
       "name": "Cargo Station Security Management - Refresher",
       "code": "GHT-SECM (R)",
       "category_id": "10",
-      "description": "\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022 data-pasted=\u0022true\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003ECargo Station Security Management - Refresher\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B5\u03AF\u03C4\u03B5 \u03C3\u03B5 \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1 \u03B5\u03AF\u03C4\u03B5 \u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03C4\u03C5\u03B1\u03BA\u03AC. \u03A3\u03C4\u03BF \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03BF \u03B2\u03AE\u03BC\u03B1, \u03B8\u03B1 \u03BA\u03BB\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03B5\u03C4\u03B5 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03B8\u03B1 \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7. \u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/span\u003E \u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03B2\u03AE\u03BC\u03B1, \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1, \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD/\u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03CA\u03C3\u03C4\u03AC\u03BC\u03B5\u03BD\u03BF \u0026nbsp;\u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03BB\u03AC\u03B2\u03B5\u03C4\u03B5 \u03BE\u03B5\u03C7\u03C9\u03C1\u03B9\u03C3\u03C4\u03CC email \u03B3\u03B9\u03B1 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03B4\u03B9\u03B5\u03BE\u03B1\u03C7\u03B8\u03B5\u03AF \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7.\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(255,0,0);\u0022\u003E\u0395\u03AC\u03BD \u03B5\u03AF\u03C3\u03C4\u03B5 \u03BD\u03AD\u03BF\u03B9 \u03C3\u03C4\u03B7 Goldair Handling, \u03C4\u03BF \u03A4\u03BC\u03AE\u03BC\u03B1 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AE \u03C3\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03AC\u03BB\u03BB\u03B7\u03BB\u03B7 \u03C3\u03C5\u03BD\u03B5\u03B4\u03C1\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003ECargo Station Security Management - Refresher\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003EThis is an instructor-led course conducted in either a live or virtual classroom setting. In the next step, you will be prompted to select the session you wish to attend. \u003Cspan style=\u0022font-weight:bold;\u0022\u003EATTENTION!\u003C/span\u003E This step is typically completed by your supervisor, and you will receive a separate email regarding when and where the training will take place.\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(255,0,0);\u0022\u003EIf you are new to Goldair Handling, the Training Department will arrange your enrollment in the appropriate session and you will be notified accordingly.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
+      "description": "\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022 data-pasted=\u0022true\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003ECargo Station Security Management - Refresher\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B5\u03AF\u03C4\u03B5 \u03C3\u03B5 \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1 \u03B5\u03AF\u03C4\u03B5 \u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03C4\u03C5\u03B1\u03BA\u03AC. \u03A3\u03C4\u03BF \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03BF \u03B2\u03AE\u03BC\u03B1, \u03B8\u03B1 \u03BA\u03BB\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03B5\u03C4\u03B5 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03B8\u03B1 \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7. \u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/span\u003E \u0391\u03C5\u03C4\u03CC \u03C4\u03BF \u03B2\u03AE\u03BC\u03B1, \u03BA\u03B1\u03C4\u03AC \u03BA\u03B1\u03BD\u03CC\u03BD\u03B1, \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD/\u03C4\u03B7\u03BD \u03C0\u03C1\u03BF\u03CA\u03C3\u03C4\u03AC\u03BC\u03B5\u03BD\u03BF \u0026nbsp;\u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03BB\u03AC\u03B2\u03B5\u03C4\u03B5 \u03BE\u03B5\u03C7\u03C9\u03C1\u03B9\u03C3\u03C4\u03CC email \u03B3\u03B9\u03B1 \u03C4\u03BF \u03C0\u03CC\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03B4\u03B9\u03B5\u03BE\u03B1\u03C7\u03B8\u03B5\u03AF \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7.\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022 /\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(255,0,0);\u0022\u003E\u0395\u03AC\u03BD \u03B5\u03AF\u03C3\u03C4\u03B5 \u03BD\u03AD\u03BF\u03B9 \u03C3\u03C4\u03B7 Goldair Handling, \u03C4\u03BF \u03A4\u03BC\u03AE\u03BC\u03B1 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03B3\u03B3\u03C1\u03B1\u03C6\u03AE \u03C3\u03B1\u03C2 \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03AC\u03BB\u03BB\u03B7\u03BB\u03B7 \u03C3\u03C5\u03BD\u03B5\u03B4\u03C1\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022 /\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022 /\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cbr /\u003E\u003C/p\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003ECargo Station Security Management - Refresher\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003EThis is an instructor-led course conducted in either a live or virtual classroom setting. In the next step, you will be prompted to select the session you wish to attend. \u003Cspan style=\u0022font-weight:bold;\u0022\u003EATTENTION!\u003C/span\u003E This step is typically completed by your supervisor, and you will receive a separate email regarding when and where the training will take place.\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022 /\u003E\u003Cp style=\u0022margin:0px;text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(255,0,0);\u0022\u003EIf you are new to Goldair Handling, the Training Department will arrange your enrollment in the appropriate session and you will be notified accordingly.\u003C/span\u003E\u003C/p\u003E\u003Chr style=\u0022height:0px;color:inherit;clear:both;\u0022 /\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:06",
-      "last_update_on": "02/11/2026, 14:37:02",
+      "last_update_on": "03/11/2026, 08:54:33",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -85636,6 +85251,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1893",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "03/11/2026, 11:31:09",
+      "last_update_on": "03/11/2026, 11:31:09",
+      "creator_id": "5928",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1537",
       "name": "New course",
       "code": "",
@@ -88704,7 +88353,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "21/09/2026, 13:10:43",
+      "last_update_on": "03/11/2026, 10:51:40",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -88908,7 +88557,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 12:14:36",
-      "last_update_on": "21/09/2026, 13:11:22",
+      "last_update_on": "03/11/2026, 08:09:25",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -88976,7 +88625,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 12:28:23",
-      "last_update_on": "21/09/2026, 13:11:54",
+      "last_update_on": "03/11/2026, 08:10:46",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
