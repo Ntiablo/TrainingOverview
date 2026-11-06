@@ -8008,7 +8008,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -8083,7 +8083,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -8129,7 +8129,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -8808,7 +8808,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -9134,44 +9134,376 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "4965",
+          "name": "A. Zabanova"
+        },
+        {
+          "id": "4967",
+          "name": "A. Petrov"
+        },
+        {
+          "id": "15673",
+          "name": "A. Kolev"
+        },
+        {
+          "id": "8819",
+          "name": "A. Ivanova"
+        },
+        {
+          "id": "9276",
+          "name": "A. Sengelieva"
+        },
+        {
+          "id": "11156",
+          "name": "A. Demidovich"
+        },
+        {
+          "id": "15146",
+          "name": "A. Zakrevskaya"
+        },
+        {
+          "id": "8598",
+          "name": "A. Zova"
+        },
+        {
+          "id": "15811",
+          "name": "A. Deliyska"
+        },
+        {
+          "id": "7683",
+          "name": "A. Budinova"
+        },
+        {
+          "id": "7099",
+          "name": "A. Bosakova"
+        },
+        {
+          "id": "11768",
+          "name": "A. Tihcheva"
+        },
+        {
+          "id": "8283",
+          "name": "B. Blagoev"
+        },
+        {
           "id": "4994",
           "name": "B. Kirilov"
+        },
+        {
+          "id": "4995",
+          "name": "B. Stratev"
+        },
+        {
+          "id": "4999",
+          "name": "B. Yordanova"
+        },
+        {
+          "id": "6205",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "8601",
+          "name": "D. Dobrev"
+        },
+        {
+          "id": "6573",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "6798",
+          "name": "D. Stratev"
+        },
+        {
+          "id": "5057",
+          "name": "D. Asenova"
+        },
+        {
+          "id": "5285",
+          "name": "D. Asenov"
+        },
+        {
+          "id": "15648",
+          "name": "D. Deliyski"
+        },
+        {
+          "id": "7992",
+          "name": "D. Dimitrov"
         },
         {
           "id": "5066",
           "name": "D. Georgiev"
         },
         {
+          "id": "5068",
+          "name": "D. Beldeva"
+        },
+        {
+          "id": "5700",
+          "name": "E. Pacheva"
+        },
+        {
+          "id": "5074",
+          "name": "E. Mizova"
+        },
+        {
+          "id": "8338",
+          "name": "E. Yordanov"
+        },
+        {
+          "id": "7685",
+          "name": "E. Temelchova"
+        },
+        {
+          "id": "5234",
+          "name": "F. Aleksandrov"
+        },
+        {
+          "id": "5029",
+          "name": "G. Zheleva"
+        },
+        {
+          "id": "8079",
+          "name": "G. Ivanova"
+        },
+        {
+          "id": "15647",
+          "name": "G. Pachedzhieva"
+        },
+        {
           "id": "5237",
           "name": "H. Stoyanov"
+        },
+        {
+          "id": "15781",
+          "name": "I. Ivanova"
+        },
+        {
+          "id": "6574",
+          "name": "I. Malamova"
+        },
+        {
+          "id": "6799",
+          "name": "I. Tsenova"
+        },
+        {
+          "id": "15591",
+          "name": "I. Strahilov"
+        },
+        {
+          "id": "8660",
+          "name": "I. Avramova"
+        },
+        {
+          "id": "5086",
+          "name": "I. Dimitrova"
+        },
+        {
+          "id": "8602",
+          "name": "I. Dimitrov"
+        },
+        {
+          "id": "15649",
+          "name": "I. Todorova"
+        },
+        {
+          "id": "5290",
+          "name": "K. Nikiforova"
+        },
+        {
+          "id": "5111",
+          "name": "K. Genchev"
+        },
+        {
+          "id": "6684",
+          "name": "K. Petrova"
+        },
+        {
+          "id": "5542",
+          "name": "K. Parvanova"
+        },
+        {
+          "id": "5114",
+          "name": "K. Doktorova"
+        },
+        {
+          "id": "15148",
+          "name": "K. Iliev"
+        },
+        {
+          "id": "8286",
+          "name": "K. Petrov"
         },
         {
           "id": "5119",
           "name": "L. Staneva"
         },
         {
+          "id": "10093",
+          "name": "L. Georgieva"
+        },
+        {
+          "id": "5120",
+          "name": "L. Georgieva"
+        },
+        {
           "id": "5135",
           "name": "M. Georgieva"
+        },
+        {
+          "id": "15877",
+          "name": "M. Kostov"
+        },
+        {
+          "id": "8661",
+          "name": "M. Mustafa"
+        },
+        {
+          "id": "5147",
+          "name": "M. Radeva"
+        },
+        {
+          "id": "8360",
+          "name": "M. Kostadinova"
+        },
+        {
+          "id": "14229",
+          "name": "M. Simeonova"
+        },
+        {
+          "id": "15876",
+          "name": "M. Stoyanovich"
         },
         {
           "id": "5152",
           "name": "M. Divery"
         },
         {
+          "id": "9908",
+          "name": "N. Makedonska"
+        },
+        {
           "id": "5157",
           "name": "N. Kirilova"
+        },
+        {
+          "id": "15453",
+          "name": "N. Rashdan"
+        },
+        {
+          "id": "5159",
+          "name": "N. Doganova"
+        },
+        {
+          "id": "5989",
+          "name": "N. Kostova"
         },
         {
           "id": "5162",
           "name": "N. Kostadinova"
         },
         {
+          "id": "15652",
+          "name": "N. Kilikchiev"
+        },
+        {
+          "id": "9280",
+          "name": "P. Stoimenov"
+        },
+        {
+          "id": "5182",
+          "name": "P. Kojuharova"
+        },
+        {
+          "id": "5187",
+          "name": "P. Koleva"
+        },
+        {
+          "id": "15655",
+          "name": "R. Velikov"
+        },
+        {
+          "id": "15875",
+          "name": "R. Georgieva"
+        },
+        {
+          "id": "5197",
+          "name": "R. Todorov"
+        },
+        {
+          "id": "15813",
+          "name": "S. Nancheva"
+        },
+        {
+          "id": "6241",
+          "name": "S. Borisova"
+        },
+        {
+          "id": "5213",
+          "name": "S. Karsheva"
+        },
+        {
+          "id": "5222",
+          "name": "S. Tekerska"
+        },
+        {
+          "id": "5220",
+          "name": "S. Naumova"
+        },
+        {
+          "id": "5227",
+          "name": "S. Dobreva"
+        },
+        {
+          "id": "5301",
+          "name": "S. Mihailov"
+        },
+        {
           "id": "5228",
           "name": "T. Georgiev"
         },
         {
+          "id": "11978",
+          "name": "T. Palenikova"
+        },
+        {
+          "id": "7684",
+          "name": "V. Petkov"
+        },
+        {
+          "id": "15850",
+          "name": "V. Georgieva"
+        },
+        {
+          "id": "15812",
+          "name": "V. Vladova"
+        },
+        {
           "id": "5016",
           "name": "V. Petrov"
+        },
+        {
+          "id": "5024",
+          "name": "V. Marinova"
+        },
+        {
+          "id": "7171",
+          "name": "V. Bobeva"
+        },
+        {
+          "id": "15779",
+          "name": "V. Yordanova"
+        },
+        {
+          "id": "6572",
+          "name": "V. Shahanska"
+        },
+        {
+          "id": "7908",
+          "name": "Y. Deyanova"
+        },
+        {
+          "id": "15650",
+          "name": "Y. Karageorgiev"
         },
         {
           "id": "5245",
@@ -9180,6 +9512,10 @@
         {
           "id": "5246",
           "name": "Y. Iliev"
+        },
+        {
+          "id": "15780",
+          "name": "Z. Velinova"
         }
       ],
       "courses": [
@@ -9201,44 +9537,376 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "4965",
+          "name": "A. Zabanova"
+        },
+        {
+          "id": "4967",
+          "name": "A. Petrov"
+        },
+        {
+          "id": "15673",
+          "name": "A. Kolev"
+        },
+        {
+          "id": "8819",
+          "name": "A. Ivanova"
+        },
+        {
+          "id": "9276",
+          "name": "A. Sengelieva"
+        },
+        {
+          "id": "11156",
+          "name": "A. Demidovich"
+        },
+        {
+          "id": "15146",
+          "name": "A. Zakrevskaya"
+        },
+        {
+          "id": "8598",
+          "name": "A. Zova"
+        },
+        {
+          "id": "15811",
+          "name": "A. Deliyska"
+        },
+        {
+          "id": "7683",
+          "name": "A. Budinova"
+        },
+        {
+          "id": "7099",
+          "name": "A. Bosakova"
+        },
+        {
+          "id": "11768",
+          "name": "A. Tihcheva"
+        },
+        {
+          "id": "8283",
+          "name": "B. Blagoev"
+        },
+        {
           "id": "4994",
           "name": "B. Kirilov"
+        },
+        {
+          "id": "4995",
+          "name": "B. Stratev"
+        },
+        {
+          "id": "4999",
+          "name": "B. Yordanova"
+        },
+        {
+          "id": "6205",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "8601",
+          "name": "D. Dobrev"
+        },
+        {
+          "id": "6573",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "6798",
+          "name": "D. Stratev"
+        },
+        {
+          "id": "5057",
+          "name": "D. Asenova"
+        },
+        {
+          "id": "5285",
+          "name": "D. Asenov"
+        },
+        {
+          "id": "15648",
+          "name": "D. Deliyski"
+        },
+        {
+          "id": "7992",
+          "name": "D. Dimitrov"
         },
         {
           "id": "5066",
           "name": "D. Georgiev"
         },
         {
+          "id": "5068",
+          "name": "D. Beldeva"
+        },
+        {
+          "id": "5700",
+          "name": "E. Pacheva"
+        },
+        {
+          "id": "5074",
+          "name": "E. Mizova"
+        },
+        {
+          "id": "8338",
+          "name": "E. Yordanov"
+        },
+        {
+          "id": "7685",
+          "name": "E. Temelchova"
+        },
+        {
+          "id": "5234",
+          "name": "F. Aleksandrov"
+        },
+        {
+          "id": "5029",
+          "name": "G. Zheleva"
+        },
+        {
+          "id": "8079",
+          "name": "G. Ivanova"
+        },
+        {
+          "id": "15647",
+          "name": "G. Pachedzhieva"
+        },
+        {
           "id": "5237",
           "name": "H. Stoyanov"
+        },
+        {
+          "id": "15781",
+          "name": "I. Ivanova"
+        },
+        {
+          "id": "6574",
+          "name": "I. Malamova"
+        },
+        {
+          "id": "6799",
+          "name": "I. Tsenova"
+        },
+        {
+          "id": "15591",
+          "name": "I. Strahilov"
+        },
+        {
+          "id": "8660",
+          "name": "I. Avramova"
+        },
+        {
+          "id": "5086",
+          "name": "I. Dimitrova"
+        },
+        {
+          "id": "8602",
+          "name": "I. Dimitrov"
+        },
+        {
+          "id": "15649",
+          "name": "I. Todorova"
+        },
+        {
+          "id": "5290",
+          "name": "K. Nikiforova"
+        },
+        {
+          "id": "5111",
+          "name": "K. Genchev"
+        },
+        {
+          "id": "6684",
+          "name": "K. Petrova"
+        },
+        {
+          "id": "5542",
+          "name": "K. Parvanova"
+        },
+        {
+          "id": "5114",
+          "name": "K. Doktorova"
+        },
+        {
+          "id": "15148",
+          "name": "K. Iliev"
+        },
+        {
+          "id": "8286",
+          "name": "K. Petrov"
         },
         {
           "id": "5119",
           "name": "L. Staneva"
         },
         {
+          "id": "10093",
+          "name": "L. Georgieva"
+        },
+        {
+          "id": "5120",
+          "name": "L. Georgieva"
+        },
+        {
           "id": "5135",
           "name": "M. Georgieva"
+        },
+        {
+          "id": "15877",
+          "name": "M. Kostov"
+        },
+        {
+          "id": "8661",
+          "name": "M. Mustafa"
+        },
+        {
+          "id": "5147",
+          "name": "M. Radeva"
+        },
+        {
+          "id": "8360",
+          "name": "M. Kostadinova"
+        },
+        {
+          "id": "14229",
+          "name": "M. Simeonova"
+        },
+        {
+          "id": "15876",
+          "name": "M. Stoyanovich"
         },
         {
           "id": "5152",
           "name": "M. Divery"
         },
         {
+          "id": "9908",
+          "name": "N. Makedonska"
+        },
+        {
           "id": "5157",
           "name": "N. Kirilova"
+        },
+        {
+          "id": "15453",
+          "name": "N. Rashdan"
+        },
+        {
+          "id": "5159",
+          "name": "N. Doganova"
+        },
+        {
+          "id": "5989",
+          "name": "N. Kostova"
         },
         {
           "id": "5162",
           "name": "N. Kostadinova"
         },
         {
+          "id": "15652",
+          "name": "N. Kilikchiev"
+        },
+        {
+          "id": "9280",
+          "name": "P. Stoimenov"
+        },
+        {
+          "id": "5182",
+          "name": "P. Kojuharova"
+        },
+        {
+          "id": "5187",
+          "name": "P. Koleva"
+        },
+        {
+          "id": "15655",
+          "name": "R. Velikov"
+        },
+        {
+          "id": "15875",
+          "name": "R. Georgieva"
+        },
+        {
+          "id": "5197",
+          "name": "R. Todorov"
+        },
+        {
+          "id": "15813",
+          "name": "S. Nancheva"
+        },
+        {
+          "id": "6241",
+          "name": "S. Borisova"
+        },
+        {
+          "id": "5213",
+          "name": "S. Karsheva"
+        },
+        {
+          "id": "5222",
+          "name": "S. Tekerska"
+        },
+        {
+          "id": "5220",
+          "name": "S. Naumova"
+        },
+        {
+          "id": "5227",
+          "name": "S. Dobreva"
+        },
+        {
+          "id": "5301",
+          "name": "S. Mihailov"
+        },
+        {
           "id": "5228",
           "name": "T. Georgiev"
         },
         {
+          "id": "11978",
+          "name": "T. Palenikova"
+        },
+        {
+          "id": "7684",
+          "name": "V. Petkov"
+        },
+        {
+          "id": "15850",
+          "name": "V. Georgieva"
+        },
+        {
+          "id": "15812",
+          "name": "V. Vladova"
+        },
+        {
           "id": "5016",
           "name": "V. Petrov"
+        },
+        {
+          "id": "5024",
+          "name": "V. Marinova"
+        },
+        {
+          "id": "7171",
+          "name": "V. Bobeva"
+        },
+        {
+          "id": "15779",
+          "name": "V. Yordanova"
+        },
+        {
+          "id": "6572",
+          "name": "V. Shahanska"
+        },
+        {
+          "id": "7908",
+          "name": "Y. Deyanova"
+        },
+        {
+          "id": "15650",
+          "name": "Y. Karageorgiev"
         },
         {
           "id": "5245",
@@ -9247,6 +9915,10 @@
         {
           "id": "5246",
           "name": "Y. Iliev"
+        },
+        {
+          "id": "15780",
+          "name": "Z. Velinova"
         }
       ],
       "courses": [
@@ -9268,44 +9940,376 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "4965",
+          "name": "A. Zabanova"
+        },
+        {
+          "id": "4967",
+          "name": "A. Petrov"
+        },
+        {
+          "id": "15673",
+          "name": "A. Kolev"
+        },
+        {
+          "id": "8819",
+          "name": "A. Ivanova"
+        },
+        {
+          "id": "9276",
+          "name": "A. Sengelieva"
+        },
+        {
+          "id": "11156",
+          "name": "A. Demidovich"
+        },
+        {
+          "id": "15146",
+          "name": "A. Zakrevskaya"
+        },
+        {
+          "id": "8598",
+          "name": "A. Zova"
+        },
+        {
+          "id": "15811",
+          "name": "A. Deliyska"
+        },
+        {
+          "id": "7683",
+          "name": "A. Budinova"
+        },
+        {
+          "id": "7099",
+          "name": "A. Bosakova"
+        },
+        {
+          "id": "11768",
+          "name": "A. Tihcheva"
+        },
+        {
+          "id": "8283",
+          "name": "B. Blagoev"
+        },
+        {
           "id": "4994",
           "name": "B. Kirilov"
+        },
+        {
+          "id": "4995",
+          "name": "B. Stratev"
+        },
+        {
+          "id": "4999",
+          "name": "B. Yordanova"
+        },
+        {
+          "id": "6205",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "8601",
+          "name": "D. Dobrev"
+        },
+        {
+          "id": "6573",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "6798",
+          "name": "D. Stratev"
+        },
+        {
+          "id": "5057",
+          "name": "D. Asenova"
+        },
+        {
+          "id": "5285",
+          "name": "D. Asenov"
+        },
+        {
+          "id": "15648",
+          "name": "D. Deliyski"
+        },
+        {
+          "id": "7992",
+          "name": "D. Dimitrov"
         },
         {
           "id": "5066",
           "name": "D. Georgiev"
         },
         {
+          "id": "5068",
+          "name": "D. Beldeva"
+        },
+        {
+          "id": "5700",
+          "name": "E. Pacheva"
+        },
+        {
+          "id": "5074",
+          "name": "E. Mizova"
+        },
+        {
+          "id": "8338",
+          "name": "E. Yordanov"
+        },
+        {
+          "id": "7685",
+          "name": "E. Temelchova"
+        },
+        {
+          "id": "5234",
+          "name": "F. Aleksandrov"
+        },
+        {
+          "id": "5029",
+          "name": "G. Zheleva"
+        },
+        {
+          "id": "8079",
+          "name": "G. Ivanova"
+        },
+        {
+          "id": "15647",
+          "name": "G. Pachedzhieva"
+        },
+        {
           "id": "5237",
           "name": "H. Stoyanov"
+        },
+        {
+          "id": "15781",
+          "name": "I. Ivanova"
+        },
+        {
+          "id": "6574",
+          "name": "I. Malamova"
+        },
+        {
+          "id": "6799",
+          "name": "I. Tsenova"
+        },
+        {
+          "id": "15591",
+          "name": "I. Strahilov"
+        },
+        {
+          "id": "8660",
+          "name": "I. Avramova"
+        },
+        {
+          "id": "5086",
+          "name": "I. Dimitrova"
+        },
+        {
+          "id": "8602",
+          "name": "I. Dimitrov"
+        },
+        {
+          "id": "15649",
+          "name": "I. Todorova"
+        },
+        {
+          "id": "5290",
+          "name": "K. Nikiforova"
+        },
+        {
+          "id": "5111",
+          "name": "K. Genchev"
+        },
+        {
+          "id": "6684",
+          "name": "K. Petrova"
+        },
+        {
+          "id": "5542",
+          "name": "K. Parvanova"
+        },
+        {
+          "id": "5114",
+          "name": "K. Doktorova"
+        },
+        {
+          "id": "15148",
+          "name": "K. Iliev"
+        },
+        {
+          "id": "8286",
+          "name": "K. Petrov"
         },
         {
           "id": "5119",
           "name": "L. Staneva"
         },
         {
+          "id": "10093",
+          "name": "L. Georgieva"
+        },
+        {
+          "id": "5120",
+          "name": "L. Georgieva"
+        },
+        {
           "id": "5135",
           "name": "M. Georgieva"
+        },
+        {
+          "id": "15877",
+          "name": "M. Kostov"
+        },
+        {
+          "id": "8661",
+          "name": "M. Mustafa"
+        },
+        {
+          "id": "5147",
+          "name": "M. Radeva"
+        },
+        {
+          "id": "8360",
+          "name": "M. Kostadinova"
+        },
+        {
+          "id": "14229",
+          "name": "M. Simeonova"
+        },
+        {
+          "id": "15876",
+          "name": "M. Stoyanovich"
         },
         {
           "id": "5152",
           "name": "M. Divery"
         },
         {
+          "id": "9908",
+          "name": "N. Makedonska"
+        },
+        {
           "id": "5157",
           "name": "N. Kirilova"
+        },
+        {
+          "id": "15453",
+          "name": "N. Rashdan"
+        },
+        {
+          "id": "5159",
+          "name": "N. Doganova"
+        },
+        {
+          "id": "5989",
+          "name": "N. Kostova"
         },
         {
           "id": "5162",
           "name": "N. Kostadinova"
         },
         {
+          "id": "15652",
+          "name": "N. Kilikchiev"
+        },
+        {
+          "id": "9280",
+          "name": "P. Stoimenov"
+        },
+        {
+          "id": "5182",
+          "name": "P. Kojuharova"
+        },
+        {
+          "id": "5187",
+          "name": "P. Koleva"
+        },
+        {
+          "id": "15655",
+          "name": "R. Velikov"
+        },
+        {
+          "id": "15875",
+          "name": "R. Georgieva"
+        },
+        {
+          "id": "5197",
+          "name": "R. Todorov"
+        },
+        {
+          "id": "15813",
+          "name": "S. Nancheva"
+        },
+        {
+          "id": "6241",
+          "name": "S. Borisova"
+        },
+        {
+          "id": "5213",
+          "name": "S. Karsheva"
+        },
+        {
+          "id": "5222",
+          "name": "S. Tekerska"
+        },
+        {
+          "id": "5220",
+          "name": "S. Naumova"
+        },
+        {
+          "id": "5227",
+          "name": "S. Dobreva"
+        },
+        {
+          "id": "5301",
+          "name": "S. Mihailov"
+        },
+        {
           "id": "5228",
           "name": "T. Georgiev"
         },
         {
+          "id": "11978",
+          "name": "T. Palenikova"
+        },
+        {
+          "id": "7684",
+          "name": "V. Petkov"
+        },
+        {
+          "id": "15850",
+          "name": "V. Georgieva"
+        },
+        {
+          "id": "15812",
+          "name": "V. Vladova"
+        },
+        {
           "id": "5016",
           "name": "V. Petrov"
+        },
+        {
+          "id": "5024",
+          "name": "V. Marinova"
+        },
+        {
+          "id": "7171",
+          "name": "V. Bobeva"
+        },
+        {
+          "id": "15779",
+          "name": "V. Yordanova"
+        },
+        {
+          "id": "6572",
+          "name": "V. Shahanska"
+        },
+        {
+          "id": "7908",
+          "name": "Y. Deyanova"
+        },
+        {
+          "id": "15650",
+          "name": "Y. Karageorgiev"
         },
         {
           "id": "5245",
@@ -9314,6 +10318,10 @@
         {
           "id": "5246",
           "name": "Y. Iliev"
+        },
+        {
+          "id": "15780",
+          "name": "Z. Velinova"
         }
       ],
       "courses": [
@@ -9425,6 +10433,26 @@
       "redemptions_sofar": null,
       "users": [
         {
+          "id": "10348",
+          "name": "D. Danchev"
+        },
+        {
+          "id": "5034",
+          "name": "G. Petkov"
+        },
+        {
+          "id": "10347",
+          "name": "I. Enchev"
+        },
+        {
+          "id": "5129",
+          "name": "M. Manchev"
+        },
+        {
+          "id": "5193",
+          "name": "R. Angelov"
+        },
+        {
           "id": "5012",
           "name": "V. Blagoev"
         }
@@ -9441,9 +10469,9 @@
       ]
     },
     {
-      "id": "365",
-      "name": "BG/ICET-GSE",
-      "description": "De/Anti-icing of Aircraft on the Ground for GSE",
+      "id": "366",
+      "name": "BG/ICET-OPS",
+      "description": "De/Anti-icing of Aircraft on the Ground for OPS",
       "key": null,
       "price": "\u0026euro;0.00",
       "owner_id": "4538",
@@ -9452,9 +10480,160 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "6984",
-          "name": "A. Nenkov"
+          "id": "16014",
+          "name": "A. Shoilev"
         },
+        {
+          "id": "15991",
+          "name": "A. Dimitrov"
+        },
+        {
+          "id": "4976",
+          "name": "A. Popov"
+        },
+        {
+          "id": "4982",
+          "name": "A. Petrova"
+        },
+        {
+          "id": "13284",
+          "name": "B. Nikolov"
+        },
+        {
+          "id": "11474",
+          "name": "D. Chekov"
+        },
+        {
+          "id": "15802",
+          "name": "D. Metanov"
+        },
+        {
+          "id": "8682",
+          "name": "D. Byfield"
+        },
+        {
+          "id": "11988",
+          "name": "E. Karahanov"
+        },
+        {
+          "id": "15992",
+          "name": "E. Nikolinska"
+        },
+        {
+          "id": "14226",
+          "name": "G. Ivanov"
+        },
+        {
+          "id": "5678",
+          "name": "G. Borisov"
+        },
+        {
+          "id": "15388",
+          "name": "G. Malchev"
+        },
+        {
+          "id": "5289",
+          "name": "I. Nikolova"
+        },
+        {
+          "id": "13286",
+          "name": "J. Jamil"
+        },
+        {
+          "id": "4550",
+          "name": "K. Stoyanov"
+        },
+        {
+          "id": "5125",
+          "name": "L. Manov"
+        },
+        {
+          "id": "15800",
+          "name": "M. Milchev"
+        },
+        {
+          "id": "10559",
+          "name": "M. Erich"
+        },
+        {
+          "id": "8295",
+          "name": "N. Borisov"
+        },
+        {
+          "id": "5179",
+          "name": "P. Gergov"
+        },
+        {
+          "id": "15418",
+          "name": "S. Lachev"
+        },
+        {
+          "id": "5681",
+          "name": "S. Sopotenski"
+        },
+        {
+          "id": "5219",
+          "name": "S. Stefanov"
+        },
+        {
+          "id": "14522",
+          "name": "T. Horozov"
+        },
+        {
+          "id": "7993",
+          "name": "T. Ivanov"
+        },
+        {
+          "id": "16031",
+          "name": "V. Ivanov"
+        },
+        {
+          "id": "15824",
+          "name": "V. Velichkova"
+        },
+        {
+          "id": "16032",
+          "name": "V. Tsvetkova"
+        },
+        {
+          "id": "5018",
+          "name": "V. Dineva"
+        },
+        {
+          "id": "15874",
+          "name": "V. Gospodinov"
+        },
+        {
+          "id": "5028",
+          "name": "V. Ivanova"
+        },
+        {
+          "id": "16035",
+          "name": "Y. Dimitrov"
+        }
+      ],
+      "courses": [
+        {
+          "id": "1275",
+          "name": "BG/De/Anti-icing of Aircraft on the Ground - Initial (BG/GHB-ICET (I))"
+        },
+        {
+          "id": "1853",
+          "name": "BG/Deicing Checkout {DI-L60 / DI-L70} (BG/OTJ-ICET7)"
+        }
+      ]
+    },
+    {
+      "id": "365",
+      "name": "BG/ICET-SPRAYERS",
+      "description": "De/Anti-icing of Aircraft on the Ground for Sprayers",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "4538",
+      "belongs_to_branch": "2",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
         {
           "id": "5001",
           "name": "B. Georgiev"
@@ -9464,16 +10643,8 @@
           "name": "B. Videnov"
         },
         {
-          "id": "10348",
-          "name": "D. Danchev"
-        },
-        {
           "id": "5035",
           "name": "G. Georgiev"
-        },
-        {
-          "id": "5034",
-          "name": "G. Petkov"
         },
         {
           "id": "5039",
@@ -9484,24 +10655,12 @@
           "name": "G. Aleksiev"
         },
         {
-          "id": "10347",
-          "name": "I. Enchev"
-        },
-        {
           "id": "5078",
           "name": "J. Zlatanov"
         },
         {
-          "id": "7010",
-          "name": "K. Kyosev"
-        },
-        {
           "id": "5109",
           "name": "K. Petkov"
-        },
-        {
-          "id": "5129",
-          "name": "M. Manchev"
         },
         {
           "id": "5134",
@@ -9524,8 +10683,12 @@
           "name": "S. Georgiev"
         },
         {
-          "id": "7054",
-          "name": "S. Stankov"
+          "id": "7053",
+          "name": "S. Koprivarov"
+        },
+        {
+          "id": "8294",
+          "name": "T. Petkov"
         },
         {
           "id": "5010",
@@ -9564,121 +10727,6 @@
         {
           "id": "1284",
           "name": "BG/Deicing Checkout {DI-L10 / DI-L20} (BG/OTJ-ICET)"
-        }
-      ]
-    },
-    {
-      "id": "366",
-      "name": "BG/ICET-OPS",
-      "description": "De/Anti-icing of Aircraft on the Ground for OPS",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "4538",
-      "belongs_to_branch": "2",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "16014",
-          "name": "A. Shoilev"
-        },
-        {
-          "id": "15991",
-          "name": "A. Dimitrov"
-        },
-        {
-          "id": "4976",
-          "name": "A. Popov"
-        },
-        {
-          "id": "4982",
-          "name": "A. Petrova"
-        },
-        {
-          "id": "11474",
-          "name": "D. Chekov"
-        },
-        {
-          "id": "11988",
-          "name": "E. Karahanov"
-        },
-        {
-          "id": "15992",
-          "name": "E. Nikolinska"
-        },
-        {
-          "id": "5289",
-          "name": "I. Nikolova"
-        },
-        {
-          "id": "13286",
-          "name": "J. Jamil"
-        },
-        {
-          "id": "4550",
-          "name": "K. Stoyanov"
-        },
-        {
-          "id": "5125",
-          "name": "L. Manov"
-        },
-        {
-          "id": "10559",
-          "name": "M. Erich"
-        },
-        {
-          "id": "8295",
-          "name": "N. Borisov"
-        },
-        {
-          "id": "5179",
-          "name": "P. Gergov"
-        },
-        {
-          "id": "5681",
-          "name": "S. Sopotenski"
-        },
-        {
-          "id": "5219",
-          "name": "S. Stefanov"
-        },
-        {
-          "id": "7993",
-          "name": "T. Ivanov"
-        },
-        {
-          "id": "16031",
-          "name": "V. Ivanov"
-        },
-        {
-          "id": "16032",
-          "name": "V. Tsvetkova"
-        },
-        {
-          "id": "5018",
-          "name": "V. Dineva"
-        },
-        {
-          "id": "15874",
-          "name": "V. Gospodinov"
-        },
-        {
-          "id": "5028",
-          "name": "V. Ivanova"
-        },
-        {
-          "id": "16035",
-          "name": "Y. Dimitrov"
-        }
-      ],
-      "courses": [
-        {
-          "id": "1275",
-          "name": "BG/De/Anti-icing of Aircraft on the Ground - Initial (BG/GHB-ICET (I))"
-        },
-        {
-          "id": "1853",
-          "name": "BG/Deicing Checkout {DI-L60 / DI-L70} (BG/OTJ-ICET7)"
         }
       ]
     },
@@ -9871,8 +10919,48 @@
           "name": "A. Petrov"
         },
         {
+          "id": "15673",
+          "name": "A. Kolev"
+        },
+        {
+          "id": "8819",
+          "name": "A. Ivanova"
+        },
+        {
+          "id": "9276",
+          "name": "A. Sengelieva"
+        },
+        {
+          "id": "11156",
+          "name": "A. Demidovich"
+        },
+        {
+          "id": "15146",
+          "name": "A. Zakrevskaya"
+        },
+        {
+          "id": "8598",
+          "name": "A. Zova"
+        },
+        {
+          "id": "15811",
+          "name": "A. Deliyska"
+        },
+        {
+          "id": "7683",
+          "name": "A. Budinova"
+        },
+        {
           "id": "7099",
           "name": "A. Bosakova"
+        },
+        {
+          "id": "11768",
+          "name": "A. Tihcheva"
+        },
+        {
+          "id": "8283",
+          "name": "B. Blagoev"
         },
         {
           "id": "4994",
@@ -9885,6 +10973,14 @@
         {
           "id": "4999",
           "name": "B. Yordanova"
+        },
+        {
+          "id": "6205",
+          "name": "D. Angelov"
+        },
+        {
+          "id": "8601",
+          "name": "D. Dobrev"
         },
         {
           "id": "6573",
@@ -9903,6 +10999,10 @@
           "name": "D. Asenov"
         },
         {
+          "id": "15648",
+          "name": "D. Deliyski"
+        },
+        {
           "id": "7992",
           "name": "D. Dimitrov"
         },
@@ -9913,6 +11013,10 @@
         {
           "id": "5068",
           "name": "D. Beldeva"
+        },
+        {
+          "id": "5700",
+          "name": "E. Pacheva"
         },
         {
           "id": "5074",
@@ -9939,8 +11043,16 @@
           "name": "G. Ivanova"
         },
         {
+          "id": "15647",
+          "name": "G. Pachedzhieva"
+        },
+        {
           "id": "5237",
           "name": "H. Stoyanov"
+        },
+        {
+          "id": "15781",
+          "name": "I. Ivanova"
         },
         {
           "id": "6574",
@@ -9951,8 +11063,24 @@
           "name": "I. Tsenova"
         },
         {
+          "id": "15591",
+          "name": "I. Strahilov"
+        },
+        {
+          "id": "8660",
+          "name": "I. Avramova"
+        },
+        {
           "id": "5086",
           "name": "I. Dimitrova"
+        },
+        {
+          "id": "8602",
+          "name": "I. Dimitrov"
+        },
+        {
+          "id": "15649",
+          "name": "I. Todorova"
         },
         {
           "id": "5290",
@@ -9975,8 +11103,20 @@
           "name": "K. Doktorova"
         },
         {
+          "id": "15148",
+          "name": "K. Iliev"
+        },
+        {
+          "id": "8286",
+          "name": "K. Petrov"
+        },
+        {
           "id": "5119",
           "name": "L. Staneva"
+        },
+        {
+          "id": "10093",
+          "name": "L. Georgieva"
         },
         {
           "id": "5120",
@@ -9987,12 +11127,36 @@
           "name": "M. Georgieva"
         },
         {
+          "id": "15877",
+          "name": "M. Kostov"
+        },
+        {
+          "id": "8661",
+          "name": "M. Mustafa"
+        },
+        {
           "id": "5147",
           "name": "M. Radeva"
         },
         {
+          "id": "8360",
+          "name": "M. Kostadinova"
+        },
+        {
+          "id": "14229",
+          "name": "M. Simeonova"
+        },
+        {
+          "id": "15876",
+          "name": "M. Stoyanovich"
+        },
+        {
           "id": "5152",
           "name": "M. Divery"
+        },
+        {
+          "id": "9908",
+          "name": "N. Makedonska"
         },
         {
           "id": "5157",
@@ -10011,6 +11175,14 @@
           "name": "N. Kostadinova"
         },
         {
+          "id": "15652",
+          "name": "N. Kilikchiev"
+        },
+        {
+          "id": "9280",
+          "name": "P. Stoimenov"
+        },
+        {
           "id": "5182",
           "name": "P. Kojuharova"
         },
@@ -10019,8 +11191,20 @@
           "name": "P. Koleva"
         },
         {
+          "id": "15655",
+          "name": "R. Velikov"
+        },
+        {
+          "id": "15875",
+          "name": "R. Georgieva"
+        },
+        {
           "id": "5197",
           "name": "R. Todorov"
+        },
+        {
+          "id": "15813",
+          "name": "S. Nancheva"
         },
         {
           "id": "6241",
@@ -10051,12 +11235,28 @@
           "name": "T. Georgiev"
         },
         {
+          "id": "11978",
+          "name": "T. Palenikova"
+        },
+        {
           "id": "7684",
           "name": "V. Petkov"
         },
         {
+          "id": "15850",
+          "name": "V. Georgieva"
+        },
+        {
+          "id": "15812",
+          "name": "V. Vladova"
+        },
+        {
           "id": "5016",
           "name": "V. Petrov"
+        },
+        {
+          "id": "7171",
+          "name": "V. Bobeva"
         },
         {
           "id": "5024",
@@ -10071,12 +11271,20 @@
           "name": "Y. Deyanova"
         },
         {
+          "id": "15650",
+          "name": "Y. Karageorgiev"
+        },
+        {
           "id": "5245",
           "name": "Y. Milochev"
         },
         {
           "id": "5246",
           "name": "Y. Iliev"
+        },
+        {
+          "id": "15780",
+          "name": "Z. Velinova"
         }
       ],
       "courses": [
@@ -13392,7 +14600,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -13475,7 +14683,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -13558,7 +14766,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -13625,7 +14833,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "485",
@@ -13728,7 +14936,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -13831,7 +15039,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -13942,7 +15150,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -14006,10 +15214,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "16044",
-          "name": "N. SINGH"
-        },
-        {
           "id": "748",
           "name": "\u0391. \u039A\u0391\u039D\u0395\u039B\u039B\u0397"
         },
@@ -14048,6 +15252,10 @@
         {
           "id": "8186",
           "name": "\u039C. \u03A6\u039B\u0395\u03A4\u039F\u03A5\u03A1\u0397"
+        },
+        {
+          "id": "16044",
+          "name": "\u039D. \u03A3\u0399\u039D\u0393\u039A"
         },
         {
           "id": "12555",
@@ -14101,7 +15309,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -14240,7 +15448,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -14519,7 +15727,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -14638,7 +15846,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -14789,7 +15997,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15147,7 +16355,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -15234,7 +16442,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15345,7 +16553,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15468,7 +16676,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15638,7 +16846,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15797,7 +17005,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -15904,7 +17112,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "485",
@@ -16171,7 +17379,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -16254,7 +17462,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -16325,7 +17533,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -16380,7 +17588,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -16471,7 +17679,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -20503,7 +21711,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -21397,7 +22605,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -21832,7 +23040,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -21899,7 +23107,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -22064,12 +23272,12 @@
           "name": "Emergency Response Management {GR} - Initial (GHT-EMRG (I))"
         },
         {
-          "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
-        },
-        {
           "id": "551",
           "name": "Environmental Awareness Coordinators {GR} (GHT-ENVC)"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -22272,7 +23480,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -22375,7 +23583,7 @@
       "courses": [
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -22409,7 +23617,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -25260,7 +26468,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -25446,7 +26654,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -25601,7 +26809,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -25664,7 +26872,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -26210,7 +27418,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -26369,7 +27577,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -27108,7 +28316,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -27223,7 +28431,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "552",
@@ -27310,7 +28518,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -28203,10 +29411,6 @@
         {
           "id": "4829",
           "name": "\u0395. \u03A3\u03A0\u03A5\u03A1\u0399\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "6044",
-          "name": "\u0395. \u03A0\u03A1\u039F\u039A\u039F\u03A0\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "4506",
@@ -29268,7 +30472,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -30138,7 +31342,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -30381,7 +31585,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -30477,10 +31681,6 @@
           "name": "Y. LEONTARAKI"
         },
         {
-          "id": "4564",
-          "name": "\u0391. \u03A1\u0391\u03A6\u0391\u0397\u039B"
-        },
-        {
           "id": "1354",
           "name": "\u0391. \u03A1\u0391\u0399\u039A\u039F\u03A5"
         },
@@ -30535,10 +31735,6 @@
         {
           "id": "1687",
           "name": "\u0391. \u0393\u039F\u03A5\u039D\u0391\u03A1\u0397"
-        },
-        {
-          "id": "4568",
-          "name": "\u0391. \u039A\u039F\u03A5\u03A1\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "1879",
@@ -31053,14 +32249,6 @@
           "name": "\u039C. \u039A\u0391\u039B\u039F\u03A8\u03A5\u03A7\u039F\u03A5"
         },
         {
-          "id": "4565",
-          "name": "\u039C. \u03A1\u03A9\u039C\u0391\u039D\u03A4\u0396\u0391"
-        },
-        {
-          "id": "4567",
-          "name": "\u039C. \u039C\u039F\u03A3\u03A7\u0391\u03A4"
-        },
-        {
           "id": "4596",
           "name": "\u039C. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039B\u0391\u039A\u0397"
         },
@@ -31193,10 +32381,6 @@
           "name": "\u03A3. \u03A0\u039F\u0396\u0399\u0394\u039F\u03A5"
         },
         {
-          "id": "4566",
-          "name": "\u03A3. \u03A3\u03A0\u0399\u03A4\u0399\u0395\u03A1\u0397"
-        },
-        {
           "id": "5513",
           "name": "\u03A3. \u039A\u0391\u03A4\u03A3\u0395\u039B\u0397"
         },
@@ -31288,7 +32472,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -31642,7 +32826,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "1008",
@@ -32421,7 +33605,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -32576,7 +33760,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "605",
@@ -33995,7 +35179,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -35030,7 +36214,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -35197,7 +36381,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -36081,10 +37265,6 @@
           "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "1055",
           "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
@@ -36325,10 +37505,6 @@
           "name": "\u03A6. \u03A0\u03A5\u039B\u0399\u0391\u03A1\u0397"
         },
         {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
-        },
-        {
           "id": "1611",
           "name": "\u03A7. \u0393\u039A\u0395\u039A\u0391\u03A3"
         },
@@ -36396,7 +37572,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "1008",
@@ -36539,7 +37715,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "1008",
@@ -36625,16 +37801,12 @@
           "name": "O. TASOEV"
         },
         {
-          "id": "4564",
-          "name": "\u0391. \u03A1\u0391\u03A6\u0391\u0397\u039B"
+          "id": "3105",
+          "name": "\u0391. \u03A3\u0395\u03A1\u0395\u039C\u0395\u03A4\u0397\u03A3"
         },
         {
           "id": "2423",
           "name": "\u0391. \u039A\u0391\u03A1\u03A0\u0391\u0398\u0399\u03A9\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3105",
-          "name": "\u0391. \u03A3\u0395\u03A1\u0395\u039C\u0395\u03A4\u0397\u03A3"
         },
         {
           "id": "3078",
@@ -36669,20 +37841,20 @@
           "name": "\u0391. \u03A1\u0399\u0393\u0391\u039D\u0391\u03A3"
         },
         {
-          "id": "3021",
-          "name": "\u0392. \u0394\u0397\u039C\u0397\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "352",
-          "name": "\u0392. \u03A7\u0391\u039D\u0399\u03A9\u03A4\u0397\u03A3"
+          "id": "291",
+          "name": "\u0392. \u03A1\u0395\u03A0\u0391\u039D\u0397\u03A3"
         },
         {
           "id": "2875",
           "name": "\u0392. \u039A\u0391\u03A1\u0391\u0393\u0395\u03A9\u03A1\u0393\u039F\u03A3"
         },
         {
-          "id": "291",
-          "name": "\u0392. \u03A1\u0395\u03A0\u0391\u039D\u0397\u03A3"
+          "id": "352",
+          "name": "\u0392. \u03A7\u0391\u039D\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "3021",
+          "name": "\u0392. \u0394\u0397\u039C\u0397\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "294",
@@ -36693,18 +37865,6 @@
           "name": "\u0392. \u03A4\u03A3\u0399\u03A1\u03A9\u039D\u0397"
         },
         {
-          "id": "924",
-          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
-        },
-        {
-          "id": "872",
-          "name": "\u0393. \u039A\u0391\u03A3\u0391\u039C\u03A0\u0391\u03A3"
-        },
-        {
-          "id": "3303",
-          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039C\u0391\u039D\u03A9\u039B\u0397\u03A3"
-        },
-        {
           "id": "3018",
           "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -36713,16 +37873,28 @@
           "name": "\u0393. \u03A0\u0391\u039D\u03A4\u0395\u039B\u0399\u03A9\u0394\u0397\u03A3"
         },
         {
+          "id": "872",
+          "name": "\u0393. \u039A\u0391\u03A3\u0391\u039C\u03A0\u0391\u03A3"
+        },
+        {
+          "id": "924",
+          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
+        },
+        {
+          "id": "308",
+          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "3303",
+          "name": "\u0393. \u03A0\u0391\u03A0\u0391\u039C\u0391\u039D\u03A9\u039B\u0397\u03A3"
+        },
+        {
           "id": "363",
           "name": "\u0393. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "938",
           "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
-          "id": "308",
-          "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "985",
@@ -36765,12 +37937,12 @@
           "name": "\u0395. \u039A\u03A9\u03A3\u03A4\u0397\u03A3"
         },
         {
-          "id": "3030",
-          "name": "\u0395. \u039E\u03A5\u03A0\u039F\u039B\u0399\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3631",
           "name": "\u0395. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3030",
+          "name": "\u0395. \u039E\u03A5\u03A0\u039F\u039B\u0399\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3075",
@@ -36805,16 +37977,16 @@
           "name": "\u0399. \u039A\u03A9\u03A4\u03A3\u039F\u03A3"
         },
         {
+          "id": "300",
+          "name": "\u0399. \u03A3\u0395\u03A1\u0395\u03A3\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
           "id": "3614",
           "name": "\u0399. \u03A1\u039F\u039A\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3380",
           "name": "\u0399. \u0391\u03A5\u0393\u039F\u03A5\u03A3\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "300",
-          "name": "\u0399. \u03A3\u0395\u03A1\u0395\u03A3\u0399\u03A9\u03A4\u0397\u03A3"
         },
         {
           "id": "296",
@@ -36881,16 +38053,8 @@
           "name": "\u039D. \u03A6\u0391\u039C\u0395\u039B\u0397\u03A3"
         },
         {
-          "id": "1696",
-          "name": "\u039D. \u03A3\u0399\u0394\u0395\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3212",
           "name": "\u039D. \u03A4\u0396\u039F\u03A5\u0392\u0391\u039D\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "2530",
-          "name": "\u039D. \u039A\u0391\u03A0\u0391\u03A1\u039F\u03A5\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3202",
@@ -36899,6 +38063,14 @@
         {
           "id": "3070",
           "name": "\u039D. \u039C\u039F\u03A3\u03A7\u039F\u039D\u0391\u03A3"
+        },
+        {
+          "id": "1696",
+          "name": "\u039D. \u03A3\u0399\u0394\u0395\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "2530",
+          "name": "\u039D. \u039A\u0391\u03A0\u0391\u03A1\u039F\u03A5\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "2199",
@@ -36921,12 +38093,12 @@
           "name": "\u03A1. \u039A\u039F\u03A5\u039D\u0399\u0391\u03A1\u0395\u039B\u039B\u0397\u03A3"
         },
         {
-          "id": "3045",
-          "name": "\u03A3. \u039A\u0391\u039C\u03A0\u0391\u03A3"
-        },
-        {
           "id": "172",
           "name": "\u03A3. \u039A\u0391\u039D\u03A4\u0396\u0395\u039B\u0397\u03A3"
+        },
+        {
+          "id": "3045",
+          "name": "\u03A3. \u039A\u0391\u039C\u03A0\u0391\u03A3"
         },
         {
           "id": "2279",
@@ -37015,7 +38187,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38303,7 +39475,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38414,7 +39586,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38645,7 +39817,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38732,7 +39904,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38791,7 +39963,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -38886,7 +40058,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -39368,7 +40540,7 @@
       "courses": [
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "553",
@@ -39509,6 +40681,10 @@
           "name": "O. MARITES"
         },
         {
+          "id": "16156",
+          "name": "R. BOUGHANMI"
+        },
+        {
           "id": "8698",
           "name": "R. KAMPULA"
         },
@@ -39581,12 +40757,12 @@
           "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
         },
         {
-          "id": "4522",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
-        },
-        {
           "id": "8803",
           "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
+        },
+        {
+          "id": "4522",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
         },
         {
           "id": "15675",
@@ -39613,12 +40789,12 @@
           "name": "\u0397. \u03A4\u03A3\u0391\u0393\u039A\u039F\u03A5\u03A1\u039D\u0391\u03A3"
         },
         {
-          "id": "8793",
-          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
-        },
-        {
           "id": "8768",
           "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "8793",
+          "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
         },
         {
           "id": "8791",
@@ -40177,7 +41353,7 @@
         },
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "555",
@@ -44043,7 +45219,7 @@
       "courses": [
         {
           "id": "550",
-          "name": "Environmental Awareness (GHT-ENVA)"
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
         },
         {
           "id": "1538",
@@ -46709,10 +47885,6 @@
           "name": "\u039D. \u03A1\u0391\u039B\u039B\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "1696",
           "name": "\u039D. \u03A3\u0399\u0394\u0395\u03A1\u0391\u039A\u0397\u03A3"
         },
@@ -47215,10 +48387,6 @@
         {
           "id": "7463",
           "name": "\u03A6. \u039A\u039F\u03A4\u0396\u0391\u039C\u0391\u039D\u039F\u0393\u039B\u039F\u03A5"
-        },
-        {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
         },
         {
           "id": "1194",
@@ -49681,32 +50849,32 @@
           "name": "\u0391. \u039C\u0391\u039A\u03A1\u0391\u039A\u0397"
         },
         {
-          "id": "3031",
-          "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u039A\u0391\u039B\u039F\u03A5"
-        },
-        {
           "id": "279",
           "name": "\u0391. \u03A0\u0395\u03A3\u039C\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "3031",
+          "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u039A\u0391\u039B\u039F\u03A5"
         },
         {
           "id": "3352",
           "name": "\u0391. \u039A\u03A9\u03A3\u03A4\u039F\u03A5\u0394\u0397"
         },
         {
-          "id": "3091",
-          "name": "\u0391. \u0396\u03A9\u03A1\u0396\u039F\u03A5"
-        },
-        {
           "id": "3145",
           "name": "\u0391. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
         {
-          "id": "1004",
-          "name": "\u0391. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u03A6\u039F\u03A1\u039F\u03A5-\u03A4\u03A3\u0395\u03A3\u039C\u0395\u039B\u0397"
+          "id": "3091",
+          "name": "\u0391. \u0396\u03A9\u03A1\u0396\u039F\u03A5"
         },
         {
           "id": "160",
           "name": "\u0391. \u0396\u0391\u03A1\u0391\u039D\u0397\u03A3"
+        },
+        {
+          "id": "1004",
+          "name": "\u0391. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u03A6\u039F\u03A1\u039F\u03A5-\u03A4\u03A3\u0395\u03A3\u039C\u0395\u039B\u0397"
         },
         {
           "id": "3192",
@@ -49719,6 +50887,10 @@
         {
           "id": "3034",
           "name": "\u0391. \u039B\u0395\u039D\u0395\u03A4\u0397"
+        },
+        {
+          "id": "5263",
+          "name": "\u0392. \u039D\u03A4\u0391\u039C\u03A0\u0391\u03A3\u0397"
         },
         {
           "id": "310",
@@ -49805,20 +50977,20 @@
           "name": "\u0399. \u03A3\u03A5\u03A1\u0399\u0391\u039D\u0397"
         },
         {
-          "id": "3013",
-          "name": "\u0399. \u0398\u0395\u039F\u03A7\u0391\u03A1\u0397\u03A3"
-        },
-        {
           "id": "3108",
           "name": "\u0399. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u039A\u039F\u03A3"
         },
         {
-          "id": "272",
-          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u03A3\u03A4\u0391\u0398\u0397"
+          "id": "3013",
+          "name": "\u0399. \u0398\u0395\u039F\u03A7\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "4824",
           "name": "\u039A. \u039C\u0391\u03A3\u03A4\u03A1\u039F\u03A0\u0391\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "272",
+          "name": "\u039A. \u03A0\u0391\u03A0\u0391\u03A3\u03A4\u0391\u0398\u0397"
         },
         {
           "id": "277",
@@ -49829,16 +51001,16 @@
           "name": "\u039A. \u03A1\u0391\u03A6\u0391\u0397\u039B"
         },
         {
+          "id": "3089",
+          "name": "\u039A. \u039A\u0391\u03A1\u0394\u0391\u039A\u039F\u03A3"
+        },
+        {
           "id": "3035",
           "name": "\u039A. \u0394\u0391\u039C\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "345",
           "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u039F\u03A5"
-        },
-        {
-          "id": "3089",
-          "name": "\u039A. \u039A\u0391\u03A1\u0394\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "271",
@@ -49849,36 +51021,32 @@
           "name": "\u039C. \u039B\u0399\u0391\u039C\u0391\u039A\u0397"
         },
         {
-          "id": "3072",
-          "name": "\u039C. \u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A5"
-        },
-        {
           "id": "4903",
           "name": "\u039C. \u0396\u03A9\u03A4\u039F\u03A5"
+        },
+        {
+          "id": "3183",
+          "name": "\u039C. \u03A3\u0395\u039C\u0395\u039B\u0399\u0394\u039F\u03A5"
         },
         {
           "id": "951",
           "name": "\u039C. \u039A\u0391\u03A1\u03A5\u0394\u0397"
         },
         {
-          "id": "141",
-          "name": "\u039C. \u0393\u0399\u039F\u03A5\u03A1\u0395\u039B\u0397"
+          "id": "3195",
+          "name": "\u039C. \u0398\u03A5\u039C\u0397"
         },
         {
           "id": "3242",
           "name": "\u039C. \u03A3\u03A4\u03A1\u039F\u0393\u0393\u03A5\u039B\u0391\u039A\u0397"
         },
         {
-          "id": "3195",
-          "name": "\u039C. \u0398\u03A5\u039C\u0397"
-        },
-        {
           "id": "124",
           "name": "\u039C. \u0392\u0395\u03A4\u03A4\u0391"
         },
         {
-          "id": "3183",
-          "name": "\u039C. \u03A3\u0395\u039C\u0395\u039B\u0399\u0394\u039F\u03A5"
+          "id": "3072",
+          "name": "\u039C. \u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "936",
@@ -49887,6 +51055,10 @@
         {
           "id": "112",
           "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
+        },
+        {
+          "id": "141",
+          "name": "\u039C. \u0393\u0399\u039F\u03A5\u03A1\u0395\u039B\u0397"
         },
         {
           "id": "5569",
@@ -49943,6 +51115,10 @@
         {
           "id": "3093",
           "name": "\u03A3. \u039D\u0399\u039A\u039F\u039B\u03A4\u03A3\u0397"
+        },
+        {
+          "id": "8143",
+          "name": "\u03A3. \u039A\u03A5\u03A0\u0391\u03A1\u0399\u03A3\u03A3\u039F\u03A5"
         },
         {
           "id": "328",
@@ -50884,10 +52060,6 @@
           "name": "V. KUDRI\u0391VTSEV"
         },
         {
-          "id": "4564",
-          "name": "\u0391. \u03A1\u0391\u03A6\u0391\u0397\u039B"
-        },
-        {
           "id": "3382",
           "name": "\u0391. \u0391\u03A3\u0397\u039C\u0399\u039D\u0391\u03A1\u0397"
         },
@@ -51018,10 +52190,6 @@
         {
           "id": "149",
           "name": "\u0391. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "4568",
-          "name": "\u0391. \u039A\u039F\u03A5\u03A1\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "12100",
@@ -52656,14 +53824,6 @@
           "name": "\u039C. \u0391\u03A1\u039D\u0391\u039D\u03A4\u03A9\u039D\u0391\u039A\u0397"
         },
         {
-          "id": "4565",
-          "name": "\u039C. \u03A1\u03A9\u039C\u0391\u039D\u03A4\u0396\u0391"
-        },
-        {
-          "id": "4567",
-          "name": "\u039C. \u039C\u039F\u03A3\u03A7\u0391\u03A4"
-        },
-        {
           "id": "8820",
           "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
@@ -53304,10 +54464,6 @@
           "name": "\u03A3. \u039A\u0391\u03A4\u03A3\u0395\u039B\u0397"
         },
         {
-          "id": "4566",
-          "name": "\u03A3. \u03A3\u03A0\u0399\u03A4\u0399\u0395\u03A1\u0397"
-        },
-        {
           "id": "137",
           "name": "\u03A3. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0395\u039B\u039F\u03A5"
         },
@@ -53639,6 +54795,10 @@
           "name": "A. SHMILEVA"
         },
         {
+          "id": "95",
+          "name": "A. DELA CRUZ"
+        },
+        {
           "id": "97",
           "name": "L. WANDAS"
         },
@@ -53695,6 +54855,10 @@
           "name": "\u0391. \u03A6\u03A1\u0391\u0393\u039A\u039F\u03A5"
         },
         {
+          "id": "3092",
+          "name": "\u0391. \u039A\u0391\u03A1\u03A0\u039F\u03A5\u0396\u0391"
+        },
+        {
           "id": "159",
           "name": "\u0391. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u039F\u03A5"
         },
@@ -53717,6 +54881,10 @@
         {
           "id": "1211",
           "name": "\u0391. \u03A0\u0391\u03A0\u039F\u03A5\u039B\u03A9\u03A6"
+        },
+        {
+          "id": "8900",
+          "name": "\u0391. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "133",
@@ -53803,10 +54971,6 @@
           "name": "\u0391. \u03A4\u039F\u0393\u0399\u0391"
         },
         {
-          "id": "3150",
-          "name": "\u0391. \u03A6\u03A9\u03A4\u0397"
-        },
-        {
           "id": "344",
           "name": "\u0391. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391"
         },
@@ -53867,6 +55031,10 @@
           "name": "\u0391. \u039A\u0391\u039A\u039F\u03A5\u039B\u0399\u0394\u0397\u03A3"
         },
         {
+          "id": "1017",
+          "name": "\u0391. \u039A\u039F\u039C\u03A0\u039F\u039B\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "322",
           "name": "\u0391. \u03A4\u039F\u0393\u0399\u0391\u03A3"
         },
@@ -53905,6 +55073,10 @@
         {
           "id": "2698",
           "name": "\u0391. \u03A0\u03A1\u039F\u0392\u0395\u039B\u0395\u0393\u0393\u0399\u039F\u03A5"
+        },
+        {
+          "id": "3352",
+          "name": "\u0391. \u039A\u03A9\u03A3\u03A4\u039F\u03A5\u0394\u0397"
         },
         {
           "id": "2898",
@@ -53969,6 +55141,10 @@
         {
           "id": "2881",
           "name": "\u0391. \u0396\u0399\u0391\u03A1\u039A\u0391\u039B\u0397\u03A3"
+        },
+        {
+          "id": "3647",
+          "name": "\u0391. \u0391\u03A1\u0392\u0391\u039D\u0399\u03A4\u0397\u03A3"
         },
         {
           "id": "3192",
@@ -54125,6 +55301,10 @@
         {
           "id": "844",
           "name": "\u0392. \u039C\u039F\u03A5\u03A3\u03A4\u0391\u03A6\u0391"
+        },
+        {
+          "id": "352",
+          "name": "\u0392. \u03A7\u0391\u039D\u0399\u03A9\u03A4\u0397\u03A3"
         },
         {
           "id": "1703",
@@ -54331,6 +55511,10 @@
           "name": "\u0393. \u03A7\u03A1\u0399\u03A3\u03A4\u039F\u0394\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
+          "id": "3616",
+          "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
+        },
+        {
           "id": "1872",
           "name": "\u0393. \u039D\u039F\u03A4\u039F\u03A3"
         },
@@ -54341,6 +55525,10 @@
         {
           "id": "1824",
           "name": "\u0393. \u0392\u03A9\u03A3\u03A3\u039F\u03A3"
+        },
+        {
+          "id": "3083",
+          "name": "\u0393. \u039C\u03A0\u03A1\u039F\u039D\u039F\u03A3"
         },
         {
           "id": "7689",
@@ -54453,6 +55641,10 @@
         {
           "id": "208",
           "name": "\u0394. \u039A\u039F\u03A5\u03A1\u03A4\u0395\u03A3\u0397\u03A3"
+        },
+        {
+          "id": "3656",
+          "name": "\u0394. \u03A3\u03A4\u0395\u03A6\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3204",
@@ -54603,6 +55795,14 @@
           "name": "\u0395. \u039C\u0391\u03A1\u0391\u0398\u0399\u0391\u039D\u0391\u039A\u0397\u03A3"
         },
         {
+          "id": "996",
+          "name": "\u0395. \u039C\u03A0\u0399\u03A4\u03A3\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "929",
+          "name": "\u0395. \u039C\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "442",
           "name": "\u0395. \u039C\u039F\u03A5\u03A4\u03A3\u039F"
         },
@@ -54699,6 +55899,10 @@
           "name": "\u0396. \u03A6\u039F\u03A5\u03A3\u0395\u039A\u0391"
         },
         {
+          "id": "3090",
+          "name": "\u0397. \u0396\u0391\u03A1\u039F\u03A5\u03A7\u0391"
+        },
+        {
           "id": "1161",
           "name": "\u0397. \u03A0\u0395\u03A4\u03A1\u039F\u03A5\u039B\u0391\u03A3"
         },
@@ -54721,6 +55925,14 @@
         {
           "id": "1388",
           "name": "\u0397. \u039A\u0391\u03A4\u03A1\u0391\u039F\u03A5\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "3086",
+          "name": "\u0397. \u03A0\u03A1\u0395\u039A\u0391\u03A3"
+        },
+        {
+          "id": "4153",
+          "name": "\u0397. \u039A\u039F\u03A4\u03A3\u03A9\u03A1\u0397\u03A3"
         },
         {
           "id": "10390",
@@ -54835,10 +56047,6 @@
           "name": "\u0399. \u03A4\u03A3\u0391\u0393\u039A\u0391\u03A1\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3628",
-          "name": "\u0399. \u03A0\u0391\u03A0\u0391\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3614",
           "name": "\u0399. \u03A1\u039F\u039A\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
@@ -54861,10 +56069,6 @@
         {
           "id": "3056",
           "name": "\u0399. \u03A1\u0395\u0399\u03A3\u0397\u03A3"
-        },
-        {
-          "id": "3125",
-          "name": "\u0399. \u03A4\u03A1\u03A5\u03A6\u03A9\u039D\u0391\u03A3"
         },
         {
           "id": "180",
@@ -54917,6 +56121,22 @@
         {
           "id": "1162",
           "name": "\u0399. \u039A\u0391\u0392\u0394\u0391\u03A3"
+        },
+        {
+          "id": "3672",
+          "name": "\u0399. \u0394\u0391\u03A3\u039A\u0391\u039B\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "4840",
+          "name": "\u0399. \u03A4\u0391\u03A3\u0399\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
+          "id": "2015",
+          "name": "\u0399. \u03A6\u03A9\u03A4\u0395\u0399\u039D\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3076",
+          "name": "\u0399. \u039C\u039F\u03A3\u03A7\u039F\u039D\u0391\u03A3"
         },
         {
           "id": "7904",
@@ -54985,10 +56205,6 @@
         {
           "id": "3296",
           "name": "\u039A. \u03A4\u0391\u039A\u039A\u039F\u03A5"
-        },
-        {
-          "id": "332",
-          "name": "\u039A. \u03A4\u03A3\u0399\u0391\u0392\u039F\u03A5"
         },
         {
           "id": "319",
@@ -55089,6 +56305,22 @@
         {
           "id": "1507",
           "name": "\u039A. \u03A7\u039F\u03A5\u039D\u03A4\u0391\u03A3"
+        },
+        {
+          "id": "980",
+          "name": "\u039A. \u03A6\u0399\u039B\u0399\u03A0\u03A0\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3089",
+          "name": "\u039A. \u039A\u0391\u03A1\u0394\u0391\u039A\u039F\u03A3"
+        },
+        {
+          "id": "3700",
+          "name": "\u039A. \u039C\u039F\u03A5\u039B\u0391\u03A3"
+        },
+        {
+          "id": "3095",
+          "name": "\u039A. \u039F\u03A1\u03A6\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "739",
@@ -55201,6 +56433,14 @@
         {
           "id": "241",
           "name": "\u039C. \u039C\u039F\u03A5\u03A3\u0395\u039B\u0399\u039C\u0397"
+        },
+        {
+          "id": "243",
+          "name": "\u039C. \u039C\u03A0\u0391\u03A1\u039C\u03A0\u039F\u03A5\u03A4\u0397"
+        },
+        {
+          "id": "3661",
+          "name": "\u039C. \u03A4\u03A1\u03A5\u03A0\u0391\u039A\u0397"
         },
         {
           "id": "353",
@@ -55337,6 +56577,10 @@
         {
           "id": "3138",
           "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0395\u039F\u03A5\u0394\u0395\u039D\u0391\u03A3"
+        },
+        {
+          "id": "3107",
+          "name": "\u039D. \u03A6\u0391\u039C\u0395\u039B\u0397\u03A3"
         },
         {
           "id": "1197",
@@ -55499,6 +56743,10 @@
           "name": "\u03A0. \u039A\u0391\u03A0\u039F\u03A5"
         },
         {
+          "id": "3022",
+          "name": "\u03A0. \u039B\u0395\u0392\u0395\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
           "id": "1262",
           "name": "\u03A0. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u039F\u03A3"
         },
@@ -55553,6 +56801,14 @@
         {
           "id": "1385",
           "name": "\u03A0. \u03A4\u03A1\u0399\u0391\u039D\u03A4\u0391\u03A6\u03A5\u039B\u039B\u039F\u03A5"
+        },
+        {
+          "id": "260",
+          "name": "\u03A0. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "4154",
+          "name": "\u03A0. \u039C\u03A0\u03A1\u039F\u03A5\u039C\u0391\u03A3"
         },
         {
           "id": "2135",
@@ -55739,6 +56995,10 @@
           "name": "\u03A3. \u0391\u03A3\u03A4\u0395\u03A1\u0399\u0391\u0394\u0397\u03A3"
         },
         {
+          "id": "3655",
+          "name": "\u03A3. \u0399\u0391\u03A4\u03A1\u039F\u03A5"
+        },
+        {
           "id": "2889",
           "name": "\u03A3. \u0391\u03A3\u03A0\u03A1\u039F\u03A5\u039B\u0397\u03A3"
         },
@@ -55793,6 +57053,10 @@
         {
           "id": "61",
           "name": "\u03A6. \u03A0\u0391\u03A1\u03A4\u03A3\u0391\u039B\u0397\u03A3"
+        },
+        {
+          "id": "3705",
+          "name": "\u03A6. \u0396\u0395\u03A1\u0392\u039F\u03A3"
         },
         {
           "id": "237",
@@ -55893,6 +57157,10 @@
         {
           "id": "1476",
           "name": "\u03A7. \u039C\u03A0\u0395\u039B\u0391\u03A3"
+        },
+        {
+          "id": "1145",
+          "name": "\u03A7. \u0394\u0391\u03A3\u039A\u0391\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "838",
@@ -56281,10 +57549,6 @@
           "name": "V. KUDRI\u0391VTSEV"
         },
         {
-          "id": "4564",
-          "name": "\u0391. \u03A1\u0391\u03A6\u0391\u0397\u039B"
-        },
-        {
           "id": "4709",
           "name": "\u0391. \u039A\u0391\u0396\u0391\u039D\u03A4\u0396\u039F\u0393\u039B\u039F\u03A5"
         },
@@ -56355,10 +57619,6 @@
         {
           "id": "149",
           "name": "\u0391. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "4568",
-          "name": "\u0391. \u039A\u039F\u03A5\u03A1\u03A3\u0391\u03A1\u0397"
         },
         {
           "id": "254",
@@ -57465,14 +58725,6 @@
           "name": "\u039C. \u039C\u03A0\u0391\u03A1\u039C\u03A0\u039F\u03A5\u03A4\u0397"
         },
         {
-          "id": "4565",
-          "name": "\u039C. \u03A1\u03A9\u039C\u0391\u039D\u03A4\u0396\u0391"
-        },
-        {
-          "id": "4567",
-          "name": "\u039C. \u039C\u039F\u03A3\u03A7\u0391\u03A4"
-        },
-        {
           "id": "4903",
           "name": "\u039C. \u0396\u03A9\u03A4\u039F\u03A5"
         },
@@ -57859,10 +59111,6 @@
         {
           "id": "328",
           "name": "\u03A3. \u03A4\u03A3\u0391\u039D\u03A4\u0391\u03A1\u039B\u0397"
-        },
-        {
-          "id": "4566",
-          "name": "\u03A3. \u03A3\u03A0\u0399\u03A4\u0399\u0395\u03A1\u0397"
         },
         {
           "id": "4843",
@@ -59398,10 +60646,6 @@
           "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "1055",
           "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
@@ -59680,10 +60924,6 @@
         {
           "id": "972",
           "name": "\u03A6. \u039C\u039F\u03A1\u03A4\u0396\u039F\u03A5"
-        },
-        {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
         },
         {
           "id": "935",
@@ -60261,10 +61501,6 @@
           "name": "\u039D. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "835",
           "name": "\u039D. \u0392\u0395\u0396\u03A5\u03A1\u0397\u03A3"
         },
@@ -60415,10 +61651,6 @@
         {
           "id": "5640",
           "name": "\u03A6. \u039A\u0391\u03A1\u0391\u039B\u0397\u03A3"
-        },
-        {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
         },
         {
           "id": "935",
@@ -61487,10 +62719,6 @@
           "name": "\u039D. \u0392\u0395\u0396\u03A5\u03A1\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "1055",
           "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
@@ -61613,10 +62841,6 @@
         {
           "id": "5640",
           "name": "\u03A6. \u039A\u0391\u03A1\u0391\u039B\u0397\u03A3"
-        },
-        {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
         },
         {
           "id": "935",
@@ -62502,10 +63726,6 @@
           "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "6103",
-          "name": "\u039D. \u03A0\u0395\u03A7\u039B\u0399\u0392\u0391\u039D\u0397\u03A3"
-        },
-        {
           "id": "1055",
           "name": "\u039D. \u0393\u03A1\u0397\u0393\u039F\u03A1\u0391\u039A\u039F\u03A3"
         },
@@ -62732,10 +63952,6 @@
         {
           "id": "341",
           "name": "\u03A6. \u03A4\u03A3\u039F\u03A5\u03A1\u0391"
-        },
-        {
-          "id": "13926",
-          "name": "\u03A6. \u039A\u03A5\u03A1\u0399\u0391\u0396\u0397\u03A3"
         },
         {
           "id": "935",
@@ -65253,6 +66469,74 @@
       "custom_field_9": "N/A",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Main",
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1899",
+      "name": "Advanced features of TalentLMS",
+      "code": "",
+      "category_id": null,
+      "description": "\u003Cp\u003EHow do you become a TalentLMS super-user? By exploring some of the platform\u2019s more advanced features. In this brief training, you\u2019ll learn practical tips to help you build courses faster and save valuable time. Dive in and start leveling up your skills!\u003C/p\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "05/11/2026, 07:03:58",
+      "last_update_on": "05/11/2026, 07:03:58",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765288582_Screenshot_2025-12-09_at_3.55.47_PM.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765288583_Screenshot_2025-12-09_at_3.55.47_PM.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1905",
+      "name": "Advanced Features of TalentLMS (Legacy)",
+      "code": "",
+      "category_id": null,
+      "description": "How do you become a TalentLMS super-user? With this brief training on some of the more advanced features of our platform. Dive in and see how you can save time when building a course.",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "05/11/2026, 16:39:56",
+      "last_update_on": "05/11/2026, 16:39:56",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/samplecourses/1548346699_toolkit.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/samplecourses/1548346701_toolkit.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
@@ -70196,10 +71480,10 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "04/11/2026, 11:28:25",
-      "last_update_on": "04/11/2026, 11:30:31",
+      "last_update_on": "05/11/2026, 11:00:11",
       "creator_id": "4538",
       "hide_from_catalog": "1",
-      "time_limit": "0",
+      "time_limit": "30",
       "start_datetime": null,
       "expiration_datetime": null,
       "level": null,
@@ -70264,10 +71548,10 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "04/11/2026, 11:39:23",
-      "last_update_on": "04/11/2026, 11:40:38",
+      "last_update_on": "05/11/2026, 10:59:03",
       "creator_id": "4538",
       "hide_from_catalog": "1",
-      "time_limit": "0",
+      "time_limit": "30",
       "start_datetime": null,
       "expiration_datetime": null,
       "level": null,
@@ -72532,40 +73816,6 @@
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
-    },
-    {
-      "id": "1898",
-      "name": "Course Evaluation: Environmental Awareness",
-      "code": "SRV-GHT-ENVA",
-      "category_id": "39",
-      "description": "\u003Cp data-path-to-node=\u00222,0\u0022 data-pasted=\u0022true\u0022 style=\u0022text-align: center;\u0022\u003E\u003Cb data-path-to-node=\u00222,0\u0022 data-index-in-node=\u00220\u0022\u003E\u03A3\u03C5\u03B3\u03C7\u03B1\u03C1\u03B7\u03C4\u03AE\u03C1\u03B9\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2!\u003C/b\u003E\u003C/p\u003E\u003Cp data-path-to-node=\u00222,1\u0022 style=\u0022text-align: center;\u0022\u003E\u039C\u03CC\u03BB\u03B9\u03C2 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03C3\u03B1\u03C4\u03B5 \u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03AE \u03C3\u03B1\u03C2. \u0397 \u03B3\u03BD\u03CE\u03BC\u03B7 \u03C3\u03B1\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B9\u03B4\u03B9\u03B1\u03AF\u03C4\u03B5\u03C1\u03B1 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03AE \u03B3\u03B9\u03B1 \u03B5\u03BC\u03AC\u03C2, \u03BA\u03B1\u03B8\u03CE\u03C2 \u03BC\u03B1\u03C2 \u03B2\u03BF\u03B7\u03B8\u03AC \u03BD\u03B1 \u03B2\u03B5\u03BB\u03C4\u03B9\u03CE\u03BD\u03BF\u03C5\u03BC\u03B5 \u03C3\u03C5\u03BD\u03B5\u03C7\u03CE\u03C2 \u03C4\u03B7\u03BD \u03C0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C4\u03C9\u03BD \u03BC\u03B1\u03B8\u03B7\u03BC\u03AC\u03C4\u03C9\u03BD \u03BC\u03B1\u03C2.\u003C/p\u003E\u003Cp data-path-to-node=\u00222,2\u0022 style=\u0022text-align: center;\u0022\u003E\u03A0\u03B1\u03C1\u03B1\u03BA\u03B1\u03BB\u03BF\u03CD\u03BC\u03B5 \u03B1\u03C6\u03B9\u03B5\u03C1\u03CE\u03C3\u03C4\u03B5 2-3 \u03BB\u03B5\u03C0\u03C4\u03AC \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C3\u03C5\u03BC\u03C0\u03BB\u03B7\u03C1\u03CE\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7 \u03C3\u03CD\u03BD\u03C4\u03BF\u03BC\u03B7 \u03C6\u03CC\u03C1\u03BC\u03B1 \u03B1\u03BE\u03B9\u03BF\u03BB\u03CC\u03B3\u03B7\u03C3\u03B7\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03B5\u03AF. \u039F\u03B9 \u03B1\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C3\u03B1\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BF\u03BB\u03CD\u03C4\u03B9\u03BC\u03B5\u03C2.\u003C/p\u003E\u003Chr style=\u0022text-align: center;\u0022\u003E\u003Cp data-path-to-node=\u00224,0\u0022 data-pasted=\u0022true\u0022 style=\u0022text-align: center;\u0022\u003E\u003Cb data-path-to-node=\u00224,0\u0022 data-index-in-node=\u00220\u0022\u003E\u003Cspan style=\u0022color: rgb(71, 85, 119);\u0022\u003ECongratulations on completing the course!\u003C/span\u003E\u003C/b\u003E\u003C/p\u003E\u003Cp data-path-to-node=\u00224,1\u0022 style=\u0022text-align: center;\u0022\u003E\u003Cspan style=\u0022color: rgb(71, 85, 119);\u0022\u003EYou have just completed your training. We are very interested in hearing your feedback, as your insights help us continuously improve the quality and effectiveness of our learning programs.\u003C/span\u003E\u003C/p\u003E\u003Cp data-path-to-node=\u00224,2\u0022 style=\u0022text-align: center;\u0022\u003E\u003Cspan style=\u0022color: rgb(71, 85, 119);\u0022\u003EPlease take 2-3 minutes to fill out this brief evaluation survey. Your feedback is highly valuable to us.\u003C/span\u003E\u003C/p\u003E",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "04/11/2026, 11:43:36",
-      "last_update_on": "04/11/2026, 11:56:44",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "7",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1793786205_Gemini_Generated_Image_5qz1se5qz1se5qz1__2_.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1793786206_Gemini_Generated_Image_5qz1se5qz1se5qz1__2_.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": "Survey",
-      "custom_field_4": "",
-      "custom_field_5": "",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
     },
     {
       "id": "732",
@@ -80626,40 +81876,6 @@
       "custom_field_18": null
     },
     {
-      "id": "550",
-      "name": "Environmental Awareness",
-      "code": "GHT-ENVA",
-      "category_id": "29",
-      "description": "\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03BF\u03BD\u03B9\u03BA\u03AE \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(8,82,148);font-family:Roboto, sans-serif;\u0022\u003EEnvironmental Awareness\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;font-family:Roboto, sans-serif;\u0022\u003E\u03A4\u03BF \u03BC\u03AC\u03B8\u03B7\u03BC\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B4\u03B9\u03B1\u03B8\u03AD\u03C3\u03B9\u03BC\u03BF \u03C3\u03C4\u03B1 \u003Cstrong\u003E\u003Cspan style=\u0022color:rgb(44,130,201);\u0022\u003E\u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC\u003C/span\u003E\u003C/strong\u003E \u03BA\u03B1\u03B9 \u03C4\u03B1 \u003Cstrong\u003E\u003Cspan style=\u0022color:rgb(184,49,47);\u0022\u003E\u0391\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC\u003C/span\u003E\u003C/strong\u003E. \u03A0\u03B1\u03C1\u03B1\u03BA\u03B1\u03BB\u03BF\u03CD\u03BC\u03B5 \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C4\u03B7 \u03B3\u03BB\u03CE\u03C3\u03C3\u03B1 \u03C4\u03B7\u03C2 \u03C0\u03C1\u03BF\u03C4\u03AF\u03BC\u03B7\u03C3\u03AE\u03C2 \u03C3\u03B1\u03C2 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BE\u03B5\u03BA\u03B9\u03BD\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C4\u03B7\u03BD \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1\u03C3\u03B7.\u003C/span\u003E\u003C/p\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/span\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca style=\u0022font-family:Roboto, sans-serif;\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Chr\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003EWelcome to the course\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022color:rgb(8,82,148);font-family:Roboto, sans-serif;\u0022\u003EEnvironmental Awareness\u003C/span\u003E\u003C/h2\u003E\u003Ch2 style=\u0022text-align: center; line-height: 1;\u0022 data-pasted=\u0022true\u0022\u003E\u003Cspan style=\u0022color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003EThis course is available in both\u003C/span\u003E \u003Cspan style=\u0022color: rgb(184, 49, 47); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003E\u003Cstrong\u003EEnglish\u003C/strong\u003E\u003C/span\u003E \u003Cspan style=\u0022color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003Eand\u003C/span\u003E \u003Cspan style=\u0022color: rgb(44, 130, 201); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003E\u003Cstrong\u003EGreek\u003C/strong\u003E\u003C/span\u003E\u003Cspan style=\u0022color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003E. Please select your preferred language below to launch the presentation.\u003C/span\u003E\u003Cspan style=\u0022color: rgb(8, 82, 148); font-family: Roboto, sans-serif; font-size: 16px;\u0022\u003E\u0026nbsp;\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:left;line-height:1;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/span\u003E\u003Cbr\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:left;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E\u0026nbsp; 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:left;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca style=\u0022font-family:Roboto, sans-serif;\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "08/05/2024, 13:36:07",
-      "last_update_on": "04/11/2026, 16:34:48",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717161409_1_Cnb77NWpiIMBWgC9ChPW2w.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717161410_1_Cnb77NWpiIMBWgC9ChPW2w.png",
-      "certification": "GR Main Certificate",
-      "certification_duration": "2 years",
-      "custom_field_2": "General",
-      "custom_field_4": "2",
-      "custom_field_5": "Goldair Handling",
-      "custom_field_6": "Refresher Training must be provided within 24 months",
-      "custom_field_7": "",
-      "custom_field_9": "Pass",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
-    },
-    {
       "id": "551",
       "name": "Environmental Awareness Coordinators {GR}",
       "code": "GHT-ENVC",
@@ -80794,6 +82010,40 @@
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
+    },
+    {
+      "id": "550",
+      "name": "Environmental Awareness {GR}",
+      "code": "GHT-ENVA (GR)",
+      "category_id": "29",
+      "description": "\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03BF\u03BD\u03B9\u03BA\u03AE \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/span\u003E\u003C/div\u003E\u003Cdiv style=\u0022color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022text-align:center;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;color:rgb(8,82,148);font-family:Roboto, sans-serif;\u0022\u003EEnvironmental Awareness\u003C/span\u003E\u003C/h2\u003E\u003Cp style=\u0022margin:0px;text-align:justify;\u0022\u003E\u003Cspan style=\u0022font-family:Roboto, sans-serif;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/span\u003E\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022text-align:justify;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/span\u003E\u0026nbsp;30 210 35 37182 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022text-align:justify;font-family:Roboto, sans-serif;\u0022\u003E\u003Cspan style=\u0022font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E\u0026nbsp;\u003Ca style=\u0022font-family:Roboto, sans-serif;\u0022\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;\u0022\u003E\u003Cbr\u003E\u003C/div\u003E\u003C/div\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "08/05/2024, 13:36:07",
+      "last_update_on": "05/11/2026, 11:17:59",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717161409_1_Cnb77NWpiIMBWgC9ChPW2w.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717161410_1_Cnb77NWpiIMBWgC9ChPW2w.png",
+      "certification": "GR Main Certificate",
+      "certification_duration": "2 years",
+      "custom_field_2": "General",
+      "custom_field_4": "2",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "Refresher Training must be provided within 24 months",
+      "custom_field_7": "",
+      "custom_field_9": "Pass",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "437",
@@ -83278,6 +84528,40 @@
       "custom_field_18": null
     },
     {
+      "id": "1901",
+      "name": "Introduction to TalentLMS",
+      "code": "",
+      "category_id": null,
+      "description": "\u003Cp data-start=\u0022163\u0022 data-end=\u0022436\u0022 id=\u0022isPasted\u0022\u003EWelcome to TalentLMS! Starting with new software can feel a bit like jumping into a TV show mid-season\u2014but don\u2019t worry, we\u2019ve got you covered. In this short videos course, you\u2019ll get familiar with TalentLMS and learn how to make the most of your brand-new account.\u003C/p\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "05/11/2026, 07:13:45",
+      "last_update_on": "05/11/2026, 07:13:45",
+      "creator_id": "1",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765287688_Screenshot_2025-12-09_at_3.38.47_PM.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765287689_Screenshot_2025-12-09_at_3.38.47_PM.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "464",
       "name": "Introduction to the GPM {LHG ALTEA DCS}",
       "code": "AIR-OS/INDU",
@@ -85522,6 +86806,210 @@
       "custom_field_18": ""
     },
     {
+      "id": "1904",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "05/11/2026, 12:07:03",
+      "last_update_on": "05/11/2026, 12:07:03",
+      "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1632",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "14/01/2026, 13:18:36",
+      "last_update_on": "14/01/2026, 13:18:36",
+      "creator_id": "1",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1642",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "21/01/2026, 15:21:22",
+      "last_update_on": "21/01/2026, 15:21:22",
+      "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1643",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "21/01/2026, 15:23:46",
+      "last_update_on": "21/01/2026, 15:23:46",
+      "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1534",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "17/12/2025, 15:57:36",
+      "last_update_on": "17/12/2025, 15:57:36",
+      "creator_id": "62",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1537",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "19/12/2025, 13:17:09",
+      "last_update_on": "19/12/2025, 13:17:09",
+      "creator_id": "62",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1657",
       "name": "New course",
       "code": "",
@@ -86372,16 +87860,220 @@
       "custom_field_18": null
     },
     {
-      "id": "1889",
+      "id": "1868",
       "name": "New course",
       "code": "",
       "category_id": null,
       "description": "",
       "price": "\u0026euro;0.00",
       "status": "inactive",
-      "creation_date": "30/10/2026, 11:39:59",
-      "last_update_on": "30/10/2026, 11:39:59",
+      "creation_date": "29/09/2026, 16:29:49",
+      "last_update_on": "29/09/2026, 16:29:49",
       "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1876",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "07/10/2026, 12:34:14",
+      "last_update_on": "07/10/2026, 12:34:14",
+      "creator_id": "64",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1877",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:29:53",
+      "last_update_on": "12/10/2026, 09:29:53",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1878",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:30:10",
+      "last_update_on": "12/10/2026, 09:30:10",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1879",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:31:32",
+      "last_update_on": "12/10/2026, 09:31:32",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1880",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:34:58",
+      "last_update_on": "12/10/2026, 09:34:58",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1882",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "20/10/2026, 16:17:06",
+      "last_update_on": "20/10/2026, 16:17:06",
+      "creator_id": "2957",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -86416,6 +88108,40 @@
       "creation_date": "29/10/2026, 10:58:16",
       "last_update_on": "29/10/2026, 10:58:16",
       "creator_id": "5733",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1889",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "30/10/2026, 11:39:59",
+      "last_update_on": "30/10/2026, 11:39:59",
+      "creator_id": "4042",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -86484,414 +88210,6 @@
       "creation_date": "03/11/2026, 11:31:09",
       "last_update_on": "03/11/2026, 11:31:09",
       "creator_id": "5928",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1882",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "20/10/2026, 16:17:06",
-      "last_update_on": "20/10/2026, 16:17:06",
-      "creator_id": "2957",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1876",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "07/10/2026, 12:34:14",
-      "last_update_on": "07/10/2026, 12:34:14",
-      "creator_id": "64",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1880",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:34:58",
-      "last_update_on": "12/10/2026, 09:34:58",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1879",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:31:32",
-      "last_update_on": "12/10/2026, 09:31:32",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1878",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:30:10",
-      "last_update_on": "12/10/2026, 09:30:10",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1877",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:29:53",
-      "last_update_on": "12/10/2026, 09:29:53",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1868",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "29/09/2026, 16:29:49",
-      "last_update_on": "29/09/2026, 16:29:49",
-      "creator_id": "4042",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1537",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "19/12/2025, 13:17:09",
-      "last_update_on": "19/12/2025, 13:17:09",
-      "creator_id": "62",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1534",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "17/12/2025, 15:57:36",
-      "last_update_on": "17/12/2025, 15:57:36",
-      "creator_id": "62",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1632",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "14/01/2026, 13:18:36",
-      "last_update_on": "14/01/2026, 13:18:36",
-      "creator_id": "1",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1642",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "21/01/2026, 15:21:22",
-      "last_update_on": "21/01/2026, 15:21:22",
-      "creator_id": "4042",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1643",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "21/01/2026, 15:23:46",
-      "last_update_on": "21/01/2026, 15:23:46",
-      "creator_id": "4042",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -87325,14 +88643,14 @@
     },
     {
       "id": "1133",
-      "name": "Organizational Processes and Procedures",
+      "name": "Organization Processes and Procedures",
       "code": "GHT-CGIP",
       "category_id": "29",
-      "description": "\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022box-sizing:border-box;text-align:center;\u0022\u003EOrganizational Processes and Procedures\u003C/h2\u003E\u003C/div\u003EThis course provides a complete overview of our administrative processes and procedures. It explains how our standardized ways of working support transparency, consistency, and efficient daily operations.\u0026nbsp;\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing:border-box;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E",
+      "description": "\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003EWelcome to the course\u003C/div\u003E\u003Cdiv style=\u0022box-sizing:border-box;color:rgb(35,35,35);font-family:Mulish, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:center;\u0022\u003E\u003Ch2 style=\u0022box-sizing:border-box;text-align:center;\u0022\u003EOrganization Processes and Procedures\u003C/h2\u003E\u003C/div\u003EThis course provides a complete overview of our administrative processes and procedures. It explains how our standardized ways of working support transparency, consistency, and efficient daily operations.\u0026nbsp;\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022box-sizing:border-box;margin:0px;text-align:justify;\u0022\u003EFor any assistance or questions during the training, please contact us:\u003C/p\u003E\u003Cul style=\u0022box-sizing:border-box;\u0022\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EPhone:\u003C/span\u003E 30 210 35 37182 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022box-sizing:border-box;text-align:justify;\u0022\u003E\u003Cspan style=\u0022box-sizing:border-box;font-weight:bold;\u0022\u003EEmail:\u003C/span\u003E \u003Ca\u003EDL-Training-Greece@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "06/10/2025, 13:22:42",
-      "last_update_on": "28/09/2026, 17:10:06",
+      "last_update_on": "05/11/2026, 12:24:42",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -87345,7 +88663,7 @@
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1773215782_ppeOwg.png",
       "certification": "GR Main Certificate",
       "certification_duration": "Forever",
-      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_2": "Must Do",
       "custom_field_4": "8",
       "custom_field_5": "Goldair Handling",
       "custom_field_6": "",
@@ -88182,7 +89500,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:08",
-      "last_update_on": "30/06/2026, 11:30:07",
+      "last_update_on": "05/11/2026, 15:01:14",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -89032,7 +90350,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 12:28:23",
-      "last_update_on": "03/11/2026, 08:10:46",
+      "last_update_on": "05/11/2026, 13:48:28",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -92126,7 +93444,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "20/12/2025, 08:37:05",
-      "last_update_on": "25/10/2026, 09:07:47",
+      "last_update_on": "05/11/2026, 06:56:11",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -93214,7 +94532,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:06",
-      "last_update_on": "10/09/2026, 10:46:08",
+      "last_update_on": "05/11/2026, 14:46:19",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -94533,6 +95851,18 @@
       "course_id": "915",
       "prerequisite_course_id": "914",
       "prerequisite_course_name": "BG/Passenger Handling Services - Initial (BG/GHB-PAXS (I))",
+      "prerequisite_rule_set": "1"
+    },
+    {
+      "course_id": "1895",
+      "prerequisite_course_id": "1894",
+      "prerequisite_course_name": "BG/Ryanair Back of House Training - Initial (BG/AIR-FR/BOH (I))",
+      "prerequisite_rule_set": "1"
+    },
+    {
+      "course_id": "1897",
+      "prerequisite_course_id": "1896",
+      "prerequisite_course_name": "BG/Ryanair Front of House Training - Initial (BG/AIR-FR/FOH (I))",
       "prerequisite_rule_set": "1"
     },
     {
