@@ -4766,3 +4766,10 @@ c.tamvakis	Logout	2026-11-06 15:58:06							00:07:40
 vassiliosrepanis	Login Attempt	2026-11-08 13:28:12								
 vassiliosrepanis	Login Successful	2026-11-08 13:28:19								
 vassiliosrepanis	Logout	2026-11-08 13:28:48							00:00:28	
+g.tsagkaris	Login Attempt	2026-11-09 11:42:17								
+g.tsagkaris	Login Failed	2026-11-09 11:42:27								Invalid Password
+g.tsagkaris	Login Attempt	2026-11-09 11:42:39								
+g.tsagkaris	Login Failed	2026-11-09 11:42:47								Invalid Password
+g.tsagkaris	Login Attempt	2026-11-09 11:43:02								
+g.tsagkaris	Login Successful	2026-11-09 11:43:12								
+g.tsagkaris	Logout	2026-11-09 15:51:04							04:07:52	
