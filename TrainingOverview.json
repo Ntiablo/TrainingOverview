@@ -1225,12 +1225,7 @@
       "belongs_to_branch": "1",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "2804",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
-        }
-      ],
+      "users": [],
       "courses": [
         {
           "id": "411",
@@ -1402,12 +1397,12 @@
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039B\u0399\u039F\u03A5\u03A1\u0397"
         },
         {
-          "id": "15542",
-          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "6528",
           "name": "\u039C. \u0391\u03A1\u0393\u03A5\u03A1\u0391\u039A\u0397"
+        },
+        {
+          "id": "15542",
+          "name": "\u039C. \u03A6\u03A9\u039D\u0399\u0391\u0394\u0391\u039A\u0397"
         },
         {
           "id": "4167",
@@ -1424,10 +1419,6 @@
         {
           "id": "1759",
           "name": "\u03A0. \u0394\u0391\u039C\u0399\u0391\u039D\u0391\u039A\u0397"
-        },
-        {
-          "id": "2804",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "12773",
@@ -8439,10 +8430,6 @@
         {
           "id": "6915",
           "name": "\u0395. \u039C\u0391\u039A\u03A1\u0397\u03A3"
-        },
-        {
-          "id": "13371",
-          "name": "\u0395. \u039A\u0391\u03A4\u03A1\u0399\u03A4\u03A3\u0397\u03A3"
         },
         {
           "id": "3991",
@@ -17299,10 +17286,6 @@
         {
           "id": "4234",
           "name": "\u0391. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5\u0394\u0391\u039A\u0397"
-        },
-        {
-          "id": "2804",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
         }
       ],
       "courses": [
@@ -17366,20 +17349,7 @@
       "belongs_to_branch": "1",
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "4232",
-          "name": "\u0395. \u039C\u0395\u03A3\u03A4\u039F\u03A5\u03A3\u0391\u039A\u0397"
-        },
-        {
-          "id": "4161",
-          "name": "\u0395. \u0396\u03A9\u03A4\u039F\u03A5"
-        },
-        {
-          "id": "4159",
-          "name": "\u039C. \u039B\u0399\u03A4\u03A3\u0391\u039A\u0397"
-        }
-      ],
+      "users": [],
       "courses": [
         {
           "id": "407",
@@ -17488,10 +17458,6 @@
         {
           "id": "14899",
           "name": "\u0391. \u0392\u0391\u039D \u0395\u039B\u03A3 \u0392\u0399\u039B\u03A6\u03A1\u0399\u039D\u03A4"
-        },
-        {
-          "id": "14897",
-          "name": "\u0391. \u039A\u0399\u039F\u03A1\u039F\u0393\u039B\u039F\u03A5"
         },
         {
           "id": "6317",
@@ -21384,10 +21350,6 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "4040",
-          "name": "\u0393. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
-        },
-        {
           "id": "842",
           "name": "\u0393. \u039C\u039F\u03A5\u0396\u0391\u039A\u0397\u03A3"
         }
@@ -22523,10 +22485,6 @@
           "name": "\u0392. \u039D\u03A4\u0395\u039B\u0399\u039B\u0391\u0399"
         },
         {
-          "id": "2527",
-          "name": "\u0393. \u03A3\u03A4\u03A1\u0391\u03A4\u0397\u03A3"
-        },
-        {
           "id": "1537",
           "name": "\u0395. \u03A6\u03A1\u0391\u0393\u039A\u039F\u03A5\u039B\u0391\u039A\u0397"
         },
@@ -22603,48 +22561,12 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "437",
-          "name": "\u0391. \u03A4\u03A3\u0399\u03A0\u0397"
-        },
-        {
-          "id": "409",
-          "name": "\u0391. \u03A0\u0395\u03A1\u0394\u0399\u039A\u0397"
-        },
-        {
-          "id": "428",
-          "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039C\u0399\u03A7\u0391\u0397\u039B"
-        },
-        {
-          "id": "2986",
-          "name": "\u0391. \u03A7\u0391\u03AA\u039A\u039F\u03A3"
-        },
-        {
-          "id": "2984",
-          "name": "\u0391. \u039C\u03A0\u039F\u039C\u03A0\u039F\u03A1\u0397"
-        },
-        {
-          "id": "397",
-          "name": "\u0391. \u0392\u0391\u03A6\u0399\u0391\u03A3"
-        },
-        {
           "id": "456",
           "name": "\u0391. \u039A\u039F\u03A1\u0394\u0395\u039B\u0391\u03A3"
         },
         {
           "id": "10391",
           "name": "\u0391. \u0393\u0391\u0392\u03A1\u0399\u039B\u0391\u039A\u0397"
-        },
-        {
-          "id": "455",
-          "name": "\u0392. \u03A3\u0391\u03A1\u0399\u039A\u03A9\u03A3\u03A4\u0391"
-        },
-        {
-          "id": "392",
-          "name": "\u0392. \u039B\u039F\u03A5\u03A0\u0391"
-        },
-        {
-          "id": "4040",
-          "name": "\u0393. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
         },
         {
           "id": "407",
@@ -22655,18 +22577,6 @@
           "name": "\u0393. \u03A0\u0391\u03A0\u0391\u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u039F\u03A5"
         },
         {
-          "id": "4879",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u03A0\u0391\u039B\u0397"
-        },
-        {
-          "id": "1488",
-          "name": "\u0394. \u0393\u0399\u0391\u039D\u039D\u0399\u039A\u0391\u03A1\u0391"
-        },
-        {
-          "id": "440",
-          "name": "\u0394. \u0392\u039B\u0391\u03A7\u0391\u039A\u0397"
-        },
-        {
           "id": "375",
           "name": "\u0394. \u03A0\u039F\u03A4\u0391\u039C\u0399\u0391\u039D\u039F\u03A5"
         },
@@ -22675,72 +22585,24 @@
           "name": "\u0395. \u0393\u0395\u03A9\u03A1\u0393\u0391\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "402",
-          "name": "\u0395. \u039B\u0391\u039C\u03A0\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
-          "id": "391",
-          "name": "\u0395. \u0391\u0394\u0391\u039C\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "176",
           "name": "\u0395. \u039A\u0391\u03A0\u03A1\u039F\u03A5"
-        },
-        {
-          "id": "442",
-          "name": "\u0395. \u039C\u039F\u03A5\u03A4\u03A3\u039F"
         },
         {
           "id": "453",
           "name": "\u0397. \u0399\u03A9\u0391\u039D\u039D\u0399\u0394\u039F\u03A5"
         },
         {
-          "id": "4401",
-          "name": "\u0399. \u0394\u0397\u039C\u039F\u03A5"
-        },
-        {
           "id": "398",
           "name": "\u0399. \u0391\u039B\u0395\u039E\u0391\u039D\u0399\u0391\u039D"
         },
         {
-          "id": "4041",
-          "name": "\u039A. \u039A\u03A1\u0395\u039A\u0391"
-        },
-        {
-          "id": "8076",
-          "name": "\u039A. \u03A0\u039F\u0394\u039F\u03A4\u0391\u03A3"
-        },
-        {
-          "id": "12081",
-          "name": "\u039D. \u03A3\u03A4\u03A1\u039F\u039C\u03A0\u039F\u03A5\u039B\u0397\u03A3"
-        },
-        {
-          "id": "399",
-          "name": "\u039F. \u0396\u0391\u03A7\u0391\u03A1\u0399\u0391\u0394\u039F\u03A5"
+          "id": "381",
+          "name": "\u039A. \u039A\u039F\u03A5\u039B\u0391\u039E\u0397\u03A3"
         },
         {
           "id": "1385",
           "name": "\u03A0. \u03A4\u03A1\u0399\u0391\u039D\u03A4\u0391\u03A6\u03A5\u039B\u039B\u039F\u03A5"
-        },
-        {
-          "id": "435",
-          "name": "\u03A3. \u03A7\u0391\u03A3\u0391\u03A0\u0397"
-        },
-        {
-          "id": "148",
-          "name": "\u03A3. \u0394\u0395\u039D\u0395\u039A\u039F\u03A5"
-        },
-        {
-          "id": "8588",
-          "name": "\u03A4. \u03A6\u03A5\u03A4\u0391\u039D\u0397\u03A3"
-        },
-        {
-          "id": "6494",
-          "name": "\u03A7. \u0396\u0397\u039A\u0391\u03A3"
-        },
-        {
-          "id": "410",
-          "name": "\u03A7. \u039D\u0391\u039D\u0399\u0394\u0397"
         }
       ],
       "courses": [
@@ -22892,6 +22754,10 @@
         {
           "id": "420",
           "name": "\u03A3. \u039C\u0391\u03A1\u0393\u0391\u03A1\u0399\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "8588",
+          "name": "\u03A4. \u03A6\u03A5\u03A4\u0391\u039D\u0397\u03A3"
         }
       ],
       "courses": [
@@ -22971,6 +22837,416 @@
         {
           "id": "394",
           "name": "\u03A7. \u0398\u03A9\u039C\u0391\u03AA\u0394\u0397\u03A3"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "431",
+      "name": "MNG-ADMIN/HR_Culture",
+      "description": "Culture",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "392",
+          "name": "\u0392. \u039B\u039F\u03A5\u03A0\u0391"
+        },
+        {
+          "id": "4879",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u03A0\u0391\u039B\u0397"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "433",
+      "name": "MNG-ADMIN/HR_Ops",
+      "description": "HR_Ops",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "437",
+          "name": "\u0391. \u03A4\u03A3\u0399\u03A0\u0397"
+        },
+        {
+          "id": "409",
+          "name": "\u0391. \u03A0\u0395\u03A1\u0394\u0399\u039A\u0397"
+        },
+        {
+          "id": "428",
+          "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039C\u0399\u03A7\u0391\u0397\u039B"
+        },
+        {
+          "id": "4040",
+          "name": "\u0393. \u0391\u0393\u0393\u0395\u039B\u0399\u0394\u0397"
+        },
+        {
+          "id": "440",
+          "name": "\u0394. \u0392\u039B\u0391\u03A7\u0391\u039A\u0397"
+        },
+        {
+          "id": "1488",
+          "name": "\u0394. \u0393\u0399\u0391\u039D\u039D\u0399\u039A\u0391\u03A1\u0391"
+        },
+        {
+          "id": "402",
+          "name": "\u0395. \u039B\u0391\u039C\u03A0\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
+        },
+        {
+          "id": "4401",
+          "name": "\u0399. \u0394\u0397\u039C\u039F\u03A5"
+        },
+        {
+          "id": "4041",
+          "name": "\u039A. \u039A\u03A1\u0395\u039A\u0391"
+        },
+        {
+          "id": "399",
+          "name": "\u039F. \u0396\u0391\u03A7\u0391\u03A1\u0399\u0391\u0394\u039F\u03A5"
+        },
+        {
+          "id": "435",
+          "name": "\u03A3. \u03A7\u0391\u03A3\u0391\u03A0\u0397"
+        },
+        {
+          "id": "6494",
+          "name": "\u03A7. \u0396\u0397\u039A\u0391\u03A3"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "430",
+      "name": "MNG-ADMIN/HR_Payroll",
+      "description": "Payroll",
+      "key": "5RcyGC6cN",
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "2986",
+          "name": "\u0391. \u03A7\u0391\u03AA\u039A\u039F\u03A3"
+        },
+        {
+          "id": "2984",
+          "name": "\u0391. \u039C\u03A0\u039F\u039C\u03A0\u039F\u03A1\u0397"
+        },
+        {
+          "id": "455",
+          "name": "\u0392. \u03A3\u0391\u03A1\u0399\u039A\u03A9\u03A3\u03A4\u0391"
+        },
+        {
+          "id": "391",
+          "name": "\u0395. \u0391\u0394\u0391\u039C\u0399\u0394\u039F\u03A5"
+        },
+        {
+          "id": "442",
+          "name": "\u0395. \u039C\u039F\u03A5\u03A4\u03A3\u039F"
+        },
+        {
+          "id": "8076",
+          "name": "\u039A. \u03A0\u039F\u0394\u039F\u03A4\u0391\u03A3"
+        },
+        {
+          "id": "12081",
+          "name": "\u039D. \u03A3\u03A4\u03A1\u039F\u039C\u03A0\u039F\u03A5\u039B\u0397\u03A3"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "428",
+      "name": "MNG-ADMIN/HR_Recruitment",
+      "description": "Recruitment",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "451",
+          "name": "\u0391. \u039A\u03A1\u0399\u0391\u03A1\u0391"
+        },
+        {
+          "id": "436",
+          "name": "\u0391. \u039B\u0399\u039B\u0397"
+        },
+        {
+          "id": "403",
+          "name": "\u03A0. \u039A\u039F\u03A4\u039F\u03A5\u039B\u0391"
+        },
+        {
+          "id": "421",
+          "name": "\u03A0. \u039C\u03A0\u0391\u0393\u039B\u0391\u039D\u0395\u0391"
+        },
+        {
+          "id": "405",
+          "name": "\u03A0. \u0391\u03A1\u0399\u03A6\u0399"
+        },
+        {
+          "id": "447",
+          "name": "\u03A3. \u039A\u039F\u039A\u0391\u0392\u0395\u03A3\u0397\u03A3"
+        },
+        {
+          "id": "454",
+          "name": "\u03A3. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u0399\u0394\u0397"
+        },
+        {
+          "id": "413",
+          "name": "\u03A3. \u039A\u0391\u03A4\u03A3\u0397"
+        },
+        {
+          "id": "8676",
+          "name": "\u03A3. \u039C\u0391\u03A1\u03A4\u03A3\u0397\u03A3"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "429",
+      "name": "MNG-ADMIN/HR_Roster",
+      "description": "Roster",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "123",
+          "name": "\u0392. \u0392\u0395\u03A1\u03A5\u039A\u039F\u039A\u039A\u039F\u03A3"
+        },
+        {
+          "id": "378",
+          "name": "\u0392. \u0399\u03A9\u0391\u039D\u039D\u039F\u03A5"
+        },
+        {
+          "id": "206",
+          "name": "\u0394. \u039A\u039F\u03A5\u03A1\u0399\u039D\u0391\u039A\u0397"
+        },
+        {
+          "id": "380",
+          "name": "\u0395. \u039B\u0395\u039C\u039F\u039D\u0397"
+        },
+        {
+          "id": "221",
+          "name": "\u0399. \u039B\u039F\u03A5\u03A0\u0391\u03A3"
+        },
+        {
+          "id": "393",
+          "name": "\u039C. \u039D\u03A4\u03A1\u0399\u03A4\u03A3\u039F\u03A5"
+        }
+      ],
+      "courses": [
+        {
+          "id": "407",
+          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
+        },
+        {
+          "id": "579",
+          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        },
+        {
+          "id": "555",
+          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
+        },
+        {
+          "id": "502",
+          "name": "Security Awareness (ETO-SECO)"
+        },
+        {
+          "id": "584",
+          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
+        },
+        {
+          "id": "558",
+          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
+        }
+      ]
+    },
+    {
+      "id": "432",
+      "name": "MNG-ADMIN/HR_Uniform",
+      "description": "Uniform Dept",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "1",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "379",
+          "name": "\u039A. \u039A\u039F\u03A5\u03A4\u03A3\u0399\u039A\u0397\u03A3"
+        },
+        {
+          "id": "410",
+          "name": "\u03A7. \u039D\u0391\u039D\u0399\u0394\u0397"
         }
       ],
       "courses": [
@@ -23176,85 +23452,6 @@
         {
           "id": "626",
           "name": "\u0392\u03B1\u03C3\u03B9\u03BA\u03AD\u03C2 \u0391\u03C1\u03C7\u03AD\u03C2 \u0391\u03C3\u03C6\u03AC\u03BB\u03B5\u03B9\u03B1\u03C2 \u03C3\u03C4\u03BF \u0394\u03B9\u03B1\u03B4\u03AF\u03BA\u03C4\u03C5\u03BF (GHT-CYBR (GR))"
-        }
-      ]
-    },
-    {
-      "id": "428",
-      "name": "MNG-ADMIN/Recruitment",
-      "description": "Recruitment",
-      "key": null,
-      "price": "\u0026euro;0.00",
-      "owner_id": "648",
-      "belongs_to_branch": "1",
-      "max_redemptions": null,
-      "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "451",
-          "name": "\u0391. \u039A\u03A1\u0399\u0391\u03A1\u0391"
-        },
-        {
-          "id": "436",
-          "name": "\u0391. \u039B\u0399\u039B\u0397"
-        },
-        {
-          "id": "403",
-          "name": "\u03A0. \u039A\u039F\u03A4\u039F\u03A5\u039B\u0391"
-        },
-        {
-          "id": "421",
-          "name": "\u03A0. \u039C\u03A0\u0391\u0393\u039B\u0391\u039D\u0395\u0391"
-        },
-        {
-          "id": "405",
-          "name": "\u03A0. \u0391\u03A1\u0399\u03A6\u0399"
-        },
-        {
-          "id": "447",
-          "name": "\u03A3. \u039A\u039F\u039A\u0391\u0392\u0395\u03A3\u0397\u03A3"
-        },
-        {
-          "id": "454",
-          "name": "\u03A3. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0399\u039D\u0399\u0394\u0397"
-        },
-        {
-          "id": "413",
-          "name": "\u03A3. \u039A\u0391\u03A4\u03A3\u0397"
-        },
-        {
-          "id": "8676",
-          "name": "\u03A3. \u039C\u0391\u03A1\u03A4\u03A3\u0397\u03A3"
-        }
-      ],
-      "courses": [
-        {
-          "id": "407",
-          "name": "Airside Safety Human Factors and SMS - Initial (GHT-SAFT (I))"
-        },
-        {
-          "id": "579",
-          "name": "Corporate Responsibility and Sustainable Development (GHT-SUST (GR))"
-        },
-        {
-          "id": "550",
-          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
-        },
-        {
-          "id": "555",
-          "name": "General Data Protection Regulation {GR} (GHT-GDPR (GR))"
-        },
-        {
-          "id": "502",
-          "name": "Security Awareness (ETO-SECO)"
-        },
-        {
-          "id": "584",
-          "name": "Violence and Harassment in the Workplace {GR} (GHT-VLNC (GR))"
-        },
-        {
-          "id": "558",
-          "name": "Welcome to Goldair Handling {GR} (GHT-INDU (GR))"
         }
       ]
     },
@@ -26152,6 +26349,10 @@
           "name": "\u03A3. \u039D\u0399\u039A\u039F\u039B\u03A4\u03A3\u0397"
         },
         {
+          "id": "16242",
+          "name": "\u03A3. \u03A4\u0391\u0393\u03A1\u0391\u03A0"
+        },
+        {
           "id": "6650",
           "name": "\u03A3. \u03A3\u0399\u039D\u0393\u039A"
         },
@@ -27385,10 +27586,6 @@
         {
           "id": "339",
           "name": "\u03A3. \u03A4\u03A3\u039F\u03A5\u039C\u0391\u039A\u0399\u0394\u039F\u03A5"
-        },
-        {
-          "id": "2804",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "3655",
@@ -28956,16 +29153,16 @@
           "name": "\u0391. \u039A\u039F\u03A5\u039A\u0399\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
+          "id": "3852",
+          "name": "\u0391. \u03A0\u0391\u03A0\u03A0\u0391\u03A3"
+        },
+        {
           "id": "3893",
           "name": "\u0391. \u03A6\u0391\u039A\u0399\u039F\u039B\u039B\u0399"
         },
         {
           "id": "9991",
           "name": "\u0391. \u0391\u039D\u0394\u03A1\u0395\u0391\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "15670",
-          "name": "\u0391. \u039C\u03A0\u039F\u03A5\u039A\u039F\u03A5\u0392\u0391\u039B\u0391\u03A3"
         },
         {
           "id": "4207",
@@ -29062,10 +29259,6 @@
         {
           "id": "5258",
           "name": "\u0393. \u039C\u03A5\u039B\u03A9\u039D\u0391\u03A3"
-        },
-        {
-          "id": "2424",
-          "name": "\u0393. \u03A4\u03A3\u0391\u03A3\u0397\u03A3"
         },
         {
           "id": "548",
@@ -29390,10 +29583,6 @@
         {
           "id": "926",
           "name": "\u0395. \u0393\u0391\u039F\u03A5\u03A4\u03A3\u0397\u03A3"
-        },
-        {
-          "id": "2673",
-          "name": "\u0395. \u0393\u0399\u0391\u0393\u0397"
         },
         {
           "id": "12192",
@@ -30414,10 +30603,6 @@
         {
           "id": "9517",
           "name": "\u03A7. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "1520",
-          "name": "\u03A7. \u03A4\u03A3\u0391\u039D\u03A4\u0399\u039B\u0397\u03A3"
         },
         {
           "id": "7126",
@@ -39399,6 +39584,10 @@
           "name": "\u0391. \u03A3\u039A\u0391\u03A0\u0395\u03A1\u0394\u0391"
         },
         {
+          "id": "397",
+          "name": "\u0391. \u0392\u0391\u03A6\u0399\u0391\u03A3"
+        },
+        {
           "id": "3181",
           "name": "\u0392. \u03A3\u03A4\u0395\u03A6\u0391\u039D\u0399\u0394\u039F\u03A5"
         },
@@ -39409,14 +39598,6 @@
         {
           "id": "275",
           "name": "\u0395. \u03A0\u0391\u03A3\u0399\u0391\u039B\u0397"
-        },
-        {
-          "id": "379",
-          "name": "\u039A. \u039A\u039F\u03A5\u03A4\u03A3\u0399\u039A\u0397\u03A3"
-        },
-        {
-          "id": "381",
-          "name": "\u039A. \u039A\u039F\u03A5\u039B\u0391\u039E\u0397\u03A3"
         },
         {
           "id": "306",
@@ -39990,36 +40171,12 @@
           "name": "\u0391. \u03A4\u03A1\u0399\u0391\u039D\u03A4\u0391\u03A6\u03A5\u039B\u039B\u039F\u03A5"
         },
         {
-          "id": "123",
-          "name": "\u0392. \u0392\u0395\u03A1\u03A5\u039A\u039F\u039A\u039A\u039F\u03A3"
-        },
-        {
-          "id": "378",
-          "name": "\u0392. \u0399\u03A9\u0391\u039D\u039D\u039F\u03A5"
-        },
-        {
           "id": "2896",
           "name": "\u0393. \u0398\u0395\u039F\u03A7\u0391\u03A1\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "206",
-          "name": "\u0394. \u039A\u039F\u03A5\u03A1\u0399\u039D\u0391\u039A\u0397"
-        },
-        {
           "id": "2895",
           "name": "\u0394. \u0394\u03A1\u039F\u03A3\u039F\u03A5"
-        },
-        {
-          "id": "380",
-          "name": "\u0395. \u039B\u0395\u039C\u039F\u039D\u0397"
-        },
-        {
-          "id": "221",
-          "name": "\u0399. \u039B\u039F\u03A5\u03A0\u0391\u03A3"
-        },
-        {
-          "id": "393",
-          "name": "\u039C. \u039D\u03A4\u03A1\u0399\u03A4\u03A3\u039F\u03A5"
         },
         {
           "id": "1190",
@@ -41017,10 +41174,6 @@
         {
           "id": "8783",
           "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039D\u0391\u03A3\u03A4\u0391\u03A3\u0399\u039F\u03A5"
-        },
-        {
-          "id": "8806",
-          "name": "\u0391. \u03A7\u0391\u03A4\u0396\u0397\u0393\u0395\u03A9\u03A1\u0393\u0399\u039F\u03A5"
         },
         {
           "id": "8739",
@@ -46100,10 +46253,6 @@
           "name": "\u0393. \u039B\u0391\u0394\u0391\u03A3"
         },
         {
-          "id": "2424",
-          "name": "\u0393. \u03A4\u03A3\u0391\u03A3\u0397\u03A3"
-        },
-        {
           "id": "16027",
           "name": "\u0393. \u0391\u03A0\u039F\u03A3\u03A4\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -48422,10 +48571,6 @@
         {
           "id": "1250",
           "name": "\u03A7. \u03A0\u03A1\u0399\u03A6\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "1520",
-          "name": "\u03A7. \u03A4\u03A3\u0391\u039D\u03A4\u0399\u039B\u0397\u03A3"
         },
         {
           "id": "1611",
@@ -52905,8 +53050,8 @@
           "name": "\u0391. \u039A\u0391\u039A\u039F\u03A5\u039B\u0399\u0394\u0397\u03A3"
         },
         {
-          "id": "15670",
-          "name": "\u0391. \u039C\u03A0\u039F\u03A5\u039A\u039F\u03A5\u0392\u0391\u039B\u0391\u03A3"
+          "id": "3852",
+          "name": "\u0391. \u03A0\u0391\u03A0\u03A0\u0391\u03A3"
         },
         {
           "id": "12391",
@@ -53573,10 +53718,6 @@
           "name": "\u0395. \u0391\u039D\u03A4\u03A9\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
-          "id": "4232",
-          "name": "\u0395. \u039C\u0395\u03A3\u03A4\u039F\u03A5\u03A3\u0391\u039A\u0397"
-        },
-        {
           "id": "3068",
           "name": "\u0395. \u03A4\u0391\u039C\u0392\u0391\u039A\u039F\u039B\u039F\u0393\u039F\u03A5"
         },
@@ -53695,10 +53836,6 @@
         {
           "id": "3538",
           "name": "\u0395. \u0398\u0395\u039C\u0395\u039B\u0397\u03A3"
-        },
-        {
-          "id": "4161",
-          "name": "\u0395. \u0396\u03A9\u03A4\u039F\u03A5"
         },
         {
           "id": "1045",
@@ -54349,10 +54486,6 @@
           "name": "\u039C. \u03A3\u03A0\u0391\u03A1\u03A4\u0391\u039B\u0397"
         },
         {
-          "id": "4159",
-          "name": "\u039C. \u039B\u0399\u03A4\u03A3\u0391\u039A\u0397"
-        },
-        {
           "id": "112",
           "name": "\u039C. \u0391\u039E\u0399\u03A9\u03A4\u039F\u03A5"
         },
@@ -54981,6 +55114,10 @@
           "name": "\u03A3. \u039D\u0399\u039A\u039F\u039B\u03A4\u03A3\u0397"
         },
         {
+          "id": "16242",
+          "name": "\u03A3. \u03A4\u0391\u0393\u03A1\u0391\u03A0"
+        },
+        {
           "id": "8143",
           "name": "\u03A3. \u039A\u03A5\u03A0\u0391\u03A1\u0399\u03A3\u03A3\u039F\u03A5"
         },
@@ -55059,10 +55196,6 @@
         {
           "id": "3300",
           "name": "\u03A3. \u039A\u0391\u039D\u0394\u0399\u039D\u039F\u03A3"
-        },
-        {
-          "id": "2804",
-          "name": "\u03A3. \u039A\u039F\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
         },
         {
           "id": "16041",
@@ -57785,6 +57918,10 @@
         {
           "id": "1017",
           "name": "\u0391. \u039A\u039F\u039C\u03A0\u039F\u039B\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3852",
+          "name": "\u0391. \u03A0\u0391\u03A0\u03A0\u0391\u03A3"
         },
         {
           "id": "3899",
@@ -64379,10 +64516,6 @@
           "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039F\u03A5"
         },
         {
-          "id": "2424",
-          "name": "\u0393. \u03A4\u03A3\u0391\u03A3\u0397\u03A3"
-        },
-        {
           "id": "1188",
           "name": "\u0393. \u03A0\u039B\u0391\u03A4\u0391\u039D\u0391\u03A3"
         },
@@ -64633,10 +64766,6 @@
         {
           "id": "1981",
           "name": "\u0394. \u039C\u039F\u03A5\u0396\u0391\u039A\u0397\u03A3 \u03A4\u0396\u0399\u039B\u0399\u039F\u03A3"
-        },
-        {
-          "id": "2673",
-          "name": "\u0395. \u0393\u0399\u0391\u0393\u0397"
         },
         {
           "id": "1039",
@@ -65481,10 +65610,6 @@
         {
           "id": "9517",
           "name": "\u03A7. \u0391\u039B\u0395\u039E\u0391\u039D\u0394\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "1520",
-          "name": "\u03A7. \u03A4\u03A3\u0391\u039D\u03A4\u0399\u039B\u0397\u03A3"
         },
         {
           "id": "1231",
@@ -67416,7 +67541,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/07/2024, 15:30:01",
-      "last_update_on": "09/11/2026, 13:21:57",
+      "last_update_on": "10/11/2026, 14:10:20",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -68674,7 +68799,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/07/2024, 11:33:52",
-      "last_update_on": "09/11/2026, 12:14:39",
+      "last_update_on": "10/11/2026, 13:56:01",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -82036,7 +82161,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "28/07/2024, 16:22:09",
-      "last_update_on": "04/05/2026, 15:26:47",
+      "last_update_on": "10/11/2026, 13:11:42",
       "creator_id": "60",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -82070,7 +82195,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:07",
-      "last_update_on": "09/11/2026, 10:18:55",
+      "last_update_on": "10/11/2026, 13:01:28",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -94650,7 +94775,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "08/05/2024, 13:36:06",
-      "last_update_on": "06/11/2026, 16:15:51",
+      "last_update_on": "10/11/2026, 11:23:52",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
