@@ -354,12 +354,12 @@
           "name": "\u039A. \u039D\u03A4\u0391\u03A3\u0397"
         },
         {
-          "id": "2369",
-          "name": "\u039A. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397\u03A3"
-        },
-        {
           "id": "882",
           "name": "\u039A. \u039A\u039F\u03A5\u03A4\u03A3\u0399\u039A\u0391\u03A3"
+        },
+        {
+          "id": "2369",
+          "name": "\u039A. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397\u03A3"
         },
         {
           "id": "884",
@@ -374,36 +374,32 @@
           "name": "\u039B. \u03A0\u039F\u039B\u0395\u039D\u0397\u03A3"
         },
         {
-          "id": "755",
-          "name": "\u039C. \u03A6\u03A9\u03A3\u039A\u039F\u039B\u039F\u03A5"
-        },
-        {
           "id": "6612",
           "name": "\u039C. \u039A\u0399\u039F\u03A4\u03A3\u0395\u039A\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "923",
-          "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u03A3"
+          "id": "755",
+          "name": "\u039C. \u03A6\u03A9\u03A3\u039A\u039F\u039B\u039F\u03A5"
         },
         {
           "id": "15349",
           "name": "\u039C. \u0393\u039A\u0399\u039A\u0391\u03A3"
         },
         {
-          "id": "6013",
-          "name": "\u039C. \u03A1\u0391\u039C\u0391\u03AA"
+          "id": "923",
+          "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u03A3"
         },
         {
           "id": "8402",
           "name": "\u039C. \u0393\u039A\u039F\u03A5\u039C\u0391\u03A3"
         },
         {
-          "id": "7998",
-          "name": "\u039D. \u03A1\u0391\u039B\u039B\u0397\u03A3"
-        },
-        {
           "id": "756",
           "name": "\u039D. \u0391\u0393\u0391\u03A0\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "7998",
+          "name": "\u039D. \u03A1\u0391\u039B\u039B\u0397\u03A3"
         },
         {
           "id": "14515",
@@ -1156,12 +1152,12 @@
           "name": "\u039A. \u039D\u03A4\u0391\u03A3\u0397"
         },
         {
-          "id": "884",
-          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391\u03A3"
-        },
-        {
           "id": "2369",
           "name": "\u039A. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "884",
+          "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391\u03A3"
         },
         {
           "id": "1410",
@@ -1174,10 +1170,6 @@
         {
           "id": "15349",
           "name": "\u039C. \u0393\u039A\u0399\u039A\u0391\u03A3"
-        },
-        {
-          "id": "6013",
-          "name": "\u039C. \u03A1\u0391\u039C\u0391\u03AA"
         },
         {
           "id": "8402",
@@ -1196,12 +1188,12 @@
           "name": "\u03A0. \u0391\u039B\u0395\u039A\u039F\u03A3"
         },
         {
-          "id": "13736",
-          "name": "\u03A3. \u03A3\u0399\u03A9\u03A1\u0397\u03A3"
-        },
-        {
           "id": "6976",
           "name": "\u03A3. \u03A3\u039F\u03A5\u039B\u03A4\u0391\u039D\u039C\u03A0\u0391\u039B\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "13736",
+          "name": "\u03A3. \u03A3\u0399\u03A9\u03A1\u0397\u03A3"
         }
       ],
       "courses": [
@@ -4961,10 +4953,6 @@
           "name": "\u0391. \u03A3\u03A4\u039F\u039B\u0397"
         },
         {
-          "id": "133",
-          "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
-        },
-        {
           "id": "5663",
           "name": "\u0391. \u03A0\u0391\u03A0\u0391\u039D\u0391\u03A3\u03A4\u0391\u03A3\u0399\u039F\u03A5"
         },
@@ -5173,10 +5161,6 @@
         {
           "id": "253",
           "name": "\u0391. \u039D\u0399\u039A\u0397\u03A4\u0399\u0394\u039F\u03A5"
-        },
-        {
-          "id": "133",
-          "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
         },
         {
           "id": "232",
@@ -15413,12 +15397,12 @@
           "name": "\u0394. \u03A0\u0391\u03A0\u0391\u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u039F\u03A5"
         },
         {
-          "id": "1769",
-          "name": "\u0395. \u03A3\u03A4\u0391\u0398\u0397\u03A3"
-        },
-        {
           "id": "1205",
           "name": "\u0395. \u03A0\u039F\u039B\u03A5\u03A7\u03A1\u039F\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "1769",
+          "name": "\u0395. \u03A3\u03A4\u0391\u0398\u0397\u03A3"
         },
         {
           "id": "893",
@@ -15433,16 +15417,16 @@
           "name": "\u0398. \u039A\u0391\u03A4\u03A3\u0399\u039A\u0391\u03A1\u0395\u039B\u0397\u03A3"
         },
         {
+          "id": "284",
+          "name": "\u0399. \u03A0\u039F\u03A1\u0399\u039A\u039F\u03A3"
+        },
+        {
           "id": "229",
           "name": "\u0399. \u039C\u0391\u039D\u03A9\u039B\u0399\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "216",
           "name": "\u0399. \u039B\u0391\u0396\u039F\u03A5\u03A1\u0391\u03A3"
-        },
-        {
-          "id": "284",
-          "name": "\u0399. \u03A0\u039F\u03A1\u0399\u039A\u039F\u03A3"
         },
         {
           "id": "251",
@@ -15453,20 +15437,20 @@
           "name": "\u039A. \u0396\u03A9\u0393\u03A1\u0391\u03A6\u039F\u03A3"
         },
         {
-          "id": "2369",
-          "name": "\u039A. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397\u03A3"
-        },
-        {
-          "id": "1724",
-          "name": "\u039A. \u0393\u039A\u039F\u03A5\u039C\u0391\u03A3"
+          "id": "109",
+          "name": "\u039A. \u0391\u039D\u0394\u03A1\u0397\u03A3"
         },
         {
           "id": "884",
           "name": "\u039A. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u0391\u03A1\u0391\u03A3"
         },
         {
-          "id": "109",
-          "name": "\u039A. \u0391\u039D\u0394\u03A1\u0397\u03A3"
+          "id": "2369",
+          "name": "\u039A. \u03A3\u039F\u03A5\u039B\u0399\u03A9\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "1724",
+          "name": "\u039A. \u0393\u039A\u039F\u03A5\u039C\u0391\u03A3"
         },
         {
           "id": "1410",
@@ -15477,8 +15461,8 @@
           "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u03A3"
         },
         {
-          "id": "6013",
-          "name": "\u039C. \u03A1\u0391\u039C\u0391\u03AA"
+          "id": "169",
+          "name": "\u039C. \u039A\u0391\u039C\u0397\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "8402",
@@ -15487,10 +15471,6 @@
         {
           "id": "99",
           "name": "\u039C. \u0391\u0393\u0393\u0395\u039B\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "169",
-          "name": "\u039C. \u039A\u0391\u039C\u0397\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "366",
@@ -15517,16 +15497,20 @@
           "name": "\u03A0. \u0391\u039B\u0395\u039A\u039F\u03A3"
         },
         {
-          "id": "2043",
-          "name": "\u03A0. \u039B\u0391\u039C\u03A0\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "260",
           "name": "\u03A0. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
+          "id": "2043",
+          "name": "\u03A0. \u039B\u0391\u039C\u03A0\u03A1\u0399\u0394\u0397\u03A3"
+        },
+        {
           "id": "8317",
           "name": "\u03A0. \u0393\u039A\u0399\u039D\u039F\u03A3\u0391\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "1625",
+          "name": "\u03A3. \u03A3\u0392\u03A5\u03A1\u039F\u03A3"
         },
         {
           "id": "1269",
@@ -15537,20 +15521,16 @@
           "name": "\u03A3. \u03A4\u03A3\u0391\u039A\u0399\u03A1\u0397\u03A3"
         },
         {
-          "id": "1625",
-          "name": "\u03A3. \u03A3\u0392\u03A5\u03A1\u039F\u03A3"
-        },
-        {
-          "id": "1710",
-          "name": "\u03A3. \u039C\u0395\u0398\u0395\u039D\u0399\u03A4\u0397\u03A3"
-        },
-        {
           "id": "117",
           "name": "\u03A3. \u0392\u0391\u0396\u0399\u039D\u03A4\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "6976",
           "name": "\u03A3. \u03A3\u039F\u03A5\u039B\u03A4\u0391\u039D\u039C\u03A0\u0391\u039B\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "1710",
+          "name": "\u03A3. \u039C\u0395\u0398\u0395\u039D\u0399\u03A4\u0397\u03A3"
         },
         {
           "id": "3234",
@@ -16805,10 +16785,6 @@
         {
           "id": "923",
           "name": "\u039C. \u03A7\u0391\u03A4\u0396\u0397\u03A3"
-        },
-        {
-          "id": "6013",
-          "name": "\u039C. \u03A1\u0391\u039C\u0391\u03AA"
         },
         {
           "id": "8402",
@@ -24129,10 +24105,6 @@
           "name": "\u0391. \u039C\u0391\u039A\u03A1\u0397\u03A3"
         },
         {
-          "id": "133",
-          "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
-        },
-        {
           "id": "6644",
           "name": "\u0391. \u039A\u039F\u03A5\u03A4\u03A1\u039F\u03A5\u039B\u0397"
         },
@@ -25567,10 +25539,6 @@
         {
           "id": "2790",
           "name": "\u039B. \u0396\u03A9\u03AA\u039B\u0397\u03A3"
-        },
-        {
-          "id": "9549",
-          "name": "\u039B. \u039C\u0397\u03A4\u03A1\u039F\u03A5\u03A3\u0397"
         },
         {
           "id": "16186",
@@ -27206,10 +27174,6 @@
         {
           "id": "1930",
           "name": "\u0391. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "133",
-          "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
         },
         {
           "id": "367",
@@ -30942,10 +30906,6 @@
         {
           "id": "7883",
           "name": "I. DELA CRUZ"
-        },
-        {
-          "id": "10497",
-          "name": "I. GLORY"
         },
         {
           "id": "6713",
@@ -40833,6 +40793,10 @@
           "name": "R. KAMPULA"
         },
         {
+          "id": "16259",
+          "name": "S. BARQUISA"
+        },
+        {
           "id": "8700",
           "name": "Z. KULLAKOVA"
         },
@@ -40889,36 +40853,36 @@
           "name": "\u0393. \u03A7\u0391\u03A4\u0396\u0397\u03A0\u0391\u03A1\u0391\u03A3\u039A\u0395\u03A5\u0391"
         },
         {
-          "id": "1992",
-          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
           "id": "13277",
           "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
         },
         {
-          "id": "4522",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
-        },
-        {
-          "id": "8758",
-          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
+          "id": "1992",
+          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "8803",
           "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
         },
         {
+          "id": "8758",
+          "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
+        },
+        {
+          "id": "4522",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
+        },
+        {
           "id": "15675",
           "name": "\u0394. \u03A8\u03A5\u03A1\u03A1\u0397\u03A3"
         },
         {
-          "id": "15891",
-          "name": "\u0395. \u03A0\u0391\u03A0\u0399\u0394\u0391\u039A\u0397"
-        },
-        {
           "id": "8747",
           "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039A\u039F\u03A5\u039B\u0391"
+        },
+        {
+          "id": "15891",
+          "name": "\u0395. \u03A0\u0391\u03A0\u0399\u0394\u0391\u039A\u0397"
         },
         {
           "id": "8742",
@@ -40933,12 +40897,12 @@
           "name": "\u0397. \u03A4\u03A3\u0391\u0393\u039A\u039F\u03A5\u03A1\u039D\u0391\u03A3"
         },
         {
-          "id": "8768",
-          "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
-        },
-        {
           "id": "8793",
           "name": "\u0399. \u03A3\u0391\u039C\u0399\u039F\u03A5"
+        },
+        {
+          "id": "8768",
+          "name": "\u0399. \u039D\u0399\u039A\u039F\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
         {
           "id": "8791",
@@ -41005,12 +40969,12 @@
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
         },
         {
-          "id": "8801",
-          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
-        },
-        {
           "id": "8780",
           "name": "\u03A7. \u03A0\u0391\u03A0\u0391\u0396\u039F\u0393\u039B\u039F\u03A5"
+        },
+        {
+          "id": "8801",
+          "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
         {
           "id": "8754",
@@ -41208,12 +41172,12 @@
           "name": "\u0395. \u0396\u0391\u03A7\u0391\u03A1\u0399\u039F\u03A5"
         },
         {
-          "id": "13846",
-          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
-        },
-        {
           "id": "8745",
           "name": "\u0395. \u039A\u039F\u03A5\u039C\u03A0\u0395\u039D\u0391"
+        },
+        {
+          "id": "13846",
+          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
         },
         {
           "id": "8740",
@@ -41244,16 +41208,16 @@
           "name": "\u039B. \u039A\u03A5\u03A1\u0399\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
+          "id": "15803",
+          "name": "\u039C. \u039A\u039F\u03A5\u03A1\u03A4\u0396\u039F\u03A5\u039B\u0397"
+        },
+        {
           "id": "11728",
           "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
         },
         {
           "id": "8731",
           "name": "\u039C. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
-        },
-        {
-          "id": "15803",
-          "name": "\u039C. \u039A\u039F\u03A5\u03A1\u03A4\u0396\u039F\u03A5\u039B\u0397"
         },
         {
           "id": "8759",
@@ -41278,6 +41242,10 @@
         {
           "id": "8751",
           "name": "\u03A0. \u039B\u0391\u039A\u03A1\u0399\u039D\u03A4\u0397\u03A3"
+        },
+        {
+          "id": "16258",
+          "name": "\u03A0. \u039A\u0391\u03A1\u0391\u03A3\u0397"
         },
         {
           "id": "8752",
@@ -47745,10 +47713,6 @@
           "name": "\u039C. \u03A7\u0391\u0399\u03A1\u039F"
         },
         {
-          "id": "6013",
-          "name": "\u039C. \u03A1\u0391\u039C\u0391\u03AA"
-        },
-        {
           "id": "15600",
           "name": "\u039C. \u039A\u039F\u0396\u0391\u039A\u0399\u0394\u0397\u03A3"
         },
@@ -48067,6 +48031,10 @@
         {
           "id": "14515",
           "name": "\u039D. \u03A3\u03A4\u03A1\u0391\u03A4\u0397\u0393\u039F\u03A3"
+        },
+        {
+          "id": "15556",
+          "name": "\u039D. \u0392\u0391\u03A1\u0392\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "1089",
@@ -49095,10 +49063,6 @@
         {
           "id": "3124",
           "name": "\u03A0. \u03A3\u03A4\u0395\u03A1\u0393\u0399\u039F\u03A5"
-        },
-        {
-          "id": "986",
-          "name": "\u03A3. \u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0391\u039A\u0397"
         },
         {
           "id": "3122",
@@ -55565,10 +55529,6 @@
           "name": "\u0391. \u039A\u03A9\u039D\u03A3\u03A4\u0391\u039D\u03A4\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "133",
-          "name": "\u0391. \u0393\u0391\u03A4\u03A3\u039F\u03A5"
-        },
-        {
           "id": "311",
           "name": "\u0391. \u03A3\u03A4\u0391\u039C\u039F\u03A5"
         },
@@ -58410,6 +58370,10 @@
         {
           "id": "3269",
           "name": "\u0395. \u039C\u0399\u03A7\u0395\u039B\u0391\u039A\u0397"
+        },
+        {
+          "id": "16040",
+          "name": "\u0395. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u039F\u03A5"
         },
         {
           "id": "3325",
@@ -63088,6 +63052,10 @@
       ],
       "courses": [
         {
+          "id": "592",
+          "name": "Passenger Boarding Bridge On the Job Training (OTJ-PBBT)"
+        },
+        {
           "id": "566",
           "name": "Passenger Boarding Bridge Operations (ETO-PBBT (GR))"
         }
@@ -65899,10 +65867,6 @@
           "name": "I. DELA CRUZ"
         },
         {
-          "id": "10497",
-          "name": "I. GLORY"
-        },
-        {
           "id": "6713",
           "name": "I. DIONEO"
         },
@@ -66649,74 +66613,6 @@
       "custom_field_18": null
     },
     {
-      "id": "1899",
-      "name": "Advanced features of TalentLMS",
-      "code": "",
-      "category_id": null,
-      "description": "\u003Cp\u003EHow do you become a TalentLMS super-user? By exploring some of the platform\u2019s more advanced features. In this brief training, you\u2019ll learn practical tips to help you build courses faster and save valuable time. Dive in and start leveling up your skills!\u003C/p\u003E",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "05/11/2026, 07:03:58",
-      "last_update_on": "05/11/2026, 07:03:58",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765288582_Screenshot_2025-12-09_at_3.55.47_PM.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/elpapathe/1765288583_Screenshot_2025-12-09_at_3.55.47_PM.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1905",
-      "name": "Advanced Features of TalentLMS (Legacy)",
-      "code": "",
-      "category_id": null,
-      "description": "How do you become a TalentLMS super-user? With this brief training on some of the more advanced features of our platform. Dive in and see how you can save time when building a course.",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "05/11/2026, 16:39:56",
-      "last_update_on": "05/11/2026, 16:39:56",
-      "creator_id": "1",
-      "hide_from_catalog": "1",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/samplecourses/1548346699_toolkit.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/samplecourses/1548346701_toolkit.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "409",
       "name": "Aegean Baggage Services",
       "code": "AIR-A3/BS",
@@ -67269,7 +67165,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "23/09/2026, 15:07:10",
-      "last_update_on": "08/10/2026, 12:04:42",
+      "last_update_on": "11/11/2026, 16:17:36",
       "creator_id": "3",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -68315,6 +68211,40 @@
       "custom_field_18": ""
     },
     {
+      "id": "1913",
+      "name": "Airside Driving - HCAA",
+      "code": "GHT-ADPT (HCAA)",
+      "category_id": "28",
+      "description": "\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03B1\u03C1\u03AD\u03C7\u03B5\u03C4\u03B1\u03B9 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD Fraport.\u003Cbr\u003ETraining provided by Fraport",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "11/11/2026, 12:44:15",
+      "last_update_on": "11/11/2026, 14:34:32",
+      "creator_id": "460",
+      "hide_from_catalog": "1",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1721039972_1720962540_fraport_greece_logo.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1721039973_1720962540_fraport_greece_logo.png",
+      "certification": "GR Main Certificate",
+      "certification_duration": "2 years",
+      "custom_field_2": "Critical",
+      "custom_field_4": "2",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
+    },
+    {
       "id": "756",
       "name": "Airside Driving - HER",
       "code": "GHT-ADPT (HER)",
@@ -69003,7 +68933,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "10/06/2025, 14:23:04",
-      "last_update_on": "16/01/2026, 13:19:05",
+      "last_update_on": "11/11/2026, 16:19:27",
       "creator_id": "4042",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -70261,7 +70191,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 14:44:32",
-      "last_update_on": "19/10/2026, 10:03:51",
+      "last_update_on": "11/11/2026, 14:42:53",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -71009,15 +70939,15 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "14/07/2025, 12:59:56",
-      "last_update_on": "10/06/2026, 11:24:30",
+      "last_update_on": "11/11/2026, 11:23:34",
       "creator_id": "4555",
       "hide_from_catalog": "1",
       "time_limit": "0",
       "start_datetime": null,
       "expiration_datetime": null,
       "level": null,
-      "shared": "1",
-      "shared_url": "https://train4success.goldair-handling.gr/shared/start/key:LOOQIDNH",
+      "shared": "0",
+      "shared_url": "",
       "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717322552_First-Aid.png",
       "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1717322553_First-Aid.png",
       "certification": "EXTERNAL CERTIFICATE",
@@ -71485,7 +71415,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "26/11/2025, 12:17:22",
-      "last_update_on": "09/06/2026, 09:20:49",
+      "last_update_on": "11/11/2026, 11:39:22",
       "creator_id": "4555",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -78587,11 +78517,11 @@
       "name": "CY/Security Procedures Passenger Handling - Refresher",
       "code": "CY/GHC-SECP (R)",
       "category_id": "7",
-      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Refresher\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008639 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Refresher\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
+      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Refresher\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008619 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E\u0026nbsp;k.christodoulou@goldair-handling.com\u0026nbsp;\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Refresher\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/02/2025, 14:12:08",
-      "last_update_on": "08/06/2026, 10:06:28",
+      "last_update_on": "11/11/2026, 11:55:12",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -80155,7 +80085,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "02/06/2024, 10:25:51",
-      "last_update_on": "27/10/2026, 11:06:51",
+      "last_update_on": "11/11/2026, 16:16:39",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -87117,6 +87047,108 @@
       "custom_field_18": null
     },
     {
+      "id": "1910",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "11/11/2026, 10:25:41",
+      "last_update_on": "11/11/2026, 10:25:41",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1911",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "11/11/2026, 12:14:24",
+      "last_update_on": "11/11/2026, 12:19:47",
+      "creator_id": "3",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1912",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "11/11/2026, 12:42:30",
+      "last_update_on": "11/11/2026, 12:42:30",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1632",
       "name": "New course",
       "code": "",
@@ -87501,6 +87533,40 @@
       "creation_date": "16/04/2026, 16:44:51",
       "last_update_on": "16/04/2026, 16:44:51",
       "creator_id": "840",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1765",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "26/05/2026, 16:27:34",
+      "last_update_on": "26/05/2026, 16:27:34",
+      "creator_id": "3972",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -88927,7 +88993,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "06/10/2025, 13:22:42",
-      "last_update_on": "05/11/2026, 12:24:42",
+      "last_update_on": "11/11/2026, 14:47:21",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
