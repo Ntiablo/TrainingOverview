@@ -2705,6 +2705,10 @@
           "name": "\u03A7. \u03A7\u0391\u039B\u039A\u0399\u0391"
         },
         {
+          "id": "14376",
+          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
+        },
+        {
           "id": "5654",
           "name": "\u03A7. \u03A0\u03A1\u039F\u0392\u0399\u0394\u0397"
         },
@@ -3614,6 +3618,10 @@
         {
           "id": "1550",
           "name": "\u0391. \u03A0\u0391\u03A0\u03A0\u0391"
+        },
+        {
+          "id": "12784",
+          "name": "\u0391. \u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A5"
         },
         {
           "id": "1797",
@@ -5614,10 +5622,6 @@
         {
           "id": "15679",
           "name": "\u0399. \u0392\u0391\u039B\u0392\u0397\u03A3"
-        },
-        {
-          "id": "16047",
-          "name": "\u0399. \u039A\u039F\u03A5\u039A\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "2145",
@@ -24127,10 +24131,6 @@
           "name": "\u0391. \u039B\u0399\u039F\u03A3\u0397"
         },
         {
-          "id": "16175",
-          "name": "\u0391. \u0394\u0391\u039D\u0391\u03A4\u03A3\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "5936",
           "name": "\u0391. \u039C\u0391\u03A5\u03A1\u039F\u039C\u039C\u0391\u03A4\u0397"
         },
@@ -24197,6 +24197,10 @@
         {
           "id": "4579",
           "name": "\u0391. \u0394\u0391\u039B\u039B\u0391"
+        },
+        {
+          "id": "12784",
+          "name": "\u0391. \u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A5"
         },
         {
           "id": "8156",
@@ -26583,6 +26587,10 @@
           "name": "\u03A7. \u03A7\u0391\u039B\u039A\u0399\u0391"
         },
         {
+          "id": "14376",
+          "name": "\u03A7. \u039A\u039F\u03A5\u03A1\u039F\u03A5\u039D\u0397"
+        },
+        {
           "id": "16181",
           "name": "\u03A7. \u0391\u0393\u039F\u03A1\u0393\u0399\u0391\u039D\u0399\u03A4\u0397"
         },
@@ -27029,20 +27037,7 @@
       "belongs_to_branch": null,
       "max_redemptions": null,
       "redemptions_sofar": null,
-      "users": [
-        {
-          "id": "2618",
-          "name": "A. KIKNADZE"
-        },
-        {
-          "id": "1902",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039A\u039F\u03A5\u03A4\u0391"
-        },
-        {
-          "id": "2821",
-          "name": "\u03A0. \u03A4\u039F\u039C\u0391\u03A1\u0391"
-        }
-      ],
+      "users": [],
       "courses": [
         {
           "id": "407",
@@ -28560,10 +28555,6 @@
         {
           "id": "249",
           "name": "\u0395. \u039C\u03A9\u039A\u039F\u03A5"
-        },
-        {
-          "id": "16047",
-          "name": "\u0399. \u039A\u039F\u03A5\u039A\u0399\u0394\u0397\u03A3"
         },
         {
           "id": "231",
@@ -33432,6 +33423,10 @@
           "name": "\u039A. \u03A4\u0396\u0395\u039B\u0395\u03A0\u0397\u03A3"
         },
         {
+          "id": "1944",
+          "name": "\u039B. \u039C\u0391\u0393\u039A\u0391\u039D\u0391\u03A1\u0397\u03A3"
+        },
+        {
           "id": "1347",
           "name": "\u039C. \u039A\u039F\u03A5\u0396\u039F\u03A5\u0392\u039F\u03A5\u039D\u0391"
         },
@@ -34188,10 +34183,6 @@
         {
           "id": "3616",
           "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
-        },
-        {
-          "id": "3671",
-          "name": "\u0393. \u03A0\u039F\u039B\u03A5\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3843",
@@ -35373,10 +35364,6 @@
           "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
         },
         {
-          "id": "3671",
-          "name": "\u0393. \u03A0\u039F\u039B\u03A5\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3843",
           "name": "\u0393. \u039C\u03A0\u0399\u03A1\u039C\u03A0\u0399\u039B\u0397\u03A3"
         },
@@ -35751,7 +35738,7 @@
         },
         {
           "id": "1850",
-          "name": "Deicing Checkout {DI-L10} (OTJ-ICET1)"
+          "name": "Deicing Checkout {DI-L10} (OTJ-ICE1)"
         }
       ]
     },
@@ -35926,7 +35913,7 @@
         },
         {
           "id": "1852",
-          "name": "Deicing Checkout {DI-L70} (OTJ-ICET7)"
+          "name": "Deicing Checkout {DI-L70} (OTJ-ICE7)"
         }
       ]
     },
@@ -35982,10 +35969,6 @@
           "name": "\u0391. \u03A3\u0399\u0394\u0397\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "1510",
-          "name": "\u0391. \u039C\u0391\u039C\u039F"
-        },
-        {
           "id": "1603",
           "name": "\u0392. \u0396\u039F\u03A5\u03A1\u0391\u03A3"
         },
@@ -35994,60 +35977,48 @@
           "name": "\u0392. \u0398\u03A9\u039C\u039F\u039B\u039B\u0391\u03A1\u0397\u03A3"
         },
         {
-          "id": "2882",
-          "name": "\u0393. \u0394\u03A1\u0399\u03A4\u03A3\u0391\u03A3"
+          "id": "3386",
+          "name": "\u0393. \u039C\u03A0\u039F\u03A5\u039A\u039B\u0391\u03A3"
         },
         {
           "id": "1198",
           "name": "\u0393. \u03A0\u03A1\u03A9\u03A4\u039F\u03A8\u0391\u039B\u03A4\u0397\u03A3"
         },
         {
-          "id": "3386",
-          "name": "\u0393. \u039C\u03A0\u039F\u03A5\u039A\u039B\u0391\u03A3"
-        },
-        {
-          "id": "1324",
-          "name": "\u0393. \u039B\u0391\u039A\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "1496",
           "name": "\u0393. \u039A\u039F\u039D\u03A4\u039F\u03A3"
-        },
-        {
-          "id": "4789",
-          "name": "\u0394. \u03A4\u03A3\u039F\u03A5\u03A1\u039F\u03A5\u03A3"
         },
         {
           "id": "1185",
           "name": "\u0394. \u0392\u0391\u039B\u0392\u0397\u03A3"
         },
         {
-          "id": "3376",
-          "name": "\u0394. \u0396\u0391\u039A\u0391\u039B\u039A\u0391\u03A3"
+          "id": "3431",
+          "name": "\u0394. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "4789",
+          "name": "\u0394. \u03A4\u03A3\u039F\u03A5\u03A1\u039F\u03A5\u03A3"
         },
         {
           "id": "2872",
           "name": "\u0394. \u039C\u03A0\u0391\u039A\u0391\u03A3"
         },
         {
-          "id": "3431",
-          "name": "\u0394. \u03A0\u0391\u03A0\u0391\u0394\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "346",
-          "name": "\u0395. \u03A6\u039F\u03A5\u039D\u03A4\u039F\u03A5\u039A\u0399\u0394\u039F\u03A5"
+          "id": "3376",
+          "name": "\u0394. \u0396\u0391\u039A\u0391\u039B\u039A\u0391\u03A3"
         },
         {
           "id": "6634",
           "name": "\u0395. \u039B\u0395\u039F\u039D\u03A4\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "1379",
-          "name": "\u0395. \u03A3\u03A5\u03A1\u0399\u0393\u039F\u03A3"
-        },
-        {
           "id": "1486",
           "name": "\u0395. \u039C\u0399\u03A7\u0391\u039B\u0397\u03A3"
+        },
+        {
+          "id": "1379",
+          "name": "\u0395. \u03A3\u03A5\u03A1\u0399\u0393\u039F\u03A3"
         },
         {
           "id": "11620",
@@ -36074,12 +36045,12 @@
           "name": "\u0399. \u0392\u0391\u03A3\u0399\u039B\u0395\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "3372",
-          "name": "\u0399. \u039A\u03A5\u03A1\u039F\u039C\u0399\u03A4\u0397\u03A3"
-        },
-        {
           "id": "1317",
           "name": "\u0399. \u0391\u03A3\u03A4\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "3372",
+          "name": "\u0399. \u039A\u03A5\u03A1\u039F\u039C\u0399\u03A4\u0397\u03A3"
         },
         {
           "id": "3429",
@@ -36090,12 +36061,12 @@
           "name": "\u0399. \u03A4\u0396\u0399\u039D\u0397\u03A3"
         },
         {
-          "id": "3456",
-          "name": "\u039A. \u039C\u039F\u03A5\u03A4\u03A3\u0399\u0391\u039D\u0391\u03A3"
-        },
-        {
           "id": "2873",
           "name": "\u039A. \u039A\u039F\u03A6\u0399\u039D\u0391\u03A3"
+        },
+        {
+          "id": "3456",
+          "name": "\u039A. \u039C\u039F\u03A5\u03A4\u03A3\u0399\u0391\u039D\u0391\u03A3"
         },
         {
           "id": "3432",
@@ -36118,12 +36089,12 @@
           "name": "\u039C. \u03A3\u0391\u039B\u0391\u0392\u039F\u03A5\u03A1\u0391\u03A3"
         },
         {
-          "id": "1230",
-          "name": "\u039D. \u039C\u0391\u0393\u039A\u039B\u0397\u03A3"
+          "id": "1314",
+          "name": "\u039D. \u0393\u039A\u039F\u03A5\u039C\u0391\u03A3"
         },
         {
-          "id": "3459",
-          "name": "\u039D. \u039C\u03A0\u0399\u039C\u03A0\u0399\u0394\u0391\u039A\u0397\u03A3"
+          "id": "1208",
+          "name": "\u039D. \u039B\u0391\u0393\u039F\u03A3"
         },
         {
           "id": "1201",
@@ -36134,8 +36105,12 @@
           "name": "\u039D. \u039C\u0391\u039D\u03A9\u039B\u0391\u03A3"
         },
         {
-          "id": "1208",
-          "name": "\u039D. \u039B\u0391\u0393\u039F\u03A3"
+          "id": "3459",
+          "name": "\u039D. \u039C\u03A0\u0399\u039C\u03A0\u0399\u0394\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "1164",
+          "name": "\u039D. \u0392\u039B\u0391\u03A7\u039F\u03A3"
         },
         {
           "id": "1479",
@@ -36144,14 +36119,6 @@
         {
           "id": "1377",
           "name": "\u039D. \u03A3\u03A0\u0395\u039D\u03A4\u0396\u039F\u03A3"
-        },
-        {
-          "id": "1314",
-          "name": "\u039D. \u0393\u039A\u039F\u03A5\u039C\u0391\u03A3"
-        },
-        {
-          "id": "1164",
-          "name": "\u039D. \u0392\u039B\u0391\u03A7\u039F\u03A3"
         },
         {
           "id": "3402",
@@ -36206,12 +36173,12 @@
           "name": "\u03A7. \u039C\u03A0\u039F\u03A4\u0399\u039D\u0397\u03A3"
         },
         {
-          "id": "3394",
-          "name": "\u03A7. \u0393\u039A\u0399\u039F\u03A3\u0397\u03A3"
-        },
-        {
           "id": "1372",
           "name": "\u03A7. \u03A0\u0391\u039D\u0391\u0393\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+        },
+        {
+          "id": "3394",
+          "name": "\u03A7. \u0393\u039A\u0399\u039F\u03A3\u0397\u03A3"
         },
         {
           "id": "1231",
@@ -37151,10 +37118,6 @@
           "name": "\u039A. \u039C\u0391\u0399\u03A3\u03A4\u03A1\u0395\u039B\u0397\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "3191",
           "name": "\u039A. \u03A3\u03A5\u0393\u039A\u039F\u03A5\u039D\u0391\u03A3"
         },
@@ -37505,6 +37468,10 @@
         {
           "id": "15913",
           "name": "\u03A3. \u03A3\u03A4\u0391\u03A6\u03A5\u039B\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -40610,6 +40577,37 @@
       ]
     },
     {
+      "id": "434",
+      "name": "SUBCONTRACTORS - PCS",
+      "description": "Subcontractors  PCS HELLAS\r\n(Pest Control Services Hellas \u0395.\u0395)",
+      "key": null,
+      "price": "\u0026euro;0.00",
+      "owner_id": "648",
+      "belongs_to_branch": "7",
+      "max_redemptions": null,
+      "redemptions_sofar": null,
+      "users": [
+        {
+          "id": "16299",
+          "name": "\u0391. \u0396\u0399\u03A9\u0393\u0391\u03A3"
+        },
+        {
+          "id": "16298",
+          "name": "\u03A3. \u03A6\u039F\u03A5\u03A1\u039D\u039F\u0393\u0395\u03A1\u0391\u039A\u0397\u03A3"
+        }
+      ],
+      "courses": [
+        {
+          "id": "627",
+          "name": "Cargo Pharma Product Awareness {Sub-Contractors} (GHT-CSPP)"
+        },
+        {
+          "id": "550",
+          "name": "Environmental Awareness {GR} (GHT-ENVA (GR))"
+        }
+      ]
+    },
+    {
       "id": "372",
       "name": "SUBCONTRACTORS - TNT / AEGEAN BUILBINGS",
       "description": "SUBCONTRACTORS - TNT / AEGEAN BUILBINGS",
@@ -40735,10 +40733,6 @@
           "name": "Z. KULLAKOVA"
         },
         {
-          "id": "16148",
-          "name": "\u0391. \u0391\u039D\u0394\u03A1\u0395\u0391\u0394\u0397"
-        },
-        {
           "id": "10638",
           "name": "\u0391. \u039C\u03A0\u039F\u039B\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
         },
@@ -40791,24 +40785,24 @@
           "name": "\u0393. \u039D\u0395\u039B\u039B\u0391\u03A3"
         },
         {
-          "id": "1992",
-          "name": "\u0393. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
-        },
-        {
-          "id": "8803",
-          "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
+          "id": "4522",
+          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
         },
         {
           "id": "8758",
           "name": "\u0394. \u039C\u0391\u039D\u0399\u0391\u03A4\u0397"
         },
         {
-          "id": "4522",
-          "name": "\u0394. \u039A\u0391\u039B\u0391\u039C\u0391\u03A1\u0391"
+          "id": "8803",
+          "name": "\u0394. \u03A6\u03A4\u0395\u03A1\u039D\u0399\u0391\u03A4\u0397"
         },
         {
           "id": "15675",
           "name": "\u0394. \u03A8\u03A5\u03A1\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "16297",
+          "name": "\u0394. \u039C\u0391\u03A7\u0391\u0399\u03A1\u0391\u03A3"
         },
         {
           "id": "8747",
@@ -40843,10 +40837,6 @@
           "name": "\u0399. \u03A0\u039F\u03A5\u039B\u0399\u039F\u03A3"
         },
         {
-          "id": "8772",
-          "name": "\u039A. \u039E\u0395\u039D\u0399\u039A\u0391\u039A\u0397"
-        },
-        {
           "id": "16065",
           "name": "\u039A. \u0391\u0394\u0391\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A5"
         },
@@ -40871,10 +40861,6 @@
           "name": "\u03A0. \u039B\u0391\u03A8\u0391\u03A4\u0397"
         },
         {
-          "id": "11972",
-          "name": "\u03A0. \u0399\u0391\u039A\u03A9\u0392\u0399\u0394\u039F\u03A5"
-        },
-        {
           "id": "8735",
           "name": "\u03A0. \u0398\u0391\u039D\u0391\u03A3\u039F\u03A5\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
@@ -40895,12 +40881,16 @@
           "name": "\u03A3. \u0394\u0395\u0394\u0395\u0393\u039A\u0399\u039A\u0391"
         },
         {
-          "id": "11284",
-          "name": "\u03A4. \u03A3\u0395\u039B\u039A\u0399\u039C"
+          "id": "16296",
+          "name": "\u03A4. \u0396\u0399\u0391\u039A\u039F"
         },
         {
           "id": "10024",
           "name": "\u03A7. \u0391\u03A1\u03A3\u0395\u039D\u0399\u0391\u0394\u039F\u03A5"
+        },
+        {
+          "id": "8754",
+          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         },
         {
           "id": "8780",
@@ -40909,10 +40899,6 @@
         {
           "id": "8801",
           "name": "\u03A7. \u03A4\u03A3\u039F\u03A5\u03A4\u03A3\u039F\u03A5"
-        },
-        {
-          "id": "8754",
-          "name": "\u03A7. \u039B\u0399\u03A4\u0396\u0399\u039F\u03A5"
         }
       ],
       "courses": []
@@ -41110,24 +41096,16 @@
           "name": "\u0395. \u039A\u039F\u03A5\u039C\u03A0\u0395\u039D\u0391"
         },
         {
-          "id": "13846",
-          "name": "\u0395. \u0393\u039A\u039F\u03A5\u039B\u0397"
-        },
-        {
           "id": "8740",
           "name": "\u0395. \u039A\u0391\u039B\u03A6\u0391"
-        },
-        {
-          "id": "8805",
-          "name": "\u0398. \u03A7\u0391\u03A1\u0391\u039B\u0391\u039C\u03A0\u039F\u03A5\u03A3"
         },
         {
           "id": "8769",
           "name": "\u0398. \u039D\u03A4\u0391\u039A\u039F\u03A5\u039B\u0391"
         },
         {
-          "id": "14304",
-          "name": "\u0399. \u039A\u039F\u03A5\u039C\u039A\u039F\u03A5\u039C\u03A4\u0396\u0397"
+          "id": "8805",
+          "name": "\u0398. \u03A7\u0391\u03A1\u0391\u039B\u0391\u039C\u03A0\u039F\u03A5\u03A3"
         },
         {
           "id": "9356",
@@ -41146,10 +41124,6 @@
           "name": "\u039C. \u039A\u039F\u03A5\u03A1\u03A4\u0396\u039F\u03A5\u039B\u0397"
         },
         {
-          "id": "11728",
-          "name": "\u039C. \u039B\u039F\u03A5\u0392\u03A1\u039F\u03A5"
-        },
-        {
           "id": "8731",
           "name": "\u039C. \u0394\u0397\u039C\u0397\u03A4\u03A1\u0399\u039F\u03A5"
         },
@@ -41162,12 +41136,12 @@
           "name": "\u039C. \u0392\u0399\u03A4\u03A3\u0391\u039E\u0397\u03A3"
         },
         {
-          "id": "8738",
-          "name": "\u039D. \u039A\u0391\u039A\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "8787",
           "name": "\u039D. \u03A0\u0395\u03A4\u03A1\u0399\u0394\u0397\u03A3"
+        },
+        {
+          "id": "8738",
+          "name": "\u039D. \u039A\u0391\u039A\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "8796",
@@ -46895,10 +46869,6 @@
           "name": "\u0395. \u039C\u03A0\u0399\u039D\u0399\u039F\u03A3"
         },
         {
-          "id": "1902",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039A\u039F\u03A5\u03A4\u0391"
-        },
-        {
           "id": "542",
           "name": "\u0395. \u03A3\u0391\u03A1\u03A1\u0397\u03A3"
         },
@@ -47455,10 +47425,6 @@
           "name": "\u039A. \u039A\u0391\u03A1\u0391\u039C\u0391\u03A1\u0399\u039F\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "8397",
           "name": "\u039A. \u03A6\u0399\u039D\u0395\u03A3"
         },
@@ -47501,6 +47467,10 @@
         {
           "id": "1950",
           "name": "\u039B. \u0394\u0397\u039C\u039F\u03A5"
+        },
+        {
+          "id": "1944",
+          "name": "\u039B. \u039C\u0391\u0393\u039A\u0391\u039D\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "1765",
@@ -48269,6 +48239,10 @@
         {
           "id": "901",
           "name": "\u03A3. \u03A4\u039F\u039B\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -49041,8 +49015,28 @@
           "name": "\u0393. \u039B\u0391\u03A3\u0397\u0398\u0399\u03A9\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
+          "id": "3616",
+          "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "3818",
+          "name": "\u0393. \u03A7\u03A1\u03A5\u03A3\u039F\u03A5\u039B\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "1044",
+          "name": "\u0393. \u0394\u0391\u0393\u039A\u03A9\u039D\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3619",
+          "name": "\u0393. \u039B\u03A5\u0393\u0395\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "4224",
           "name": "\u0393. \u03A6\u0391\u03A1\u03A3\u0391\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "4714",
+          "name": "\u0393. \u0392\u0391\u03A3\u0399\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "3843",
@@ -49051,30 +49045,6 @@
         {
           "id": "4235",
           "name": "\u0393. \u0393\u0399\u0391\u03A0\u0395\u039D\u03A4\u0396\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3671",
-          "name": "\u0393. \u03A0\u039F\u039B\u03A5\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "1044",
-          "name": "\u0393. \u0394\u0391\u0393\u039A\u03A9\u039D\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "4714",
-          "name": "\u0393. \u0392\u0391\u03A3\u0399\u039B\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "3818",
-          "name": "\u0393. \u03A7\u03A1\u03A5\u03A3\u039F\u03A5\u039B\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3619",
-          "name": "\u0393. \u039B\u03A5\u0393\u0395\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3616",
-          "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
         },
         {
           "id": "3625",
@@ -49101,16 +49071,8 @@
           "name": "\u0395. \u03A7\u0391\u03A4\u0396\u039F\u0393\u0399\u0391\u039D\u039D\u0391\u039A\u0397"
         },
         {
-          "id": "3631",
-          "name": "\u0395. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3714",
           "name": "\u0395. \u039C\u0391\u03A5\u03A1\u0391\u039A\u0397\u03A3"
-        },
-        {
-          "id": "3691",
-          "name": "\u0395. \u03A3\u039F\u03A5\u039B\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "996",
@@ -49125,12 +49087,12 @@
           "name": "\u0395. \u039C\u03A0\u0391\u039A\u0391\u039D\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3629",
-          "name": "\u0395. \u0392\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
+          "id": "3691",
+          "name": "\u0395. \u03A3\u039F\u03A5\u039B\u0391\u0394\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "3707",
-          "name": "\u0395. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397\u03A3"
+          "id": "3631",
+          "name": "\u0395. \u03A3\u03A4\u0391\u039C\u0391\u03A4\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "3970",
@@ -49139,6 +49101,14 @@
         {
           "id": "3666",
           "name": "\u0395. \u0391\u039B\u039F\u03A5\u039C\u03A0\u0397\u03A3"
+        },
+        {
+          "id": "3629",
+          "name": "\u0395. \u0392\u0391\u03A1\u0394\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "3707",
+          "name": "\u0395. \u0392\u0391\u03A3\u0399\u039B\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "979",
@@ -50711,10 +50681,6 @@
         {
           "id": "1486",
           "name": "\u0395. \u039C\u0399\u03A7\u0391\u039B\u0397\u03A3"
-        },
-        {
-          "id": "1902",
-          "name": "\u0395. \u039A\u039F\u03A5\u03A1\u039A\u039F\u03A5\u03A4\u0391"
         },
         {
           "id": "1512",
@@ -58074,10 +58040,6 @@
           "name": "\u0393. \u039A\u03A1\u0399\u0391\u03A1\u0397\u03A3"
         },
         {
-          "id": "3671",
-          "name": "\u0393. \u03A0\u039F\u039B\u03A5\u0394\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "3653",
           "name": "\u0393. \u03A4\u03A3\u0399\u03A3\u039A\u0391\u039A\u0397\u03A3"
         },
@@ -60443,10 +60405,6 @@
           "name": "\u039A. \u03A7\u0391\u03A1\u0391\u039B\u0391\u039C\u03A0\u0391\u039A\u0397\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "3191",
           "name": "\u039A. \u03A3\u03A5\u0393\u039A\u039F\u03A5\u039D\u0391\u03A3"
         },
@@ -60873,6 +60831,10 @@
         {
           "id": "15913",
           "name": "\u03A3. \u03A3\u03A4\u0391\u03A6\u03A5\u039B\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -61422,10 +61384,6 @@
           "name": "\u039A. \u039C\u0391\u03A5\u03A1\u039F\u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "8397",
           "name": "\u039A. \u03A6\u0399\u039D\u0395\u03A3"
         },
@@ -61644,6 +61602,10 @@
         {
           "id": "901",
           "name": "\u03A3. \u03A4\u039F\u039B\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -62628,10 +62590,6 @@
           "name": "\u039A. \u039C\u0391\u03A5\u03A1\u039F\u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "8397",
           "name": "\u039A. \u03A6\u0399\u039D\u0395\u03A3"
         },
@@ -62830,6 +62788,10 @@
         {
           "id": "15913",
           "name": "\u03A3. \u03A3\u03A4\u0391\u03A6\u03A5\u039B\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -63535,10 +63497,6 @@
           "name": "\u039A. \u039C\u0391\u0399\u03A3\u03A4\u03A1\u0395\u039B\u0397\u03A3"
         },
         {
-          "id": "9009",
-          "name": "\u039A. \u0394\u0397\u039C\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "8397",
           "name": "\u039A. \u03A6\u0399\u039D\u0395\u03A3"
         },
@@ -63885,6 +63843,10 @@
         {
           "id": "15913",
           "name": "\u03A3. \u03A3\u03A4\u0391\u03A6\u03A5\u039B\u0391\u03A1\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "927",
+          "name": "\u03A3. \u039C\u03A0\u0399\u039B\u0399\u03A1\u0397\u03A3"
         },
         {
           "id": "945",
@@ -69579,7 +69541,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 14:32:16",
-      "last_update_on": "16/11/2026, 12:59:36",
+      "last_update_on": "18/11/2026, 10:51:03",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -70021,7 +69983,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "25/11/2025, 14:44:32",
-      "last_update_on": "11/11/2026, 14:42:53",
+      "last_update_on": "18/11/2026, 13:21:30",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "30",
@@ -70157,7 +70119,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "16/09/2026, 11:44:12",
-      "last_update_on": "23/10/2026, 15:11:47",
+      "last_update_on": "18/11/2026, 09:19:42",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -70259,7 +70221,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/04/2025, 15:38:37",
-      "last_update_on": "09/06/2026, 09:15:47",
+      "last_update_on": "18/11/2026, 12:23:55",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -71041,7 +71003,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "09/04/2025, 16:08:22",
-      "last_update_on": "08/06/2026, 09:36:59",
+      "last_update_on": "18/11/2026, 11:22:44",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -78313,11 +78275,11 @@
       "name": "CY/Security Procedures Passenger Handling - Initial",
       "code": "CY/GHC-SECP (I)",
       "category_id": "7",
-      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008639 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
+      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008619 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail: k.christodoulou@goldair-handling.com\u003C/strong\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003ESecurity Procedures Passenger Handling - Initial\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail: k.christodoulou@goldair-handling.com\u003C/strong\u003E\u003C/li\u003E\u003C/ul\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "13/02/2025, 14:07:04",
-      "last_update_on": "15/06/2026, 11:59:11",
+      "last_update_on": "18/11/2026, 11:21:44",
       "creator_id": "648",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -79569,13 +79531,13 @@
     {
       "id": "1850",
       "name": "Deicing Checkout {DI-L10}",
-      "code": "OTJ-ICET1",
+      "code": "OTJ-ICE1",
       "category_id": "28",
       "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "15/09/2026, 15:16:34",
-      "last_update_on": "19/10/2026, 10:09:14",
+      "last_update_on": "18/11/2026, 09:21:06",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -79603,13 +79565,13 @@
     {
       "id": "1852",
       "name": "Deicing Checkout {DI-L70}",
-      "code": "OTJ-ICET7",
+      "code": "OTJ-ICE7",
       "category_id": "28",
       "description": "\u03A5\u03C0\u03BF\u03B2\u03BF\u03BB\u03AE \u03A6\u03CC\u03C1\u03BC\u03B1\u03C2 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u03C2\u003Cbr\u003ESubmission of OTJ Form",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "15/09/2026, 15:36:20",
-      "last_update_on": "19/10/2026, 10:09:56",
+      "last_update_on": "18/11/2026, 09:19:56",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -82465,7 +82427,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "11/07/2025, 16:11:31",
-      "last_update_on": "16/01/2026, 16:24:52",
+      "last_update_on": "18/11/2026, 12:56:19",
       "creator_id": "60",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -82481,14 +82443,14 @@
       "custom_field_2": "General",
       "custom_field_4": "1",
       "custom_field_5": "Goldair Handling",
-      "custom_field_6": null,
-      "custom_field_7": null,
+      "custom_field_6": "",
+      "custom_field_7": "",
       "custom_field_9": "N/A",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "738",
