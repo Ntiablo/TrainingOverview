@@ -8108,10 +8108,6 @@
           "name": "E. KUMRATOV"
         },
         {
-          "id": "4613",
-          "name": "L. ALIJAJ"
-        },
-        {
           "id": "10570",
           "name": "S. MAAN"
         },
@@ -8674,10 +8670,6 @@
         {
           "id": "1194",
           "name": "\u03A7. \u03A3\u03A4\u0391\u03A5\u03A1\u0399\u0391\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
-          "id": "4225",
-          "name": "\u03A7. \u03A7\u0391\u03A4\u0396\u0397\u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "1476",
@@ -28830,10 +28822,6 @@
           "name": "L. BARUTI"
         },
         {
-          "id": "4613",
-          "name": "L. ALIJAJ"
-        },
-        {
           "id": "3391",
           "name": "M. CHRISTOFOROU"
         },
@@ -30484,10 +30472,6 @@
         {
           "id": "7126",
           "name": "\u03A7. \u0393\u03A1\u0391\u039C\u039C\u0395\u039D\u039F\u03A3"
-        },
-        {
-          "id": "4225",
-          "name": "\u03A7. \u03A7\u0391\u03A4\u0396\u0397\u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "3685",
@@ -35778,28 +35762,32 @@
           "name": "\u0391. \u03A1\u0391\u03A0\u03A4\u0397\u03A3"
         },
         {
-          "id": "1100",
-          "name": "\u0391. \u0391\u0393\u0393\u039F\u03A5"
+          "id": "395",
+          "name": "\u0391. \u03A7\u039F\u03A5\u03A1\u0394\u0391"
         },
         {
-          "id": "924",
-          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
+          "id": "1100",
+          "name": "\u0391. \u0391\u0393\u0393\u039F\u03A5"
         },
         {
           "id": "938",
           "name": "\u0393. \u039A\u039F\u03A3\u039C\u039F\u0393\u039B\u039F\u03A5"
         },
         {
-          "id": "1062",
-          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
+          "id": "924",
+          "name": "\u0393. \u039A\u039F\u03A5\u03A4\u03A3\u039F\u03A3"
+        },
+        {
+          "id": "303",
+          "name": "\u0393. \u03A3\u0399\u039C\u0399\u03A4\u03A3\u0397\u03A3"
         },
         {
           "id": "308",
           "name": "\u0393. \u03A3\u03A0\u03A5\u03A1\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "303",
-          "name": "\u0393. \u03A3\u0399\u039C\u0399\u03A4\u03A3\u0397\u03A3"
+          "id": "1062",
+          "name": "\u0393. \u039D\u0399\u039A\u039F\u039B\u0391\u039A\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "9713",
@@ -35822,10 +35810,6 @@
           "name": "\u0398. \u0398\u0395\u039F\u03A6\u0391\u039D\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
-          "id": "4141",
-          "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
-        },
-        {
           "id": "296",
           "name": "\u0399. \u03A3\u0391\u039C\u0391\u03A1\u0391\u03A3"
         },
@@ -35834,12 +35818,16 @@
           "name": "\u0399. \u03A4\u0391\u03A3\u039A\u039F\u03A3"
         },
         {
-          "id": "962",
-          "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
+          "id": "4141",
+          "name": "\u0399. \u0395\u03A5\u03A3\u03A4\u0391\u0398\u0399\u0391\u0394\u0397\u03A3"
         },
         {
           "id": "917",
           "name": "\u039A. \u039A\u0391\u03A1\u0391\u0393\u0395\u03A9\u03A1\u0393\u0397\u03A3"
+        },
+        {
+          "id": "962",
+          "name": "\u039A. \u0396\u0399\u0391\u039A\u0391\u039D\u039F\u03A3"
         },
         {
           "id": "988",
@@ -35854,16 +35842,20 @@
           "name": "\u039C. \u0392\u039B\u0391\u03A7\u039F\u03A5"
         },
         {
-          "id": "8610",
-          "name": "\u039C. \u0391\u039B\u0395\u039E\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "355",
           "name": "\u039C. \u03A7\u0391\u03A3\u0391\u03A0\u0397\u03A3"
         },
         {
+          "id": "8610",
+          "name": "\u039C. \u0391\u039B\u0395\u039E\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "835",
           "name": "\u039D. \u0392\u0395\u0396\u03A5\u03A1\u0397\u03A3"
+        },
+        {
+          "id": "11544",
+          "name": "\u039D. \u0393\u0395\u03A9\u03A1\u0393\u0399\u0391\u0394\u0397\u03A3"
         },
         {
           "id": "1006",
@@ -35890,16 +35882,20 @@
           "name": "\u03A0. \u039A\u03A5\u03A1\u039B\u039F\u0393\u039B\u039F\u03A5"
         },
         {
+          "id": "1933",
+          "name": "\u03A3. \u0394\u0395\u03A1\u039C\u0399\u03A4\u0396\u0391\u039A\u0397\u03A3"
+        },
+        {
           "id": "1038",
           "name": "\u03A3. \u03A3\u03A9\u03A4\u0397\u03A1\u0399\u0391\u0394\u0397\u03A3"
         },
         {
-          "id": "935",
-          "name": "\u03A7. \u03A4\u0391\u039C\u0392\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "278",
           "name": "\u03A7. \u03A0\u0395\u039B\u0395\u039A\u039F\u03A3"
+        },
+        {
+          "id": "935",
+          "name": "\u03A7. \u03A4\u0391\u039C\u0392\u0391\u039A\u0397\u03A3"
         },
         {
           "id": "992",
@@ -38294,10 +38290,6 @@
           "name": "J. PAVLOVIC"
         },
         {
-          "id": "766",
-          "name": "K. MEZIC"
-        },
-        {
           "id": "10501",
           "name": "M. ARANDJELOVIC"
         },
@@ -38485,10 +38477,6 @@
           "name": "J. PEROVIC"
         },
         {
-          "id": "8606",
-          "name": "K. MARKOVIC"
-        },
-        {
           "id": "7257",
           "name": "L. ZORIC"
         },
@@ -38531,10 +38519,6 @@
         {
           "id": "15895",
           "name": "N. VASILJEVIC"
-        },
-        {
-          "id": "15908",
-          "name": "N. DJURDJEVIC"
         },
         {
           "id": "8645",
@@ -38707,32 +38691,28 @@
       "redemptions_sofar": null,
       "users": [
         {
-          "id": "8349",
-          "name": "A. MURDOK MAKINTOS"
-        },
-        {
           "id": "15899",
           "name": "A. KOSTIC"
+        },
+        {
+          "id": "8349",
+          "name": "A. MURDOK MAKINTOS"
         },
         {
           "id": "3934",
           "name": "A. RADOSAVLJEVIC"
         },
         {
-          "id": "9258",
-          "name": "A. STANOJEVIC"
-        },
-        {
           "id": "9266",
           "name": "A. GRIGORIJEV"
         },
         {
-          "id": "8520",
-          "name": "B. ZENICANIN"
-        },
-        {
           "id": "15902",
           "name": "B. VELICKOVIC"
+        },
+        {
+          "id": "8520",
+          "name": "B. ZENICANIN"
         },
         {
           "id": "10503",
@@ -38763,16 +38743,12 @@
           "name": "L. STOJKOVIC"
         },
         {
-          "id": "11172",
-          "name": "L. MILUTINOVIC"
-        },
-        {
           "id": "15102",
           "name": "L. PRIBISIC"
         },
         {
-          "id": "15897",
-          "name": "L. DERONJIC"
+          "id": "11172",
+          "name": "L. MILUTINOVIC"
         },
         {
           "id": "8816",
@@ -38803,14 +38779,6 @@
           "name": "M. KREIC"
         },
         {
-          "id": "15898",
-          "name": "M. BLAGOJEVIC"
-        },
-        {
-          "id": "15903",
-          "name": "N. MILICKOVIC"
-        },
-        {
           "id": "8645",
           "name": "O. JELISAVAC"
         },
@@ -38821,14 +38789,6 @@
         {
           "id": "9265",
           "name": "R. BIRO"
-        },
-        {
-          "id": "8862",
-          "name": "S. DIMITRIJEVIC"
-        },
-        {
-          "id": "11171",
-          "name": "S. VUCIC"
         },
         {
           "id": "8815",
@@ -39173,10 +39133,6 @@
         {
           "id": "3944",
           "name": "J. PAVLOVIC"
-        },
-        {
-          "id": "766",
-          "name": "K. MEZIC"
         },
         {
           "id": "10501",
@@ -49731,10 +49687,6 @@
           "name": "D. HARKIN"
         },
         {
-          "id": "4613",
-          "name": "L. ALIJAJ"
-        },
-        {
           "id": "4777",
           "name": "\u0391. \u03A3\u03A4\u03A5\u039B\u0399\u0391\u039D\u039F\u03A5"
         },
@@ -49855,20 +49807,20 @@
           "name": "\u039C. \u039A\u039F\u0396\u0391\u03A4\u0396\u0397"
         },
         {
-          "id": "4145",
-          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
-        },
-        {
-          "id": "3298",
-          "name": "\u039C. \u039A\u0391\u03A3\u03A4\u0391\u039D\u0391\u039A\u0397\u03A3"
-        },
-        {
           "id": "977",
           "name": "\u039C. \u03A3\u039A\u039F\u03A5\u03A1\u0391\u03A3"
         },
         {
           "id": "3282",
           "name": "\u039C. \u03A4\u0396\u039F\u0392\u0391\u03A1\u0391\u03A3"
+        },
+        {
+          "id": "3298",
+          "name": "\u039C. \u039A\u0391\u03A3\u03A4\u0391\u039D\u0391\u039A\u0397\u03A3"
+        },
+        {
+          "id": "4145",
+          "name": "\u039C. \u039B\u0399\u0391\u039C\u0397\u03A3"
         },
         {
           "id": "3294",
@@ -49879,12 +49831,12 @@
           "name": "\u039D. \u039D\u0399\u039A\u039F\u039B\u0391\u03A3"
         },
         {
-          "id": "3112",
-          "name": "\u039D. \u03A9\u03A1\u0391\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
-        },
-        {
           "id": "3286",
           "name": "\u039D. \u0393\u0399\u0391\u039A\u039F\u03A5\u039C\u0391\u03A1\u039F\u03A3"
+        },
+        {
+          "id": "3112",
+          "name": "\u039D. \u03A9\u03A1\u0391\u0399\u039F\u03A0\u039F\u03A5\u039B\u039F\u03A3"
         },
         {
           "id": "11667",
@@ -49907,16 +49859,12 @@
           "name": "\u03A3. \u03A4\u03A1\u0399\u0391\u039D\u03A4\u0397"
         },
         {
-          "id": "4606",
-          "name": "\u03A7. \u0392\u0391\u03A3\u0399\u039B\u03A9\u03A4\u03A4\u039F\u03A3"
-        },
-        {
           "id": "3313",
           "name": "\u03A7. \u0396\u0391\u0393\u039A\u039F\u03A3"
         },
         {
-          "id": "4225",
-          "name": "\u03A7. \u03A7\u0391\u03A4\u0396\u0397\u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A3"
+          "id": "4606",
+          "name": "\u03A7. \u0392\u0391\u03A3\u0399\u039B\u03A9\u03A4\u03A4\u039F\u03A3"
         }
       ],
       "courses": [
@@ -52578,10 +52526,6 @@
           "name": "K. JANAKIRAMAN"
         },
         {
-          "id": "4613",
-          "name": "L. ALIJAJ"
-        },
-        {
           "id": "3094",
           "name": "M. MOHAMED"
         },
@@ -55178,10 +55122,6 @@
           "name": "\u03A7. \u0393\u03A1\u0391\u039C\u039C\u0395\u039D\u039F\u03A3"
         },
         {
-          "id": "4225",
-          "name": "\u03A7. \u03A7\u0391\u03A4\u0396\u0397\u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A3"
-        },
-        {
           "id": "394",
           "name": "\u03A7. \u0398\u03A9\u039C\u0391\u03AA\u0394\u0397\u03A3"
         },
@@ -57568,10 +57508,6 @@
           "name": "F. CAUSHAJ"
         },
         {
-          "id": "4613",
-          "name": "L. ALIJAJ"
-        },
-        {
           "id": "3094",
           "name": "M. MOHAMED"
         },
@@ -59270,10 +59206,6 @@
         {
           "id": "7126",
           "name": "\u03A7. \u0393\u03A1\u0391\u039C\u039C\u0395\u039D\u039F\u03A3"
-        },
-        {
-          "id": "4225",
-          "name": "\u03A7. \u03A7\u0391\u03A4\u0396\u0397\u039A\u03A5\u03A1\u0399\u0391\u039A\u039F\u03A3"
         },
         {
           "id": "3167",
@@ -76167,11 +76099,11 @@
       "name": "CY/First Aid",
       "code": "CY/GHC-FAID",
       "category_id": "29",
-      "description": "\u003Cp align=\u0022center\u0022 style=\u0022margin-bottom:0in;text-align:center; line-height:normal;background:white;\u0022 id=\u0022isPasted\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp align=\u0022center\u0022 style=\u0022mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;text-align:center;line-height:normal;mso-outline-level:2;background:white;\u0022\u003EFirst Aid\u003C/p\u003E\u003Cp align=\u0022center\u0022 style=\u0022margin-bottom:0in;text-align:center; line-height:normal;background:white;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;background: white;\u0022\u003E\u003Chr size=\u00220\u0022 width=\u0022100%\u0022 align=\u0022left\u0022\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv align=\u0022center\u0022 style=\u0022margin-bottom:0in;text-align:center; line-height:normal;background:white;\u0022\u003E\u003Chr size=\u00220\u0022 width=\u0022100%\u0022 align=\u0022center\u0022\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height: normal;background:white;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul type=\u0022disc\u0022\u003E\u003Cli style=\u0022color:#232323;mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;text-align:justify;line-height:normal;mso-list:l1 level1 lfo1; tab-stops:list .5in;background:white;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008639 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;text-align:justify;line-height:normal;mso-list:l1 level1 lfo1; tab-stops:list .5in;background:white;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca href=\u0022mailto:v.zaloumis@goldair-handling.com\u0022\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv align=\u0022center\u0022 style=\u0022mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;text-align:center;line-height:normal;background:white;\u0022\u003E\u003Chr size=\u00220\u0022 width=\u0022100%\u0022 align=\u0022center\u0022\u003E\u003C/div\u003E\u003Cp align=\u0022center\u0022 style=\u0022margin-bottom:0in;text-align:center; line-height:normal;background:white;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp align=\u0022center\u0022 style=\u0022mso-margin-top-alt:auto;mso-margin-bottom-alt: auto;text-align:center;line-height:normal;mso-outline-level:2;background:white;\u0022\u003EFirst Aid\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;background: white;\u0022\u003E\u003Chr size=\u00220\u0022 width=\u0022100%\u0022 align=\u0022left\u0022\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;background:white;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv align=\u0022center\u0022 style=\u0022margin-bottom:0in;text-align:center; line-height:normal;background:white;\u0022\u003E\u003Chr size=\u00220\u0022 width=\u0022100%\u0022 align=\u0022center\u0022\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022 type=\u0022disc\u0022\u003E\u003Cli style=\u0022color:#232323;mso-list:l0 level1 lfo2;tab-stops: list .5in;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008639 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;mso-list:l0 level1 lfo2;tab-stops: list .5in;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E \u003Ca href=\u0022mailto:v.zaloumis@goldair-handling.com\u0022\u003Ev.zaloumis@goldair-handling.com\u003C/a\u003E\u003C/li\u003E\u003C/ul\u003E",
+      "description": "\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u039A\u03B1\u03BB\u03CE\u03C2 \u03CC\u03C1\u03B9\u03C3\u03B5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EFirst Aid\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A0\u03A1\u039F\u03A3\u039F\u03A7\u0397!\u003C/strong\u003E\u003Cstrong\u003E\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u0397 \u03B5\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03B1\u03C5\u03C4\u03AE \u03B4\u03B9\u03B5\u03BE\u03AC\u03B3\u03B5\u03C4\u03B1\u03B9 \u03BC\u03B5 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1, \u03C3\u03B5 \u03B5\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B1.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A3\u03C4\u03BF \u03C0\u03B5\u03B4\u03AF\u03BF \u00AB\u0391\u03C1\u03C7\u03B5\u03AF\u03B1\u00BB \u03B8\u03B1 \u03B2\u03C1\u03B5\u03AF\u03C4\u03B5 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03B5\u03C2 \u03C3\u03B7\u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2, \u03C3\u03C4\u03B9\u03C2 \u03BF\u03C0\u03BF\u03AF\u03B5\u03C2 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03B1\u03BA\u03CC\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BC\u03B5\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03BC\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u03A4\u03BF \u03C4\u03BC\u03AE\u03BC\u03B1 \u03C3\u03B1\u03C2 \u03B8\u03B1 \u03C6\u03C1\u03BF\u03BD\u03C4\u03AF\u03C3\u03B5\u03B9 \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC \u03C3\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B8\u03B1 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03C9\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B1\u03BD\u03AC\u03BB\u03BF\u03B3\u03B1.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:justify;line-height:normal;\u0022\u003E\u0393\u03B9\u03B1 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03B1 \u03AE \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03BC\u03B1\u03B6\u03AF \u03BC\u03B1\u03C2:\u003C/p\u003E\u003Cul\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003E\u03A4\u03B7\u03BB\u03AD\u03C6\u03C9\u03BD\u03BF:\u003C/strong\u003E \u002B357 24 008619 (\u0394\u03B5\u03C5\u03C4\u03AD\u03C1\u03B1-\u03A0\u03B1\u03C1\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;text-align:justify;line-height:normal;\u0022\u003E\u003Cstrong\u003EEmail:k.christodoulou@goldair-handling.com\u003C/strong\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cdiv style=\u0022text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Cstrong\u003EWelcome to the Course\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022text-align:center;line-height:normal;\u0022\u003EFirst Aid\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cstrong\u003EATTENTION!\u0026nbsp;\u003C/strong\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EThis is an instructor-led course conducted in a live classroom setting.\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EAt the area \u201CFiles\u201D you will find useful information, which you have access even after the completion of the course.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp style=\u0022margin-bottom:0in;line-height:normal;\u0022\u003EYour department will make the necessary arrangements for your scheduling, and you will be informed accordingly.\u003C/p\u003E\u003Cdiv style=\u0022margin-bottom:0in;text-align:center;line-height:normal;\u0022\u003E\u003Chr\u003E\u003C/div\u003E\u003Cp\u003EFor any assistance or questions please contact us:\u003C/p\u003E\u003Cul style=\u0022margin-top:0in;\u0022\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EPhone:\u003C/strong\u003E \u002B357 24 008619 (availability Monday-Friday 09:00-17:00)\u003C/li\u003E\u003Cli style=\u0022color:#232323;\u0022\u003E\u003Cstrong\u003EEmail:\u003C/strong\u003E\u0026nbsp;k.christodoulou@goldair-handling.com\u003C/li\u003E\u003C/ul\u003E",
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "18/07/2025, 13:26:21",
-      "last_update_on": "23/07/2026, 08:09:26",
+      "last_update_on": "19/11/2026, 13:41:37",
       "creator_id": "3972",
       "hide_from_catalog": "1",
       "time_limit": "0",
@@ -86703,84 +86635,16 @@
       "custom_field_18": ""
     },
     {
-      "id": "1904",
+      "id": "1534",
       "name": "New course",
       "code": "",
       "category_id": null,
       "description": "",
       "price": "\u0026euro;0.00",
       "status": "inactive",
-      "creation_date": "05/11/2026, 12:07:03",
-      "last_update_on": "05/11/2026, 12:07:03",
-      "creator_id": "4042",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1906",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "06/11/2026, 10:34:57",
-      "last_update_on": "06/11/2026, 10:34:57",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1908",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "06/11/2026, 14:06:14",
-      "last_update_on": "06/11/2026, 14:06:14",
-      "creator_id": "460",
+      "creation_date": "17/12/2025, 15:57:36",
+      "last_update_on": "17/12/2025, 15:57:36",
+      "creator_id": "62",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -86815,6 +86679,40 @@
       "creation_date": "14/01/2026, 13:18:36",
       "last_update_on": "14/01/2026, 13:18:36",
       "creator_id": "1",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1537",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "19/12/2025, 13:17:09",
+      "last_update_on": "19/12/2025, 13:17:09",
+      "creator_id": "62",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -86883,74 +86781,6 @@
       "creation_date": "21/01/2026, 15:23:46",
       "last_update_on": "21/01/2026, 15:23:46",
       "creator_id": "4042",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1534",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "17/12/2025, 15:57:36",
-      "last_update_on": "17/12/2025, 15:57:36",
-      "creator_id": "62",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1537",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "19/12/2025, 13:17:09",
-      "last_update_on": "19/12/2025, 13:17:09",
-      "creator_id": "62",
       "hide_from_catalog": "0",
       "time_limit": "0",
       "start_datetime": null,
@@ -87859,176 +87689,6 @@
       "custom_field_18": null
     },
     {
-      "id": "1876",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "07/10/2026, 12:34:14",
-      "last_update_on": "07/10/2026, 12:34:14",
-      "creator_id": "64",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1877",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:29:53",
-      "last_update_on": "12/10/2026, 09:29:53",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1878",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:30:10",
-      "last_update_on": "12/10/2026, 09:30:10",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1879",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:31:32",
-      "last_update_on": "12/10/2026, 09:31:32",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
-      "id": "1880",
-      "name": "New course",
-      "code": "",
-      "category_id": null,
-      "description": "",
-      "price": "\u0026euro;0.00",
-      "status": "inactive",
-      "creation_date": "12/10/2026, 09:34:58",
-      "last_update_on": "12/10/2026, 09:34:58",
-      "creator_id": "460",
-      "hide_from_catalog": "0",
-      "time_limit": "0",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": null,
-      "custom_field_4": null,
-      "custom_field_5": null,
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": null,
-      "custom_field_10": null,
-      "custom_field_11": null,
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "1882",
       "name": "New course",
       "code": "",
@@ -88199,6 +87859,278 @@
       "custom_field_18": null
     },
     {
+      "id": "1880",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:34:58",
+      "last_update_on": "12/10/2026, 09:34:58",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1879",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:31:32",
+      "last_update_on": "12/10/2026, 09:31:32",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1878",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:30:10",
+      "last_update_on": "12/10/2026, 09:30:10",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1877",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "12/10/2026, 09:29:53",
+      "last_update_on": "12/10/2026, 09:29:53",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1904",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "05/11/2026, 12:07:03",
+      "last_update_on": "05/11/2026, 12:07:03",
+      "creator_id": "4042",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1906",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "06/11/2026, 10:34:57",
+      "last_update_on": "06/11/2026, 10:34:57",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1908",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "06/11/2026, 14:06:14",
+      "last_update_on": "06/11/2026, 14:06:14",
+      "creator_id": "460",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
+      "id": "1876",
+      "name": "New course",
+      "code": "",
+      "category_id": null,
+      "description": "",
+      "price": "\u0026euro;0.00",
+      "status": "inactive",
+      "creation_date": "07/10/2026, 12:34:14",
+      "last_update_on": "07/10/2026, 12:34:14",
+      "creator_id": "64",
+      "hide_from_catalog": "0",
+      "time_limit": "0",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/images/rb_unknown_small.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": null,
+      "custom_field_4": null,
+      "custom_field_5": null,
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": null,
+      "custom_field_10": null,
+      "custom_field_11": null,
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
+    },
+    {
       "id": "1775",
       "name": "Occurrence Reporting-Ground Operations, Customer Service",
       "code": "AIR-AY/ORO",
@@ -88335,40 +88267,6 @@
       "custom_field_18": null
     },
     {
-      "id": "714",
-      "name": "Onboarding Journey Questionnaire 1st Month",
-      "code": "ONBO-SURVEY1",
-      "category_id": "39",
-      "description": "E\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.",
-      "price": "\u0026euro;0.00",
-      "status": "active",
-      "creation_date": "25/09/2024, 15:21:07",
-      "last_update_on": "09/07/2026, 11:03:31",
-      "creator_id": "65",
-      "hide_from_catalog": "1",
-      "time_limit": "20",
-      "start_datetime": null,
-      "expiration_datetime": null,
-      "level": null,
-      "shared": "0",
-      "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727268075_46646140-practical-training-concept-on-the-gearwheels.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727268076_46646140-practical-training-concept-on-the-gearwheels.png",
-      "certification": null,
-      "certification_duration": null,
-      "custom_field_2": "Time-Limited Must Do",
-      "custom_field_4": "0",
-      "custom_field_5": "Goldair Handling",
-      "custom_field_6": null,
-      "custom_field_7": null,
-      "custom_field_9": "N/A",
-      "custom_field_10": "e-Learning",
-      "custom_field_11": "Main",
-      "custom_field_16": null,
-      "custom_field_17": null,
-      "custom_field_18": null
-    },
-    {
       "id": "1872",
       "name": "Onboarding Journey Questionnaire 1st Month",
       "code": "CY/ONBO-SURVEY1",
@@ -88403,16 +88301,16 @@
       "custom_field_18": ""
     },
     {
-      "id": "1873",
-      "name": "Onboarding Journey Questionnaire 2nd Month",
-      "code": "CY/ONBO-SURVEY2",
+      "id": "714",
+      "name": "Onboarding Journey Questionnaire 1st Month",
+      "code": "ONBO-SURVEY1",
       "category_id": "39",
-      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
+      "description": "E\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.",
       "price": "\u0026euro;0.00",
       "status": "active",
-      "creation_date": "06/10/2026, 09:11:53",
-      "last_update_on": "16/10/2026, 09:00:30",
-      "creator_id": "3972",
+      "creation_date": "25/09/2024, 15:21:07",
+      "last_update_on": "09/07/2026, 11:03:31",
+      "creator_id": "65",
       "hide_from_catalog": "1",
       "time_limit": "20",
       "start_datetime": null,
@@ -88420,21 +88318,21 @@
       "level": null,
       "shared": "0",
       "shared_url": "",
-      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267934_Screenshot_2026-10-06_092437.png",
-      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267935_Screenshot_2026-10-06_092437.png",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727268075_46646140-practical-training-concept-on-the-gearwheels.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1727268076_46646140-practical-training-concept-on-the-gearwheels.png",
       "certification": null,
       "certification_duration": null,
       "custom_field_2": "Time-Limited Must Do",
-      "custom_field_4": "",
+      "custom_field_4": "0",
       "custom_field_5": "Goldair Handling",
-      "custom_field_6": "",
-      "custom_field_7": "",
-      "custom_field_9": "",
+      "custom_field_6": null,
+      "custom_field_7": null,
+      "custom_field_9": "N/A",
       "custom_field_10": "e-Learning",
       "custom_field_11": "Main",
-      "custom_field_16": "",
-      "custom_field_17": "",
-      "custom_field_18": ""
+      "custom_field_16": null,
+      "custom_field_17": null,
+      "custom_field_18": null
     },
     {
       "id": "713",
@@ -88469,6 +88367,40 @@
       "custom_field_16": null,
       "custom_field_17": null,
       "custom_field_18": null
+    },
+    {
+      "id": "1873",
+      "name": "Onboarding Journey Questionnaire 2nd Month",
+      "code": "CY/ONBO-SURVEY2",
+      "category_id": "39",
+      "description": "\u003Cp\u003EE\u03C1\u03C9\u03C4\u03B7\u03BC\u03B1\u03C4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03C6\u03BF\u03C1\u03BF\u03CD\u03BD \u03C3\u03C4\u03B7\u03BD \u03B5\u03BE\u03B1\u03B3\u03C9\u03B3\u03AE \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC \u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03CD\u03C1\u03C5\u03B8\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03C9\u03BC\u03AD\u03BD\u03B7 \u03A0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE \u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03BD\u03AD\u03BF\u03C5\u03C2 \u03C5\u03C0\u03B1\u03BB\u03BB\u03AE\u03BB\u03BF\u03C5\u03C2 \u03C3\u03C4\u03B7\u03BD \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1.\u003C/p\u003E",
+      "price": "\u0026euro;0.00",
+      "status": "active",
+      "creation_date": "06/10/2026, 09:11:53",
+      "last_update_on": "16/10/2026, 09:00:30",
+      "creator_id": "3972",
+      "hide_from_catalog": "1",
+      "time_limit": "20",
+      "start_datetime": null,
+      "expiration_datetime": null,
+      "level": null,
+      "shared": "0",
+      "shared_url": "",
+      "avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267934_Screenshot_2026-10-06_092437.png",
+      "big_avatar": "https://d3j0t7vrtr92dk.cloudfront.net/train4success/1791267935_Screenshot_2026-10-06_092437.png",
+      "certification": null,
+      "certification_duration": null,
+      "custom_field_2": "Time-Limited Must Do",
+      "custom_field_4": "",
+      "custom_field_5": "Goldair Handling",
+      "custom_field_6": "",
+      "custom_field_7": "",
+      "custom_field_9": "",
+      "custom_field_10": "e-Learning",
+      "custom_field_11": "Main",
+      "custom_field_16": "",
+      "custom_field_17": "",
+      "custom_field_18": ""
     },
     {
       "id": "759",
@@ -88615,7 +88547,7 @@
       "price": "\u0026euro;0.00",
       "status": "active",
       "creation_date": "06/10/2025, 13:22:42",
-      "last_update_on": "13/11/2026, 13:37:23",
+      "last_update_on": "19/11/2026, 16:16:30",
       "creator_id": "1",
       "hide_from_catalog": "1",
       "time_limit": "0",
